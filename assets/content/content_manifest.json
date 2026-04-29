@@ -1,0 +1,26 @@
+{
+  "version": "2026.04.29.3",
+  "publishedAt": "2026-04-29T18:46:11.827Z",
+  "binaries": [
+    {
+      "path": "assets/images/resources/ausmod056_00v2.0.jpg",
+      "sha256": "7496896eb92215c58f496dcd779c7e85269109b54bad6beee52a0d71f87f5cc1",
+      "size": 112699
+    },
+    {
+      "path": "assets/images/resources/mediocre-mallards-1.jpg",
+      "sha256": "5bdb697d252bce4d41732d1e3bae1d1b392138b45302f5c69ddb2261533ba27e",
+      "size": 710015
+    },
+    {
+      "path": "assets/pdfs/demo-discharge-checklist.pdf",
+      "sha256": "2fb4f7422f2a27186ba3ead7641c1ddb96895f1e3785acab0154f721e47cf2ef",
+      "size": 390087
+    },
+    {
+      "path": "assets/pdfs/demo-visitor-guidelines.pdf",
+      "sha256": "738d12f04b9ec57f72ffc2c39ca14d6e2a3f4102903ba616ce85851ecfead4f3",
+      "size": 1479
+    }
+  ]
+}

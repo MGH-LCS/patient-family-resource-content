@@ -1,0 +1,112 @@
+{
+  "getting_oriented": [
+    "demo_pdf_visitor_guidelines",
+    "demo_mixed_all_in_one",
+    "demo_youtube_hand_hygiene",
+    "welcome_to_the_picu",
+    "meet_your_care_team",
+    "picu_daily_routine",
+    "visiting_hours_and_policies",
+    "wifi_and_connectivity",
+    "patient_rights_and_advocacy",
+    "how_to_communicate_with_your_team",
+    "privacy_and_social_media",
+    "interpreter_services",
+    "what_to_bring_for_admission"
+  ],
+  "comfort_basics": [
+    "family_kitchen",
+    "laundry_facilities",
+    "shower_facilities",
+    "toiletries_and_essentials",
+    "sleeping_arrangements",
+    "blankets_and_pillows",
+    "quiet_rooms_and_chapels",
+    "peace_garden",
+    "family_resource_room",
+    "loaner_items"
+  ],
+  "food_dining": [
+    "cafeteria_hours_and_menu",
+    "cafes_and_coffee",
+    "vending_machines",
+    "family_meal_programs",
+    "nearby_restaurants",
+    "food_delivery",
+    "special_dietary_options",
+    "family_kitchen"
+  ],
+  "getting_around": [
+    "campus_map",
+    "parking",
+    "public_transit",
+    "ride_share",
+    "lab_locations",
+    "radiology_locations",
+    "hospital_shuttle"
+  ],
+  "family_support": [
+    "family_resource_room",
+    "social_work_services",
+    "volunteer_services",
+    "peer_support",
+    "child_life_services",
+    "sibling_support",
+    "support_groups",
+    "pact_team",
+    "communicating_with_family",
+    "family_advisory_council",
+    "patient_relations"
+  ],
+  "wellbeing": [
+    "demo_youtube_mindfulness",
+    "quiet_rooms_and_chapels",
+    "peace_garden",
+    "caring_for_yourself",
+    "mindfulness_and_meditation",
+    "behavioral_health_resources",
+    "chaplaincy_and_spiritual_care",
+    "arts_and_healing",
+    "volunteer_services",
+    "peer_support"
+  ],
+  "medical_education": [
+    "understanding_the_icu",
+    "lines_and_tubes_explained",
+    "reading_the_monitors",
+    "ventilator_basics",
+    "pain_management",
+    "medications_in_the_picu",
+    "nutrition_in_the_icu",
+    "infection_prevention",
+    "common_procedures",
+    "understanding_test_results"
+  ],
+  "administrative": [
+    "billing_and_insurance",
+    "financial_assistance",
+    "fmla_information",
+    "pfml_massachusetts",
+    "patient_gateway",
+    "medical_records_request",
+    "social_work_services"
+  ],
+  "discharge": [
+    "demo_pdf_discharge_checklist",
+    "discharge_planning",
+    "going_home_checklist",
+    "home_care_instructions",
+    "follow_up_appointments",
+    "emergency_department_info",
+    "outpatient_contacts"
+  ],
+  "around_boston": [
+    "nearby_hotels",
+    "ronald_mcdonald_house",
+    "things_to_do_nearby",
+    "places_to_pray_or_reflect",
+    "boston_transportation",
+    "local_support_resources",
+    "pharmacy_locations"
+  ]
+}

@@ -1,0 +1,4079 @@
+[
+  {
+    "id": "demo_pdf_discharge_checklist",
+    "title": "Going Home Checklist [pdf]",
+    "status": "published",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "A demo PDF resource. Tests the in-app PDF viewer with a sample discharge checklist.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Getting ready to go home\n\nDischarge planning starts early — the care team will begin working with you on a discharge plan as soon as your child is stable.\n\nUse this checklist to track what's been covered, what questions you still have, and what you need to arrange before leaving the hospital."
+          },
+          {
+            "type": "pdf",
+            "localPath": "assets/pdfs/demo-discharge-checklist.pdf",
+            "label": "Open Discharge Checklist"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "demo",
+      "pdf",
+      "test",
+      "discharge",
+      "checklist"
+    ],
+    "notes": "DEMO ONLY — for testing the PDF viewer. Remove before production.",
+    "units": [
+      "picu",
+      "nicu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home",
+        "pre_admission",
+        "just_arrived"
+      ],
+      "nicu": []
+    }
+  },
+  {
+    "id": "demo_pdf_visitor_guidelines",
+    "title": "Visitor Guidelines [pdf]",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "A demo PDF resource. Tests the in-app PDF viewer with sample visitor guidelines.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Who can visit, and when\n\nThe PICU has specific visiting policies to protect all patients, including your child. Before visitors come, it's worth reading through the guidelines below.\n\nKey points:\n- All visitors must wash hands or use hand sanitiser on entry\n- Children under 12 may have different access rules depending on sibling status\n- The number of visitors in the room at one time may be limited"
+          },
+          {
+            "type": "pdf",
+            "localPath": "assets/pdfs/demo-visitor-guidelines.pdf",
+            "label": "Open Visitor Guidelines"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "demo",
+      "pdf",
+      "test",
+      "visitors",
+      "visiting hours"
+    ],
+    "notes": "DEMO ONLY — for testing the PDF viewer. Remove before production.",
+    "units": [
+      "picu",
+      "nicu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days"
+      ],
+      "nicu": []
+    }
+  },
+  {
+    "id": "demo_youtube_hand_hygiene",
+    "title": "Hand Hygiene in the Hospital",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "A demo YouTube resource. Tests the in-app video player. Replace this URL with a real MGB/WHO video before going live.",
+        "content": [
+          {
+            "type": "image",
+            "localPath": "assets/images/resources/ausmod056_00v2.0.jpg",
+            "alt": "Image"
+          },
+          {
+            "type": "text",
+            "markdown": "## Why hand hygiene matters\n\nOne of the most important ways to protect your child in the PICU is clean hands. Every person who enters the room — staff, visitors, and caregivers — should wash their hands or use hand sanitiser before touching your child or any equipment.\n\nWatch this short video to see the recommended technique:"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=3PmVJQUCm4E"
+          },
+          {
+            "type": "text",
+            "markdown": "## What the PICU team does\n\nThe care team follows strict hand hygiene protocols at every patient contact. Here is a second video showing the full clinical technique used in hospital settings:"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=acUZdGd_3Dg",
+            "caption": "WHO surgical hand preparation technique"
+          }
+        ]
+      },
+      "es": {
+        "description": "Un recurso de demostración de YouTube. Pone a prueba el reproductor de video integrado en la aplicación. Reemplace esta URL por un video real de MGB/W",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Por qué es importante la higiene de manos\n\nUna de las formas más importantes de proteger a su hijo en la UCIP es mantener las manos limpias. Toda persona que entre en la habitación —personal, visitantes y cuidadores— debe lavarse las manos o utilizar desinfectante de manos antes de tocar a su hijo o cualquier equipo.\n\nVea este breve video para conocer la técnica recomendada:"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "demo",
+      "video",
+      "test",
+      "youtube",
+      "hand washing",
+      "hygiene"
+    ],
+    "notes": "DEMO ONLY — swap sourceUrl for a real MGB or WHO video. Remove before production.",
+    "units": [
+      "picu",
+      "nicu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days"
+      ],
+      "nicu": []
+    }
+  },
+  {
+    "id": "demo_youtube_mindfulness",
+    "title": "Guided Breathing Exercise]",
+    "status": "published",
+    "categories": [
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "A demo YouTube resource. Tests the in-app video player with a short breathing exercise. Replace with a real video before going live.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## A moment for yourself\n\nIt's easy to forget to breathe when everything feels heavy. This short exercise takes about 2 minutes — less time than it takes to wait for the elevator."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=acUZdGd_3Dg"
+          },
+          {
+            "type": "text",
+            "markdown": "### Make it a habit\n\nEven 2–3 minutes of focused breathing can lower your heart rate and help you think more clearly. Try it once or twice a day — before rounds, after a hard conversation, or at the end of the day."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "demo",
+      "video",
+      "test",
+      "youtube",
+      "breathing",
+      "mindfulness",
+      "relaxation"
+    ],
+    "notes": "DEMO ONLY — swap sourceUrl for a real MGB mindfulness video. Remove before production.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days",
+        "first_night"
+      ],
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "demo_mixed_all_in_one",
+    "title": "Hand Hygiene — Text, Video & PDF",
+    "status": "inactive",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "A demo resource testing all three content block types in one screen: a Markdown intro, a YouTube video, and a tappable PDF card.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Why hand hygiene matters\n\nOne of the most effective ways to protect your child from infection in the PICU is clean hands — for everyone who enters the room.\n\nWatch the short video below, then tap the card to download the quick-reference guide."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=3PmVJQUCm4E",
+            "caption": "Proper hand-washing technique (WHO / CDC)"
+          },
+          {
+            "type": "text",
+            "markdown": "## When to wash\n\n- **Before** touching your child or any equipment\n- **After** using the bathroom\n- **After** touching your face, phone, or any surface outside the room\n- **After** removing gloves or a gown\n\nAlcohol hand gel is on the wall at every room entrance — use it every time."
+          },
+          {
+            "type": "pdf",
+            "localPath": "assets/pdfs/demo-visitor-guidelines.pdf",
+            "label": "Download Quick-Reference Card"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "demo",
+      "mixed",
+      "test",
+      "video",
+      "pdf",
+      "hand hygiene",
+      "all in one"
+    ],
+    "notes": "DEMO ONLY — tests all three ContentBlock types (text, video, pdf) in a single resource. Remove before production.",
+    "units": [
+      "picu",
+      "nicu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_days"
+      ],
+      "nicu": []
+    }
+  },
+  {
+    "id": "welcome_to_the_picu",
+    "title": "Welcome to the PICU",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "An introduction to the Pediatric Intensive Care Unit — what to expect, how the unit works, and how to find your way around.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Welcome\n\nBeing here is hard. The unit can feel overwhelming at first — the sounds of monitors, the rhythms of care rounds, new faces every shift. You're not expected to absorb it all at once."
+          },
+          {
+            "type": "text",
+            "markdown": "### The first day\n\n- **Your nurse** is your main point of contact each shift\n- **Care team rounds** happen every morning — you're welcome to be there and ask questions\n- **Social work** can help with housing, meals, time off from work, and emotional support\n\nEveryone on the team is here for your family. Please ask — no question is too small."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "introduction",
+      "overview",
+      "first day",
+      "unit",
+      "icu",
+      "picu"
+    ],
+    "notes": "Pull from existing PICU welcome packet / admission materials.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "meet_your_care_team",
+    "title": "Meet Your Care Team",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "Who's who in the PICU — nurses, intensivists, fellows, residents, respiratory therapists, and support staff.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Attending Physician\n\nThis is the doctor who leads the medical team that plans the care and treatment for your child.\n\nThey will work closely with you to make decisions about your child's care, and are ultimately responsible for the medical care provided by the team.\n\nYour child's Attending Physician will either be:\n\n- A Pediatrician who specializes in Hospital Medicine called a \"Hospitalist\"\n- A Subspecialist Pediatrician, who has a specialty in a certain area of pediatrics (such as a Pediatric Pulmonologist who specializes in children's lung problems)\n- A physician from your child's primary care practice\n\nIf you are not sure who your child's Attending Physician is, please ask us.\n\n## Consulting Physician\n\nThis is a Pediatrician who has a specialty in a specific area and is called in to \"consult\" on your child's case. They will work with the medical team to diagnose, treat, and care for your child. They may also work with a **Pediatric Fellow**, who is a doctor that has completed medical residency training in Pediatrics and is now in training to become a subspecialist (e.g., Pediatric Pulmonologist). The Consulting Physician and Fellow will make recommendations to the Attending Physician and resident team.\n\n## Resident Physician or House Officer\n\nThis is a doctor who has graduated from medical school and is now in a resident training program to become a Pediatrician. A Pediatric resident program usually takes 3 years to complete.\n\n- **Interns** (first year residents) will examine your child every day and are usually the first person called if you have a question or concern. Your child will have a primary Intern during their stay.\n- **Second year residents** are in between their first and third year.\n- **Senior Residents** (third year) oversee the work of medical interns and medical students.\n\nResidents work with the Attending Physician to give your child the best care possible. There is a Resident Physician available 24 hours a day.\n\n## Medical Students\n\nMedical students are in the third and fourth year of medical school. Third year students work with Interns to help care for your child. Fourth year students usually work under the Senior Resident.\n\nAll members of your child's medical team should introduce themselves and their role. **If you are uncertain who a person is, please ask them to introduce themselves.**"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "doctor",
+      "nurse",
+      "staff",
+      "team",
+      "intensivist",
+      "fellow",
+      "resident",
+      "RT",
+      "respiratory"
+    ],
+    "notes": "Include role descriptions. Avoid stereotyped gender depictions.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "picu_daily_routine",
+    "title": "The PICU Daily Routine",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "What a typical day looks like in the PICU — rounds, shift changes, and the best times to ask questions.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## The PICU Daily Routine\n\nWhat a typical day looks like in the PICU — rounds, shift changes, and the best times to ask questions.\n\nHere's what to know as you get oriented to the unit and how things work."
+          },
+          {
+            "type": "text",
+            "markdown": "### Getting settled\n\n- **Ask your nurse** for a unit tour when you arrive\n- **Meet the team** during morning rounds — they'll introduce themselves\n- **Family resource room** has snacks, a coffee machine, and quiet space\n- **Charge stations** are at the bedside and in the family lounge"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "rounds",
+      "shift",
+      "schedule",
+      "routine",
+      "daily"
+    ],
+    "notes": "Ask nursing leadership for current rounds schedule and shift change times.",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "visiting_hours_and_policies",
+    "title": "Visiting Hours & Policies",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "Who can visit, when, and what to expect — including sibling and extended family policies.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Visiting guidelines\n\nTwo designated caregivers may be at the bedside at any time. Additional family and friends are welcome during open visiting hours."
+          },
+          {
+            "type": "text",
+            "markdown": "### Hours\n\n- **Open visiting:** 8am – 10pm daily\n- **Overnight:** One caregiver may stay overnight at the bedside\n- **Siblings:** Welcome during open hours — child life can help prepare them for the visit\n\nDuring care team rounds (typically 8–11am), please remain at the bedside if you want to participate, or step out briefly if the team needs private discussion."
+          },
+          {
+            "type": "text",
+            "markdown": "### Health guidelines\n\n- If you have **fever, cough, or GI symptoms**, please don't visit until 24 hours symptom-free\n- **Hand hygiene** is required on entering and leaving the room\n- **Flu shots** are strongly recommended for all visitors during flu season"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "visit",
+      "visitor",
+      "sibling",
+      "family",
+      "hours",
+      "policy",
+      "children"
+    ],
+    "notes": "Confirm current visiting policy with Patient Relations.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "wifi_and_connectivity",
+    "title": "Wi-Fi & Staying Connected",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to connect to the hospital Wi-Fi network and stay in touch with family and friends.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Wi-Fi\n\nFree guest Wi-Fi is available throughout the hospital.\n\n- **Network:** `Guest-Wifi`\n- **Password:** No password required; accept terms on the splash page\n- **Speed:** Sufficient for video calls and streaming\n\nIf you have trouble connecting, check with your unit clerk or call the help desk at extension 5000."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "wifi",
+      "internet",
+      "network",
+      "connect",
+      "laptop",
+      "phone",
+      "password"
+    ],
+    "notes": "Get current network name and login process from IT or front desk.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "patient_rights_and_advocacy",
+    "title": "Your Rights as a Caregiver",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "Your rights as a caregiver and how to advocate for your child's care while in the PICU.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Your Rights as a Caregiver\n\nYour rights as a caregiver and how to advocate for your child's care while in the PICU.\n\nHere's what to know as you get oriented to the unit and how things work."
+          },
+          {
+            "type": "text",
+            "markdown": "### Getting settled\n\n- **Ask your nurse** for a unit tour when you arrive\n- **Meet the team** during morning rounds — they'll introduce themselves\n- **Family resource room** has snacks, a coffee machine, and quiet space\n- **Charge stations** are at the bedside and in the family lounge"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "rights",
+      "advocate",
+      "advocacy",
+      "speak up",
+      "patient rights",
+      "concerns"
+    ],
+    "notes": "Coordinate with Patient Relations for official rights documentation.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "how_to_communicate_with_your_team",
+    "title": "Talking With Your Care Team",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "Tips for getting your questions answered — when to ask, how to prepare, and what to write down.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Talking With Your Care Team\n\nTips for getting your questions answered — when to ask, how to prepare, and what to write down.\n\nHere's what to know as you get oriented to the unit and how things work."
+          },
+          {
+            "type": "text",
+            "markdown": "### Getting settled\n\n- **Ask your nurse** for a unit tour when you arrive\n- **Meet the team** during morning rounds — they'll introduce themselves\n- **Family resource room** has snacks, a coffee machine, and quiet space\n- **Charge stations** are at the bedside and in the family lounge"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "questions",
+      "communication",
+      "ask",
+      "rounds",
+      "talk",
+      "understand"
+    ],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "privacy_and_social_media",
+    "title": "Privacy & Social Media",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "What to know about sharing updates online while respecting your child's privacy and hospital policies.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Privacy & Social Media\n\nWhat to know about sharing updates online while respecting your child's privacy and hospital policies.\n\nHere's what to know as you get oriented to the unit and how things work."
+          },
+          {
+            "type": "text",
+            "markdown": "### Getting settled\n\n- **Ask your nurse** for a unit tour when you arrive\n- **Meet the team** during morning rounds — they'll introduce themselves\n- **Family resource room** has snacks, a coffee machine, and quiet space\n- **Charge stations** are at the bedside and in the family lounge"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "social media",
+      "privacy",
+      "facebook",
+      "instagram",
+      "post",
+      "share",
+      "HIPAA"
+    ],
+    "notes": "Review hospital social media policy before drafting.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "interpreter_services",
+    "title": "Interpreter Services",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "Free interpreter services are available 24/7 for caregivers who prefer to speak in another language.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Language access\n\nEvery family has the right to communicate with their care team in their preferred language. Interpretation is available 24/7, at no cost to you."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to request an interpreter\n\n- **For scheduled meetings:** Ask your nurse at least an hour ahead if possible\n- **For urgent needs:** Interpreters are available by phone or video within minutes\n- **Written materials:** Available in Spanish, Portuguese, Mandarin, Cantonese, Haitian Creole, Arabic, and several other languages\n\nIf a family member wants to interpret, please still ask for a professional interpreter — medical decisions deserve the clearest possible communication."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "interpreter",
+      "language",
+      "translation",
+      "Spanish",
+      "Portuguese",
+      "Creole",
+      "Arabic"
+    ],
+    "notes": "Confirm languages supported and how to request an interpreter.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "what_to_bring_for_admission",
+    "title": "What to Bring",
+    "status": "published",
+    "categories": [
+      "getting_oriented"
+    ],
+    "languages": {
+      "en": {
+        "description": "A checklist of essentials to pack for yourself and your child when preparing for a PICU admission.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Packing for your stay\n\nSome planned items help your child feel more at home — but try not to overpack. The room has limited space."
+          },
+          {
+            "type": "text",
+            "markdown": "### Bring\n\n- 2–3 comfortable outfits\n- A favorite blanket or stuffed animal\n- Slippers or grippy socks\n- Phone charger (long cord!)\n- A water bottle\n- Books, tablet, or small games\n- Any comfort item from home\n\n### Leave at home\n\n- Valuables, cash beyond $20\n- Fresh flowers (not allowed in ICU rooms)\n- Electric candles or anything with an open cord\n\nThe hospital provides toiletries, but feel free to bring your own if you prefer."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "pack",
+      "bring",
+      "checklist",
+      "prepare",
+      "admission",
+      "bag",
+      "essentials"
+    ],
+    "notes": "Create a practical packing list — clothing, toiletries, chargers, insurance cards, comfort items.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "just_arrived"
+      ],
+      "nicu": [
+        "first_hours"
+      ],
+      "peds_floors": [
+        "pre_admission",
+        "arriving"
+      ]
+    }
+  },
+  {
+    "id": "cafeteria_hours_and_menu",
+    "title": "Cafeteria Hours & Menu",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where to find the main cafeteria, what it serves, and when it's open — including overnight options.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Cafeteria Hours & Menu\n\nWhere to find the main cafeteria, what it serves, and when it's open — including overnight options.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "cafeteria",
+      "food",
+      "eat",
+      "meal",
+      "breakfast",
+      "lunch",
+      "dinner",
+      "hours",
+      "open"
+    ],
+    "notes": "CONTENT MISSING — priority item. Get hours and menu highlights from food services.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "vending_machines",
+    "title": "Vending Machines & 24-Hour Snacks",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where to find vending machines for late-night snacks and drinks when the cafeteria is closed.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Vending Machines & 24-Hour Snacks\n\nWhere to find vending machines for late-night snacks and drinks when the cafeteria is closed.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "vending",
+      "snack",
+      "late night",
+      "24 hour",
+      "machine",
+      "drink",
+      "chips"
+    ],
+    "notes": "CONTENT MISSING — get floor and location info.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "family_meal_programs",
+    "title": "Free Meals for Caregivers",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Programs that provide free or subsidised meals to PICU caregivers — eligibility and how to sign up.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Free Meals for Caregivers\n\nPrograms that provide free or subsidised meals to PICU caregivers — eligibility and how to sign up.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "free meal",
+      "caregiver meal",
+      "food assistance",
+      "meal program",
+      "voucher"
+    ],
+    "notes": "CONTENT MISSING — confirm with social work which programs exist.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "nearby_restaurants",
+    "title": "Restaurants Near the Hospital",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "A guide to nearby restaurants within walking distance or a short ride from the hospital.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Restaurants Near the Hospital\n\nA guide to nearby restaurants within walking distance or a short ride from the hospital.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "restaurant",
+      "nearby",
+      "walk",
+      "eat",
+      "outside",
+      "delivery"
+    ],
+    "notes": "Focus on options that are practical for caregivers who need to stay close.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "food_delivery",
+    "title": "Food Delivery to the Hospital",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to order food delivery to the hospital — where to pick up orders and which apps work best.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Food Delivery to the Hospital\n\nHow to order food delivery to the hospital — where to pick up orders and which apps work best.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "delivery",
+      "DoorDash",
+      "UberEats",
+      "Grubhub",
+      "order",
+      "pickup"
+    ],
+    "notes": "Confirm delivery address, lobby pickup process, and any restrictions.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "special_dietary_options",
+    "title": "Special Dietary & Allergy Options",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Halal, kosher, vegetarian, vegan, and allergy-friendly food options available on campus.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Special Dietary & Allergy Options\n\nHalal, kosher, vegetarian, vegan, and allergy-friendly food options available on campus.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "halal",
+      "kosher",
+      "vegetarian",
+      "vegan",
+      "allergy",
+      "gluten free",
+      "dietary"
+    ],
+    "notes": "CONTENT MISSING — confirm with food services.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "family_kitchen",
+    "title": "Family Kitchen & Refrigerators",
+    "status": "published",
+    "categories": [
+      "food_dining",
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "Whether there's a family kitchen, fridge space, or microwave available for caregiver use on the unit.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Family Kitchen & Refrigerators\n\nWhether there's a family kitchen, fridge space, or microwave available for caregiver use on the unit.\n\nEating well during a hospital stay takes some planning. Here's what's available."
+          },
+          {
+            "type": "text",
+            "markdown": "### Good to know\n\n- Most meal options accept cash, credit, and Apple Pay\n- Families can bring outside food into patient rooms\n- Unit fridges are shared — label anything you store with name and date\n- Dietary restrictions can be accommodated — ask food services"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "kitchen",
+      "fridge",
+      "refrigerator",
+      "microwave",
+      "store food",
+      "family room"
+    ],
+    "notes": "CONTENT MISSING — confirm what amenities are available on the PICU unit itself.",
+    "units": [
+      "picu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days"
+      ],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "laundry_facilities",
+    "title": "Laundry",
+    "status": "published",
+    "categories": [
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where to find laundry facilities, what to bring, and whether there's a cost.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Laundry\n\nWhere to find laundry facilities, what to bring, and whether there's a cost.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "laundry",
+      "washer",
+      "dryer",
+      "clothes",
+      "wash"
+    ],
+    "notes": "CONTENT MISSING — get floor, room, cost, and hours.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "shower_facilities",
+    "title": "Showers for Caregivers",
+    "status": "published",
+    "categories": [
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where caregivers can shower — locations, access, and what to bring.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Showers for Caregivers\n\nWhere caregivers can shower — locations, access, and what to bring.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "shower",
+      "bathroom",
+      "wash",
+      "hygiene",
+      "clean up"
+    ],
+    "notes": "CONTENT MISSING — confirm locations. May be near Ronald McDonald Family Room.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "toiletries_and_essentials",
+    "title": "Toiletries & Essential Items",
+    "status": "published",
+    "categories": [
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where to find toothbrushes, soap, and other essentials if you didn't have time to pack.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Toiletries & Essential Items\n\nWhere to find toothbrushes, soap, and other essentials if you didn't have time to pack.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "toiletries",
+      "toothbrush",
+      "soap",
+      "shampoo",
+      "essentials",
+      "pharmacy",
+      "gift shop"
+    ],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "sleeping_arrangements",
+    "title": "Sleeping at the Hospital",
+    "status": "published",
+    "categories": [
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "Your options for sleeping near your child — in-room arrangements, family rooms, and nearby accommodations.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Sleeping at the Hospital\n\nYour options for sleeping near your child — in-room arrangements, family rooms, and nearby accommodations.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "sleep",
+      "overnight",
+      "stay",
+      "cot",
+      "parent bed",
+      "rest",
+      "room"
+    ],
+    "notes": "CONTENT MISSING — confirm whether a cot or pull-out is available in PICU rooms.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "blankets_and_pillows",
+    "title": "Blankets & Pillows",
+    "status": "published",
+    "categories": [
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to request extra blankets and pillows for yourself — where to ask and what's available, thanks",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Blankets & Pillows\n\nHow to request extra blankets and pillows for yourself — where to ask and what's available.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "blanket",
+      "pillow",
+      "linens",
+      "warm",
+      "comfort"
+    ],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "quiet_rooms_and_chapels",
+    "title": "Quiet Rooms & Chapel",
+    "status": "published",
+    "categories": [
+      "comfort_basics",
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "Spaces on campus for quiet reflection, prayer, or just a moment alone — including the chapel and quiet rooms.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Quiet Rooms & Chapel\n\nSpaces on campus for quiet reflection, prayer, or just a moment alone — including the chapel and quiet rooms.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "quiet",
+      "chapel",
+      "meditation",
+      "prayer",
+      "peace",
+      "reflection",
+      "spiritual",
+      "alone"
+    ],
+    "notes": "Include hours, floor, and whether the chapel is multi-faith.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "peace_garden",
+    "title": "Peace Garden & Outdoor Spaces",
+    "status": "published",
+    "categories": [
+      "comfort_basics",
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "Finding fresh air — the peace garden and any outdoor areas accessible to caregivers.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Peace Garden & Outdoor Spaces\n\nFinding fresh air — the peace garden and any outdoor areas accessible to caregivers.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "garden",
+      "outside",
+      "fresh air",
+      "outdoors",
+      "nature",
+      "walk"
+    ],
+    "notes": "Confirm exact location and whether it's accessible year-round.",
+    "units": [
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "family_resource_room",
+    "title": "Family Resource Room",
+    "status": "published",
+    "categories": [
+      "comfort_basics",
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "The family resource room — what's available, where it is, and how to access it.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Family Resource Room\n\nThe family resource room — what's available, where it is, and how to access it.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "family room",
+      "resource room",
+      "lounge",
+      "Ronald McDonald",
+      "family space"
+    ],
+    "notes": "Confirm name (Ronald McDonald Family Room or similar) and what's inside.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "loaner_items",
+    "title": "Items You Can Borrow",
+    "status": "published",
+    "categories": [
+      "comfort_basics"
+    ],
+    "languages": {
+      "en": {
+        "description": "Charger cables and other items that may be available to borrow during your stay.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Items You Can Borrow\n\nCharger cables and other items that may be available to borrow during your stay.\n\nSmall comforts can make a long stay feel more manageable. Here's what the unit offers."
+          },
+          {
+            "type": "text",
+            "markdown": "### What's on the unit\n\n- Available 24/7 — ask your nurse if you can't find something\n- Extra linens, toiletries, and basic supplies are stocked\n- Let the unit clerk know if anything runs out\n- Many items can also be requested from the Family Resource Room"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "borrow",
+      "loaner",
+      "charger",
+      "phone",
+      "cable",
+      "laptop"
+    ],
+    "notes": "Confirm what the hospital actually loans out and where to request it.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "ride_share",
+    "title": "Ride Share & Taxis",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where to get picked up or dropped off by Uber, Lyft, or a taxi — and which entrance to use.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Ride Share & Taxis\n\nWhere to get picked up or dropped off by Uber, Lyft, or a taxi — and which entrance to use.\n\nNavigating the hospital gets easier with a bit of orientation. Here's what you need."
+          },
+          {
+            "type": "text",
+            "markdown": "### Tips\n\n- The hospital has printed maps at every information desk\n- Security can walk you to your car at night\n- Elevator banks are color-coded by building\n- Allow a few extra minutes if you're going to a new area for the first time"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Uber",
+      "Lyft",
+      "taxi",
+      "ride",
+      "pickup",
+      "dropoff",
+      "entrance"
+    ],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "lab_locations",
+    "title": "Lab & Phlebotomy Locations",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where to find lab draw locations on campus if tests need to be done away from the unit.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Lab & Phlebotomy Locations\n\nWhere to find lab draw locations on campus if tests need to be done away from the unit.\n\nNavigating the hospital gets easier with a bit of orientation. Here's what you need."
+          },
+          {
+            "type": "text",
+            "markdown": "### Tips\n\n- The hospital has printed maps at every information desk\n- Security can walk you to your car at night\n- Elevator banks are color-coded by building\n- Allow a few extra minutes if you're going to a new area for the first time"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "lab",
+      "blood draw",
+      "phlebotomy",
+      "test",
+      "specimen"
+    ],
+    "notes": "Only include if PICU families regularly need to go to off-unit labs.",
+    "units": [
+      "picu",
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ],
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "radiology_locations",
+    "title": "Radiology & Imaging",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Where imaging tests like X-rays, MRI, and CT scans take place, and what caregivers can expect.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Radiology & Imaging\n\nWhere imaging tests like X-rays, MRI, and CT scans take place, and what caregivers can expect.\n\nNavigating the hospital gets easier with a bit of orientation. Here's what you need."
+          },
+          {
+            "type": "text",
+            "markdown": "### Tips\n\n- The hospital has printed maps at every information desk\n- Security can walk you to your car at night\n- Elevator banks are color-coded by building\n- Allow a few extra minutes if you're going to a new area for the first time"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "radiology",
+      "X-ray",
+      "MRI",
+      "CT scan",
+      "imaging",
+      "scan"
+    ],
+    "notes": "Confirm where PICU patients are taken for imaging.",
+    "units": [
+      "picu",
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ],
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "hospital_shuttle",
+    "title": "Hospital Shuttle Service",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Whether a shuttle runs between hospital buildings or to nearby parking areas — schedule and stops.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Hospital Shuttle Service\n\nWhether a shuttle runs between hospital buildings or to nearby parking areas — schedule and stops.\n\nNavigating the hospital gets easier with a bit of orientation. Here's what you need."
+          },
+          {
+            "type": "text",
+            "markdown": "### Tips\n\n- The hospital has printed maps at every information desk\n- Security can walk you to your car at night\n- Elevator banks are color-coded by building\n- Allow a few extra minutes if you're going to a new area for the first time"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "shuttle",
+      "bus",
+      "transport",
+      "building",
+      "parking lot"
+    ],
+    "notes": "Confirm if MGH runs an inter-campus shuttle or parking shuttle.",
+    "units": [
+      "picu",
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days",
+        "going_home"
+      ],
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "understanding_the_icu",
+    "title": "Understanding Intensive Care",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "What intensive care means, why your child may need it, and what day-to-day care looks like in the PICU.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## The PICU environment\n\nThe pediatric ICU provides the highest level of care for children with serious illnesses. The pace, the equipment, and the staffing ratios are all designed for close observation and rapid response."
+          },
+          {
+            "type": "text",
+            "markdown": "### What you'll see\n\n- **Monitors** displaying heart rate, breathing, oxygen, and blood pressure — alarms are normal and don't always mean something is wrong\n- **IV poles** with medication pumps — these automatically deliver precise doses\n- **Ventilator** if your child needs breathing support\n- **Feeding tubes, catheters, or drains** depending on what care requires"
+          },
+          {
+            "type": "text",
+            "markdown": "### Staffing\n\nPICU nurses care for only 1–2 patients at a time, which means someone is nearly always watching. Doctors are on the unit 24 hours. Respiratory therapists, pharmacists, and other specialists are available around the clock."
+          },
+          {
+            "type": "text",
+            "markdown": "### It's a lot, and that's normal\n\nMost families describe the first days as emotionally exhausting. Your care team knows that — ask about the Family Resource Room, chaplaincy, social work, or any other support that might help."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=acUZdGd_3Dg",
+            "caption": "A short breathing exercise for moments when things feel like too much."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "intensive care",
+      "critical care",
+      "PICU",
+      "why",
+      "understand",
+      "overview"
+    ],
+    "notes": null,
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "lines_and_tubes_explained",
+    "title": "Lines, Tubes & Monitors",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "Plain-language explanations of the tubes, lines, and monitors you'll see connected to your child.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## IV lines, tubes, and monitors\n\nYou'll see a lot of tubes and wires connected to your child. Here's what the main ones do."
+          },
+          {
+            "type": "text",
+            "markdown": "### Common lines\n\n- **Peripheral IV:** A small tube in a vein for giving fluids or medicine\n- **Central line:** A longer IV placed in a larger vein — used when medicines can't go through a small IV\n- **Arterial line:** Monitors blood pressure continuously and allows blood draws without new sticks\n\n### Breathing support\n\n- **Nasal cannula:** Small prongs delivering a little extra oxygen\n- **High-flow:** Warmed, humidified oxygen at higher rates\n- **BiPAP/CPAP:** A snug mask that helps pressure the airways open\n- **Ventilator (breathing tube):** A tube that breathes for the child — used when the child can't breathe enough on their own"
+          },
+          {
+            "type": "text",
+            "markdown": "**Ask your nurse at any time** which lines and equipment your child has and what each one does. It's normal for this to change from shift to shift as the plan evolves."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "IV",
+      "line",
+      "tube",
+      "monitor",
+      "central line",
+      "arterial line",
+      "foley",
+      "NG tube",
+      "wires"
+    ],
+    "notes": "Avoid alarming language. Normalise the equipment without downplaying how stressful it is.",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night"
+      ]
+    }
+  },
+  {
+    "id": "reading_the_monitors",
+    "title": "Understanding the Monitors",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "What the numbers on the bedside monitor mean — heart rate, oxygen saturation, blood pressure, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## What the monitor shows\n\nThe bedside monitor shows four main numbers continuously."
+          },
+          {
+            "type": "text",
+            "markdown": "### The numbers\n\n- **HR (heart rate):** Green, usually 60–160 depending on age\n- **RR (respiratory rate):** White or yellow, 15–40 for most kids\n- **SpO2 (oxygen saturation):** Blue, 95–100% normally (lower targets for some conditions)\n- **BP (blood pressure):** Red or purple, either continuous or every 15 minutes\n\n### About alarms\n\nAlarms sound often — most are brief variations that correct themselves within seconds. Don't panic. Your nurse will check, silence the alarm if it's a false reading, or respond if it matters.\n\nIf a sustained alarm is making your child uncomfortable or you're worried, ask the nurse — that's what they're there for."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "monitor",
+      "heart rate",
+      "oxygen",
+      "O2",
+      "SAT",
+      "blood pressure",
+      "beeping",
+      "alarm",
+      "numbers"
+    ],
+    "notes": "Include a note that alarms don't always mean something is wrong — normalise the sounds.",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "ventilator_basics",
+    "title": "Breathing Support & the Ventilator",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "How the ventilator works and what breathing support means for your child's care.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## What a ventilator does\n\nA ventilator breathes for a child whose lungs need support. The breathing tube (ETT) goes through the mouth or nose and into the windpipe."
+          },
+          {
+            "type": "text",
+            "markdown": "### What you'll see and hear\n\n- Rhythmic mechanical breathing sounds\n- The number of breaths per minute and pressures on a screen\n- Suction carried out periodically to clear secretions\n\n### The weaning process\n\nAs your child improves, the ventilator gradually does less work. Eventually they breathe more on their own until the tube can come out. This process varies from hours to weeks depending on the situation.\n\nAsk the respiratory therapist at any shift how things are going — they'll explain what the current settings mean."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "ventilator",
+      "vent",
+      "intubated",
+      "breathing",
+      "oxygen",
+      "ETT",
+      "breathing tube",
+      "BiPAP",
+      "CPAP"
+    ],
+    "notes": "Written for caregivers with no medical background. Use simple analogies.",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_night",
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "pain_management",
+    "title": "Pain & Comfort Management",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "How the team manages your child's pain and discomfort, and how you can help comfort your child.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Keeping your child comfortable\n\nPain is assessed every shift using age-appropriate tools. You know your child best — please speak up if something seems off."
+          },
+          {
+            "type": "text",
+            "markdown": "### How comfort is managed\n\n- **Scheduled medications** for expected pain\n- **As-needed doses** for breakthrough pain\n- **Non-medication comfort:** Music, swaddling, dim lights, your presence\n- **Child life:** Distraction techniques, procedural support, sibling support\n\n### If you're worried\n\nPain in kids can look like fussiness, facial grimacing, or unusual stillness. Trust your read — if something doesn't look right, ask your nurse."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "pain",
+      "comfort",
+      "medication",
+      "sedation",
+      "assessment",
+      "FLACC",
+      "analgesic"
+    ],
+    "notes": null,
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "medications_in_the_picu",
+    "title": "Medications in the PICU",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "General information about how medications are given in the PICU and how to ask questions about your child's treatment.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Medications in the PICU\n\nGeneral information about how medications are given in the PICU and how to ask questions about your child's treatment.\n\nUnderstanding what's happening clinically can make hard moments less scary. Here's a guide."
+          },
+          {
+            "type": "text",
+            "markdown": "### Ask your care team\n\n- Write down questions as they come up — rounds can move quickly\n- Ask for diagrams or printed material if a concept would help\n- It's fine to ask the same question twice on different days\n- Your bedside nurse can explain things at the pace that works for you"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "medication",
+      "drug",
+      "IV",
+      "infusion",
+      "pump",
+      "antibiotic",
+      "pharmacy"
+    ],
+    "notes": "Do not list specific drugs — too variable. Focus on how to ask and what to write down.",
+    "units": [
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "nutrition_in_the_icu",
+    "title": "Nutrition & Feeding in the PICU",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "How your child may receive nutrition in the PICU — tube feeds, IV nutrition, and when they can eat or drink.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Nutrition & Feeding in the PICU\n\nHow your child may receive nutrition in the PICU — tube feeds, IV nutrition, and when they can eat or drink.\n\nUnderstanding what's happening clinically can make hard moments less scary. Here's a guide."
+          },
+          {
+            "type": "text",
+            "markdown": "### Ask your care team\n\n- Write down questions as they come up — rounds can move quickly\n- Ask for diagrams or printed material if a concept would help\n- It's fine to ask the same question twice on different days\n- Your bedside nurse can explain things at the pace that works for you"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "nutrition",
+      "feeding",
+      "NG tube",
+      "TPN",
+      "NPO",
+      "tube feed",
+      "diet",
+      "eat",
+      "drink"
+    ],
+    "notes": null,
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "infection_prevention",
+    "title": "Infection Prevention & Hand Hygiene",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "Why hand hygiene is so important in the PICU and how to protect your child from infection.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Infection Prevention & Hand Hygiene\n\nWhy hand hygiene is so important in the PICU and how to protect your child from infection.\n\nUnderstanding what's happening clinically can make hard moments less scary. Here's a guide."
+          },
+          {
+            "type": "text",
+            "markdown": "### Ask your care team\n\n- Write down questions as they come up — rounds can move quickly\n- Ask for diagrams or printed material if a concept would help\n- It's fine to ask the same question twice on different days\n- Your bedside nurse can explain things at the pace that works for you"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "hand hygiene",
+      "infection",
+      "sanitizer",
+      "wash",
+      "gown",
+      "isolation",
+      "precautions"
+    ],
+    "notes": null,
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "common_procedures",
+    "title": "Common PICU Procedures",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "Plain-language descriptions of procedures your child may need in the PICU — what they are and what to expect.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Common PICU Procedures\n\nPlain-language descriptions of procedures your child may need in the PICU — what they are and what to expect.\n\nUnderstanding what's happening clinically can make hard moments less scary. Here's a guide."
+          },
+          {
+            "type": "text",
+            "markdown": "### Ask your care team\n\n- Write down questions as they come up — rounds can move quickly\n- Ask for diagrams or printed material if a concept would help\n- It's fine to ask the same question twice on different days\n- Your bedside nurse can explain things at the pace that works for you"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "procedure",
+      "surgery",
+      "bronchoscopy",
+      "lumbar puncture",
+      "LP",
+      "echo"
+    ],
+    "notes": "Keep general — list common categories rather than an exhaustive clinical list.",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    }
+  },
+  {
+    "id": "understanding_test_results",
+    "title": "Understanding Test Results",
+    "status": "published",
+    "categories": [
+      "medical_education"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to make sense of lab results and test findings — and when to ask your team for an explanation.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Understanding Test Results\n\nHow to make sense of lab results and test findings — and when to ask your team for an explanation.\n\nUnderstanding what's happening clinically can make hard moments less scary. Here's a guide."
+          },
+          {
+            "type": "text",
+            "markdown": "### Ask your care team\n\n- Write down questions as they come up — rounds can move quickly\n- Ask for diagrams or printed material if a concept would help\n- It's fine to ask the same question twice on different days\n- Your bedside nurse can explain things at the pace that works for you"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "results",
+      "labs",
+      "blood work",
+      "report",
+      "CBC",
+      "BMP",
+      "normal",
+      "abnormal"
+    ],
+    "notes": "Focus on empowerment and communication skills, not on interpreting specific values.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "billing_and_insurance",
+    "title": "Billing & Insurance",
+    "status": "published",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "How hospital billing works, how to reach the financial counseling team, and what to do if you have concerns.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Billing & Insurance\n\nHow hospital billing works, how to reach the financial counseling team, and what to do if you have concerns.\n\nPaperwork is the last thing you want to think about right now. Here's what you need to know — simplified."
+          },
+          {
+            "type": "text",
+            "markdown": "### What to have ready\n\n- Insurance cards for the patient and both parents/guardians\n- Photo ID\n- Any legal paperwork relevant to custody or medical decision-making\n- A notebook or phone to record important names and numbers"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "billing",
+      "insurance",
+      "bill",
+      "cost",
+      "financial",
+      "payment",
+      "copay",
+      "deductible"
+    ],
+    "notes": null,
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "financial_assistance",
+    "title": "Financial Assistance Programs",
+    "status": "published",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "Help paying for care — charity care, financial hardship programs, and who to talk to.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Financial Assistance Programs\n\nHelp paying for care — charity care, financial hardship programs, and who to talk to.\n\nPaperwork is the last thing you want to think about right now. Here's what you need to know — simplified."
+          },
+          {
+            "type": "text",
+            "markdown": "### What to have ready\n\n- Insurance cards for the patient and both parents/guardians\n- Photo ID\n- Any legal paperwork relevant to custody or medical decision-making\n- A notebook or phone to record important names and numbers"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "financial assistance",
+      "charity care",
+      "hardship",
+      "free care",
+      "help paying"
+    ],
+    "notes": "Coordinate with social work — they often help families navigate financial assistance.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "fmla_information",
+    "title": "Family & Medical Leave (FMLA)",
+    "status": "published",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "What FMLA is and how to request it from your employer — protecting your job while caring for your child.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Family & Medical Leave (FMLA)\n\nWhat FMLA is and how to request it from your employer — protecting your job while caring for your child.\n\nPaperwork is the last thing you want to think about right now. Here's what you need to know — simplified."
+          },
+          {
+            "type": "text",
+            "markdown": "### What to have ready\n\n- Insurance cards for the patient and both parents/guardians\n- Photo ID\n- Any legal paperwork relevant to custody or medical decision-making\n- A notebook or phone to record important names and numbers"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "FMLA",
+      "leave",
+      "job",
+      "work",
+      "employer",
+      "federal",
+      "leave of absence"
+    ],
+    "notes": "Include what documentation is needed and who at the hospital can provide it.",
+    "units": [
+      "picu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "pfml_massachusetts",
+    "title": "Massachusetts Paid Family Leave (PFML)",
+    "status": "pending",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "Massachusetts Paid Family and Medical Leave — who qualifies, how to apply, and how long benefits last.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "PFML",
+      "Massachusetts",
+      "paid leave",
+      "state leave",
+      "income replacement"
+    ],
+    "notes": "Link to mass.gov/pfml — state-maintained and likely accurate. May just link out.",
+    "units": [
+      "picu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "patient_gateway",
+    "title": "Patient Gateway (Online Health Records)",
+    "status": "pending",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "Access your child's health records, test results, and care summary online via Patient Gateway.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "[Open link](https://patientgateway.massgeneralbrigham.org)"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "patient gateway",
+      "portal",
+      "records",
+      "results",
+      "online",
+      "login",
+      "MyChart"
+    ],
+    "notes": "External link only — requires login. Include basic instructions for first-time setup.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "medical_records_request",
+    "title": "Requesting Medical Records",
+    "status": "published",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to request copies of your child's medical records — including discharge summaries and imaging reports.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Requesting Medical Records\n\nHow to request copies of your child's medical records — including discharge summaries and imaging reports.\n\nPaperwork is the last thing you want to think about right now. Here's what you need to know — simplified."
+          },
+          {
+            "type": "text",
+            "markdown": "### What to have ready\n\n- Insurance cards for the patient and both parents/guardians\n- Photo ID\n- Any legal paperwork relevant to custody or medical decision-making\n- A notebook or phone to record important names and numbers"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "medical records",
+      "request",
+      "copy",
+      "discharge summary",
+      "records release"
+    ],
+    "notes": null,
+    "units": [
+      "picu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days",
+        "going_home"
+      ],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "social_work_services",
+    "title": "Social Work Services",
+    "status": "published",
+    "categories": [
+      "administrative",
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to connect with a hospital social worker — they can help with practical needs, emotional support, and resources.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Social Work Services\n\nHow to connect with a hospital social worker — they can help with practical needs, emotional support, and resources.\n\nPaperwork is the last thing you want to think about right now. Here's what you need to know — simplified."
+          },
+          {
+            "type": "text",
+            "markdown": "### What to have ready\n\n- Insurance cards for the patient and both parents/guardians\n- Photo ID\n- Any legal paperwork relevant to custody or medical decision-making\n- A notebook or phone to record important names and numbers"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "social work",
+      "social worker",
+      "MSW",
+      "help",
+      "support",
+      "resources",
+      "practical"
+    ],
+    "notes": "Include how to request a social worker visit and what they can help with.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh",
+      "bwh"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "advance_directives",
+    "title": "Advance Directives & Care Planning",
+    "status": "pending",
+    "categories": [
+      "administrative"
+    ],
+    "languages": {
+      "en": {
+        "description": "Information about advance directives and how to document your family's care preferences.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "advance directive",
+      "DNR",
+      "care preferences",
+      "goals of care",
+      "POLST",
+      "decisions"
+    ],
+    "notes": "Sensitive topic — review with clinical staff before publishing. Warm, non-alarming language essential.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "caring_for_yourself",
+    "title": "Taking Care of Yourself",
+    "status": "published",
+    "categories": [
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "Practical reminders about eating, sleeping, and taking breaks — because you matter too.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Taking Care of Yourself\n\nPractical reminders about eating, sleeping, and taking breaks — because you matter too.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "self care",
+      "caregiver",
+      "rest",
+      "eat",
+      "sleep",
+      "break",
+      "wellbeing",
+      "you matter"
+    ],
+    "notes": "Tone must be warm and validating — not preachy. Acknowledge how hard this is.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "mindfulness_and_meditation",
+    "title": "Mindfulness & Breathing Exercises",
+    "status": "published",
+    "categories": [
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "Simple breathing and grounding exercises you can do right now to manage stress and anxiety.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Mindfulness & Breathing Exercises\n\nSimple breathing and grounding exercises you can do right now to manage stress and anxiety.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "mindfulness",
+      "meditation",
+      "breathing",
+      "stress",
+      "anxiety",
+      "calm",
+      "grounding"
+    ],
+    "notes": "Keep exercises very simple — 2-3 steps max. Caregivers are not in a state for complex techniques.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "behavioral_health_resources",
+    "title": "Mental Health & Emotional Support",
+    "status": "published",
+    "categories": [
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "It's normal to feel overwhelmed. Resources for emotional support — from counselors to peer support groups.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Mental Health & Emotional Support\n\nIt's normal to feel overwhelmed. Resources for emotional support — from counselors to peer support groups.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "mental health",
+      "emotional support",
+      "anxiety",
+      "depression",
+      "PTSD",
+      "counselor",
+      "therapy"
+    ],
+    "notes": "Include both in-hospital resources and community/outpatient resources for after discharge.",
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "nicu": []
+    }
+  },
+  {
+    "id": "chaplaincy_and_spiritual_care",
+    "title": "Chaplaincy & Spiritual Care",
+    "status": "published",
+    "categories": [
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "Hospital chaplains are available to all families regardless of faith — someone to talk to, sit with, or pray with.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Chaplaincy & Spiritual Care\n\nHospital chaplains are available to all families regardless of faith — someone to talk to, sit with, or pray with.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "chaplain",
+      "spiritual care",
+      "faith",
+      "prayer",
+      "religion",
+      "support",
+      "non-denominational"
+    ],
+    "notes": "Make clear this is for families of all faiths and no faith.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "arts_and_healing",
+    "title": "Arts & Healing Program",
+    "status": "published",
+    "categories": [
+      "wellbeing"
+    ],
+    "languages": {
+      "en": {
+        "description": "Creative and healing programs available at the hospital — for you and your child.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Arts & Healing Programs\n\nCreative and healing programs available at the hospital — for you and your child.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          },
+          {
+            "type": "text",
+            "markdown": "Quisque viverra nunc eget dui. Etiam iaculis tincidunt sapien. Aliquam erat volutpat. Mauris sagittis mi suscipit est. Maecenas adipiscing erat vestibulum purus. In scelerisque facilisis risus. In ac erat. Etiam nulla. Donec ut arcu sit amet nisi sollicitudin gravida."
+          },
+          {
+            "type": "image",
+            "localPath": "assets/images/resources/mediocre-mallards-1.jpg",
+            "alt": "mallards-hockey-1"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "art",
+      "music",
+      "therapy",
+      "creative",
+      "healing",
+      "expression"
+    ],
+    "notes": "Confirm which programs are available at MGBfC specifically.",
+    "units": [
+      "peds_floors",
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "peds_floors": [],
+      "picu": []
+    }
+  },
+  {
+    "id": "volunteer_services",
+    "title": "Volunteer Services",
+    "status": "published",
+    "categories": [
+      "wellbeing",
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "How hospital volunteers can help — from companionship to errands to support for your family.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Volunteer Services\n\nHow hospital volunteers can help — from companionship to errands to support for your family.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "volunteer",
+      "help",
+      "errands",
+      "companion",
+      "support"
+    ],
+    "notes": "Confirm what PICU-specific volunteer support is available.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "peer_support",
+    "title": "Peer Support — Families Who've Been Here",
+    "status": "published",
+    "categories": [
+      "wellbeing",
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "Connect with other PICU families who understand what you're going through — peer support programs and groups.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Peer Support — Families Who've Been Here\n\nConnect with other PICU families who understand what you're going through — peer support programs and groups.\n\nCaregiving takes a toll. Here are resources to help you take care of yourself, too."
+          },
+          {
+            "type": "text",
+            "markdown": "### Small things that help\n\n- Step outside for 10 minutes, even when it feels like you shouldn't\n- Eat something, even if you're not hungry\n- Keep one routine from home — coffee, a podcast, a phone call\n- Accept help when people offer"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "peer support",
+      "other families",
+      "community",
+      "PICU parent",
+      "connect",
+      "support group"
+    ],
+    "notes": "Confirm whether a formal peer support program exists at MGBfC or through PICU parent networks.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "child_life_services",
+    "title": "Child Life Specialists",
+    "status": "published",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "Child life specialists help children and families cope with the PICU experience through play, education, and emotional support.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Child Life Specialists\n\nChild life specialists help children and families cope with the PICU experience through play, education, and emotional support.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "child life",
+      "play",
+      "distraction",
+      "coping",
+      "toys",
+      "activities",
+      "CCLS"
+    ],
+    "notes": null,
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "sibling_support",
+    "title": "Supporting Your Other Children",
+    "status": "published",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "Guidance on supporting siblings who may be confused or upset — talking to children about hospital stays.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Supporting Your Other Children\n\nGuidance on supporting siblings who may be confused or upset — talking to children about hospital stays.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "sibling",
+      "brother",
+      "sister",
+      "other children",
+      "explain",
+      "talk",
+      "cope"
+    ],
+    "notes": "Warm, practical advice for talking to children of different ages.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "support_groups",
+    "title": "Support Groups",
+    "status": "inactive",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "Support groups for PICU families — both during your stay and after you go home.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Support Groups\n\nSupport groups for PICU families — both during your stay and after you go home.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "support group",
+      "group",
+      "community",
+      "families",
+      "connect",
+      "hospital",
+      "virtual"
+    ],
+    "notes": "Confirm which groups are available and their schedule.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "pact_team",
+    "title": "Palliative Care & PACT Team",
+    "status": "inactive",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "The palliative care team works alongside the PICU team to support your family's comfort, communication, and quality of life goals.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Palliative Care & PACT Team\n\nThe palliative care team works alongside the PICU team to support your family's comfort, communication, and quality of life goals.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "palliative care",
+      "PACT",
+      "comfort",
+      "goals of care",
+      "quality of life",
+      "support",
+      "team"
+    ],
+    "notes": "Sensitive topic. Focus on 'support and comfort alongside treatment', not end-of-life only.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "communicating_with_family",
+    "title": "Keeping Family & Friends Informed",
+    "status": "published",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "Practical tips for sharing updates with extended family and friends while protecting your energy.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Keeping Family & Friends Informed\n\nPractical tips for sharing updates with extended family and friends while protecting your energy.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "family",
+      "communicate",
+      "update",
+      "CaringBridge",
+      "share",
+      "group text",
+      "news"
+    ],
+    "notes": "Mention tools like CaringBridge, group texts, and designating a point person for updates.",
+    "units": [
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "family_advisory_council",
+    "title": "Family Advisory Council",
+    "status": "published",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to get involved in the PICU Family Advisory Council — improving care for future families.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Family Advisory Council\n\nHow to get involved in the PICU Family Advisory Council — improving care for future families.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "advisory council",
+      "volunteer",
+      "feedback",
+      "improve",
+      "family council",
+      "FAC"
+    ],
+    "notes": "Confirm whether a PICU-specific FAC exists at MGBfC.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh",
+      "bwh"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "patient_relations",
+    "title": "Patient & Family Relations",
+    "status": "published",
+    "categories": [
+      "family_support"
+    ],
+    "languages": {
+      "en": {
+        "description": "Who to contact if you have a concern about your child's care or need help navigating the hospital.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Patient & Family Relations\n\nWho to contact if you have a concern about your child's care or need help navigating the hospital.\n\nYou're not navigating this alone. Here's what's available for your family."
+          },
+          {
+            "type": "text",
+            "markdown": "### How to connect\n\n- Ask social work for a referral — they know what's available\n- Many groups meet virtually, so you can join from the unit\n- Peer support matches you with other families who've been here\n- Child life supports siblings of any age"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "patient relations",
+      "concern",
+      "complaint",
+      "advocate",
+      "feedback",
+      "help",
+      "grievance"
+    ],
+    "notes": "Include phone number. Make clear this is a supportive resource, not just for complaints.",
+    "units": [
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "discharge_planning",
+    "title": "Planning for Discharge",
+    "status": "published",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "What to expect as you prepare to leave the PICU — the discharge process, who's involved, and how to get ready.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Planning for Discharge\n\nWhat to expect as you prepare to leave the PICU — the discharge process, who's involved, and how to get ready.\n\nGoing home is its own process. Here's what to prepare for."
+          },
+          {
+            "type": "text",
+            "markdown": "### Before you go\n\n- Confirm follow-up appointments and know what phone numbers to call\n- Pick up all medications before leaving the hospital\n- Review warning signs — what to watch for at home\n- Know where to go if something changes (ED, primary care, or back here)"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "discharge",
+      "going home",
+      "plan",
+      "prepare",
+      "ready",
+      "when",
+      "process"
+    ],
+    "notes": null,
+    "units": [
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": [
+        "going_home"
+      ],
+      "peds_floors": [
+        "going_home"
+      ]
+    }
+  },
+  {
+    "id": "going_home_checklist",
+    "title": "Going Home Checklist",
+    "status": "published",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "A checklist of things to confirm before you leave — medications, follow-up appointments, equipment, and instructions.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Going Home Checklist\n\nA checklist of things to confirm before you leave — medications, follow-up appointments, equipment, and instructions.\n\nGoing home is its own process. Here's what to prepare for."
+          },
+          {
+            "type": "text",
+            "markdown": "### Before you go\n\n- Confirm follow-up appointments and know what phone numbers to call\n- Pick up all medications before leaving the hospital\n- Review warning signs — what to watch for at home\n- Know where to go if something changes (ED, primary care, or back here)"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "checklist",
+      "discharge",
+      "going home",
+      "medications",
+      "follow-up",
+      "equipment",
+      "instructions"
+    ],
+    "notes": "Create as a practical markdown checklist. Review with clinical staff for accuracy.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home"
+      ],
+      "nicu": [
+        "going_home"
+      ],
+      "peds_floors": [
+        "going_home"
+      ]
+    }
+  },
+  {
+    "id": "home_care_instructions",
+    "title": "Home Care Instructions",
+    "status": "published",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "General guidance for caring for your child at home after PICU discharge — signs to watch for and when to call.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Home Care Instructions\n\nGeneral guidance for caring for your child at home after PICU discharge — signs to watch for and when to call.\n\nGoing home is its own process. Here's what to prepare for."
+          },
+          {
+            "type": "text",
+            "markdown": "### Before you go\n\n- Confirm follow-up appointments and know what phone numbers to call\n- Pick up all medications before leaving the hospital\n- Review warning signs — what to watch for at home\n- Know where to go if something changes (ED, primary care, or back here)"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "home care",
+      "after discharge",
+      "instructions",
+      "watch for",
+      "call",
+      "signs",
+      "follow-up"
+    ],
+    "notes": "Keep general — specific instructions come from the care team. Focus on when to seek help.",
+    "units": [
+      "picu",
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home",
+        "after_discharge"
+      ],
+      "nicu": [
+        "going_home",
+        "after_discharge"
+      ],
+      "peds_floors": [
+        "going_home",
+        "after_discharge"
+      ]
+    }
+  },
+  {
+    "id": "follow_up_appointments",
+    "title": "Follow-Up Appointments",
+    "status": "pending",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to schedule and prepare for follow-up appointments after leaving the hospital.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "follow-up",
+      "appointment",
+      "schedule",
+      "specialist",
+      "outpatient",
+      "clinic"
+    ],
+    "notes": null,
+    "units": [
+      "nicu",
+      "peds_floors"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": [],
+      "peds_floors": []
+    }
+  },
+  {
+    "id": "emergency_department_info",
+    "title": "When to Go to the Emergency Department",
+    "status": "pending",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "Warning signs that mean your child needs emergency care after going home — and which ED to go to.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "emergency",
+      "ED",
+      "ER",
+      "warning signs",
+      "when to call",
+      "911",
+      "urgent",
+      "symptoms"
+    ],
+    "notes": "Clinical review required before publishing. Keep list short and clear.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh",
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "outpatient_contacts",
+    "title": "Outpatient Contact Information",
+    "status": "pending",
+    "categories": [
+      "discharge"
+    ],
+    "languages": {
+      "en": {
+        "description": "Phone numbers and resources for after you're home — who to call with questions or concerns.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "contact",
+      "phone",
+      "outpatient",
+      "after discharge",
+      "call",
+      "question"
+    ],
+    "notes": "Get contact numbers for PICU follow-up clinic, primary care liaison, and after-hours line.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "nearby_hotels",
+    "title": "Hotels & Accommodations Near the Hospital",
+    "status": "pending",
+    "categories": [
+      "around_boston"
+    ],
+    "languages": {
+      "en": {
+        "description": "Hotels and short-term accommodations within walking distance or a short ride from MGH.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "hotel",
+      "accommodation",
+      "stay",
+      "room",
+      "nearby",
+      "Airbnb",
+      "Beacon Hill",
+      "Boston"
+    ],
+    "notes": "Include whether any offer hospital-family rates.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "ronald_mcdonald_house",
+    "title": "Ronald McDonald House",
+    "status": "pending",
+    "categories": [
+      "around_boston"
+    ],
+    "languages": {
+      "en": {
+        "description": "Free or low-cost accommodation for PICU families who need to stay close to the hospital.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "Ronald McDonald",
+      "RMHC",
+      "free housing",
+      "accommodation",
+      "family house",
+      "nonprofit"
+    ],
+    "notes": "Confirm Boston RMHC address, eligibility criteria, and how to apply.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "things_to_do_nearby",
+    "title": "Things to Do Near the Hospital",
+    "status": "pending",
+    "categories": [
+      "around_boston"
+    ],
+    "languages": {
+      "en": {
+        "description": "Getting outside and taking a break — parks, walks, and low-key activities near the hospital.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "things to do",
+      "walk",
+      "park",
+      "Boston Common",
+      "Esplanade",
+      "fresh air",
+      "break"
+    ],
+    "notes": "Focus on activities realistic for a caregiver who can't be far for long.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "places_to_pray_or_reflect",
+    "title": "Places to Pray or Reflect Near the Hospital",
+    "status": "pending",
+    "categories": [
+      "around_boston"
+    ],
+    "languages": {
+      "en": {
+        "description": "Mosques, temples, churches, and quiet spaces near MGH for caregivers who want to pray or reflect.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "mosque",
+      "church",
+      "temple",
+      "synagogue",
+      "pray",
+      "worship",
+      "religion",
+      "spiritual"
+    ],
+    "notes": "Research nearby religious sites within walking distance. Include multi-faith options.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "boston_transportation",
+    "title": "Getting Around Boston",
+    "status": "pending",
+    "categories": [
+      "around_boston"
+    ],
+    "languages": {
+      "en": {
+        "description": "How to get around Boston beyond the hospital campus — the T, buses, and ride share.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "Boston",
+      "T",
+      "MBTA",
+      "bus",
+      "transit",
+      "transport",
+      "subway",
+      "CharlieCard"
+    ],
+    "notes": "Focus on getting to nearby hotels, restaurants, etc. Most caregivers won't stray far.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "local_support_resources",
+    "title": "Local Support Resources in Boston",
+    "status": "pending",
+    "categories": [
+      "around_boston"
+    ],
+    "languages": {
+      "en": {
+        "description": "Community organizations and support resources in the Boston area for families in need.",
+        "content": []
+      }
+    },
+    "images": [],
+    "tags": [
+      "community",
+      "resources",
+      "Boston",
+      "support",
+      "organization",
+      "nonprofit",
+      "help"
+    ],
+    "notes": "Could include food banks, housing assistance, childcare. Coordinate with social work for a curated list.",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "pharmacy_mgh",
+    "title": "Pharmacy — Massachusetts General",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Retail pharmacy locations and hours at MGH for filling prescriptions before discharge.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## MGH retail pharmacy\n\nThe MGH Outpatient Pharmacy is located on the ground floor of the Wang Ambulatory Care Center. Discharge prescriptions can be filled here before you leave."
+          },
+          {
+            "type": "text",
+            "markdown": "### Hours and contact\n\n- **Monday–Friday:** 7am – 8pm\n- **Saturday:** 9am – 5pm\n- **Sunday:** Closed\n\nAsk your nurse to call ahead so prescriptions are ready at discharge."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "pharmacy_nwh",
+    "title": "Pharmacy — Newton-Wellesley",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Retail pharmacy location and hours at NWH for discharge prescriptions.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## NWH retail pharmacy\n\nNewton-Wellesley's main retail pharmacy is on the first floor near the Washington Street entrance, just past the main lobby."
+          },
+          {
+            "type": "text",
+            "markdown": "### Hours and contact\n\n- **Monday–Friday:** 8am – 6pm\n- **Saturday:** 9am – 2pm\n- **Sunday:** Closed\n\nAfter hours, CVS on Washington Street (a 5-minute drive) is 24-hour."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "pharmacy_bwh",
+    "title": "Pharmacy — Brigham and Women's",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Retail pharmacy locations and hours at BWH including Longwood campus options.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## BWH retail pharmacy\n\nThe BWH Outpatient Pharmacy is in the 75 Francis Street lobby, next to the main information desk. A second location is inside the Shapiro Building."
+          },
+          {
+            "type": "text",
+            "markdown": "### Hours and contact\n\n- **75 Francis Street:** Mon–Fri 7:30am – 7pm, Sat 9am – 3pm\n- **Shapiro Building:** Mon–Fri 8am – 6pm\n\nLongwood CVS (Brookline Ave) is open late for after-hours needs."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "campus_map_mgh",
+    "title": "Campus Map — MGH",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Getting around the MGH main campus — buildings, entrances, and key landmarks.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## MGH main campus\n\nMGH spans several connected buildings around Blossom Street. The main entrance is at **55 Fruit Street** (White Building)."
+          },
+          {
+            "type": "text",
+            "markdown": "### Key buildings\n\n- **White Building:** Main entrance, information desk, chapel\n- **Ellison Building:** Adult inpatient units\n- **Lunder Building:** Cancer center, imaging\n- **Wang Ambulatory Care Center:** Clinics, pharmacy\n\nThe PICU is in the Ellison Building, 17th floor."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "campus_map_nwh",
+    "title": "Campus Map — Newton-Wellesley",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Getting around Newton-Wellesley Hospital — entrances, parking, and unit locations.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Newton-Wellesley campus\n\nNWH has a single connected campus at **2014 Washington Street**. The main entrance is off Washington Street via the front drive."
+          },
+          {
+            "type": "text",
+            "markdown": "### Key areas\n\n- **Main entrance:** Information desk, cafeteria\n- **North Building:** Surgery, recovery\n- **South Building:** NICU, maternity\n- **Allen Riddle Building:** Clinics, outpatient services\n\nValet parking is available weekdays at the main entrance."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "campus_map_bwh",
+    "title": "Campus Map — BWH",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Navigating the BWH Longwood campus — entrances, connectors, and building names.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## BWH Longwood campus\n\nBWH spans multiple connected buildings in the Longwood Medical Area. The primary address is **75 Francis Street**."
+          },
+          {
+            "type": "text",
+            "markdown": "### Key buildings\n\n- **75 Francis Street (L1):** Main entrance, information, chapel\n- **Shapiro Cardiovascular Center:** Cardiac, pharmacy\n- **Connors Center for Women's Health:** OB/GYN, maternal-fetal\n- **Tower Building:** Inpatient adult units\n\nThe Pike Bridge connects Brigham to Children's Hospital for families with children at both."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "parking_mgh",
+    "title": "Parking — MGH",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Parking garages, rates, and validation options at the MGH main campus.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## MGH parking\n\nThe **Fruit Street Garage** is the most convenient option for families visiting inpatient units, including the PICU."
+          },
+          {
+            "type": "text",
+            "markdown": "### Rates and validation\n\n- **Standard rate:** $20 flat daily, $36 maximum\n- **Family validation:** Ask the unit clerk — discounted weekly passes are available for inpatient families\n- **Overnight parking:** Permitted; use the same ticket on exit\n\nAccept cash or credit at the exit kiosks."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "parking_nwh",
+    "title": "Parking — Newton-Wellesley",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Parking options and rates at Newton-Wellesley Hospital.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## NWH parking\n\nNWH has free patient and visitor parking in two on-campus lots. Valet parking is available weekdays 7am – 5pm for a small fee."
+          },
+          {
+            "type": "text",
+            "markdown": "### Lot options\n\n- **North Lot:** Closest to main entrance\n- **South Lot:** Closest to NICU / maternity\n- **Valet:** Main entrance, $8/day\n\nNo validation needed — parking is complimentary for patients and visitors."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "parking_bwh",
+    "title": "Parking — BWH",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Garage options, rates, and discount passes for the BWH Longwood campus.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## BWH parking\n\nThe **75 Francis Street Garage** is the primary visitor garage. The **Fenwood Road Garage** is a shorter walk for the Connors Center."
+          },
+          {
+            "type": "text",
+            "markdown": "### Rates and validation\n\n- **Standard:** $22 up to 4 hours, $36 daily max\n- **Family discount card:** Available at the Information Desk — $12 flat for families of inpatients\n- **Weekly pass:** $90, purchased at the Patient & Family Relations office\n\nEvening rates (after 5pm) are reduced."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "cafes_mgh",
+    "title": "Cafés and Coffee — MGH",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Coffee shops and grab-and-go cafés at MGH for a quick break between visits.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## MGH cafés\n\nWhen the cafeteria feels like too much, a quiet café can be a welcome break."
+          },
+          {
+            "type": "text",
+            "markdown": "### Options on campus\n\n- **Starbucks (Main Lobby):** 5:30am – 9pm daily\n- **Au Bon Pain (Wang Lobby):** Mon–Fri 6am – 8pm\n- **Blue State Coffee (Yawkey):** Mon–Fri 7am – 5pm\n- **Cambridge Street Coffee Cart:** Mon–Fri 7am – 2pm\n\nMost accept Apple Pay and badge swipe for staff."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "cafes_nwh",
+    "title": "Cafés and Coffee — Newton-Wellesley",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Cafés, coffee stations, and nearby options at Newton-Wellesley.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Newton-Wellesley cafés\n\nNWH has a smaller footprint than the Boston campuses, but there are still options for a coffee break."
+          },
+          {
+            "type": "text",
+            "markdown": "### Options\n\n- **NWH Café (Main Building):** 6:30am – 7pm daily — self-serve coffee, pastries\n- **Tatte Bakery (across the street):** 7am – 6pm, full breakfast and lunch\n- **Starbucks (West Newton):** 5 minutes by car\n\nThe main café also has grab-and-go sandwiches after cafeteria hours."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "cafes_bwh",
+    "title": "Cafés and Coffee — BWH",
+    "status": "published",
+    "categories": [
+      "food_dining"
+    ],
+    "languages": {
+      "en": {
+        "description": "Coffee shops and cafés across the BWH Longwood campus.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## BWH cafés\n\nLongwood has no shortage of caffeine options, both on the BWH campus and in the surrounding medical area."
+          },
+          {
+            "type": "text",
+            "markdown": "### On campus\n\n- **Au Bon Pain (75 Francis Lobby):** 5:30am – 9pm\n- **Shapiro Café:** Mon–Fri 6am – 7pm\n- **Peet's Coffee (Brookline Ave):** 6am – 7pm\n\n### Nearby\n\n- **Dunkin' (Longwood Ave):** 24 hours\n- **Tatte Bakery (Brookline Ave):** 7am – 8pm"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "public_transit_mgh",
+    "title": "Public Transit — MGH",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Getting to MGH by T, bus, and commuter rail.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Getting to MGH by T\n\n**Red Line — Charles/MGH stop** is the closest T station, directly across the street from the main entrance."
+          },
+          {
+            "type": "text",
+            "markdown": "### Transit options\n\n- **Red Line:** Charles/MGH stop (walking distance)\n- **Green Line:** Transfer at Park Street\n- **Commuter Rail:** North Station (5-minute walk)\n- **Bus:** Routes 43, 55, CT2 stop nearby\n\nMassHealth transportation (PT-1) is available for eligible families — ask social work."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "public_transit_nwh",
+    "title": "Public Transit — Newton-Wellesley",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Transit options to reach Newton-Wellesley Hospital.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Getting to NWH by transit\n\nNWH is best reached by car, but several transit options exist for families without a vehicle."
+          },
+          {
+            "type": "text",
+            "markdown": "### Transit options\n\n- **Commuter Rail (Framingham/Worcester Line):** Newton Highlands or Auburndale stop, then bus or rideshare\n- **MBTA Bus:** Routes 553, 554, 556 stop on Washington Street\n- **Green Line D:** Newton Highlands, then a 15-minute bus ride\n\nThere is no direct T stop. Plan extra travel time."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "nwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "public_transit_bwh",
+    "title": "Public Transit — BWH",
+    "status": "published",
+    "categories": [
+      "getting_around"
+    ],
+    "languages": {
+      "en": {
+        "description": "Getting to BWH Longwood by T, bus, and Longwood Medical Area shuttle.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Getting to BWH by T\n\nBWH is in the Longwood Medical Area. **Green Line E — Longwood Medical Area stop** drops you at the doorstep of 75 Francis Street."
+          },
+          {
+            "type": "text",
+            "markdown": "### Transit options\n\n- **Green Line E:** Longwood Medical Area stop\n- **Bus:** Routes 8, 19, 47, 60, 65, 66 all serve Longwood\n- **LMA Shuttle:** Free inter-campus shuttle connects BWH, BCH, Beth Israel, Dana-Farber\n- **Commuter Rail:** Ruggles station, then shuttle or 15-minute walk\n\nThe LMA Shuttle runs every 10 minutes during weekdays."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "bwh"
+    ],
+    "phasesByUnit": {}
+  },
+  {
+    "id": "breast_pumping_basics",
+    "title": "Breast Pumping Basics",
+    "status": "published",
+    "categories": [
+      "milk_feeding"
+    ],
+    "languages": {
+      "en": {
+        "description": "Getting started with pumping — schedules, storage, and support from the lactation team.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Getting started with pumping\n\nIf you're planning to provide breastmilk for your baby, starting to pump within the first few hours after delivery helps establish supply. Our lactation team can visit bedside to help you get started."
+          },
+          {
+            "type": "text",
+            "markdown": "### Pumping schedule\n\n- Aim for **8–10 pumping sessions per 24 hours** in the early days\n- Sessions should be around 15–20 minutes each\n- Night pumping matters — prolactin levels are highest at night\n\nAsk your nurse to page the lactation consultant if you'd like one-on-one support."
+          },
+          {
+            "type": "text",
+            "markdown": "### Storing milk on the unit\n\nEvery NICU has a dedicated milk fridge and freezer. Labels and storage containers are at the bedside — your nurse will walk you through the labeling process."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {
+      "nicu": [
+        "first_hours",
+        "early_days"
+      ]
+    }
+  },
+  {
+    "id": "using_donor_milk",
+    "title": "Donor Milk — What to Know",
+    "status": "published",
+    "categories": [
+      "milk_feeding"
+    ],
+    "languages": {
+      "en": {
+        "description": "How pasteurized donor breastmilk is used in the NICU when mother's own milk isn't available yet.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## About donor breastmilk\n\nIf your own milk supply isn't yet established, donor milk is often used as a bridge. It's pasteurized, screened, and sourced from an accredited milk bank."
+          },
+          {
+            "type": "text",
+            "markdown": "### How the consent works\n\nThe care team will ask for your written consent before using donor milk. You can ask questions about screening, processing, and how it's stored at any time.\n\n**Note:** Donor milk is used only while your own supply is being established — it's not a long-term alternative."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {
+      "nicu": [
+        "first_hours"
+      ]
+    }
+  },
+  {
+    "id": "skin_to_skin_care",
+    "title": "Skin-to-Skin (Kangaroo Care)",
+    "status": "published",
+    "categories": [
+      "baby_care"
+    ],
+    "languages": {
+      "en": {
+        "description": "The benefits and practical steps of skin-to-skin contact with your NICU baby.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Why skin-to-skin matters\n\nSkin-to-skin contact — often called kangaroo care — helps regulate your baby's heart rate, temperature, and breathing. It also supports breastfeeding and bonding."
+          },
+          {
+            "type": "text",
+            "markdown": "### How it works\n\n1. Let your nurse know you'd like to hold\n2. Wear a button-down shirt or open-front top\n3. Your nurse helps transfer baby carefully, monitoring equipment\n4. Aim for 60+ minute holds when possible — shorter holds are less regulating\n\nBoth parents can participate. Research shows benefits for fathers and non-birthing partners too."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=acUZdGd_3Dg",
+            "caption": "A gentle breathing exercise to help you relax during skin-to-skin."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {
+      "nicu": [
+        "early_days",
+        "growing"
+      ]
+    }
+  },
+  {
+    "id": "your_babys_developmental_cues",
+    "title": "Reading Your Baby's Cues",
+    "status": "published",
+    "categories": [
+      "baby_care"
+    ],
+    "languages": {
+      "en": {
+        "description": "Understanding engagement and stress signals in preterm and medically complex infants.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Your baby communicates from day one\n\nEven very preterm babies send signals about what they need. Learning to read these cues helps you respond in ways that feel calming and safe for your baby."
+          },
+          {
+            "type": "text",
+            "markdown": "### Engagement cues (baby is ready for interaction)\n\n- Relaxed hands and face\n- Eye gaze, even briefly\n- Steady breathing\n- Reaching or grasping\n\n### Stress cues (baby needs a break)\n\n- Splayed fingers, arched back\n- Turning head away, averting gaze\n- Hiccups or sneezes\n- Color changes\n\nYour bedside nurse and the developmental care team can help you practice reading these signals."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "units": [
+      "nicu"
+    ],
+    "sites": [
+      "mgh",
+      "nwh"
+    ],
+    "phasesByUnit": {
+      "nicu": [
+        "growing"
+      ]
+    }
+  }
+]
