@@ -1,347 +1,41 @@
 {
   "sites": [
     {
-      "id": "mgh",
+      "id": "massachusetts_general_hospital_main_campus",
       "name": "MGH",
-      "displayName": "Massachusetts General Hospital"
-    },
-    {
-      "id": "nwh",
-      "name": "NWH",
-      "displayName": "Newton-Wellesley Hospital"
-    },
-    {
-      "id": "bwh",
-      "name": "BWH",
-      "displayName": "Brigham and Women's Hospital"
+      "displayName": " Massachusetts General Hospital - Main Campus"
     }
   ],
   "units": [
     {
-      "id": "picu",
+      "id": "picu_mgh",
       "name": "PICU",
-      "displayName": "Pediatric ICU",
+      "displayName": "Pediatric Intensive Care Unit",
       "availableAt": [
-        "mgh"
+        "massachusetts_general_hospital_main_campus"
       ],
       "journeyPhases": [
         {
-          "id": "pre_admission",
-          "label": { "en": "Preparing to Come In", "es": "Preparándose para llegar" },
-          "shortLabel": { "en": "Preparing", "es": "Preparación" }
-        },
-        {
-          "id": "just_arrived",
-          "label": { "en": "Just Arrived", "es": "Recién llegados" },
-          "shortLabel": { "en": "Just Arrived", "es": "Al llegar" }
-        },
-        {
-          "id": "first_night",
-          "label": { "en": "First Night", "es": "Primera noche" },
-          "shortLabel": { "en": "First Night", "es": "Primera noche" }
-        },
-        {
-          "id": "first_days",
-          "label": { "en": "First Few Days", "es": "Los primeros días" },
-          "shortLabel": { "en": "First Days", "es": "Primeros días" }
-        },
-        {
-          "id": "going_home",
-          "label": { "en": "Going Home", "es": "Regresando a casa" },
-          "shortLabel": { "en": "Going Home", "es": "A casa" }
-        },
-        {
-          "id": "after_discharge",
-          "label": { "en": "We're Home", "es": "Estamos en casa" },
-          "shortLabel": { "en": "We're Home", "es": "En casa" }
+          "id": "preparing_to_come_in",
+          "label": {
+            "en": "Preparing to Come In"
+          }
         }
       ],
       "resourceCategories": [
         {
           "id": "getting_oriented",
-          "label": { "en": "Getting Oriented", "es": "Orientándose" },
-          "chipLabel": { "en": "Orientation", "es": "Orientación" },
-          "description": "Welcome, team, what to expect"
-        },
-        {
-          "id": "food_dining",
-          "label": { "en": "Food & Dining", "es": "Comida y cafetería" },
-          "description": "Cafeteria, cafes, vending, delivery"
-        },
-        {
-          "id": "comfort_basics",
-          "label": { "en": "Comfort & Basics", "es": "Comodidades básicas" },
-          "description": "Laundry, showers, toiletries, sleeping"
-        },
-        {
-          "id": "getting_around",
-          "label": { "en": "Getting Around", "es": "Cómo moverse" },
-          "description": "Maps, directions, parking"
-        },
-        {
-          "id": "medical_education",
-          "label": { "en": "Medical Information", "es": "Información médica" },
-          "chipLabel": { "en": "Medical Info", "es": "Info médica" },
-          "description": "Procedures, conditions, equipment"
-        },
-        {
-          "id": "administrative",
-          "label": { "en": "Admin & Insurance", "es": "Trámites y seguro" },
-          "description": "Billing, FMLA, patient rights"
-        },
-        {
-          "id": "wellbeing",
-          "label": { "en": "Wellbeing", "es": "Bienestar" },
-          "description": "Mindfulness, self-care, mental health"
-        },
-        {
-          "id": "family_support",
-          "label": { "en": "Family Support", "es": "Apoyo familiar" },
-          "description": "Child life, sibling support, groups"
-        },
-        {
-          "id": "discharge",
-          "label": { "en": "Going Home", "es": "Regreso a casa" },
-          "description": "Discharge planning, outpatient info"
-        },
-        {
-          "id": "around_boston",
-          "label": { "en": "Around Boston", "es": "Alrededor de Boston" },
-          "description": "Hotels, accommodations, things to do"
+          "label": {
+            "en": "Getting Oriented"
+          }
         }
       ],
       "contactCategories": [
         {
           "id": "care_team",
-          "label": { "en": "Care Team", "es": "Equipo de atención" }
-        },
-        {
-          "id": "support",
-          "label": { "en": "Support Services", "es": "Servicios de apoyo" }
-        },
-        {
-          "id": "services",
-          "label": { "en": "Hospital Services", "es": "Servicios del hospital" }
-        }
-      ]
-    },
-    {
-      "id": "nicu",
-      "name": "NICU",
-      "displayName": "Newborn Intensive Care Unit",
-      "availableAt": [
-        "mgh",
-        "nwh"
-      ],
-      "journeyPhases": [
-        {
-          "id": "first_hours",
-          "label": { "en": "First Hours", "es": "Primeras horas" },
-          "shortLabel": { "en": "First Hours", "es": "Primeras horas" }
-        },
-        {
-          "id": "early_days",
-          "label": { "en": "Early Days", "es": "Primeros días" },
-          "shortLabel": { "en": "Early Days", "es": "Primeros días" }
-        },
-        {
-          "id": "growing",
-          "label": { "en": "Growing & Learning", "es": "Creciendo y aprendiendo" },
-          "shortLabel": { "en": "Growing", "es": "Creciendo" }
-        },
-        {
-          "id": "going_home",
-          "label": { "en": "Going Home", "es": "Regresando a casa" },
-          "shortLabel": { "en": "Going Home", "es": "A casa" }
-        },
-        {
-          "id": "after_discharge",
-          "label": { "en": "We're Home", "es": "Estamos en casa" },
-          "shortLabel": { "en": "We're Home", "es": "En casa" }
-        }
-      ],
-      "resourceCategories": [
-        {
-          "id": "getting_oriented",
-          "label": { "en": "Getting Oriented", "es": "Orientándose" },
-          "chipLabel": { "en": "Orientation", "es": "Orientación" },
-          "description": "Welcome, team, what to expect"
-        },
-        {
-          "id": "milk_feeding",
-          "label": { "en": "Milk & Feeding", "es": "Leche y lactancia" },
-          "chipLabel": { "en": "Milk & Feeding", "es": "Leche y lactancia" },
-          "description": "Pumping, breastfeeding, donor milk"
-        },
-        {
-          "id": "baby_care",
-          "label": { "en": "Caring for Your Baby", "es": "Cuidando a su bebé" },
-          "chipLabel": { "en": "Baby Care", "es": "Cuidado del bebé" },
-          "description": "Skin-to-skin, developmental care"
-        },
-        {
-          "id": "comfort_basics",
-          "label": { "en": "Comfort & Basics", "es": "Comodidades básicas" },
-          "description": "Laundry, showers, toiletries, sleeping"
-        },
-        {
-          "id": "food_dining",
-          "label": { "en": "Food & Dining", "es": "Comida y cafetería" },
-          "description": "Cafeteria, cafes, vending, delivery"
-        },
-        {
-          "id": "getting_around",
-          "label": { "en": "Getting Around", "es": "Cómo moverse" },
-          "description": "Maps, directions, parking"
-        },
-        {
-          "id": "family_support",
-          "label": { "en": "Family Support", "es": "Apoyo familiar" },
-          "description": "Sibling support, groups, counseling"
-        },
-        {
-          "id": "wellbeing",
-          "label": { "en": "Wellbeing", "es": "Bienestar" },
-          "description": "Mindfulness, self-care, mental health"
-        },
-        {
-          "id": "medical_education",
-          "label": { "en": "Medical Information", "es": "Información médica" },
-          "chipLabel": { "en": "Medical Info", "es": "Info médica" },
-          "description": "Conditions, equipment, procedures"
-        },
-        {
-          "id": "administrative",
-          "label": { "en": "Admin & Insurance", "es": "Trámites y seguro" },
-          "description": "Billing, FMLA, patient rights"
-        },
-        {
-          "id": "discharge",
-          "label": { "en": "Going Home", "es": "Regreso a casa" },
-          "description": "Discharge planning, outpatient info"
-        },
-        {
-          "id": "around_boston",
-          "label": { "en": "Around Boston", "es": "Alrededor de Boston" },
-          "description": "Hotels, accommodations, things to do"
-        }
-      ],
-      "contactCategories": [
-        {
-          "id": "care_team",
-          "label": { "en": "Care Team", "es": "Equipo de atención" }
-        },
-        {
-          "id": "support",
-          "label": { "en": "Support Services", "es": "Servicios de apoyo" }
-        },
-        {
-          "id": "services",
-          "label": { "en": "Hospital Services", "es": "Servicios del hospital" }
-        }
-      ]
-    },
-    {
-      "id": "peds_floors",
-      "name": "Pediatric",
-      "displayName": "Pediatric Floors",
-      "availableAt": [
-        "mgh",
-        "bwh"
-      ],
-      "journeyPhases": [
-        {
-          "id": "pre_admission",
-          "label": { "en": "Preparing to Come In", "es": "Preparándose para llegar" },
-          "shortLabel": { "en": "Preparing", "es": "Preparación" }
-        },
-        {
-          "id": "arriving",
-          "label": { "en": "Just Arrived", "es": "Recién llegados" },
-          "shortLabel": { "en": "Just Arrived", "es": "Al llegar" }
-        },
-        {
-          "id": "during_stay",
-          "label": { "en": "During Your Stay", "es": "Durante su estancia" },
-          "shortLabel": { "en": "During Stay", "es": "La estancia" }
-        },
-        {
-          "id": "going_home",
-          "label": { "en": "Going Home", "es": "Regresando a casa" },
-          "shortLabel": { "en": "Going Home", "es": "A casa" }
-        },
-        {
-          "id": "after_discharge",
-          "label": { "en": "We're Home", "es": "Estamos en casa" },
-          "shortLabel": { "en": "We're Home", "es": "En casa" }
-        }
-      ],
-      "resourceCategories": [
-        {
-          "id": "getting_oriented",
-          "label": { "en": "Getting Oriented", "es": "Orientándose" },
-          "chipLabel": { "en": "Orientation", "es": "Orientación" },
-          "description": "Welcome, team, what to expect"
-        },
-        {
-          "id": "food_dining",
-          "label": { "en": "Food & Dining", "es": "Comida y cafetería" },
-          "description": "Cafeteria, cafes, vending, delivery"
-        },
-        {
-          "id": "comfort_basics",
-          "label": { "en": "Comfort & Basics", "es": "Comodidades básicas" },
-          "description": "Laundry, showers, toiletries, sleeping"
-        },
-        {
-          "id": "getting_around",
-          "label": { "en": "Getting Around", "es": "Cómo moverse" },
-          "description": "Maps, directions, parking"
-        },
-        {
-          "id": "medical_education",
-          "label": { "en": "Medical Information", "es": "Información médica" },
-          "chipLabel": { "en": "Medical Info", "es": "Info médica" },
-          "description": "Procedures, conditions, equipment"
-        },
-        {
-          "id": "administrative",
-          "label": { "en": "Admin & Insurance", "es": "Trámites y seguro" },
-          "description": "Billing, FMLA, patient rights"
-        },
-        {
-          "id": "wellbeing",
-          "label": { "en": "Wellbeing", "es": "Bienestar" },
-          "description": "Mindfulness, self-care, mental health"
-        },
-        {
-          "id": "family_support",
-          "label": { "en": "Family Support", "es": "Apoyo familiar" },
-          "description": "Child life, sibling support, groups"
-        },
-        {
-          "id": "discharge",
-          "label": { "en": "Going Home", "es": "Regreso a casa" },
-          "description": "Discharge planning, outpatient info"
-        },
-        {
-          "id": "around_boston",
-          "label": { "en": "Around Boston", "es": "Alrededor de Boston" },
-          "description": "Hotels, accommodations, things to do"
-        }
-      ],
-      "contactCategories": [
-        {
-          "id": "care_team",
-          "label": { "en": "Care Team", "es": "Equipo de atención" }
-        },
-        {
-          "id": "support",
-          "label": { "en": "Support Services", "es": "Servicios de apoyo" }
-        },
-        {
-          "id": "services",
-          "label": { "en": "Hospital Services", "es": "Servicios del hospital" }
+          "label": {
+            "en": "Care Team"
+          }
         }
       ]
     }
