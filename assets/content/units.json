@@ -27,108 +27,189 @@
       "journeyPhases": [
         {
           "id": "pre_admission",
-          "label": { "en": "Preparing to Come In", "es": "Preparándose para llegar" },
-          "shortLabel": { "en": "Preparing", "es": "Preparación" }
+          "label": {
+            "en": "Preparing to Come In",
+            "es": "Preparándose para llegar"
+          },
+          "shortLabel": {
+            "en": "Preparing",
+            "es": "Preparación"
+          }
         },
         {
           "id": "just_arrived",
-          "label": { "en": "Just Arrived", "es": "Recién llegados" },
-          "shortLabel": { "en": "Just Arrived", "es": "Al llegar" }
+          "label": {
+            "en": "Just Arrived",
+            "es": "Recién llegados"
+          },
+          "shortLabel": {
+            "en": "Just Arrived",
+            "es": "Al llegar"
+          }
         },
         {
           "id": "first_night",
-          "label": { "en": "First Night", "es": "Primera noche" },
-          "shortLabel": { "en": "First Night", "es": "Primera noche" }
+          "label": {
+            "en": "First Night",
+            "es": "Primera noche"
+          },
+          "shortLabel": {
+            "en": "First Night",
+            "es": "Primera noche"
+          }
         },
         {
           "id": "first_days",
-          "label": { "en": "First Few Days", "es": "Los primeros días" },
-          "shortLabel": { "en": "First Days", "es": "Primeros días" }
+          "label": {
+            "en": "First Few Days",
+            "es": "Los primeros días"
+          },
+          "shortLabel": {
+            "en": "First Days",
+            "es": "Primeros días"
+          }
         },
         {
           "id": "going_home",
-          "label": { "en": "Going Home", "es": "Regresando a casa" },
-          "shortLabel": { "en": "Going Home", "es": "A casa" }
+          "label": {
+            "en": "Going Home",
+            "es": "Regresando a casa"
+          },
+          "shortLabel": {
+            "en": "Going Home",
+            "es": "A casa"
+          }
         },
         {
           "id": "after_discharge",
-          "label": { "en": "We're Home", "es": "Estamos en casa" },
-          "shortLabel": { "en": "We're Home", "es": "En casa" }
+          "label": {
+            "en": "We're Home",
+            "es": "Estamos en casa"
+          },
+          "shortLabel": {
+            "en": "We're Home",
+            "es": "En casa"
+          }
         }
       ],
       "resourceCategories": [
         {
           "id": "getting_oriented",
-          "label": { "en": "Getting Oriented", "es": "Orientándose" },
-          "chipLabel": { "en": "Orientation", "es": "Orientación" },
+          "label": {
+            "en": "Getting Oriented",
+            "es": "Orientándose"
+          },
+          "chipLabel": {
+            "en": "Orientation",
+            "es": "Orientación"
+          },
           "description": "Welcome, team, what to expect"
         },
         {
           "id": "food_dining",
-          "label": { "en": "Food & Dining", "es": "Comida y cafetería" },
+          "label": {
+            "en": "Food & Dining",
+            "es": "Comida y cafetería"
+          },
           "description": "Cafeteria, cafes, vending, delivery"
         },
         {
           "id": "comfort_basics",
-          "label": { "en": "Comfort & Basics", "es": "Comodidades básicas" },
+          "label": {
+            "en": "Comfort & Basics",
+            "es": "Comodidades básicas"
+          },
           "description": "Laundry, showers, toiletries, sleeping"
         },
         {
           "id": "getting_around",
-          "label": { "en": "Getting Around", "es": "Cómo moverse" },
+          "label": {
+            "en": "Getting Around",
+            "es": "Cómo moverse"
+          },
           "description": "Maps, directions, parking"
         },
         {
           "id": "medical_education",
-          "label": { "en": "Medical Information", "es": "Información médica" },
-          "chipLabel": { "en": "Medical Info", "es": "Info médica" },
+          "label": {
+            "en": "Medical Information",
+            "es": "Información médica"
+          },
+          "chipLabel": {
+            "en": "Medical Info",
+            "es": "Info médica"
+          },
           "description": "Procedures, conditions, equipment"
         },
         {
           "id": "administrative",
-          "label": { "en": "Admin & Insurance", "es": "Trámites y seguro" },
+          "label": {
+            "en": "Admin & Insurance",
+            "es": "Trámites y seguro"
+          },
           "description": "Billing, FMLA, patient rights"
         },
         {
           "id": "wellbeing",
-          "label": { "en": "Wellbeing", "es": "Bienestar" },
+          "label": {
+            "en": "Wellbeing",
+            "es": "Bienestar"
+          },
           "description": "Mindfulness, self-care, mental health"
         },
         {
           "id": "family_support",
-          "label": { "en": "Family Support", "es": "Apoyo familiar" },
+          "label": {
+            "en": "Family Support",
+            "es": "Apoyo familiar"
+          },
           "description": "Child life, sibling support, groups"
         },
         {
           "id": "discharge",
-          "label": { "en": "Going Home", "es": "Regreso a casa" },
+          "label": {
+            "en": "Going Home",
+            "es": "Regreso a casa"
+          },
           "description": "Discharge planning, outpatient info"
         },
         {
           "id": "around_boston",
-          "label": { "en": "Around Boston", "es": "Alrededor de Boston" },
+          "label": {
+            "en": "Around Boston",
+            "es": "Alrededor de Boston"
+          },
           "description": "Hotels, accommodations, things to do"
         }
       ],
       "contactCategories": [
         {
           "id": "care_team",
-          "label": { "en": "Care Team", "es": "Equipo de atención" }
+          "label": {
+            "en": "Care Team",
+            "es": "Equipo de atención"
+          }
         },
         {
           "id": "support",
-          "label": { "en": "Support Services", "es": "Servicios de apoyo" }
+          "label": {
+            "en": "Support Services",
+            "es": "Servicios de apoyo"
+          }
         },
         {
           "id": "services",
-          "label": { "en": "Hospital Services", "es": "Servicios del hospital" }
+          "label": {
+            "en": "Hospital Services",
+            "es": "Servicios del hospital"
+          }
         }
       ]
     },
     {
       "id": "nicu",
       "name": "NICU",
-      "displayName": "Newborn Intensive Care Unit",
+      "displayName": "Neonatal ICU",
       "availableAt": [
         "mgh",
         "nwh"
@@ -136,108 +217,195 @@
       "journeyPhases": [
         {
           "id": "first_hours",
-          "label": { "en": "First Hours", "es": "Primeras horas" },
-          "shortLabel": { "en": "First Hours", "es": "Primeras horas" }
+          "label": {
+            "en": "First Hours",
+            "es": "Primeras horas"
+          },
+          "shortLabel": {
+            "en": "First Hours",
+            "es": "Primeras horas"
+          }
         },
         {
           "id": "early_days",
-          "label": { "en": "Early Days", "es": "Primeros días" },
-          "shortLabel": { "en": "Early Days", "es": "Primeros días" }
+          "label": {
+            "en": "Early Days",
+            "es": "Primeros días"
+          },
+          "shortLabel": {
+            "en": "Early Days",
+            "es": "Primeros días"
+          }
         },
         {
           "id": "growing",
-          "label": { "en": "Growing & Learning", "es": "Creciendo y aprendiendo" },
-          "shortLabel": { "en": "Growing", "es": "Creciendo" }
+          "label": {
+            "en": "Growing & Learning",
+            "es": "Creciendo y aprendiendo"
+          },
+          "shortLabel": {
+            "en": "Growing",
+            "es": "Creciendo"
+          }
         },
         {
           "id": "going_home",
-          "label": { "en": "Going Home", "es": "Regresando a casa" },
-          "shortLabel": { "en": "Going Home", "es": "A casa" }
+          "label": {
+            "en": "Going Home",
+            "es": "Regresando a casa"
+          },
+          "shortLabel": {
+            "en": "Going Home",
+            "es": "A casa"
+          }
         },
         {
           "id": "after_discharge",
-          "label": { "en": "We're Home", "es": "Estamos en casa" },
-          "shortLabel": { "en": "We're Home", "es": "En casa" }
+          "label": {
+            "en": "We're Home",
+            "es": "Estamos en casa"
+          },
+          "shortLabel": {
+            "en": "We're Home",
+            "es": "En casa"
+          }
         }
       ],
       "resourceCategories": [
         {
           "id": "getting_oriented",
-          "label": { "en": "Getting Oriented", "es": "Orientándose" },
-          "chipLabel": { "en": "Orientation", "es": "Orientación" },
+          "label": {
+            "en": "Getting Oriented",
+            "es": "Orientándose"
+          },
+          "chipLabel": {
+            "en": "Orientation",
+            "es": "Orientación"
+          },
           "description": "Welcome, team, what to expect"
         },
         {
           "id": "milk_feeding",
-          "label": { "en": "Milk & Feeding", "es": "Leche y lactancia" },
-          "chipLabel": { "en": "Milk & Feeding", "es": "Leche y lactancia" },
+          "label": {
+            "en": "Milk & Feeding",
+            "es": "Leche y lactancia"
+          },
+          "chipLabel": {
+            "en": "Milk & Feeding",
+            "es": "Leche y lactancia"
+          },
           "description": "Pumping, breastfeeding, donor milk"
         },
         {
           "id": "baby_care",
-          "label": { "en": "Caring for Your Baby", "es": "Cuidando a su bebé" },
-          "chipLabel": { "en": "Baby Care", "es": "Cuidado del bebé" },
+          "label": {
+            "en": "Caring for Your Baby",
+            "es": "Cuidando a su bebé"
+          },
+          "chipLabel": {
+            "en": "Baby Care",
+            "es": "Cuidado del bebé"
+          },
           "description": "Skin-to-skin, developmental care"
         },
         {
           "id": "comfort_basics",
-          "label": { "en": "Comfort & Basics", "es": "Comodidades básicas" },
+          "label": {
+            "en": "Comfort & Basics",
+            "es": "Comodidades básicas"
+          },
           "description": "Laundry, showers, toiletries, sleeping"
         },
         {
           "id": "food_dining",
-          "label": { "en": "Food & Dining", "es": "Comida y cafetería" },
+          "label": {
+            "en": "Food & Dining",
+            "es": "Comida y cafetería"
+          },
           "description": "Cafeteria, cafes, vending, delivery"
         },
         {
           "id": "getting_around",
-          "label": { "en": "Getting Around", "es": "Cómo moverse" },
+          "label": {
+            "en": "Getting Around",
+            "es": "Cómo moverse"
+          },
           "description": "Maps, directions, parking"
         },
         {
           "id": "family_support",
-          "label": { "en": "Family Support", "es": "Apoyo familiar" },
+          "label": {
+            "en": "Family Support",
+            "es": "Apoyo familiar"
+          },
           "description": "Sibling support, groups, counseling"
         },
         {
           "id": "wellbeing",
-          "label": { "en": "Wellbeing", "es": "Bienestar" },
+          "label": {
+            "en": "Wellbeing",
+            "es": "Bienestar"
+          },
           "description": "Mindfulness, self-care, mental health"
         },
         {
           "id": "medical_education",
-          "label": { "en": "Medical Information", "es": "Información médica" },
-          "chipLabel": { "en": "Medical Info", "es": "Info médica" },
+          "label": {
+            "en": "Medical Information",
+            "es": "Información médica"
+          },
+          "chipLabel": {
+            "en": "Medical Info",
+            "es": "Info médica"
+          },
           "description": "Conditions, equipment, procedures"
         },
         {
           "id": "administrative",
-          "label": { "en": "Admin & Insurance", "es": "Trámites y seguro" },
+          "label": {
+            "en": "Admin & Insurance",
+            "es": "Trámites y seguro"
+          },
           "description": "Billing, FMLA, patient rights"
         },
         {
           "id": "discharge",
-          "label": { "en": "Going Home", "es": "Regreso a casa" },
+          "label": {
+            "en": "Going Home",
+            "es": "Regreso a casa"
+          },
           "description": "Discharge planning, outpatient info"
         },
         {
           "id": "around_boston",
-          "label": { "en": "Around Boston", "es": "Alrededor de Boston" },
+          "label": {
+            "en": "Around Boston",
+            "es": "Alrededor de Boston"
+          },
           "description": "Hotels, accommodations, things to do"
         }
       ],
       "contactCategories": [
         {
           "id": "care_team",
-          "label": { "en": "Care Team", "es": "Equipo de atención" }
+          "label": {
+            "en": "Care Team",
+            "es": "Equipo de atención"
+          }
         },
         {
           "id": "support",
-          "label": { "en": "Support Services", "es": "Servicios de apoyo" }
+          "label": {
+            "en": "Support Services",
+            "es": "Servicios de apoyo"
+          }
         },
         {
           "id": "services",
-          "label": { "en": "Hospital Services", "es": "Servicios del hospital" }
+          "label": {
+            "en": "Hospital Services",
+            "es": "Servicios del hospital"
+          }
         }
       ]
     },
@@ -252,96 +420,171 @@
       "journeyPhases": [
         {
           "id": "pre_admission",
-          "label": { "en": "Preparing to Come In", "es": "Preparándose para llegar" },
-          "shortLabel": { "en": "Preparing", "es": "Preparación" }
+          "label": {
+            "en": "Preparing to Come In",
+            "es": "Preparándose para llegar"
+          },
+          "shortLabel": {
+            "en": "Preparing",
+            "es": "Preparación"
+          }
         },
         {
           "id": "arriving",
-          "label": { "en": "Just Arrived", "es": "Recién llegados" },
-          "shortLabel": { "en": "Just Arrived", "es": "Al llegar" }
+          "label": {
+            "en": "Just Arrived",
+            "es": "Recién llegados"
+          },
+          "shortLabel": {
+            "en": "Just Arrived",
+            "es": "Al llegar"
+          }
         },
         {
           "id": "during_stay",
-          "label": { "en": "During Your Stay", "es": "Durante su estancia" },
-          "shortLabel": { "en": "During Stay", "es": "La estancia" }
+          "label": {
+            "en": "During Your Stay",
+            "es": "Durante su estancia"
+          },
+          "shortLabel": {
+            "en": "During Stay",
+            "es": "La estancia"
+          }
         },
         {
           "id": "going_home",
-          "label": { "en": "Going Home", "es": "Regresando a casa" },
-          "shortLabel": { "en": "Going Home", "es": "A casa" }
+          "label": {
+            "en": "Going Home",
+            "es": "Regresando a casa"
+          },
+          "shortLabel": {
+            "en": "Going Home",
+            "es": "A casa"
+          }
         },
         {
           "id": "after_discharge",
-          "label": { "en": "We're Home", "es": "Estamos en casa" },
-          "shortLabel": { "en": "We're Home", "es": "En casa" }
+          "label": {
+            "en": "We're Home",
+            "es": "Estamos en casa"
+          },
+          "shortLabel": {
+            "en": "We're Home",
+            "es": "En casa"
+          }
         }
       ],
       "resourceCategories": [
         {
           "id": "getting_oriented",
-          "label": { "en": "Getting Oriented", "es": "Orientándose" },
-          "chipLabel": { "en": "Orientation", "es": "Orientación" },
+          "label": {
+            "en": "Getting Oriented",
+            "es": "Orientándose"
+          },
+          "chipLabel": {
+            "en": "Orientation",
+            "es": "Orientación"
+          },
           "description": "Welcome, team, what to expect"
         },
         {
           "id": "food_dining",
-          "label": { "en": "Food & Dining", "es": "Comida y cafetería" },
+          "label": {
+            "en": "Food & Dining",
+            "es": "Comida y cafetería"
+          },
           "description": "Cafeteria, cafes, vending, delivery"
         },
         {
           "id": "comfort_basics",
-          "label": { "en": "Comfort & Basics", "es": "Comodidades básicas" },
+          "label": {
+            "en": "Comfort & Basics",
+            "es": "Comodidades básicas"
+          },
           "description": "Laundry, showers, toiletries, sleeping"
         },
         {
           "id": "getting_around",
-          "label": { "en": "Getting Around", "es": "Cómo moverse" },
+          "label": {
+            "en": "Getting Around",
+            "es": "Cómo moverse"
+          },
           "description": "Maps, directions, parking"
         },
         {
           "id": "medical_education",
-          "label": { "en": "Medical Information", "es": "Información médica" },
-          "chipLabel": { "en": "Medical Info", "es": "Info médica" },
+          "label": {
+            "en": "Medical Information",
+            "es": "Información médica"
+          },
+          "chipLabel": {
+            "en": "Medical Info",
+            "es": "Info médica"
+          },
           "description": "Procedures, conditions, equipment"
         },
         {
           "id": "administrative",
-          "label": { "en": "Admin & Insurance", "es": "Trámites y seguro" },
+          "label": {
+            "en": "Admin & Insurance",
+            "es": "Trámites y seguro"
+          },
           "description": "Billing, FMLA, patient rights"
         },
         {
           "id": "wellbeing",
-          "label": { "en": "Wellbeing", "es": "Bienestar" },
+          "label": {
+            "en": "Wellbeing",
+            "es": "Bienestar"
+          },
           "description": "Mindfulness, self-care, mental health"
         },
         {
           "id": "family_support",
-          "label": { "en": "Family Support", "es": "Apoyo familiar" },
+          "label": {
+            "en": "Family Support",
+            "es": "Apoyo familiar"
+          },
           "description": "Child life, sibling support, groups"
         },
         {
           "id": "discharge",
-          "label": { "en": "Going Home", "es": "Regreso a casa" },
+          "label": {
+            "en": "Going Home",
+            "es": "Regreso a casa"
+          },
           "description": "Discharge planning, outpatient info"
         },
         {
           "id": "around_boston",
-          "label": { "en": "Around Boston", "es": "Alrededor de Boston" },
+          "label": {
+            "en": "Around Boston",
+            "es": "Alrededor de Boston"
+          },
           "description": "Hotels, accommodations, things to do"
         }
       ],
       "contactCategories": [
         {
           "id": "care_team",
-          "label": { "en": "Care Team", "es": "Equipo de atención" }
+          "label": {
+            "en": "Care Team",
+            "es": "Equipo de atención"
+          }
         },
         {
           "id": "support",
-          "label": { "en": "Support Services", "es": "Servicios de apoyo" }
+          "label": {
+            "en": "Support Services",
+            "es": "Servicios de apoyo"
+          }
         },
         {
           "id": "services",
-          "label": { "en": "Hospital Services", "es": "Servicios del hospital" }
+          "label": {
+            "en": "Hospital Services",
+            "es": "Servicios del hospital"
+          }
         }
       ]
     }
