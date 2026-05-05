@@ -46,7 +46,7 @@
   },
   {
     "id": "case_management",
-    "name": "Case Management",
+    "name": "Case Management [edit-4cphr3r]",
     "role": "Insurance, discharge planning, and care coordination",
     "phone": "+16175551008",
     "category": "services",
@@ -65,7 +65,7 @@
         "going_home",
         "after_discharge"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "going_home",
         "after_discharge"
       ]
@@ -98,7 +98,7 @@
         "growing",
         "going_home"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "pre_admission",
         "arriving",
         "during_stay",
@@ -133,7 +133,7 @@
         "growing",
         "going_home"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "pre_admission",
         "arriving",
         "during_stay",
@@ -168,7 +168,7 @@
         "growing",
         "going_home"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "pre_admission",
         "arriving",
         "during_stay",
@@ -202,7 +202,7 @@
         "growing",
         "going_home"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -235,7 +235,7 @@
         "growing",
         "going_home"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -268,7 +268,7 @@
         "growing",
         "going_home"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -349,13 +349,13 @@
     "phone": "+16177267804",
     "category": "care_team",
     "units": [
-      "unit_4bya0gi"
+      "unit_4fe8kb6"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -370,13 +370,13 @@
     "phone": "+16177327900",
     "category": "care_team",
     "units": [
-      "unit_4bya0gi"
+      "unit_4fe8kb6"
     ],
     "sites": [
       "bwh"
     ],
     "phasesByUnit": {
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -457,13 +457,13 @@
     "phone": "+16177267801",
     "category": "care_team",
     "units": [
-      "unit_4bya0gi"
+      "unit_4fe8kb6"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -478,13 +478,13 @@
     "phone": "+16177327901",
     "category": "care_team",
     "units": [
-      "unit_4bya0gi"
+      "unit_4fe8kb6"
     ],
     "sites": [
       "bwh"
     ],
     "phasesByUnit": {
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "arriving",
         "during_stay",
         "going_home"
@@ -511,7 +511,7 @@
       "nicu": [
         "after_discharge"
       ],
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "after_discharge"
       ]
     },
@@ -605,13 +605,13 @@
     "phone": "+16175551023",
     "category": "services",
     "units": [
-      "unit_4bya0gi"
+      "unit_4fe8kb6"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "going_home",
         "after_discharge"
       ]
@@ -625,17 +625,32 @@
     "phone": "+16175551024",
     "category": "services",
     "units": [
-      "unit_4bya0gi"
+      "unit_4fe8kb6"
     ],
     "sites": [
       "bwh"
     ],
     "phasesByUnit": {
-      "unit_4bya0gi": [
+      "unit_4fe8kb6": [
         "going_home",
         "after_discharge"
       ]
     },
     "notes": "Placeholder — confirm number with clinical team before publishing"
+  },
+  {
+    "id": "e2e_contact_4cn5lfx",
+    "name": "E2E Contact 4cn5lfx",
+    "role": "Role for 4cn5lfx",
+    "phone": "+16175551000",
+    "category": "care_team",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "phasesByUnit": {},
+    "notes": null
   }
 ]

@@ -1,6 +1,6 @@
 {
-  "version": "2026.05.05.2",
-  "publishedAt": "2026-05-05T21:06:32.329Z",
+  "version": "2026.05.05.3",
+  "publishedAt": "2026-05-05T21:09:14.097Z",
   "binaries": [
     {
       "path": "assets/images/resources/ausmod056_00v2.0.jpg",
@@ -13,6 +13,11 @@
       "size": 710015
     },
     {
+      "path": "assets/images/resources/sample.jpg",
+      "sha256": "82b659bb3bf1dd8af5186b87527891b1921494c4b747641ddc0467c48b146442",
+      "size": 288
+    },
+    {
       "path": "assets/pdfs/demo-discharge-checklist.pdf",
       "sha256": "2fb4f7422f2a27186ba3ead7641c1ddb96895f1e3785acab0154f721e47cf2ef",
       "size": 390087
@@ -21,6 +26,11 @@
       "path": "assets/pdfs/demo-visitor-guidelines.pdf",
       "sha256": "738d12f04b9ec57f72ffc2c39ca14d6e2a3f4102903ba616ce85851ecfead4f3",
       "size": 1479
+    },
+    {
+      "path": "assets/pdfs/sample.pdf",
+      "sha256": "9530f7f5f350d6f41991c32c46c1cbce4e20d855c6788502f7bfc329198e18f8",
+      "size": 299
     }
   ]
 }

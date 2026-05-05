@@ -14,6 +14,11 @@
       "id": "bwh",
       "name": "BWH",
       "displayName": "Brigham and Women's Hospital"
+    },
+    {
+      "id": "test_hospital_4dkbfkk",
+      "name": "T4dkbfkk",
+      "displayName": "Test Hospital 4dkbfkk (edited)"
     }
   ],
   "units": [
@@ -94,7 +99,7 @@
       ],
       "resourceCategories": [
         {
-          "id": "cat_4bt3i2j",
+          "id": "cat_4f9nuta",
           "label": {
             "en": "Getting Oriented",
             "es": "Orientándose"
@@ -410,7 +415,7 @@
       ]
     },
     {
-      "id": "unit_4bya0gi",
+      "id": "unit_4fe8kb6",
       "name": "Pediatric",
       "displayName": "Pediatric Floors",
       "availableAt": [
