@@ -94,7 +94,7 @@
       ],
       "resourceCategories": [
         {
-          "id": "getting_oriented",
+          "id": "cat_4bt3i2j",
           "label": {
             "en": "Getting Oriented",
             "es": "Orientándose"
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "id": "peds_floors",
+      "id": "unit_4bya0gi",
       "name": "Pediatric",
       "displayName": "Pediatric Floors",
       "availableAt": [

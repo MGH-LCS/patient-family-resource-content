@@ -52,7 +52,7 @@
     "title": "Visitor Guidelines [pdf]",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -100,7 +100,7 @@
     "title": "Hand Hygiene in the Hospital",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -215,7 +215,7 @@
         "first_night"
       ],
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -223,7 +223,7 @@
     "title": "Hand Hygiene — Text, Video & PDF",
     "status": "inactive",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -281,7 +281,7 @@
     "title": "Welcome to the PICU",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -321,7 +321,7 @@
     "title": "Meet Your Care Team",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -360,7 +360,7 @@
     "title": "The PICU Daily Routine",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -404,7 +404,7 @@
     "title": "Visiting Hours & Policies",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -449,7 +449,7 @@
     "title": "Wi-Fi & Staying Connected",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -486,7 +486,7 @@
     "title": "Your Rights as a Caregiver",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -526,7 +526,7 @@
     "title": "Talking With Your Care Team",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -566,7 +566,7 @@
     "title": "Privacy & Social Media",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -607,7 +607,7 @@
     "title": "Interpreter Services",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -648,7 +648,7 @@
     "title": "What to Bring",
     "status": "published",
     "categories": [
-      "getting_oriented"
+      "cat_4bt3i2j"
     ],
     "languages": {
       "en": {
@@ -690,7 +690,7 @@
       "nicu": [
         "first_hours"
       ],
-      "peds_floors": [
+      "unit_4bya0gi": [
         "pre_admission",
         "arriving"
       ]
@@ -978,7 +978,7 @@
     "notes": "CONTENT MISSING — confirm what amenities are available on the PICU unit itself.",
     "units": [
       "picu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -989,7 +989,7 @@
         "first_night",
         "first_days"
       ],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -1269,14 +1269,14 @@
     "notes": "Confirm exact location and whether it's accessible year-round.",
     "units": [
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -1434,7 +1434,7 @@
     "units": [
       "picu",
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -1444,7 +1444,7 @@
         "first_days"
       ],
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -1482,7 +1482,7 @@
     "units": [
       "picu",
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -1492,7 +1492,7 @@
         "first_days"
       ],
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -1529,7 +1529,7 @@
     "units": [
       "picu",
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -1540,7 +1540,7 @@
         "going_home"
       ],
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -1830,14 +1830,14 @@
     "notes": "Do not list specific drugs — too variable. Focus on how to ask and what to write down.",
     "units": [
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2143,7 +2143,7 @@
     "notes": "Include what documentation is needed and who at the hospital can provide it.",
     "units": [
       "picu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -2152,7 +2152,7 @@
       "picu": [
         "first_days"
       ],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2179,7 +2179,7 @@
     "notes": "Link to mass.gov/pfml — state-maintained and likely accurate. May just link out.",
     "units": [
       "picu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -2188,7 +2188,7 @@
       "picu": [
         "first_days"
       ],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2263,7 +2263,7 @@
     "notes": null,
     "units": [
       "picu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -2273,7 +2273,7 @@
         "first_days",
         "going_home"
       ],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2311,14 +2311,14 @@
     ],
     "notes": "Include how to request a social worker visit and what they can help with.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh",
       "bwh"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2518,13 +2518,13 @@
     ],
     "notes": "Make clear this is for families of all faiths and no faith.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "*"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2569,15 +2569,15 @@
     ],
     "notes": "Confirm which programs are available at MGBfC specifically.",
     "units": [
-      "peds_floors",
+      "unit_4bya0gi",
       "picu"
     ],
     "sites": [
       "*"
     ],
     "phasesByUnit": {
-      "peds_floors": [],
-      "picu": []
+      "picu": [],
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2613,13 +2613,13 @@
     ],
     "notes": "Confirm what PICU-specific volunteer support is available.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "bwh"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2656,13 +2656,13 @@
     ],
     "notes": "Confirm whether a formal peer support program exists at MGBfC or through PICU parent networks.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "bwh"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2699,13 +2699,13 @@
     ],
     "notes": null,
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "*"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2742,13 +2742,13 @@
     ],
     "notes": "Warm, practical advice for talking to children of different ages.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "*"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2785,13 +2785,13 @@
     ],
     "notes": "Confirm which groups are available and their schedule.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "*"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2828,13 +2828,13 @@
     ],
     "notes": "Sensitive topic. Focus on 'support and comfort alongside treatment', not end-of-life only.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2872,14 +2872,14 @@
     "notes": "Mention tools like CaringBridge, group texts, and designating a point person for updates.",
     "units": [
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2915,14 +2915,14 @@
     ],
     "notes": "Confirm whether a PICU-specific FAC exists at MGBfC.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh",
       "bwh"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -2959,13 +2959,13 @@
     ],
     "notes": "Include phone number. Make clear this is a supportive resource, not just for complaints.",
     "units": [
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -3003,7 +3003,7 @@
     "notes": null,
     "units": [
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -3012,7 +3012,7 @@
       "nicu": [
         "going_home"
       ],
-      "peds_floors": [
+      "unit_4bya0gi": [
         "going_home"
       ]
     }
@@ -3063,7 +3063,7 @@
       "nicu": [
         "going_home"
       ],
-      "peds_floors": [
+      "unit_4bya0gi": [
         "going_home"
       ]
     }
@@ -3104,7 +3104,7 @@
     "units": [
       "picu",
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
@@ -3118,7 +3118,7 @@
         "going_home",
         "after_discharge"
       ],
-      "peds_floors": [
+      "unit_4bya0gi": [
         "going_home",
         "after_discharge"
       ]
@@ -3149,14 +3149,14 @@
     "notes": null,
     "units": [
       "nicu",
-      "peds_floors"
+      "unit_4bya0gi"
     ],
     "sites": [
       "mgh"
     ],
     "phasesByUnit": {
       "nicu": [],
-      "peds_floors": []
+      "unit_4bya0gi": []
     }
   },
   {
@@ -4075,5 +4075,36 @@
         "growing"
       ]
     }
+  },
+  {
+    "id": "e2e_mot4c3u8ndsk",
+    "title": "E2E mot4c3u8ndsk",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "categories": [
+      "cat_4bt3i2j"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "Created by E2E test mot4c3u8ndsk",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "# E2E Test Body\n\nGenerated by Playwright at mot4c3u8ndsk."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null
   }
 ]

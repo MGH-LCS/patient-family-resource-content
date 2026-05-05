@@ -1,19 +1,4 @@
 {
-  "getting_oriented": [
-    "demo_youtube_hand_hygiene",
-    "demo_pdf_visitor_guidelines",
-    "demo_mixed_all_in_one",
-    "welcome_to_the_picu",
-    "meet_your_care_team",
-    "picu_daily_routine",
-    "visiting_hours_and_policies",
-    "wifi_and_connectivity",
-    "patient_rights_and_advocacy",
-    "how_to_communicate_with_your_team",
-    "privacy_and_social_media",
-    "interpreter_services",
-    "what_to_bring_for_admission"
-  ],
   "food_dining": [
     "family_meal_programs",
     "cafeteria_hours_and_menu",
@@ -71,7 +56,8 @@
   ],
   "wellbeing": [
     "demo_youtube_mindfulness",
-    "quiet_rooms_and_chapels"
+    "quiet_rooms_and_chapels",
+    "arts_and_healing"
   ],
   "family_support": [
     "family_resource_room"
@@ -90,5 +76,20 @@
     "places_to_pray_or_reflect",
     "boston_transportation",
     "local_support_resources"
+  ],
+  "cat_4bt3i2j": [
+    "demo_pdf_visitor_guidelines",
+    "demo_youtube_hand_hygiene",
+    "demo_mixed_all_in_one",
+    "welcome_to_the_picu",
+    "meet_your_care_team",
+    "picu_daily_routine",
+    "visiting_hours_and_policies",
+    "wifi_and_connectivity",
+    "patient_rights_and_advocacy",
+    "how_to_communicate_with_your_team",
+    "privacy_and_social_media",
+    "interpreter_services",
+    "what_to_bring_for_admission"
   ]
 }
