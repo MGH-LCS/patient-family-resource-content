@@ -85,5 +85,154 @@
       "online second opinions"
     ],
     "notes": null
+  },
+  {
+    "id": "disability_services",
+    "title": "Disability Services",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Disability benefits while working, paid caregiver programs, and job resources from USA.gov.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Information on disability benefits that are available while working, and how to get paid as a caregiver and find jobs."
+          },
+          {
+            "type": "link",
+            "url": "https://www.usa.gov/disability-services",
+            "label": "Disability Services — USA.gov",
+            "description": "Government benefits, caregiver pay programs, and employment resources."
+          }
+        ]
+      },
+      "es": {
+        "description": "Beneficios por discapacidad mientras trabajas, programas de pago a cuidadores familiares y recursos de empleo de USA.gov.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Información sobre los beneficios por discapacidad disponibles mientras trabajas, cómo recibir pago como cuidador familiar y encontrar empleo."
+          },
+          {
+            "type": "link",
+            "url": "https://www.usa.gov/es/servicios-personas-con-discapacidades",
+            "label": "Servicios para personas con discapacidades — USA.gov",
+            "description": "Beneficios del gobierno, programas de pago a cuidadores y recursos de empleo."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "SSDI",
+      "SSI",
+      "Family member caregiver",
+      "ADA",
+      "government disability benefits"
+    ],
+    "notes": null
+  },
+  {
+    "id": "family_and_medical_leave",
+    "title": "Family and Medical Leave",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Massachusetts Paid Family and Medical Leave (PFML) — temporary income replacement for caregivers of seriously ill family members.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "The Massachusetts Department of Family and Medical Leave oversees the Paid Family and Medical Leave (PFML) program. PFML offers temporary income replacement to eligible workers caring for a seriously ill or injured family member."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/orgs/department-of-family-and-medical-leave",
+            "label": "Department of Family and Medical Leave — Mass.gov",
+            "description": "Apply for Paid Family and Medical Leave, check eligibility, and learn about benefits."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Illness or Injury Leave",
+      "Family and Medical Leave",
+      "FMLA",
+      "PFML"
+    ],
+    "notes": null
+  },
+  {
+    "id": "financial_services",
+    "title": "Financial Services",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "MGH billing and insurance policies for hospital stays, procedures, and doctor's appointments.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Information about MGH's billing and insurance policies for patient hospital stays, procedures and doctor's appointments."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/notices/billing",
+            "label": "Billing and Financial Assistance — Mass General",
+            "description": "Understand your bill, payment options, and financial assistance programs."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Billing",
+      "Insurance",
+      "Financial Assistance",
+      "Patient Cost",
+      "Medical Bills"
+    ],
+    "notes": null
   }
 ]
