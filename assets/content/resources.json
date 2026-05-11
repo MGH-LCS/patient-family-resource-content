@@ -569,5 +569,596 @@
       "babyproof"
     ],
     "notes": null
+  },
+  {
+    "id": "pediatric_tracheostomy_how_to_exchange_a_trach",
+    "title": "Pediatric Tracheostomy: How to Exchange a Trach",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Step-by-step demonstration of changing an infant's tracheostomy tube, with Dr. Chris Hartnick.",
+        "content": [
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=I4PBL6RakQo",
+            "caption": "How to change your infant's trach — Dr. Chris Hartnick, MD"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Tracheostomy exchange",
+      "Cleaning Trach Site",
+      "Trach Ties",
+      "How To"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pediatric_tracheostomy_what_you_need_to_know",
+    "title": "Pediatric Tracheostomy: What You Need to Know",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "An overview of pediatric tracheostomy care — what to expect, equipment, and key skills for families.",
+        "content": [
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=Pgxqf5QQdI8",
+            "caption": "Tracheostomy: What You Need to Know"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "How to",
+      "tracheostomy",
+      "trach ties",
+      "subglottic stenosis",
+      "tracheomalacia",
+      "suction"
+    ],
+    "notes": null
+  },
+  {
+    "id": "car_seat_safety",
+    "title": "Car Seat Safety",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Car seat use cuts the risk of injury by 71–82% for kids. Boston's Buckle Up program covers installation, fit, and rules.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Car crashes are one of the leading causes of death in children under 14, and most of these deaths are preventable. Boston Public Health Commission's **Buckle Up Boston** program shares the rules and best practices for keeping kids safe in the car — including front- vs. rear-facing seat choice, installation, fit, and Massachusetts law."
+          },
+          {
+            "type": "link",
+            "url": "https://www.boston.gov/government/cabinets/boston-public-health-commission/childrens-and-newborn-health/injury-prevention-program/buckle-boston",
+            "label": "Buckle Up Boston — Car Seat Safety",
+            "description": "Boston Public Health Commission's guide to car seat selection, installation, and Massachusetts law."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Car Seat",
+      "Front Rear Facing"
+    ],
+    "notes": null
+  },
+  {
+    "id": "safe_driving_for_teens",
+    "title": "Safe Driving for Teens",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Distracted driving causes more than half of teen crashes — what families should know about the law and good habits.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Driver distraction is responsible for **more than 58% of teen automobile crashes**. Michael Flaherty, DO, of the Pediatric Trauma Service and the Pediatric Intensive Care Unit (PICU) at MGHfC shares these tips to keep drivers, their families, and the community safe.\n\n## Key Takeaways\n\n- Set mobile electronic devices to **Do Not Disturb** mode, which prevents texts, calls, and notifications from coming through while the user is in a vehicle.\n- Set an example for others. Peers, children, and colleagues learn from one another, so we need to make distracted driving an unacceptable behavior.\n- Talk with your teenage driver about the dangers of driving while distracted — including the risks of using cell phones, eating, and manipulating the radio while behind the wheel. Remind teens that driving requires all of their attention.\n\n## What is distracted driving?\n\nDistracted driving means your attention or focus is taken away from the task of driving. It comprises three core types:\n\n- **Visual** — when you take your eyes off the road\n- **Manual** — when you take your hands off the wheel\n- **Cognitive** — when your mind is not primarily focused on driving\n\nDistracted driving is dangerous and can lead to injury and death. **More than 1,000 people are injured daily in crashes involving a distracted driver.** While any distraction can endanger the driver and others, texting while driving is especially dangerous as it combines all three types of distraction. It takes the brain approximately 30 seconds to refocus on driving after looking at a mobile phone.\n\n## What is the law?\n\nThe Massachusetts hands-free law prohibits all drivers from all use of their phones, for any reason — including making calls, reading or sending text messages, using social media, or typing in directions — even when at a stop light or in traffic.\n\n## What if I need to use navigation, answer the phone, or make a call?\n\nDrivers can use their mobile device's voice commands for directions and calls — such as Apple's Siri or Google Assistant — which must be enabled to place calls or get directions. Cars without built-in GPS, Apple CarPlay, or Android Auto must be equipped with a phone mount on the dash or windshield for GPS navigation. Drivers must type in their destination and start the directions **before** driving.\n\nIf you need to answer or make a phone call, the safest thing to do is pull over to the side of the road or park your car in a safe location.\n\n## What should parents do?\n\nDrivers under the age of 20 have the highest rate of distraction-related fatal crashes. Parents need to foster open conversations about the importance of the law and how it works to ensure their own safety and the safety of others.\n\nSince 2010 it has been illegal in Massachusetts for any junior operator — drivers under age 18 — to talk on the phone in any way while driving, including hands-free.\n\nEncourage teenage drivers to speak up if they see their peers or others driving distracted, just as they would if someone were driving drunk. Parents must also set good examples by not using their phones while driving."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Safe Driving",
+      "Distraction"
+    ],
+    "notes": null
+  },
+  {
+    "id": "gun_safety_how_to_discuss_with_any_age_child",
+    "title": "Gun Safety: How to Discuss with Any Age Child",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Age-appropriate ways to talk with kids — toddlers to teens — about gun violence and home gun safety.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "*By Gretchen Fischer Felopulos, PhD, and Gene Beresin, Executive Director — MGH Clay Center for Young Healthy Minds*\n\nRecent mass shootings that have made national news headlines are a frightening reminder to us all of this \"new normal.\" Beyond those that have made national headlines, there are many more incidents of gun violence — sometimes more than one a day — for which the trauma is felt only locally.\n\nWe emotionally respond to these horrifying incidents with a sense of terror, fear for our own safety, and sadness for the victims and those who loved them. We ask ourselves: was it yet another random act of violence by a troubled individual, or was it inspired by hateful voices that fueled the flames of someone who felt alone, angry, and marginalized?\n\nBeyond our immediate gut reactions, we can expect media coverage to extend across our televisions, radios, computers, and mobile devices, as in any crisis. And we can expect that our kids, teenagers, and young adults will have varying levels of information about these tragic events, along with their own emotional reactions, questions, and concerns.\n\nHow can parents, educators, and other caring adults help our young people process acts of gun violence in this moment, when we know they already feel vulnerable? How can we help them live with confidence and self-assurance in the world without constant fear that their everyday life is filled with imminent danger? How can we help them put these tragedies into some perspective?\n\nAs with any of our caregiver guidelines, first remember that you know your child best. Then, the approach for each child should be developmentally appropriate. What helps a 7-year-old cope with fear and anxiety may not be the same for a 17-year-old.\n\nBelow are some basic tips for how to talk with a child of any age about gun violence.\n\n## Talking Tips for All Ages\n\n**Control your own anxiety.** Let's face it — we are all scared about gun violence. Anxiety is contagious, and your kids will know this. If they ask you directly, be honest and say you are rattled by recent shootings, and express how terrible you feel for these losses and for the victims' families and communities.\n\n**Use self-care measures to calm yourself down.** Research shows that when a parent is calm and under control, they are in the best position to talk with their kids about scary things.\n\n**Talk with other adults you trust about gun violence and hate crimes.** Sometimes partners, friends, family, clergy, or community leaders will help you clarify your own reactions and help you contain your anxiety.\n\n**Be proactive.** Limit your own exposure to gun violence by turning off the news coverage and avoiding social media posts focused on violent events. While it is important to stay informed, repeatedly viewing the news stories and related content tends to add to our fears, not reduce them.\n\n**Keep your own home safe from gun violence.** Around one in three homes with children contains at least one firearm, so it is critical for gun-owning parents to safely store them away — ideally by locking up the unloaded gun and storing the ammunition in a separate locked location. If you think your children don't know where you keep your guns, or that they know not to play with them, think again. Research and past experience have shown that too many accidental shootings occur in the home by making these assumptions.\n\n**Talk with your kids about gun safety rules.** If you have guns in the home, be sure to talk with your children of any age about gun safety rules. No child should be able to have any access to firearms without adult supervision. If you have not developed and discussed family rules about the storage, access, and use of firearms, establish them, post them, and have a serious conversation about your rules. Even if you don't have guns in your home, it is possible that there are firearms at a friend's home — so it is key that you talk with your young people about gun safety. The American Academy of Pediatrics recommends that you ask parents about their own gun safety practices before your child attends a playdate, party, or sleepover at their home.\n\n## Talking Tips by Age Group\n\n### Toddlers and Preschoolers\n\n**Very young children are more disturbed by their parents' and caregivers' distress than by the actual event.** They may not fully understand what happened, or they may see it as more than an act on TV. That's why they're comforted more by your actions than your words. Be careful how you present yourself to them, both emotionally and in conversation with others. Naturally, they will pick up on your reactions.\n\n**Expect young children to regress a bit emotionally.** They may become clingy or whiny, have difficulty sleeping, or start wetting their beds. The more patient and reassuring you are, the more quickly these episodes will pass.\n\n**Turn off the media.** Young children have no idea where distant cities are, and may think the events happened right near their homes. Let them know that these places are far away. If you wish to watch or listen to news coverage, do so while your very young children are not in the room; they do not yet have the ability to put the frightening images they see into perspective. If you have conversations about shootings with a partner or older children at home, be sure they are not within earshot.\n\n### Grade School Children\n\n**Encourage your school-aged children to share their feelings and concerns with you.** Certainly, they will have heard about recent events. Assure them that it's all right for them to be upset, and that you'll do everything you can to protect them from harm.\n\n**Ask what specifically worries them** and what they know about recent shootings. Also, ask where they heard about it — it is very important to know where they get their information.\n\n**If appropriate, reassure them that you live in a very safe place** and that these events are not common — though you do need to admit that they are very scary.\n\n**Remember that children often work through emotional issues with play instead of words.** Don't be surprised if your children use toys to replay the images they've seen or imagined. This is healthy. It can also give you insights into their fears and misunderstandings.\n\n**Expect that your children might ask the same questions several times.** Be patient. By asking these questions, they're showing you that they trust you and what you say.\n\n**Turn off the media.** It is not wise for school-aged kids to follow news coverage of these events. However, if they have already seen or heard about the breaking news, be available to clarify their concerns.\n\n**Remind them:** there are more good people in the world than there are bad people, and the good people will always try to take care of and protect them.\n\n**Talk about angry feelings and how to manage them.** Even school-aged kids know that children and adults get angry and have conflicts, and they have probably seen all sorts of violence in movies, on TV, and in real life. Discuss how anger can be managed, and explain that there is never reason to manage anger with violence.\n\n### Teenagers and Young Adults\n\nAdolescents may be scared and wonder what this means for the lives they'll lead as young adults. For example, \"Will I be safe in college, or in the community where I live and work?\" They may struggle with questions about justice, power, and the use of weapons — issues that directly relate to violent events. And as parents, young people of color or other marginalized individuals may be particularly worried.\n\nTeenagers are capable of having nuanced discussions and considering issues, values, motives, and consequent behavior — appropriate and unacceptable.\n\n**Let your teenagers listen as you discuss the event with other adults.** If they choose to chime in, welcome their participation — even if you might disagree with what they have to say. Simply talking things out will help them to put their concerns into perspective.\n\n**Sit with them as they watch the news coverage.** Comment on what you're seeing, and listen openly to what they have to say, as well. Encourage them to limit their time spent on related content — for many people, this only adds to their fears.\n\n**Share your feelings with them.** This gives adolescents permission to do the same with you. Share your feelings about mass shootings, the targets of the shootings, and issues with use and misuse of firearms. Ask about their feelings about these issues.\n\n**Discuss the risks of access to guns.** Teens are capable of discussing how many guns we have in our nation and whether this is safe or dangerous for society, as well as talking about factors that contribute to gun violence — such as domestic abuse, drugs and alcohol, and mental health issues like depression. Access to a gun is one of the biggest risk factors on the list. Engage in conversations about how reduction of firearms and \"red flag\" laws have been shown to prevent personal violence (suicide) and reduce rates of homicide and mass shootings.\n\n**Talk with them about appropriate gun use and gun safety.** Teens are old enough to appreciate that firearms in the hands of an angry, impulsive person are dangerous. Talk with them about the appropriate use of firearms — such as for hunting, skeet shooting, target shooting, and on rare occasions, for self-defense.\n\n**Ask them about their opinion on assault rifles.** Talk with them about why anyone would use one. They are not used for hunting or for sport. Is there any time or reason someone would need to use one?\n\n**Ask them about their opinion of copycat phenomena.** Wonder with them about how media coverage of shootings affects people's feelings, and whether they think some might copy the event, or react negatively.\n\n**Wonder about risks to people of color.** Research shows that people of color are at a much greater risk of being shot or killed by guns. Ask your teens and young adults how people of color, Asian Americans and Pacific Islanders, and other marginalized people such as the LGBTQ population are at greater risk for violence of all sorts.\n\n---\n\nWe desperately need to keep our children and society safe. We need action to prevent more devastating events. With 40,000 gun-related deaths in our country per year, this is a public health crisis and our children are at risk.\n\nOne important role we have in preventing needless death by firearms — besides state and national legislation — is having conversations with our youth to help them feel safe and be part of the solution when they become leaders in the future."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mghclaycenter.org/hot-topics/how-to-talk-with-your-kids-about-gun-violence/",
+            "label": "How to Talk With Kids About Gun Violence — MGH Clay Center",
+            "description": "Read the full article from the MGH Clay Center for Young Healthy Minds."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Gun Safety",
+      "gun violence",
+      "talking tips",
+      "how to"
+    ],
+    "notes": null
+  },
+  {
+    "id": "guardianship",
+    "title": "Guardianship: What You Need to Know",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How guardianship works for adults over 18 who are incapacitated — types of guardians, alternatives, and effects on health care.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "You may have many questions about guardianship and health care. In this resource, you will learn how guardianship affects health care for adults over age 18 who are incapacitated. You will also learn about the different types of guardians and related roles.\n\n## What is a legal guardian?\n\nA legal guardian is a person (or people) named by the Probate and Family Court who is responsible for another adult's support, protection, and wellbeing when the court finds that an adult is incapacitated (cannot make informed decisions for themselves). This includes decisions around major areas of life, like medical care and housing. The court might also name a legal conservator. This person makes decisions around legal paperwork. Both guardians and conservators help the adult in their care with public benefits and services, general welfare, and planning for the future.\n\n## Which paperwork gives the details of guardianship?\n\nThe Probate and Family Court provides the legal paperwork. The paperwork is called the **Decree and Order**. It includes information about the guardian and/or conservator, and the limits of their roles.\n\n## At what age does a child become their own legal guardian?\n\nChildren become their own legal guardians at age 18. This means they are legal adults — even if they are incapacitated. For this reason, it is important to get legal guardianship before the person turns 18 if they are incapacitated.\n\n## Why does an adult need a guardian?\n\nAdults need a guardian when the court finds that the person is incapacitated. This means they cannot make informed decisions on their own.\n\nTo be incapacitated, adults must:\n\n- Be at least 18 years old\n- Have a doctor's diagnosis of incapacitation\n- Be unable to assess or communicate medical information or make decisions for themselves\n\n## Are there limitations to guardianship?\n\nYes. These limitations might let a person make decisions in certain areas, but not others. The court gives a list of the limitations with the Decree and Order paperwork.\n\nThere are some situations that need more permission from the Probate and Family Court. These include:\n\n- Major surgery involving general anesthesia\n- Being admitted to a residential (live-in) facility\n- Being given antipsychotic medications or needing complex medical treatment\n\n## How does guardianship affect health care?\n\nGuardianship affects how information is written in medical records. It also affects how medical decisions are made and who the care team can talk to.\n\n- **Documentation in medical records.** The care team needs a copy of the most recent guardianship paperwork. This paperwork is kept in the medical record.\n- **Medical decisions.** The care team follows the process for medical decision-making written in the guardianship paperwork. As the guardian, you must tell the care team if anything changes.\n- **Communication.** The care team follows the process for communicating written in the guardianship paperwork. As the guardian, you must tell the care team if anything changes.\n\n## Types of legal guardians\n\nThere are many types of legal guardians. Each type has its own set of rules listed in the Letters of Appointment and Decree and Order. The most common types are:\n\n- **Plenary** — also called a full or general guardian. A plenary can make all medical care decisions for an adult.\n- **Limited guardian** — can only make decisions that are authorized by the court and listed in the paperwork.\n- **Temporary guardian** — the court can name a temporary guardian in an emergency when there is a strong chance that an adult can make their own decisions in the future. Courts decide on a temporary guardian on a case-by-case basis.\n- **Co-guardian** — shares guardianship with another legal guardian.\n- **Rogers Monitor** — responsible for following the court-approved treatment plan for the use of antipsychotic medication prescribed to the person under guardianship.\n- **Guardian ad Litem (GAL)** — reports to the court on any recommendations related to future guardianship decisions.\n- **Guardianship of a minor** — the court might name a legal guardian for a child under 18 whose parents cannot or will not make medical decisions. This guardian makes decisions about the child's health, education, and safety.\n\n## Alternatives to guardianship\n\nDecisions about a person's health care, wellbeing, personal items, or finances may legally be made by someone other than the person, their parent, or legal guardian.\n\nThese alternatives include:\n\n- **Health care proxy.** An adult can name someone else (called an *agent*) to make health care decisions when they temporarily cannot do so.\n- **Durable Power of Attorney (DPOA).** A person named as DPOA can make certain legal and financial decisions for the person who names them. A DPOA is just for legal and financial decisions — it cannot be used to make health care decisions.\n- **Conservator.** A conservator manages the finances, property, and belongings of a person who needs financial protection. They also make legal decisions. The conservator must be named by the Probate and Family Court. A person can be a conservator and a guardian at the same time. A conservator who is not also a guardian cannot make medical decisions.\n\n## Where can I learn more about guardianship?\n\n- Your lawyer or legal team\n- [Massachusetts laws on guardianship and conservatorship](https://www.mass.gov/topics/guardianship)\n- [Probate and Family Court Forms](https://www.mass.gov/guides/probate-and-family-court-forms)\n- [Massachusetts Guardianship Association](http://www.massguardianshipassociation.org/)\n\n---\n\n*Rev. 3/2018. This document is intended to provide health-related information so that you may be better informed. It is not a substitute for a doctor's medical advice and should not be relied upon for treatment for specific medical conditions.*"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/guardianship",
+            "label": "Guardianship: What You Need to Know — Mass General Brigham for Children",
+            "description": "Visit the source article on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Guardianship",
+      "Health care proxy",
+      "HCP",
+      "Durable Power of attorney",
+      "conservator",
+      "medical decisions",
+      "temporary guardians"
+    ],
+    "notes": null
+  },
+  {
+    "id": "medication_reminder_smartphone_apps",
+    "title": "Medication Reminder Smartphone Apps",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Apps and phone tricks to help you remember when to take your medicine, especially once you're managing it on your own.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "As you become more independent, you may need to take your medicine without your parents reminding you. College, work, and being away from home can make it difficult to remember. It can also be difficult to remember your medicine if you are feeling well.\n\nThis resource offers smartphone apps that remind you to take your medicine.\n\n## Why set up smartphone reminders?\n\n- Cell phone reminders help people remember to take their medicine.\n- Reminders decrease the rate of health complications.\n\n## How do smartphone reminders work?\n\n- If you have a calendar app on your phone, you can program it to send texts to you at the times you need to take your medicine. These texts can be labeled with the names of your medicines and the dosages. There are also dedicated apps that send you text reminders.\n- Some apps include back-up alerts to a parent or any other person of your choice. These alerts are sent only if you do not check in after receiving your text reminder.\n- Some apps keep track of how often you check in, so you can print and give the record to your doctor.\n- Some apps remind you to refill your prescription.\n\n## Free smartphone apps\n\n- [**Medisafe Virtual Pillbox**](https://play.google.com/store/apps/details?id=com.medisafe.android.client) — Google Play\n- [**Pill Monitor**](https://apps.apple.com/us/app/pill-monitor-drug-minder/id485247638) — Apple App Store\n\nOther apps can be found by searching the App Store or Google Play for terms like *\"medication reminder\"*.\n\n## How can I make my reminders private?\n\nGive your medicine reminders **code names** if you are concerned about other people seeing your reminders. Keep a key of what the messages mean in a separate, safe place."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Medication Reminder Apps",
+      "Medisafe Virtual Pillbox",
+      "pill monitor",
+      "smartphone app"
+    ],
+    "notes": null
+  },
+  {
+    "id": "navigating_relationships_with_chronic_illness",
+    "title": "Navigating Relationships with a Chronic Illness",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How a chronic illness can shape your relationships with friends, family, and partners — and how to handle the conversations.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Sometimes your medical problems can affect other parts of your life. This may come up with friends, family, and dating. Read more to learn how you can enjoy your various relationships.\n\n## Friends\n\nWhen deciding whether to tell a friend about your medical condition, think about:\n\n- Your personality type and what feels comfortable to you\n- Your friend's personality\n- The closeness and type of friendship you share\n\nFriends can be a great source of support. They will often feel grateful that you've chosen to tell them something so personal.\n\nHowever, some friends may not understand the health challenges you have to deal with, and this can make it tough to connect with them. When people make insensitive comments, they may not understand, they may be afraid, or they may not know what to do. Sometimes sharing your experience with them may help them understand and make it easier for them to ask you questions.\n\nPeople may still not get it. If this happens, only you will know whether it's a relationship to keep or one that is better to let go of. This can be hard. Your family or healthcare team — doctor, psychiatrist, nutritionist, social worker — can help you sort this out.\n\nFor the most part, though, friends can be a great source of support, and will often be really impressed by how much you're juggling.\n\n## Family\n\nTypically parents are very involved when you are first diagnosed with a medical condition as a kid or teenager. This is because your parents want to make sure you're safe and as healthy as you can be. It's also because your medical team asked them to make sure you took your medications, ate a healthy diet, and made it to your medical appointments.\n\nMany young adults find it helpful to have family members continue to support them with their care. The downside, however, is that your parents can seem over-protective, or you might become too dependent.\n\nParents may still want to know what's going on with your care. After all, they're your parents — so they naturally worry and want the best for you. Sometimes their \"nagging\" comes from a place of caring concern, and that's important to keep in mind. When you're starting to feel frustrated, try talking to your parents. Being open about your feelings can sometimes avoid arguments. Your confidence and good decision-making can have a big impact on helping to ease your parents' concerns.\n\nIn addition to your parents, it can be helpful to talk to brothers and sisters. When someone has a medical condition it can affect the entire family — including your siblings, who may be going through their own range of emotions. Siblings often feel more protective of you, closer to you, and may really understand what you're dealing with. They may also feel guilt, anger, fear, or feel like they're being ignored. Talking to your siblings directly may help you have a better understanding of where each of you is coming from.\n\nAnd don't forget that your healthcare team can help you as well.\n\n## Dating\n\nJust like with friends, you may struggle with if, when, or what to say about your medical condition to someone you're dating. There may be physical signs that you worry the person you are dating may see. This might make you feel insecure and less confident about yourself.\n\nUltimately, the person who decides what to tell their partner is **you**. Trust yourself. You will have a sense for when it's time. Your partner doesn't need all the details — only as much as you're comfortable sharing. And just as you needed time to understand your condition, try to allow them the same.\n\nAnd don't forget: your family and healthcare team are there for you at any point along the way."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Chronic Illness support",
+      "relationship",
+      "conversation",
+      "how to"
+    ],
+    "notes": null
+  },
+  {
+    "id": "hospital_treatments_and_services",
+    "title": "Hospital Treatments and Services",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "An alphabetized list of medical and surgical specialties and subspecialties at Mass General Brigham for Children.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Here you will find an alphabetized list of specialties and subspecialties of medicine and surgery."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/services",
+            "label": "Treatments and Services — Mass General Brigham for Children",
+            "description": "Browse pediatric specialties and subspecialties on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Treatments",
+      "Services",
+      "Specialties",
+      "Subspecialties"
+    ],
+    "notes": null
+  },
+  {
+    "id": "preparation_for_surgery",
+    "title": "Preparation for Surgery",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "first_night"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Mass General's patient resources for preparing for pediatric surgery, including home care instructions.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Pediatric surgery patient resources from Mass General — preparation tips, what to expect on the day, and home care instructions after surgery."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/pediatric-surgery/patient-resources",
+            "label": "Patient Resources for Pediatric Surgery — Mass General",
+            "description": "Browse surgery preparation guides, day-of-surgery info, and post-op home care instructions."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Surgery Preparation",
+      "Home Care Instructions"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pediatric_health_library",
+    "title": "Pediatric Health Library",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Educational materials on a wide range of pediatric health topics and specialties.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Here you will find educational materials on a wide range of pediatric health topics and specialties."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/patients-and-families/pediatric-health-information-library",
+            "label": "Pediatric Health Information Library — Mass General Brigham for Children",
+            "description": "Search educational materials by topic, specialty, or keyword."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Pediatric Health topic",
+      "specialties",
+      "health information"
+    ],
+    "notes": null
+  },
+  {
+    "id": "bronchitis_and_bronchiolitis",
+    "title": "Bronchitis: What You Need to Know",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "Acute bronchitis affects the airways and usually clears on its own — what to watch for, when to call the doctor.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Acute bronchitis is an illness that affects the bronchial tubes, or airways. Learn about acute bronchitis and its symptoms.\n\n## What is acute bronchitis?\n\nAcute bronchitis, or simply bronchitis, is a condition in which the bronchial tubes (airways) become swollen and inflamed. The swelling and inflammation can make it harder to breathe. It is called *acute* bronchitis because the illness lasts only a few weeks.\n\n## What causes acute bronchitis?\n\n**Viruses** (a certain type of germ) are the most common cause of acute bronchitis. Other causes include:\n\n- Bacteria\n- Fungal (fungus) infections\n- Spending time around things that can bother your airways, such as dust, chemicals, or smoke\n\n## What is the difference between viruses and bacteria?\n\n**Bacteria** can live in many different types of environments. There are good bacteria and bad bacteria. Infections caused by bad bacteria often get better with antibiotics.\n\n**Viruses** are germs that multiply once a small number of virus germs enter your body. Infections caused by viruses do not usually get better with antibiotics.\n\n## What are the symptoms of acute bronchitis?\n\nSymptoms of acute bronchitis usually last about 2–3 weeks. Symptoms can also look similar to other illnesses, like a cold or the flu.\n\nCommon symptoms include:\n\n- Cough with yellow or green phlegm (mucus)\n- Shortness of breath or wheezing (a whistling sound when you breathe in)\n- Fever or chills\n- Body or muscle aches\n- Sore throat\n\n## How do doctors test for acute bronchitis?\n\nA doctor might use one or more of the following tests for acute bronchitis:\n\n- Physical exam\n- Review of your child's medical history\n- Chest X-ray\n- Pulse oximetry (a test that measures how much oxygen is in your child's blood)\n- Test of the mucus from the lungs or nose\n\n## How do doctors treat acute bronchitis?\n\nTreatment depends on your child's symptoms and age. If your child's acute bronchitis is caused by a virus, they should get better on their own with rest and fluids. The doctor will talk with you about which treatments are right for your child.\n\nIn most cases, **antibiotics will not help your child feel better.** Acute bronchitis is usually caused by a virus. Antibiotics kill bacteria, but not viruses.\n\n## When should I call the doctor?\n\nCall the doctor if your child's symptoms do not get better after 2–3 weeks, or if their symptoms get worse.\n\n---\n\n*Rev. 3/2018. Reviewed by the MGfC Family Advisory Council. This document is intended to provide health information so that you can be better informed. It is not a substitute for medical advice and should not be used to treat any medical conditions.*"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/bronchitis",
+            "label": "Bronchitis — Mass General Brigham for Children",
+            "description": "Visit the source page on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Bronchitis",
+      "bronchiolitis",
+      "acute",
+      "airway"
+    ],
+    "notes": null
+  },
+  {
+    "id": "chronic_lung_conditions",
+    "title": "Chronic Lung Conditions",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Patient resources from Mass General's Pediatric Pulmonary Medicine for chronic lung conditions.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Patient resources from Mass General Brigham for Children's Pediatric Pulmonary Medicine — covering chronic lung conditions including bronchopulmonary dysplasia, interstitial lung disease, pulmonary hypertension, congenital pulmonary malformations, and central hypoventilation syndrome."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/pulmonary-medicine/patient-resources",
+            "label": "Patient Resources for Pediatric Pulmonary Medicine — Mass General",
+            "description": "Browse condition-specific guides and care information."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Bronchopulmonary Dysplasia",
+      "Interstitial Lung Disease",
+      "Pulmonary Hypertension",
+      "Congenital Pulmonary Malformations",
+      "Central Hypoventilation Syndrome"
+    ],
+    "notes": null
+  },
+  {
+    "id": "autism_spectrum_disorder",
+    "title": "Autism Spectrum Disorder",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Browse the Lurie Center's full collection of handouts on autism, co-occurring conditions, and related care.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Here you will find answers to common questions and concerns about Autism Spectrum Disorder (ASD), as well as related and co-occurring conditions like anxiety, depression, bipolar disorder, and sleep issues. The Lurie Center for Autism's full handout collection covers diagnosis, treatment, behavior tools, and family support."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/autism/lurie-center/autism-patient-resources",
+            "label": "Autism Patient Resources — Lurie Center, MGfC",
+            "description": "Browse the Lurie Center's complete handout library on ASD, co-occurring conditions, and care strategies."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Autism Spectrum Disorder",
+      "Behavior Tools",
+      "Lurie Center",
+      "ASD",
+      "Anxiety",
+      "bipolar",
+      "depression",
+      "sleep issues"
+    ],
+    "notes": null
   }
 ]
