@@ -40,5 +40,50 @@
       "insurance"
     ],
     "notes": null
+  },
+  {
+    "id": "appointments_and_referrals",
+    "title": "Appointments and Referrals",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/appointments-and-referrals",
+            "label": "Mass General Brigham for Children — Appointments and Referrals",
+            "description": "Schedule appointments, request referrals, and access patient services online."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "appointment resources",
+      "referrals",
+      "find a care provider",
+      "patient gateway",
+      "online second opinions"
+    ],
+    "notes": null
   }
 ]
