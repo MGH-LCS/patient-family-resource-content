@@ -498,5 +498,76 @@
       "emergency care videos"
     ],
     "notes": null
+  },
+  {
+    "id": "the_benefits_of_childhood_vaccines",
+    "title": "The Benefits of Childhood Vaccines",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Why vaccines matter for your child and your community — answers to common parent questions.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Vaccines can help prevent many diseases that affect children and adults. Some parents are nervous about their children getting vaccines, and that's okay. In this resource, you will learn why vaccines are important for your child's health and your community's health.\n\n## Why should my child get vaccinated?\n\nVaccines help prevent many diseases that affect children and adults. This includes diseases that are not common, like measles, mumps and rubella, rotavirus and polio. These diseases used to be common, but now they are not — because most children and adults have been vaccinated.\n\n## Why does my child need so many vaccines when they are young?\n\nWe give children vaccines as early as possible to protect them from disease. It might seem like a lot, but there is enough time in between each vaccine or dose so your child can build up immunity (resistance) to the disease.\n\nDelaying your child's vaccines means delaying protection against disease. Talk with your child's doctor if you have questions or concerns about your child's vaccine schedule (the time between vaccines).\n\n## How well do vaccines work?\n\nMost vaccines work about 90% of the time. This means that **9 out of 10 children** who get a vaccine will not catch the disease the vaccine protects against. Not every vaccine works all of the time, but many work well for children and adults.\n\n## Do vaccines cause autism?\n\n**No.** Studies have not been able to show that vaccines cause autism. The one study that showed vaccines cause autism was retracted (proven to be untrue). The doctor who did that study lost his medical license. Many more studies with large numbers of children have been done since then. These studies haven't shown a connection between vaccines and autism.\n\n## I'm nervous about my child getting their vaccines. What can I do?\n\nTalk with your child's doctor about your concerns or questions. They can tell you more about each vaccine, why it's important, and how it can help your child.\n\n## How does vaccinating my child help others?\n\n- **It helps protect children and adults who can't get vaccinated.** There are some children who can't get vaccinated for medical reasons. When your child is vaccinated, it helps protect other children or adults who can't.\n- **It helps lower the number of people affected by a disease.** As more people are vaccinated against a certain disease, the disease affects fewer people over time. For example, measles used to affect children in the United States. Now, there are very few families in the U.S. who are affected by measles. This is because most children are vaccinated against measles.\n\n> 9 out of every 10 people who get a vaccine will not catch the disease they are vaccinated against."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Childrens Vaccines"
+    ],
+    "notes": null
+  },
+  {
+    "id": "childproofing_your_home",
+    "title": "Childproofing Your Home",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Room-by-room tips to make your home safer before your baby starts crawling.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "It is exciting when your baby learns to crawl and walk. This is an important time to make your home as safe as possible for your baby. In this resource, you will learn how to childproof your home before your baby learns to crawl.\n\n## What is childproofing your home?\n\nWhen you childproof your home, you make your home as safe as possible for when your baby arrives. How you childproof your home changes as your baby grows up.\n\n## How long does it take to childproof my home?\n\nBabyproofing changes over time. As your baby grows and develops new skills, you will need to adjust the level of safety in your home.\n\n## How do I childproof my home before my baby learns to crawl?\n\nBabies like to grab onto surfaces, pick up objects, and put them in their mouths. They learn to understand the world around them through touch and taste. Here are tips to childproof your home:\n\n### Kitchen\n\n- When you cook or prepare food, keep your baby in a highchair or safely enclosed play area where you can see them.\n- Install locks or stops on drawers, cabinets, switches, the refrigerator door, and oven doors. Keep magnets and other small objects out of your baby's reach.\n- Turn pot handles inward on the stove. Use the burners toward the back wall.\n- Store household cleaners and poisons in locked cabinets that are out of your baby's reach.\n- Keep small appliances and other items away from the edges of countertops or tables.\n\n### Living room, den, and bedrooms\n\n- Attach televisions and heavy furniture, like bookshelves, to the wall. This can help prevent the TV or furniture from falling if your baby bumps into it or pushes on it.\n- Secure and hide electrical cords.\n- If you have older children, have them put away their toys out of your baby's reach.\n- Keep the floors and other surfaces free of items your baby could choke on or break.\n\n### Bathroom and laundry room\n\n- Secure toilet lids.\n- Store cleaners, poisons, and laundry products in a locked cabinet out of your child's reach.\n- Empty the bathtub or other large containers with liquid as soon as you are done using them.\n\n### Other tips\n\n- Use safety covers in electrical outlets.\n- Install safety gates at the top and bottom of every staircase.\n- Cover sharp corners on furniture or household objects.\n- For more tips, ask the care team or visit the [National Safety Council's childproofing page](https://www.nsc.org/home-safety/safety-topics/child-safety/childproofing).\n\n> **Did you know?** The best way to childproof your home is to see the world from your baby's point of view. Get down on the floor — or as close as possible — to check for anything your baby could get into."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Childproof",
+      "babyproof"
+    ],
+    "notes": null
   }
 ]
