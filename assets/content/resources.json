@@ -1160,5 +1160,289 @@
       "sleep issues"
     ],
     "notes": null
+  },
+  {
+    "id": "rights_for_non_citizens",
+    "title": "Rights for Non-Citizens",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Know-your-rights basics for non-citizens — finding a lawyer, ICE encounters, hospital protections, and sanctuary cities.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "> ⚠️ **This resource was last updated February 2017.** Immigration policy and enforcement practices have changed since then. Use this as a starting point, but consult an immigration lawyer or current legal-aid resource for up-to-date guidance.\n\nIf you do not have a current legal immigration status, we strongly encourage you to talk with an experienced immigration lawyer.\n\n## Find an Immigration Lawyer\n\n- **Boston-area FREE immigration clinics**\n  - Boston Residents: the [Mayor's Office of New Bostonians](https://www.cityofboston.gov/newbostonians/programs/advice.asp) offers monthly free immigration clinics. See website for schedule.\n  - [Irish International Immigrant Center (IIIC)](https://iiicenter.org/) — free immigration clinic for immigrants from any country.\n- [Mass Legal Services — Find Legal Aid](http://www.masslegalservices.org/FindLegalAid)\n- [Mass Immigrant and Refugee Advocacy Coalition (MIRA)](https://www.miracoalition.org/) — call **617-350-5480** and ask for their list of immigration lawyers.\n\n## Know Your Rights\n\nMake sure you and others know what to do if an Immigration and Customs Enforcement (ICE) agent stops you.\n\n**You have a right to remain silent — whatever your immigration status.** You can refuse to speak to an ICE agent. Do not answer any questions, especially about your birth place, immigration status, or how you entered the United States.\n\nThere are **rights cards** that you can carry with you that say in English that you want to remain silent and that you want to speak with a lawyer. Carry a rights card with you. Download a card from:\n\n- [National Immigration Law Center — Everyone Has Certain Basic Rights](https://www.nilc.org/issues/immigration-enforcement/everyone-has-certain-basic-rights/)\n- [ILRC Red Cards](https://www.ilrc.org/red-cards)\n\nIf ICE agents approach you on the street, ask if you are free to leave. If the agents say yes, calmly and silently walk away. If the agents say no, say you want to remain silent and to speak with a lawyer (or show them your rights card).\n\n**You have the right to see a warrant** before letting anyone into your home. Slide your rights card under the door. Do not open the door unless an ICE agent shows you a warrant signed by a judge with the correct name and address of the person they are looking for on it. Ask them to slip the warrant under the door or show it to you through a window before you open the door.\n\n**You have the right to speak with a lawyer and the right to make a phone call.** Make sure to carry the phone number for an immigration lawyer with you. You have the right to refuse to sign anything before you talk to a lawyer. You have the right to refuse to show any documents before you talk to a lawyer. **Never lie or give false information** to an immigration agent or police officer. Do not carry false identity cards or papers with you.\n\n## Make a Safety Plan\n\nThese websites offer helpful tips:\n\n- [ILRC Community Resources](https://www.ilrc.org/community-resources) and [Know Your Rights and What Immigrant Families Should Do Now](https://www.ilrc.org/know-your-rights-and-what-immigrant-families-should-do-now) — available in Spanish and Chinese\n- [American Friends Service Committee — Know Your Rights](https://www.afsc.org/) — available in Spanish\n- [Immigrant Defense Project — ICE Home and Community Arrests](http://www.immdefense.org/ice-home-and-community-arrests/) — available in 8 languages\n\n## Your Rights in the Hospital\n\nMost of the time ICE agents are supposed to avoid sensitive locations such as hospitals and doctors' offices — also schools, places of worship, weddings and funerals, and public demonstrations. ICE agents can enter these places if they get a supervisor's approval, or in situations related to national security, terrorism, or public safety, or where there is an imminent risk of destruction of evidence in an ongoing criminal case.\n\n*The new President could change this policy to allow agents to enter sensitive locations more freely.*\n\nFor more information see: [DHS — Frequently Asked Questions on Existing Guidance for Enforcement Actions](https://www.dhs.gov/news/2016/07/15/fact-sheet-frequently-asked-questions-existing-guidance-enforcement-actions-or).\n\n## Sanctuary Cities Offer Protection — But Not As Much as You May Think\n\nSanctuary status is meant to build trust between immigrants and local police. Rules vary, but typically local police in sanctuary cities will not ask victims or witnesses about their immigration status, and will not hold immigrants charged with minor crimes for ICE after they would otherwise be released.\n\nDon't be confused by the word *\"sanctuary.\"* Immigration laws are still in force in these places. It's just that the federal government has to enforce the laws — not the local police.\n\nSome colleges offer sanctuary to their undocumented students. If the federal government says *\"give me the names of your non-citizens,\"* the colleges can refuse. But if ICE returns with a warrant, the colleges will have to provide the information.\n\nSource for this section: [The Boston Globe — What is a sanctuary city?](https://www.bostonglobe.com/metro/2017/01/27/what-sanctuary-city/8mXFmc9TZUPZhBZhn1Mi6H/story.html)\n\n---\n\n*Revised February 2017.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Non-citizen rights",
+      "know your rights",
+      "immigration lawyer"
+    ],
+    "notes": null
+  },
+  {
+    "id": "healthy_sleep_habits_for_your_baby",
+    "title": "Healthy Sleep Habits for Your Baby",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Build a consistent bedtime routine, follow safe-sleep guidelines, and help your baby learn to fall asleep on their own.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "It is hard to imagine, but you will get a full night of uninterrupted sleep again. This resource provides tips to help build healthy sleep habits for your baby so you will all get better sleep.\n\n## Why is this important?\n\nMost babies do not figure out how to be \"good\" sleepers on their own. It is a process that takes time, patience, and practice — just like many other things as our children grow. Illness can sometimes lead to setbacks where you need to adjust the sleep routine. Keep an open mind and remember that if you can build healthy sleep habits from the start, you are moving in the right direction.\n\n## When should we start?\n\nA baby's sleep pattern begins to change around 3–4 months old as they start to have sleep cycles more like adults. Babies can have trouble staying asleep between sleep cycles. This is a good time to work with your baby on self-soothing strategies, so when they wake up in the middle of the night, they have the skills to get back to sleep without your help.\n\n## Sleep associations\n\nSpend some time observing your baby's sleep patterns — including when they typically nap and when they sleep longer at night. Do they typically need to be held or rocked to fall asleep? Do they usually fall asleep while feeding?\n\nIf you answered \"yes\" to the questions above, your baby has developed a sleep association that involves needing **you** to fall asleep. Teaching new sleep associations that don't require you to step in will help.\n\n## Routines and sleep environment\n\nTry to create a calm and consistent bedtime routine around the same time every night. This will help signal to your baby that it is time to wind down.\n\nIf your baby always falls asleep on the bottle or breast, consider feeding them outside of the bedroom to try to remove the association of feeding and sleeping. If they typically fall asleep while feeding before even getting to the bedtime routine, consider moving the feeding time up a bit earlier.\n\nWhen it is bedtime:\n\n- Set a comfortable room temperature (**68–72°F**)\n- Turn down the lights\n- Minimize loud noises — consider a white noise machine if your house is noisy\n\nTry some bedtime activities after the last feed — a warm bath, baby massage, reading a story, or singing the same song. Try to do things in the same order each night. Be sure all caretakers follow the same routine. **Consistency is key.**\n\n## Safe sleep guidelines\n\nFollow the American Academy of Pediatrics (AAP) recommendations for safe sleep to lower the risk of Sudden Infant Death Syndrome (SIDS):\n\n- Put your baby to sleep on their back on a firm mattress\n- Avoid soft bedding or bumpers\n- Share a room, but not the bed\n- Stop swaddling and switch to a wearable sleep sack as soon as your baby shows signs of trying to roll over\n\n## Awake but drowsy\n\nFinding the right time to put your baby to sleep in the crib is very important. A key phrase you'll see repeated in sleep resources is **\"awake but drowsy\"** — putting your baby to bed when they are tired or ready to sleep but still awake.\n\nWatch for cues during the bedtime routine that your baby is getting tired. You may notice a lowered activity level, less eye contact, or eye rubbing. This is the best time to put your baby in the bassinet or crib — before they get overtired and fussy.\n\nIf your baby cries when you put them in the crib, you might try singing a song or saying \"I love you\" and then walking out of the room. Use the same reassuring song or words night after night.\n\nCrying is natural but can be hard to hear. Set a timer and wait a few minutes before checking in again. If you need to go back in, try not picking them up — you might pat them or sing the song again. With each night sticking to the same routine, your baby will learn to fall asleep on their own.\n\nRemember: it is **much easier** to teach this to a 4–5 month-old than to an older baby or toddler.\n\n## Wake windows and naps\n\n**Sleep often begets sleep.** Timing naps and bedtime is key. Try to get a sense of your baby's *wake window* — the amount of time that your baby is awake before they start to get tired. This will vary by age and is typically **1.5–3 hours** for 2- to 4-month-olds. If you wait too long and miss the window, your baby will start to get overtired and will be harder to put to sleep.\n\nAlso, watch out for long, late afternoon naps. These may make it harder for your baby to be ready to sleep at bedtime.\n\nA baby who learns to fall asleep at night on their own is more likely to fall back asleep on their own if they wake up, so work on \"awake but drowsy\" first.\n\n## Night awakenings\n\nIt is normal for sleepers, even adults, to briefly wake up at night as they go through their sleep cycles. A baby that \"sleeps through the night\" is a baby that falls back to sleep quietly in the middle of the night without crying out for their caregiver.\n\nIf your baby wakes up at night, give them a few minutes to see if they can fall back to sleep on their own. If your baby can see you from the crib, consider installing a physical barrier like a curtain to remove the visual contact. If you go to your baby, keep the room dark and avoid talking and eye contact — so your baby doesn't think it is playtime. Be gentle and reassuring.\n\nRemember that your baby won't learn to sleep better right away, and there is not one perfect method to teach them. The goal is to help your baby feel calm with less of your involvement over time. Talk to your baby's pediatrician if you need help.\n\n## More resources\n\n**Websites**\n\n- [HealthyChildren.org](https://www.healthychildren.org) (AAP) — search *\"Getting Your Baby to Sleep\"* and *\"Self-Soothing: Help Your Baby Learn This Life Skill\"*\n- [ZeroToThree.org](https://www.zerotothree.org) — search *\"sleep\"*\n- [BabySleep.com — Advice by Child Age](https://www.babysleep.com/advice/by-child-age)\n- [Dr. Craig Canapari](https://drcraigcanapari.com)\n- [Babywise Mom](https://www.babywisemom.com)\n\n**Books**\n\n- *The No-Cry Sleep Solution* — Elizabeth Pantley\n- *The Happiest Baby Guide to Great Sleep* — Harvey Karp\n- *Solve Your Child's Sleep Problems* — Richard Ferber\n- *The Baby Sleep Solution* — Suzy Giordano\n- *Healthy Sleep Habits, Happy Child* — Marc Weissbluth\n- *The CALM Baby Method: Solutions for Fussy Days and Sleepless Nights* — Fishbein and Ideran\n- *It's Never Too Late to Sleep Train* — Craig Canapari"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Healthy sleep habits",
+      "safe sleep",
+      "SIDS prevention"
+    ],
+    "notes": null
+  },
+  {
+    "id": "clay_center_for_young_healthy_minds",
+    "title": "Clay Center for Young Healthy Minds",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "MGH's Clay Center publishes plain-language articles on youth mental health — anxiety, depression, ADHD, autism, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "The Clay Center's mission is to promote well-being by reducing, preventing, and de-stigmatizing youth mental health conditions through education. The site publishes articles for parents, teens, and caregivers on a wide range of topics — anxiety, depression, ADHD, autism spectrum disorder, bullying, addiction, learning differences, and more."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mghclaycenter.org/",
+            "label": "Clay Center for Young Healthy Minds — MGH Psychiatry",
+            "description": "Read articles, watch videos, and listen to podcasts on youth mental health."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "ADHD",
+      "Autism Spectrum Disorder",
+      "Anxiety",
+      "Depression",
+      "Behavioral Issues",
+      "Stress",
+      "Mental Illness",
+      "Learning and Attention",
+      "Addiction",
+      "Bullying",
+      "Development",
+      "Mental Health"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pediatric_tracheostomy_how_to_suction_a_trach",
+    "title": "Pediatric Tracheostomy: How to Suction a Trach",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Demonstration of trach suctioning, stoma site cleaning, and rescue breaths with an ambu bag.",
+        "content": [
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=71TVeRPM8z4",
+            "caption": "Caring for Your Infant's Tracheostomy"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Trach Suctioning",
+      "Trach ties",
+      "cleaning stoma site",
+      "ambu bag",
+      "rescue breaths",
+      "How To"
+    ],
+    "notes": null
+  },
+  {
+    "id": "asthma_what_you_need_to_know",
+    "title": "Asthma: What You Need to Know",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Mass General Brigham's video library on pediatric asthma — triggers, rescue inhalers, spacers, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Mass General Brigham for Children's YouTube channel hosts a series of short videos on pediatric asthma — covering allergies and triggers, rescue inhalers, spacers, nebulizers, and pulmonary function tests."
+          },
+          {
+            "type": "link",
+            "url": "https://www.youtube.com/@MassGeneralBrighamChildren/search?query=asthma",
+            "label": "Pediatric Asthma Videos — MGB for Children (YouTube)",
+            "description": "Browse Mass General Brigham's full collection of asthma videos."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Asthma",
+      "allergies",
+      "trigger",
+      "rescue inhaler",
+      "spacers",
+      "pulmonary function test",
+      "nebulizer"
+    ],
+    "notes": null
+  },
+  {
+    "id": "drowning_prevention",
+    "title": "Drowning Prevention",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Drowning is the leading cause of unintentional death in MA kids — swim skills, supervision, pool gates, and CPR.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Going for a swim in the pool or lake is a great way to keep cool in the summer heat. While taking a dip in the water is a lot of fun, it's important to know how to prevent children from drowning. **Drowning is the leading cause of unintentional injury and death in children ages 0–14 in Massachusetts.** Here are some tips for preventing drowning when your children go for a swim.\n\n## How can I prevent my younger child from drowning?\n\nFor babies, younger children, and people who have less experience swimming, it's important to have an adult nearby who knows how to swim and can watch for danger. Also follow these tips:\n\n- **Make sure your child learns how to swim.** If your child knows how to swim, they will be safer and more confident in the water — whether it's a pool, lake, or other body of water.\n- **Learn how to swim if you don't know how.** If you know how to swim, you can help teach your child how to swim and stay safe in the water. You can also help your child if they are ever in danger.\n- **Never leave your child alone in the water — even for a moment.** You should always be an arm's length away from your child in the water, including a bathtub. Your child can drown in even a few inches of water if they are not watched carefully.\n- **Learn CPR (cardiopulmonary resuscitation).** CPR is a lifesaving technique that can help your child or others who are near drowning. Many schools or community centers, like your local YMCA, offer classes to learn CPR.\n\n> **Did you know?** When a child is drowning, it's often silent and happens very quickly. Children don't splash or yell for help when drowning, like you'd see on TV or in a movie. Children can go underwater quickly — especially in strong currents like the ocean. If you notice your child is missing, check the water first to see if they went underwater.\n\n## How can I prevent my older child from drowning?\n\nFor older children, teenagers, and people with more experience swimming, it's still important to have an adult nearby who knows how to swim and can watch for danger. Also follow these tips:\n\n- **Make sure your child learns how to swim.** If your child knows how to swim, they will be safer and more confident in the water.\n- **Learn how to swim if you don't know how.** You can help teach your child to swim and stay safe in the water, and help them if they are ever in danger.\n- **If your older child knows how to swim, have them swim with a buddy.** Swimming buddies are fun and allow each person to look out for the other in case of danger.\n- **Put a gate with a lock around your pool.** This way, your child won't be able to get into the pool without an adult to watch them. Store the key in a safe place.\n- **Talk to your child about avoiding alcohol while swimming.** This is especially important for teenagers. Alcohol plays a part in up to half of all teenage and adult drowning accidents in the United States. Make sure you and your children don't drink alcohol near or in any type of water.\n- **Learn CPR.** CPR is a lifesaving technique that can help your child or others who are near drowning. Many schools or community centers, like your local YMCA, offer classes to learn CPR."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Drowning Prevention",
+      "swim",
+      "pediatric CPR"
+    ],
+    "notes": null
+  },
+  {
+    "id": "how_to_keep_your_child_safe_during_a_hospital_stay",
+    "title": "How to Keep Your Child Safe During Your PICU Stay",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "A checklist for parents and guardians — ID bracelets, hand hygiene, room safety, and how to spot the care team.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "During a hospital stay, your child's health and safety is the care team's priority. As a parent or guardian, you are also an important part of the care team. Below is a checklist of ways you can help keep your child safe during a hospital stay.\n\n## Identification\n\n- **Make sure your child always wears their ID tag or bracelet.** Let the care team know if the tag or bracelet falls off or gets lost. If your child is 6 months or younger, they will also have a security tag called a **HUGS tag**. Let the care team know if the HUGS tag falls off.\n- **Always wear your orange ID bracelet.** This bracelet lets the care team know that you are the parent or guardian. You will receive the bracelet when your child is admitted to the hospital. Let the care team know if the bracelet falls off or gets lost.\n\n## Preventing the spread of germs\n\n- **Before entering your child's room,** wash your hands with soap and water.\n- **After using the restroom or changing diapers,** wash your hands with soap and water.\n\n## On the unit\n\n- **Before entering the unit, use the intercom.** A staff member can let you in.\n- **Do not hold the doors open for anyone you do not know.**\n- **If your child has guests visiting,** ask visitors to use the intercom and check in at the front desk. They should also wear a visitor sticker at all times.\n\n## In the hospital room\n\n- **To prevent falls and injury,** move slowly around your child's crib or bedside and wear non-skid slippers or shoes.\n- **If your child feels weak or dizzy,** ask the care team for help before moving your child.\n- **Keep the guardrails up on your child's crib or hospital bed,** even if you only turn away or leave the room for a moment.\n- **Keep the hospital room free of clutter.** Bring only what you and your child need during the hospital stay. Keep personal items out of the way where people walk.\n- **If your child is sharing a hospital room with someone else,** keep your belongings separate from the other family's belongings.\n\n## The care team\n\n- **Know who is on your child's care team.** All staff have a picture ID. You can ask to see a care team member's ID badge at any time.\n\n---\n\n*Revised April 2018. Reviewed by the MGHfC Family Advisory Council.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Safety in the PICU"
+    ],
+    "notes": null
   }
 ]
