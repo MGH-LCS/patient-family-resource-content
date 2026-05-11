@@ -17,5 +17,39 @@
       ]
     },
     "notes": null
+  },
+  {
+    "id": "mgb_for_children_appointments_referrals",
+    "name": "Mass General Brigham for Children Appointments & Referrals",
+    "role": "Request appointments, second opinions, referrals, and access patient services.",
+    "phone": "+18886443248",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "medical_interpreter_services",
+    "name": "Medical Interpreter Services",
+    "role": "Certified interpreters for patients and families with limited English proficiency or who are deaf or hard of hearing.",
+    "phone": "+16177266966",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived"
+      ]
+    },
+    "notes": null
   }
 ]

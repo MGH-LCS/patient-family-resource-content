@@ -234,5 +234,231 @@
       "Medical Bills"
     ],
     "notes": null
+  },
+  {
+    "id": "medical_interpreter_services",
+    "title": "Medical Interpreter Services",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Free interpreter services for patients and families with limited English, or who are deaf, hard of hearing, blind, or visually impaired.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Mass General offers free interpreter services in more than 200 languages, including American Sign Language. Interpreters are available 24/7 for patients and families with limited English proficiency, or who are deaf, hard of hearing, blind, or visually impaired."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/interpreters",
+            "label": "Medical Interpreter Services — Mass General",
+            "description": "Request an interpreter and learn about available languages and accommodations."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Medical Interpreter",
+      "Deaf",
+      "Hearing Impaired",
+      "Blind",
+      "Visual impairment"
+    ],
+    "notes": null
+  },
+  {
+    "id": "patient_gateway",
+    "title": "Patient Gateway",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Access your test results, communicate with your care team, view and pay your bills, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Patient Gateway is Mass General Brigham's secure online portal for patients and families. Access test results, send messages to your care team, view and pay bills, schedule appointments, and manage prescriptions."
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login",
+            "label": "Patient Gateway — Mass General Brigham",
+            "description": "Sign in to view your records, message your care team, and pay bills."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Communicate Care Team",
+      "Test Results",
+      "Prescriptions",
+      "View Pay Bills",
+      "Gateway"
+    ],
+    "notes": null
+  },
+  {
+    "id": "mgb_for_children",
+    "title": "Mass General Brigham for Children",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Access everything from primary care to advanced specialty services.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Mass General Brigham for Children offers comprehensive pediatric care — from primary care to advanced specialty services. Read patient stories, learn about programs and conditions, and find pediatric specialists."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children",
+            "label": "Mass General Brigham for Children",
+            "description": "Explore pediatric services, specialists, and patient resources."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "primary care",
+      "specialty services",
+      "pediatric specialists",
+      "read patient stories"
+    ],
+    "notes": null
+  },
+  {
+    "id": "quality_and_safety",
+    "title": "Quality and Safety",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Mass General Brigham for Children's commitment to safe, high-quality care across the health system.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## What Does Quality & Safety Mean for Your Child?\n\nWhen you get \"outstanding quality\" health care, it means your care is based on evidence, family-centered and provided by skilled and knowledgeable professionals who communicate and coordinate the care in a timely way.\n\nYou and your child should feel safe at Mass General Brigham for Children, and one of the best ways to improve patient safety is to constantly monitor performance and family experiences to set up systems to provide the best care for your child. The Mass General Brigham for Children Quality and Safety is committed to this work every day.\n\n### High Quality & Safe Care at Mass General Brigham for Children Is:\n\n- Evidence-based\n- Family-centered\n- Provided by skilled professionals\n- Rooted in a culture of open communication and continuous improvement\n- Driven by feedback from our families\n\n## About Us\n\n### Our Vision for Mass General Brigham for Children Quality and Safety\n\nMass General Brigham for Children, as a national leader in Quality and Safety, is distinguished by a culture that partners with patients and families to assure that care is safe, high quality, equitable, and efficient.\n\nThis culture is characterized by:\n\n- Teamwork\n- Transparency\n- Continuous learning and improvement\n- Communication\n- Innovation\n\n### Mass General Brigham for Children Quality and Safety Core Team\n\n- [Brian Cummings, MD](https://www.massgeneral.org/children/doctors/18255/brian-cummings) — Vice Chair, Medical Director, Mass General Brigham for Children\n- Sandra Dodge McGee, MHA — Executive Director, Mass General Brigham for Children and Mass General Brigham Pediatrics\n- [Esther Israel, MD](https://www.massgeneral.org/children/doctors/16715/Esther-Israel) — Quality Chair, Pediatrics\n- [Cassandra Kelleher, MD](https://www.massgeneral.org/children/doctors/18749/Cassandra-Kelleher) — Quality Chair, Pediatric Surgery\n- [Lindsay Carter, MD](https://www.massgeneral.org/children/doctors/18977/Lindsay-Carter) — Director, Inpatient Quality and Safety\n- [John Co, MD, MPH](https://www.massgeneral.org/children/doctors/17293/John-Patrick-Co) — Director, Outpatient Quality and Safety\n- Kristen Solemina, MPH — Quality and Safety Manager\n- Caren Harris, RN, MSN — Quality Nurse Coordinator\n- Jessica Mascola, MS — Quality and Safety Program Coordinator\n- Cathleen Glynn, RN, MSN — Quality and Safety Data Analyst\n\n### Our History\n\nThe Mass General Brigham for Children Quality and Safety Team work with leadership and staff to provide the highest quality, safest and patient-centered care to our families. We strive to create a culture of continuous improvement through communication, education, information dissemination and data-driven improvement.\n\nSince 2009, our team has implemented safety initiatives and evidence-based care models across all care delivery areas at Mass General Brigham for Children.\n\n### Mass General Brigham for Children Quality and Safety Structure\n\nOur structure begins with unit-based triads (physician, nurse and administrator), that report into our ambulatory and inpatient quality and safety team to foster shared learning, teamwork and communication. Our work is driven by priorities set by Mass General Brigham for Children leadership, and MGH leadership including Patient Care Services, Practice Improvement and the MGH Center for Quality and Safety.\n\n## Strategic Plan (5-Year Plan, 2017) — Our Key Areas of Focus\n\n- Reinforce the culture of continuous improvement\n- Improve safety culture\n- Improve patient safety, especially in high risk areas\n- Optimize the patient experience\n- Advance provider skills in safety science and quality improvement\n- Establish a national presence through scholarly activity\n\n## A Culture of Continuous Improvement\n\n**Strategic Plan, Goal #1: Reinforce the culture of continuous improvement.**\n\n### Quality and Safety Initiatives\n\nMass General Brigham for Children is engaged in a variety of local and national quality improvement (QI) initiatives, impacting children's health care locally and nationally.\n\n- Every primary care practice, subspecialty division, and inpatient unit is engaged in quality improvement initiatives that they have identified as most meaningful to their patients and themselves. Projects focus on improving different dimensions of care delivery, including patient safety, care effectiveness, patient experience and value.\n- To help encourage and support improvement work, Mass General Brigham for Children has developed a Quality and Safety Mini-Grant Program to provide resources and recognition for work initiated by front line care providers. Projects and initiatives are highlighted on the Department's Quality Dashboard, with practices encouraged to present their practice specific data and metrics at division level meetings.\n- Mass General Brigham for Children assesses several key quality metrics according to patient/family demographics in an effort to identify and reduce health care disparities.\n- At Mass General Brigham for Children, several practices/care units are engaged in quality improvement efforts through national collaboratives, including:\n  - Pediatric Gastroenterology — [Improve Care Now](http://www.improvecarenow.org/)\n  - Neonatal Intensive Care Unit — [Vermont Oxford Network](https://public.vtoxford.org/)\n  - Pediatric Intensive Care Unit — [Pediatric Intensive Care Unit](http://www.myvps.org/)\n  - Pediatric Hospitalists Unit — [AAP Value in Inpatient Pediatrics Network Projects](https://www.aap.org/en-us/professional-resources/quality-improvement/Quality-Improvement-Innovation-Networks/Pages/Value-in-Inpatient-Pediatrics-Network-Projects.aspx)\n  - Pediatric Surgery — [American College of Surgeons National Surgical Quality Improvement Program](https://www.facs.org/quality-programs/childrens-surgery/pediatric/overview)\n\n## Safety Culture / Patient Safety\n\n**Strategic Plan, Goal #2: Improve safety culture.**\n**Strategic Plan, Goal #3: Improve patient safety, especially in high risk areas.**\n\nIt can be difficult for infants and children to communicate their concerns or changes in symptoms. Mass General Brigham for Children offers our patients, families and staff a robust patient safety program which focuses on family participation in care, mitigation of safety risks, teamwork and rapid response to emergencies. We are committed to being a high reliability organization where our systems support patient safety and allow our patients, families and staff to feel free to speak up about patient safety concerns.\n\nSome examples of our Patient Safety initiatives include:\n\n**Safety Culture** — Mass General Brigham for Children is committed to a strong safety culture in which families and staff feel free to raise patient safety concerns and those voiced concerns result in patient safety improvements. We are proud that we have outperformed our peers on the [AHRQ (Agency for Healthcare Research and Quality)](https://www.ahrq.gov/professionals/quality-patient-safety/patientsafetyculture/index.html) Safety Culture Survey.\n\n**Near Miss Safety Reporting** — Staff are encouraged to report near misses which represent opportunities to improve patient safety. Over 1200 reports are filed across pediatrics every year.\n\n**Medication Safety** — An interdisciplinary medication safety committee, Preventing Pediatric Medication Errors (PPME) Committee, consisting of physicians, nurses, pediatric pharmacists, information systems experts and quality specialists who oversee pediatric medication safety projects.\n\n**Rapid Response** — Mass General Brigham for Children Neonatal and Pediatric Rapid Response Teams can be activated for any acute or unexpected clinical concerns. The Rapid Response Team comes to the patient location to assist patients and care teams with their urgent concerns.\n\n**Good Catch Program** — Mass General Brigham for Children recognizes staff who speak up and prevent an error which could have reached a patient.\n\n**Integrated Electronic Medical Record** — Single electronic medical record across all practices enables all providers to review notes from other providers, test results and medication lists. The patient portal (My Chart) provides patient access to parts of their medical record as well as a secure portal for communicating with their providers.\n\n**[Family-Centered Rounds](https://www.massgeneral.org/assets/MGH/pdf/children/Family_Centered_Rounds.pdf)** — Families are encouraged to participate as team members during morning rounds. This enables parents to actively participate in their child's care planning and provides a time for raising questions or concerns.\n\n## The Patient Experience\n\nPatients and families may receive a phone call or mail survey following their hospitalization or ambulatory visit asking about their experience and anything that we can do better for the family in the future. At Mass General Brigham for Children, we utilize our patient experience survey scores and responses to continually assess the quality of care we provide to our patients and families. Suggestions that families make or improvement opportunities identified allow us to constantly hold ourselves to the highest standards of care for our patients and families.\n\nThe Mass General Brigham for Children Quality and Safety team partners with parent volunteers to host staff training sessions. These sessions focus on understanding and optimizing the family experience at Mass General Brigham for Children. Staff gain perspective from the parents as well as strategizing improvement opportunities by directly collaborating with families.\n\n### Patient Experience Survey Comments\n\n> \"The staff were amazing. The receptionist is amazing. The nurses are brilliant. My kid just loves it there. Anytime he goes there he feels comfortable, and the staff are unbelievable.\"\n\n> \"They delighted me because they are kind of like an extended family to us. They always treat us with respect. They are always just very courteous. It's just a great experience in stressful times, especially.\"\n\n> \"They were very respectful. They kept us informed on the time of wait. They gave us very good information about the procedure, as well as having very good bedside manner.\"\n\n> \"His ability to sit and talk to a child, engage a child, explain what he was doing, and what was happening. He's a wonderful doctor.\"\n\n> \"[The doctor] is a phenomenal medical doctor, surgeon, and caretaker. He had a kind and wonderful bedside manner with my 11-year-old son. He explained the surgery, was reassuring, and confident. [The doctor] was kind to my son. He patiently listened to questions I had and answered each question. He is the best pediatric surgeon in the world.\"\n\n> \"[The doctor] is the best pediatrician I have ever encountered. She is nice, courteous, great with kids, and has excellent medical knowledge. I have the greatest possible confidence in her abilities to care for our children and have recommended her to numerous friends.\"\n\n## Quality & Safety Education\n\n**Strategic Plan, Goal #5: Advance provider skills in safety science and quality improvement.**\n\n**[Resident Program](https://www.massgeneral.org/children/pediatric-residency)** — The MGH Pediatric Residency program is committed to educating its trainees in the principles of patient safety and quality improvement, as well as meaningfully engaging residents in improvement initiatives for providing experiential learning opportunities as well as ensuring its initiatives are informed by residents.\n\n- During the first year of the residency program, residents are taught the fundamentals of patient safety and quality improvement by faculty from Mass General Brigham for Children / MGH Quality and Safety leadership.\n- By the end of the second year of training, residents are expected to have become a member of and meaningfully participated in a quality improvement initiative at Mass General Brigham for Children.\n- The Mass General Brigham for Children Quality and Safety team has implemented \"Resident Quality and Safety Rounds,\" which is a forum for communication between residents and Mass General Brigham for Children Quality and Safety leadership regarding residents' quality and safety concerns.\n\n**Psychological Safety Leadership Programs** — A four-session psychological safety leadership series focused on communication techniques and teamwork.\n\n**[Mass General Brigham's Clinical Process Improvement Leadership Program (CPIP)](http://www.partners.org/Innovation-And-Leadership/Improving-Efficiency-Controlling-Costs/Process-Management.aspx)** — An intensive 6–8 session program with the purpose of engaging clinical teams in the use of process improvement tools to reduce variation in care and improve outcomes for patients.\n\n**[Team STEPPS](https://www.ahrq.gov/teamstepps/about-teamstepps/index.html)** — An evidence-based teamwork system to improve communication and teamwork skills among health care professionals.\n\n**[Patient Safety Awareness Week](http://www.npsf.org/)** — Mass General Brigham for Children celebrates patient safety accomplishments and educates patients, providers and staff on patient safety. Every year the Mass General location recognizes a select group of [Patient Safety Stars](http://apollo.massgeneral.org/safetystars/), nominated by their peers, for their commitment to patient safety within the hospital.\n\n**Interdisciplinary Tracer Program** — A team consisting of nurses, doctors, physician assistants, registered pharmacists and quality and safety specialists visit each unit to evaluate hospital and patient care operations."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/quality-patient-safety/",
+            "label": "Quality and Safety — Mass General Brigham for Children",
+            "description": "Visit the full Quality and Safety page on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "quality",
+      "safety",
+      "hospital culture",
+      "patient experience",
+      "communication",
+      "innovation",
+      "transparency"
+    ],
+    "notes": null
+  },
+  {
+    "id": "picu_follow_up_clinic",
+    "title": "PICU Follow-Up Clinic",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "discharge_planning"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Developmental follow-up service supporting former PICU patients through recovery, growth, and ongoing care.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## About Us\n\nOur mission is to aid in the critical care post-discharge difficulties that may arise from hospital discharge by providing exceptional service and treatment to the multicultural patients and families we serve. We utilize excellent communication with the family and primary care pediatricians to optimize long-term successful patient outcomes.\n\nThe Mass General Brigham for Children PICU provides monitoring and life-sustaining treatment for critically ill patients suffering from a wide range of illnesses. The Mass General Brigham for Children PICU Follow-Up Clinic will focus on evaluating the intensive care patients discharged from the PICU. PICU patients and their families experience a high risk for developing medical, neurodevelopmental, and psychosocial needs related to post-intensive care syndrome. So, it is not uncommon for them to seek out help along this journey. This includes patients who have had a prolonged stay in the PICU for a critical illness.\n\nThe Pediatric Intensive Care Unit Follow-Up Clinic is a developmental follow-up service. We support your children through the aid in their development, growth, and recovery for them to reach their full potential.\n\nThese issues have commonly been overlooked by health care providers as post-intensive care patients transition care back into the community following their serious illness. The Mass General Brigham for Children PICU Follow-Up Clinic was uniquely designed to combat this issue.\n\nThis process can be described in four steps:\n\n## Steps of Patient Care\n\n1. Hospital discharge\n2. Evaluate areas of cognition and psychosocial function\n3. Neurodevelopment and family functioning to identify ongoing needs, and set up referrals to community providers for ongoing follow-up\n4. Support the child and family through the long-term recovery after critical illness\n\n## Meet the Team\n\n- [Nathan Cook, PhD](https://www.massgeneral.org/doctors/20554/nathan-cook) — Assistant Professor, Department of Physical Medicine and Rehabilitation, Harvard Medical School; Neuropsychologist, Mass General Brigham for Children Sports Concussion Program\n- [Brian Wishart, DO](https://www.massgeneral.org/doctors/20553/brian-wishart) — Instructor of Physical Medicine and Rehabilitation, Harvard Medical School"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/critical-care-medicine/picu-follow-up-clinic",
+            "label": "PICU Follow-Up Clinic — Mass General Brigham for Children",
+            "description": "Visit the full clinic page on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Follow Up",
+      "Hospital Discharge",
+      "Post Intensive Care",
+      "Support",
+      "Aftercare"
+    ],
+    "notes": null
   }
 ]
