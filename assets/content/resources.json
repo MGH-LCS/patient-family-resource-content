@@ -460,5 +460,43 @@
       "Aftercare"
     ],
     "notes": null
+  },
+  {
+    "id": "learn_child_and_adult_cpr",
+    "title": "Learn Child and Adult CPR",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Step-by-step CPR demonstration for both adults and infants from Mass General Brigham.",
+        "content": [
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=BUhUiPeEX-8",
+            "caption": "How to Perform CPR on Adults & Infants — Mass General Brigham"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "infant cpr",
+      "adult cpr",
+      "emergency care videos"
+    ],
+    "notes": null
   }
 ]
