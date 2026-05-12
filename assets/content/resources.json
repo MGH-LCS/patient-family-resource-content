@@ -1644,5 +1644,86 @@
       "sedation and pain free procedures"
     ],
     "notes": null
+  },
+  {
+    "id": "pediatric_emergency_department",
+    "title": "Pediatric Emergency Department",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "What to expect in MGfC's Pediatric Emergency Department — facilities, triage, who you'll meet, and FAQ.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "The pediatric emergency department at Mass General Hospital for Children is specially designed from a pediatric perspective to provide exceptional, child-focused care to our patients, as well as support and guidance to their families.\n\nOur larger space is separate from the adult emergency department. It is staffed by physicians, nurses, and other staff trained in pediatric emergency medicine who provide high-quality and developmentally-appropriate care for your child, while ensuring you are involved every step of the way.\n\n## Child- and family-friendly features\n\nThe pediatric emergency department has special features to help make your child's visit as smooth and stress-free as possible:\n\n- Six private, child-friendly rooms, including one room specifically designed for suspected or diagnosed infectious disease\n- Exam rooms that can accommodate a child and family members if both need emergency care at the same time\n- An evaluation area for minor ailments so we can care for patients more efficiently\n- A colorful waiting area with tablets and age-appropriate toys\n- Interactive LED lights above every bed to help soothe patients while they receive care\n- Televisions and DVD controls in every room\n\n> **Your child's comfort and symptoms are very important to us.** Our first priority is to care for patients whose lives are at risk. If you've been to another hospital, that hospital has contacted us — so we are expecting you and your child. We work as quickly as we can to safely care for all patients and to shorten your waiting time.\n\n## Expert services and facilities\n\nThe pediatric emergency department provides a full breadth of services and resources, including:\n\n- Access to world-class resources at Massachusetts General Hospital and Mass General Hospital for Children, including pediatric surgery and intensive care units\n- **Child Life Specialists** who help your child and family navigate the hospital experience through play and age-appropriate education about treatments, procedures, or exams\n- On-site radiology and fluoroscopy (X-rays on video) that deliver low doses of radiation adjusted for your child's age\n- 24-hour psychiatric coverage\n- Option for conscious sedation (when medically appropriate) to help relieve pain and relax your child\n\nThe pediatric emergency department is verified by the American College of Surgeons as a **Level 1 Pediatric Trauma Center** and a **Level 1 Pediatric Burn Center** — the highest trauma center designation. Each year, we treat more than 14,000 children.\n\n## Our triage system\n\nWhen you arrive, a triage nurse reviews your child's symptoms, medical history, and vital signs. The triage nurse then determines when your child can be seen by one of our doctors trained in pediatric emergency medicine. Depending on the nature of a child's condition or symptoms, they might not always be seen in the order of their arrival:\n\n- **If your child has a life-threatening condition,** they will be evaluated right away.\n- **If your child's condition is not life-threatening,** they will be evaluated as soon as possible.\n\n## Frequently asked questions\n\n**Who will be caring for my child?**\n\nThere will be many staff members on your child's care team — including registered nurses and doctors trained in pediatric emergency medicine. Your child might also see a nurse practitioner, a medical assistant, or a Child Life specialist from John Hancock Child Life and Wellness Services at MGHfC. Registration staff will also ask you for information while you and your child are in the screening area. They might ask you for detailed information about your child's primary care physician or your health insurance.\n\n**Why am I being asked the same questions over and over again?**\n\nWe ask you the same questions to make sure your child receives the most appropriate evaluation possible, and to make sure you and your child stay safe. Initial registration is directed toward getting your child into the system as soon as possible. We might ask you for more information about your child later.\n\n**Can my child have visitors?**\n\nYes. Please have visitors check in at the information desk to get a visitor's pass.\n\n**Will I be charged for this visit?**\n\nWe see all patients whether they can pay or not. If you have insurance, please understand that every plan is different. Co-pays or charges are determined by your individual health plan. Contact your insurance provider if you have other questions.\n\n**Where can I validate my parking?**\n\nPatients and visitors will receive discounted parking without validation. Please show your discharge papers or visitor's pass to the parking attendants.\n\n**Can I use my cell phone?**\n\nYes, in most areas. Please be sensitive to other patients and staff when making calls. We also have landline phones if you need to use them."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Emergency Department",
+      "Visitors",
+      "Parking Validation",
+      "Triage"
+    ],
+    "notes": null
+  },
+  {
+    "id": "hospital_campus_map",
+    "title": "Hospital Campus Map",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Map of the Mass General main campus — buildings, entrances, parking, and how to find Bigelow 6 (PICU).",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "A map of the Mass General Hospital main campus, showing buildings, entrances, parking, and how to navigate between units. The PICU is on **Bigelow 6** (Bigelow Building, 6th floor)."
+          },
+          {
+            "type": "pdf",
+            "localPath": "assets/pdfs/mgh-main-campus-map.pdf",
+            "label": "MGH Main Campus Map"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Campus map",
+      "Bigelow 6 location",
+      "hospital layout"
+    ],
+    "notes": null
   }
 ]

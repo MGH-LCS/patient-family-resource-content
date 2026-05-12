@@ -1,5 +1,11 @@
 {
-  "version": "2026.05.11.9",
-  "publishedAt": "2026-05-12T01:16:37.597Z",
-  "binaries": []
+  "version": "2026.05.11.10",
+  "publishedAt": "2026-05-12T01:25:02.733Z",
+  "binaries": [
+    {
+      "path": "assets/pdfs/mgh-main-campus-map.pdf",
+      "sha256": "3ebdc2c818d833e4888e205427bc77a5375fd3147500ce6c6f875ad0c4b3583d",
+      "size": 1089997
+    }
+  ]
 }
