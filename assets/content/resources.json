@@ -1444,5 +1444,205 @@
       "Safety in the PICU"
     ],
     "notes": null
+  },
+  {
+    "id": "what_to_expect_emergency_department",
+    "title": "What to Expect: Emergency Department",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "A child-friendly tour of the pediatric ED with Wendy — what to expect during an emergency room visit.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Coming to the Emergency Department can feel scary for children. This short video — *You Are Here: Wendy's Welcome to the ED* — gives kids a tour of what to expect when they arrive: the people they'll meet, the rooms they'll see, and what happens at each step.\n\nWatching it together before a visit (or revisiting after one) can help children feel more in control of an unfamiliar experience."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=rD-Zvnw_Glg",
+            "caption": "You Are Here: Wendy's Welcome to the ED — Mass General Hospital"
+          },
+          {
+            "type": "text",
+            "markdown": "## About the video\n\nA trip to the Emergency Department is stressful for patients, particularly for children. *You Are Here: Wendy's Welcome to the ED* explains what pediatric patients can expect during an emergency room visit and gives children insight into their healthcare experience.\n\nWendy Wooden and her mother, Darcy Daniels, are very familiar with Mass General for Children's Emergency Department and inpatient units. Wendy was diagnosed at age 3 with hemolytic uremic syndrome (HUS), caused by an E. coli infection, and has a complex medical history including heart failure, kidney and pancreatic damage that required a kidney transplant, and a partial intestinal removal at age 5. Her care has spanned five pediatric subspecialties.\n\nWhile Wendy is a frequent patient accustomed to beeping machines and procedures, she says she still gets overwhelmed by urgent trips and admissions to the hospital. In 2014 — when a neighbor called for advice about what to expect when her two children were going to be in the hospital — Wendy realized that other children, less experienced with medical treatment, may feel similar anxieties.\n\nWith the help of her mother, Wendy wrote *You Are Here: Wendy's Welcome to the ED*, a guide for what fellow pediatric patients can expect during an emergency room visit and how to help reduce anxiety and foster communication between their parents and providers.\n\n> \"We've learned a lot over the years from the compassionate care we've received from Wendy's team of doctors, nurses, and other staff members. We wanted to share those lessons so other patients and families can get the best care possible while cutting down on stress and worry.\"\n>\n> — *Darcy Daniels, Wendy's mother and member of the MGfC Family Advisory Council*\n\nThe project gained new life thanks to [Payette](http://www.payette.com/), a Boston-based architecture firm, who transformed the story into an animated video. The nine-minute piece is narrated by Wendy and uses stop-motion animation — in which an image is incrementally altered in individual photos to mimic movement atop altered video of the MGH environment. It provides step-by-step introductions about what to expect during trauma care and highlights the department's child-focused features, including interactive LED lights that help soothe patients and child life specialists.\n\nWorking from Wendy's narrative, the Payette team developed the animation concept and storyboard before enlisting the help of over 20 staff members who spent more than 1,000 hours contributing their expertise in drawing, animation, still and time-lapse photography, videography, computer scripting, and video editing to bring the final animation to life.\n\n*Wendy's Welcome* is part of MGfC's efforts to provide a dedicated pediatric space that helps children manage stress while optimizing care during emergency treatment. After nearly five years of designing and planning, the new Pediatric Emergency Department — outfitted with televisions, iPads, and toys — was unveiled in 2015. The area offers a friendly, unintimidating environment with bright artwork and individually themed exam rooms.\n\n> \"Our jobs require us to treat acute illness and injury, but as doctors, we also realize the need to address potential stress and anxiety in kids who require an emergency visit here. *Wendy's Welcome to the ED* is one more tool in our educational toy box that we can offer to kids and their families to ease their fears.\"\n>\n> — *Ari Cohen, MD, Division Chief, MGfC Pediatric Emergency Medicine*"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/emergency-medicine/you-are-here-wendys-welcome-to-the-ed",
+            "label": "You Are Here: Wendy's Welcome to the ED — Mass General Brigham for Children",
+            "description": "Read the full story behind the video on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Emergency Department",
+      "Pediatric Education"
+    ],
+    "notes": null
+  },
+  {
+    "id": "mgb_imaging_videos",
+    "title": "MGB Imaging",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Short videos on what to expect during a CT scan, MRI, X-ray, ultrasound, and other imaging tests.",
+        "content": [
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/imaging/patient-resources",
+            "label": "Imaging PICU"
+          },
+          {
+            "type": "text",
+            "markdown": "Mass General Brigham's Imaging YouTube channel hosts short videos on what to expect during common imaging tests — including CT scans, MRIs, X-rays, ultrasound, PET scans, and fluoroscopy. Watching one of these before a scan can help your child feel more prepared."
+          },
+          {
+            "type": "link",
+            "url": "https://www.youtube.com/@mgbimaging",
+            "label": "MGB Imaging — YouTube",
+            "description": "Browse the full collection of imaging videos."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "pediatric imaging",
+      "X-ray",
+      "XR",
+      "CT",
+      "catscan",
+      "ultrasound",
+      "PET scan",
+      "MRI",
+      "fluoroscopy",
+      "picc placement",
+      "mri/mre",
+      "brain",
+      "spine",
+      "imaging"
+    ],
+    "notes": null
+  },
+  {
+    "id": "iv_placement_and_phlebotomy",
+    "title": "IV Placement and Bloodwork",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How to prepare and support your child during IV placement and bloodwork — by age, with scripts and comfort techniques.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "At Mass General Hospital for Children, we are committed to making your child's IV or blood test as comfortable as possible. Your role is very important — children find it comforting when their parents are involved. This guide will give you some ideas about how you can best help your child.\n\n## What should I tell my child?\n\nTell your child what is going to happen, and encourage your child to ask questions. You know your child best, and you know how much information your child can take in at a time.\n\n## What can I do for my infant during the procedure?\n\nIt is very important to support your infant during the actual procedure. We recommend you:\n\n- **Hold your baby** when possible. Soothing touch, such as rubbing your infant's head or back, also helps.\n- **Swaddle your infant snugly** in a blanket so their entire body is covered. This helps your infant feel a sense of control.\n- **Breastfeed your infant.** It is a familiar source of comfort and helps to distract your baby.\n- **Give specially prepared sucrose (Sweet Ease).** Ask the staff if you are interested in this.\n- **Distract your infant.** Talk and smile with younger infants, and play with older infants.\n\n## How to answer your child's questions about the test or procedure\n\n**Why do I need this done?**\n\nThe blood test will give the doctor information to help take care of you. Having an IV placed helps to give you important liquid or medicine that you can't swallow.\n\n**What will happen to me?**\n\n- They will clean the area where you need the blood test or IV. This will feel cool and may have a funny smell.\n- A big rubber band called a tourniquet will be wrapped around your arm, giving your arm a tight hug.\n\n**What should I do during the test?**\n\nYour job is to hold still. It is OK to cry, but holding still will make the test go more quickly.\n\n- They will tap on your arm to find veins. Veins are the small blue lines under your skin — the roads our blood uses to travel through the body.\n- An IV is like a small straw that goes in your vein. The needle helps get the straw in, and will come out when the straw is in the vein.\n\n> Be honest about the needle, but let your child know the needle will not be in for too long.\n\n## What can I do for my child during the procedure?\n\n**Distraction.** Distraction is the best way to calm your child. Pick something that will hold your child's attention — music, reading, blowing bubbles, talking (not about the hospital), or counting.\n\n**Imagery.** Have your child think about a happy time. Talk about a memory, like a fun vacation, going down a roller coaster, or hitting a home run. You can help them get into the details — what were the sounds and smells around them, who else was there, and what it would be like if they did it again.\n\n**Holding.** Many children like their parents to hold them during the procedure. If your child is young, they may want to sit on your lap. An older child may prefer you to hold their hand or rub their back.\n\n## What can I do if I will not be with my child during a procedure?\n\nSome parents prefer not to be with their child during a needle stick. There are also times when a child is hospitalized and parents are unable to make arrangements to be with their child. The staff will work with you to plan the best ways to help your child when you are not able to be there.\n\n## Numbing medicine\n\nThere are local anesthetics or \"numbing\" medicines, which may make the *poke* hurt less. Some work quickly; others take a half hour to an hour to work. Many children like to use numbing medicine, but some children do not want to wait. Talk with your provider about the use of local anesthetics for your child. Make sure your child knows that they will feel some pressure during the procedure, even with the medicine.\n\n## Praise and rewards\n\nPraising your child right after the procedure is very important. If your child feels good about how it went, they are more likely to do well with other medical tests they may have. Let your child know they did well. Rewards like stickers or a special treat let your child know they have done a good job.\n\n## Working with a child life specialist\n\nA child life specialist is trained in preparing and supporting children and parents through medical tests. They can answer any questions that you have about how to best help your child. Tell your child's doctor or nurse if you would like to meet with a child life specialist.\n\n## Let us know…\n\nIt is very helpful for us to know about your child's past experiences with blood tests and IV insertions. If these procedures have gone well in the past, let us know what worked. If your child has had difficulty tolerating these procedures, we will work with you and your child to improve the experience. Let us know if there have been any problems finding your child's veins in the past. Child life specialists are especially helpful for children who need additional preparation, help, and support."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Blood work",
+      "IV placement",
+      "how to help",
+      "distraction"
+    ],
+    "notes": null
+  },
+  {
+    "id": "welcome_to_the_picu",
+    "title": "Welcome to the PICU",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Mass General for Children's 14-bed Pediatric Intensive Care Unit — services, care team, and contact information.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Contact Information\n\n**Critical Care Medicine / PICU**\nBigelow Building, 55 Fruit Street, 6th Floor\nBoston, MA 02114\n\n- **Phone:** [617-724-4350](tel:+16177244350)\n- **Fax:** 617-724-4391\n- **Critical Transport (Pediatric Access Line):** [1-877-644-8988](tel:+18776448988) — connects directly to a critical care physician\n- **Appointments:** [888-644-3248](tel:+18886443248)\n\n## Overview\n\nThe Mass General for Children Pediatric Intensive Care Unit (PICU) is a **14-bed, multidisciplinary unit** that has distinguished itself by providing high-quality care for critically ill infants, children, and adolescents. Our patients present with a wide variety of life-threatening issues, such as severe infections, respiratory diseases, trauma, and post-operative care of various complex surgeries.\n\nOur mission is to provide state-of-the-art critical care medicine by bringing together the most sophisticated technology and scientific advancement in an environment sensitive to the multicultural patients and families we serve. Excellent communication with the family and primary care pediatrician is seen as a critical success factor in optimizing outcomes."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## A coordinated multidisciplinary approach\n\nThe Mass General Brigham for Children PICU provides monitoring and life-sustaining treatment for critically ill patients suffering from a wide range of illnesses. We provide advanced cardiovascular, respiratory, and neurological support — both invasive and non-invasive — including **extracorporeal membrane oxygenation (ECMO)**.\n\nThe PICU attendings are all trained in pediatric critical care medicine. In order to optimize the care of both the child and family, the pediatric intensivists, in collaboration with the critical care nurses, orchestrate a multidisciplinary team that includes medical and surgical physicians, as well as:\n\n- Respiratory therapists\n- Pediatric pharmacists\n- Physical therapists\n- Occupational therapists\n- Child life specialists\n- Social workers\n- Chaplains\n- Nutritionists\n- Imaging and laboratory personnel\n\nWe have a complete range of pediatric consultant services, including:\n\n- Pulmonology\n- Endocrinology\n- Cardiology and cardiac surgery\n- Gastroenterology\n- Hematology / oncology\n- Infectious diseases\n- Neurology\n- Nephrology\n- Trauma surgery\n- General surgery\n- Orthopaedic surgery\n- Neurosurgery\n- Transplant surgery\n- Pediatric urology\n\nThe PICU fellowship program provides graduate-level patient supervision 24 hours a day.\n\nAt Mass General for Children, we strive to provide an open and welcoming environment. We believe that no one knows a child as well as parents do, and therefore parents — along with primary care providers — become **partners in the child's care**. Parents have an active voice in all treatment plans.\n\n## A program of constant improvement\n\nOur procedures and formulary are continually assessed through tools such as the Collaborative Practice Meeting, where novel therapies are evaluated and PICU performance is monitored. Quality assurance is provided through case studies and other forums. Scheduled educational activities are held in the PICU and, by arrangement, in the community.\n\n### Service for sedation and pain-free procedures\n\nThe procedural sedation program provides analgesia and/or sedation as appropriate for children in need of potentially painful or anxiety-provoking procedures. This service is provided in a specially decorated, child-friendly patient room within the PICU, which is less intimidating than the operating room. Common procedures include lumbar punctures, bone marrow biopsies, kidney biopsies, central venous catheter placement, and knee taps.\n\n### The TeleHealth program\n\nThe Pediatric TeleHealth program provides live video conferencing between the PICU and select patient rooms in emergency departments at outlying community hospitals — including MassGeneral for Children at Salem Hospital, Newton-Wellesley Hospital, and Nantucket Cottage Hospital. Through this link, the PICU staff may provide on-demand medical advice and guidance to help assess, and if needed, stabilize critically ill infants and children and prepare them for transport to the PICU. This telemedicine technology also supports an international link between the Buen Samaritano Hospital in Aguadilla, Puerto Rico and the PICU.\n\n## Research\n\nThe Division of Pediatric Critical Care Medicine is performing laboratory and clinical research, including:\n\n- Mechanisms of inflammation, apoptosis, and neuroprotection in brain injury\n- Predictors of severity and outcome in severe, acute, and chronic pulmonary diseases\n- Applications of innovative technology in the PICU environment"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/critical-care-medicine",
+            "label": "Critical Care Medicine / PICU — Mass General Brigham for Children",
+            "description": "Visit the full Critical Care Medicine page, including team bios and patient resources."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "PICU overview",
+      "sedation and pain free procedures"
+    ],
+    "notes": null
   }
 ]

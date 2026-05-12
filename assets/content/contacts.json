@@ -51,5 +51,35 @@
       ]
     },
     "notes": null
+  },
+  {
+    "id": "picu_front_desk",
+    "name": "PICU Front Desk",
+    "role": "For all critical care issues — questions about your child, updates, and concerns.",
+    "phone": "+16177244350",
+    "category": "care_team",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "pediatric_access_line_critical_transport",
+    "name": "Pediatric Access Line — Critical Transport",
+    "role": "Arrange transport of a critically ill infant or child. Connects you directly to a critical care physician.",
+    "phone": "+18776448988",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
   }
 ]

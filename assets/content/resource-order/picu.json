@@ -1,1 +1,48 @@
-{}
+{
+  "administrative_resource": [
+    "health_care_coverage_and_patient_financial_services_picu",
+    "appointments_and_referrals",
+    "disability_services",
+    "family_and_medical_leave",
+    "financial_services",
+    "medical_interpreter_services",
+    "patient_gateway",
+    "mgb_for_children",
+    "quality_and_safety"
+  ],
+  "discharge_planning": [
+    "picu_follow_up_clinic"
+  ],
+  "educational_resource": [
+    "learn_child_and_adult_cpr",
+    "the_benefits_of_childhood_vaccines",
+    "childproofing_your_home",
+    "pediatric_tracheostomy_how_to_exchange_a_trach",
+    "pediatric_tracheostomy_what_you_need_to_know",
+    "car_seat_safety",
+    "safe_driving_for_teens",
+    "gun_safety_how_to_discuss_with_any_age_child",
+    "guardianship",
+    "medication_reminder_smartphone_apps",
+    "navigating_relationships_with_chronic_illness",
+    "hospital_treatments_and_services",
+    "preparation_for_surgery",
+    "pediatric_health_library",
+    "bronchitis_and_bronchiolitis",
+    "chronic_lung_conditions",
+    "autism_spectrum_disorder",
+    "rights_for_non_citizens",
+    "healthy_sleep_habits_for_your_baby",
+    "clay_center_for_young_healthy_minds",
+    "pediatric_tracheostomy_how_to_suction_a_trach",
+    "asthma_what_you_need_to_know",
+    "drowning_prevention"
+  ],
+  "hospital_stay": [
+    "welcome_to_the_picu",
+    "how_to_keep_your_child_safe_during_a_hospital_stay",
+    "what_to_expect_emergency_department",
+    "mgb_imaging_videos",
+    "iv_placement_and_phlebotomy"
+  ]
+}
