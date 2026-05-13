@@ -1974,5 +1974,1056 @@
       "mail and email"
     ],
     "notes": null
+  },
+  {
+    "id": "daisy_award_nomination",
+    "title": "DAISY Award Nomination",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Nominate a nurse who made a difference in your child's care. The DAISY Award recognizes exceptional nursing.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "The **DAISY Award** is a recognition program that celebrates nurses by collecting nominations from patients, families, and co-workers. If a nurse made a meaningful difference in your child's care, share their story."
+          },
+          {
+            "type": "link",
+            "url": "https://team.getwell.health/public/rounds/survey/tfgDz4fpQt8Be",
+            "label": "Nominate a Nurse — DAISY Award",
+            "description": "Submit a nomination through the secure survey form."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Nurse Nomination",
+      "Survey",
+      "DAISY"
+    ],
+    "notes": null
+  },
+  {
+    "id": "patient_and_family_relations",
+    "title": "Patient and Family Relations",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "meet_the_care_team"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Patient and Family Relations helps families share concerns, ask questions, and make informed decisions about their care.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Patient and Family Relations helps to foster communication between patients and their care team so families can make the best decisions about their care. They are also the team to contact about patient rights, ethics questions, or formal concerns and complaints."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/patient-family-relations",
+            "label": "Patient and Family Relations — Mass General",
+            "description": "Learn more about patient rights, how to share concerns, and how to contact the team."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Care Standards",
+      "Patient Family Relations",
+      "Patient Rights",
+      "Responsibilities",
+      "Ethics",
+      "Complaints"
+    ],
+    "notes": null
+  },
+  {
+    "id": "certified_child_life_specialists",
+    "title": "Certified Child Life Specialists",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "meet_the_care_team"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Child life specialists help children and families cope with hospitalization through play, education, and therapeutic programs.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## What is the Child Life & Pediatric Integrative Therapies Program?\n\nThe Child Life and Pediatric Integrative Therapies Program at Mass General Brigham for Children helps children and adolescents navigate the mental, emotional, and social effects of illness, medical treatment, and hospitalization.\n\nAs part of the care team, our **board-certified child life specialists** foster positive coping skills and empower children throughout their healthcare experience.\n\n## Our Services\n\n### Preparation and Education\n\nOur child life specialists provide preparation and education for potentially painful procedures, new or unfamiliar diagnoses, and the nature of the hospital environment. Our team works with patients and families to create a coping plan for procedures using techniques like play, guided imagery, and deep breathing. Child life specialists collaborate with the medical team to provide developmentally appropriate diagnosis education to children to promote understanding.\n\n### Developmental Support\n\nWith expertise in child development, child life specialists use play to support typical development — intellectual, motor, emotional, and social skills. Engaging in these activities can support children in reaching developmental milestones.\n\n### Normalization and Play\n\nThe hospital can be a scary place for children, with many new sights and sounds. Our child life team works to create a child-friendly environment through welcoming spaces (like activity rooms) and opportunities to engage in medical and therapeutic play, creative expression, and peer socialization.\n\n### Enhancing Coping and Emotional Regulation\n\nChild life specialists work with children and families to increase coping and normalization of the environment. These skills include techniques such as mindfulness, guided imagery, relaxation, and distraction. This is particularly valuable during medical procedures and lengthy admissions.\n\n### Family Involvement and Bonding\n\nThrough art, music, and play, our child life team can help promote emotional expression and support children in processing their medical experience. With a passion for advocacy and compassion, child life specialists support families through big challenges. Child life specialists also offer legacy-building opportunities during moments of change and loss.\n\n### Art Therapy and Music Therapy\n\nOur music and art therapists use therapeutic interventions to promote wellness.\n\n- **Music therapy** can help support a child's experience through active music making, gentle live music for relaxation, music-supported meditation, or creating recordings to share with loved ones.\n- **Art therapy** can be tailored to a child's interests to raise self-esteem and self-awareness.\n\nWith the help of a board-certified music therapist and art therapist, patients can explore how music and art might best support them during a challenging hospital admission.\n\n> Child life and pediatric integrative therapies are designed to **complement, not replace,** conventional medical treatments. Collaborative efforts ensure a well-rounded and supportive approach to pediatric healthcare.\n\n## Special Programming\n\nThe child life department collaborates with programming throughout inpatient and outpatient pediatric areas. Current special programming may include:\n\n### Acupuncture and Acupressure\n\nAcupuncture uses fine, sterile needles applied to specific areas of the body to stimulate energy flow; acupressure involves applying gentle pressure to these same points with the hands. The acupuncturist will work with you and your care team.\n\n### Art Therapy Group\n\nA peer space designed to provide pediatric patients with an overall sense of community and reduce feelings of isolation through engagement with the visual arts and supportive conversation — using painting, coloring, drawing, sculpting, and building, alongside applied psychological theory facilitated by a board-certified art therapist.\n\n### Child Life Volunteers\n\nChild Life volunteers support and provide play opportunities for our inpatient population.\n\n### Club STAR\n\nA **bereavement peer support group** for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.\n\nFor more information or to register, please contact Hillary D'Amato, MSW, CCLS:\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Facility Dog Kayce\n\nMeet **Kayce**, the first facility dog at Mass General Brigham for Children. He joined the hospital as an employee and member of the Child Life team in September 2024. Kayce is specially trained to help children cope and overcome the stress they may experience during a stay at the hospital.\n\n### Hearts & Noses Hospital Clown Troupe\n\nHospital clowns specially trained to engage, empower, and give choices to children and adults in a medical environment. Clowns receive extensive professional training in the delicate art of engaging children in the hospital — creating an environment that supports play and puts the child in control of the interaction.\n\n### Healing Little Heroes\n\nA non-profit organization that brings superheroes like Captain America and Spider-Man to the bedside of pediatric patients.\n\n### Hero Circle — Martial Arts Program\n\nHero Circle teaches martial arts meditation, movement, and breathing techniques designed to empower children to take control of the pain and stress of their illness. Children **3 years and older** with any pediatric illness, and their siblings, may be eligible for the program.\n\n### Hole in the Wall Gang Camp — Hospital Outreach Program (HOP)\n\nHOP brings the magic of The Hole in the Wall Gang Camp for Seriously Ill Children (founded by Paul Newman in 1988) to patients in the hospital by providing camp activities at the bedside. HOP specialists visit many areas of the hospital to engage children in games, arts and crafts, and fun.\n\n### Massage Therapy\n\nCan help relieve stress, increase relaxation, and lead to a feeling of greater well-being. Massage can alleviate some of the physical symptoms and side effects of treatment, and often relieves pain resulting from excess muscle tension.\n\n### Pet Therapy\n\nA visit from a furry, friendly, and specially trained dog with a trained volunteer handler.\n\n---\n\n*Additional special programming may be available within specific units. Programming is subject to change and may not be available on request. Speak with your child life specialist for more information.*\n\n*Thank you to all of our community partners, donors, and organizations that bring joy to the children and families at Mass General Brigham for Children.*"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/child-life",
+            "label": "Child Life & Pediatric Integrative Therapies — Mass General Brigham for Children",
+            "description": "Learn more about the program, services, and how to request a child life specialist."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Certified Child Life Specialist",
+      "music therapy",
+      "art therapy",
+      "Club STAR",
+      "facility dog",
+      "pet therapy"
+    ],
+    "notes": null
+  },
+  {
+    "id": "critical_care_doctors_whos_who",
+    "title": "Who's Who on the Medical Team",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "meet_the_care_team"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Understand the different roles of doctors caring for your child — attendings, consultants, fellows, residents, and medical students.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Welcome to Mass General Hospital for Children. You and your child's doctors, nurses, social workers, and therapists make up the healthcare team — with **you as the most important member**. The information below will help you understand the different types of doctors on the *Medical Team* that will be involved in your child's care.\n\n## Attending Physician\n\nThis is the doctor who **leads the medical team** that plans the care and treatment for your child. They will work closely with you to make decisions about your child's care, and are ultimately responsible for the medical care provided by the team.\n\nYour child's Attending Physician will either be:\n\n- A **Pediatrician who specializes in Hospital Medicine**, called a *Hospitalist*\n- A **Subspecialist Pediatrician**, who has a specialty in a certain area of pediatrics (such as a Pediatric Pulmonologist, who specializes in children's lung problems)\n- A physician from your child's primary care practice\n\nIf you are not sure who your child's Attending Physician is, please ask us.\n\n## Consulting Physician\n\nThis is a Pediatrician who has a specialty in a specific area (same as a Subspecialist) and is called in to *consult* on your child's case. This specialist will work with the medical team to diagnose, treat, and care for your child.\n\nThey may also work with a **Pediatric Fellow** — a doctor who has completed medical residency training in Pediatrics and is now in training to become a subspecialist (e.g., a Pediatric Pulmonologist).\n\nThe Consulting Physician and Fellow will make recommendations to the Attending Physician and resident team.\n\n## Resident Physician (or House Officer)\n\nThis is a doctor who has graduated from medical school and is now in a resident training program to become a Pediatrician. A Pediatric resident program usually takes 3 years to complete, and Residents are referred to by the year they are currently in:\n\n- **First-year residents** are also called *Interns*. An intern will examine your child every day and is usually the first person called if you have a question or concern. Your child will have a primary Intern while they are in the hospital.\n- **Second-year residents** are in between their first and third year. They don't have any other special name.\n- **Third-year residents** are also known as *Senior Residents*. They oversee the work of medical interns and medical students.\n\nResidents work with the Attending Physician to give your child the best care possible. The Pediatric floor at MGH has a Resident Physician available **24 hours a day**.\n\n## Medical Students\n\nMedical students are in the third and fourth year of medical school. **Third-year students** work with Interns to help care for your child. **Fourth-year students** usually work under the Senior Resident to care for your child.\n\n---\n\nMass General Hospital for Children is committed to providing you with the highest standard of care. We think this is enhanced by being a Harvard teaching hospital.\n\nSometimes it can be hard to tell who is who in a place bustling with so many pediatric doctors. All members of your child's medical team should introduce themselves and their role on the team.\n\n> **If you are uncertain who a person is, please ask them to introduce themselves.**"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Care Team",
+      "Medical Students",
+      "Resident",
+      "Fellow",
+      "Attending",
+      "Meet the Doctors",
+      "Physicians"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pediatric_hematology_and_oncology",
+    "title": "Pediatric Hematology and Oncology",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "meet_the_care_team"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Mass General's pediatric hematology and oncology team treats childhood cancers and blood disorders with multidisciplinary, state-of-the-art care.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Mass General Brigham for Children's Pediatric Hematology and Oncology team provides personalized, multidisciplinary, state-of-the-art care for childhood cancers and disorders of the blood. The team covers surgical oncology, radiation oncology, and access to clinical trials."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/cancer",
+            "label": "Pediatric Hematology and Oncology — Mass General Brigham for Children",
+            "description": "Meet the team, learn about conditions treated, and explore care options."
+          },
+          {
+            "type": "text",
+            "markdown": "## Contact Information\n\n**Division of Pediatric Hematology and Oncology**\nYawkey Center for Outpatient Care, Suite 8B\n32 Fruit Street, Boston, MA 02114\n\n- 📞 [617-726-2737](tel:+16177262737)\n- Fax: 617-724-0702\n- Appointments: 📞 [888-644-3248](tel:+18886443248)\n- Near public transit · Wheelchair accessible\n\n## Why choose Mass General Brigham for Children\n\nThe Division of Pediatric Hematology and Oncology is a comprehensive children's program backed by the full resources of Massachusetts General Hospital and close collaboration with adult colleagues in the [Mass General Cancer Center](https://www.massgeneral.org/cancer-center). Doctors who specialize in the care of children provide personalized, state-of-the-art care to children of all ages with malignancies and disorders of the blood.\n\n### Pediatric Hematology Program\n\nSpecialized expertise in anemias (including sickle cell disease), thrombocytopenia, neutropenia, aplastic anemia and other bone marrow failure syndromes. Expert consultation and management of bleeding and clotting disorders including von Willebrand disease, hemophilia, thrombosis, and stroke.\n\n- [Pediatric Blood Disorders Program](https://www.massgeneral.org/children/blood-disorders)\n- [Pediatric Stroke Service](https://www.massgeneral.org/children/stroke-and-vascular)\n- [Hemophilia and clotting disorders](https://www.massgeneral.org/children/blood-disorders/hemophilia-and-thrombosis-center)\n\n### Pediatric Oncology Program\n\nMultidisciplinary, comprehensive, family-centered care for children with all types of cancer. The clinical team has expertise in treating leukemias, lymphomas, common solid tumors of childhood (including Wilms tumor, neuroblastoma, bone and soft tissue sarcomas, retinoblastoma, and brain tumors).\n\n- [Bone and Soft Tissue Program](https://www.massgeneral.org/children/cancer/bone-and-soft-tissue-sarcoma-program)\n- [Head and neck tumors](https://www.massgeneral.org/children/cancer/head-and-neck-clinic)\n- [Pediatric brain tumors](https://www.massgeneral.org/children/cancer/brain-tumor-clinic)\n- [Leukemia](https://www.massgeneral.org/children/cancer/leukemia-clinic) and [lymphoma](https://www.massgeneral.org/children/cancer/lymphoma-clinic)\n- [Long-Term Follow-Up Clinic](https://www.massgeneral.org/children/cancer/longterm-followup-clinic)\n\n## Treatment\n\nMass General Brigham for Children delivers the latest and most advanced treatments for childhood cancers and blood disorders.\n\n- **[Pediatric surgical oncology](https://www.massgeneral.org/children/pediatric-surgery/surgical-oncology):** In addition to open surgery, minimally invasive techniques such as video-assisted thoracoscopy, laparoscopy, and robotic-assisted surgery are available to remove solid tumors.\n- **[Pediatric radiation oncology](https://www.massgeneral.org/cancer-center/radiation-oncology/treatments-and-services/pediatric-radiation-oncology):** Home to the only [proton therapy](https://www.massgeneral.org/children/proton-therapy) site in New England. Proton therapy for children can be used to treat pediatric tumors while minimizing long-term effects on growth and development.\n- **[Clinical trials](https://www.massgeneral.org/cancer-center/clinical-trials-and-research/search-clinical-trials.page?cancerCondition=Pediatric+Cancers):** Patients receive research-driven cancer treatment through access to the latest clinical trials in cancer and hematology. The Division is a member of the [Children's Oncology Group (COG)](https://childrensoncologygroup.org/) and the [Pediatric Hodgkin Lymphoma Consortium](https://www.stjude.org/care-treatment/treatment/childhood-cancer/leukemia-lymphoma/hodgkin-lymphoma.html) based at St. Jude Children's Hospital.\n\n## Integrated, multidisciplinary care\n\nThe patient care team is led by a pediatric hematologist-oncologist. Depending on the type of tumor and treatment plan, other team members may include:\n\n- Surgical specialists (pediatric surgery, thoracic surgery, neurosurgery, urology, otolaryngology, orthopedics, orthopedic oncology, ophthalmology, oculoplastics, plastic surgery)\n- Pediatric radiation oncologists (for those considered for proton beam, intensity-modulated, or other radiation therapy)\n- Senior-level oncology-certified nurses and nurse practitioners\n- Child psychiatrists, social workers, and [child life specialists](https://www.massgeneral.org/children/child-life)\n- Nutritionists, physical therapists, and rehabilitation medicine specialists\n\n## Adolescent and Young Adult (AYA) Cancer Program\n\nThe [Adolescent and Young Adult Cancer Program](https://www.massgeneral.org/cancer-center/patient-and-family-resources/supportive-care/adolescent-and-young-adult-program) was created to optimize the care, outcomes, and experiences of adolescent and young adult patients.\n\n## Patient resources\n\nFor the full collection of patient resources from Pediatric Hematology and Oncology, visit the [Patient Resources page](https://www.massgeneral.org/children/cancer/patient-resources) on massgeneral.org."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "oncology",
+      "hematology",
+      "cancer treatment",
+      "surgical oncology",
+      "radiation oncology",
+      "clinical trials"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pediatric_supportive_palliative_care",
+    "title": "Pediatric Supportive & Palliative Care",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "meet_the_care_team"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Helps families of children with serious illness focus on quality of life, manage symptoms, and improve communication with the care team.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "The Pediatric Palliative Care Team aims to identify your family's goals and values, ease distressing symptoms, optimize quality of life, and improve communication between care teams and families."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/palliative-care",
+            "label": "Pediatric Supportive & Palliative Care — Mass General Brigham for Children",
+            "description": "Visit the program page for the full team list, services, and additional resources."
+          },
+          {
+            "type": "text",
+            "markdown": "## Contact Information\n\n**Pediatric Supportive & Palliative Care**\nYawkey Center for Outpatient Care\n55 Fruit Street, Boston, MA 02114\n\n- 📞 [617-643-9079](tel:+16176439079)\n- Fax: 617-724-8896\n\n## Overview\n\nPediatric Supportive & Palliative Care at Mass General Brigham for Children supports children with chronic, life-threatening, or life-limiting illnesses — and their families — by enhancing their quality of life.\n\nOur team offers support to children with serious conditions and their families anywhere along their illness course, including families facing pregnancies complicated by genetic disorders or congenital malformations. We work with your child's primary and specialist teams to provide the best possible care. Our team aims to:\n\n- **Identify your family's goals and values**\n- **Ease distressing symptoms**\n- **Optimize quality of life**\n- **Improve communication** between care teams and families\n- **Help families navigate** the best treatment choices for them and their child\n\nOur team is primarily an inpatient consultative service made up of pediatric palliative care doctors and a pediatric nurse practitioner. We collaborate closely with your child's care providers within Mass General Brigham for Children and in the community — including primary care physicians, subspecialists, nurses, child life specialists, spiritual care providers, and physical, occupational, and speech therapists.\n\nWhile your child is in the hospital, their medical providers may invite our service to join the care team. In outpatient settings, providers may also consult or refer children to our service.\n\n> If you are interested in seeing if palliative care may benefit your child's treatment, please call our office at 📞 [617-643-9079](tel:+16176439079) and leave a message. We will return your call to determine if, and how, our team may be helpful.\n\n## Programs\n\n### Mass General Brigham for Children Center for Courageous Kids\n\nOur Pediatric Supportive & Palliative Care team, alongside the Coordinated Care Clinic, has received funding to create the **Center for Courageous Kids**. This center provides multidisciplinary, compassionate care for children with complex medical needs and life-limiting illnesses. The aim is to improve quality of life for these children and their families.\n\n### No Empty Bedsides\n\nWe are grateful partners with [**No Empty Bedsides**](http://www.noemptybedsides.com/index.html), a volunteer fundraising organization providing financial support to parents and families of hospitalized children cared for by Supportive & Palliative Care.\n\nNo Empty Bedsides assists with:\n\n- Public transportation costs\n- Parking fees\n- Backup care for the hospitalized child's siblings\n\nIt helps to ensure that every child has a loved one by their side during a hospital stay.\n\n### Courageous Parents Network\n\nWe are proud partners with [**Courageous Parents Network**](https://courageousparentsnetwork.org/), a website designed to support and empower families whose child faces serious illness, and to enlighten caregivers about the lived experience of these families.\n\n## Bereavement resources\n\n### For adults\n\n- **Mass General Bereavement Support Group** — Open to patients and employees of the Mass General community. An 8-week group for people who have experienced the death of a loved one within the past 1½ years. Fee covered by most insurances and Medicare. To refer or to schedule a pre-group screening interview, contact Marie Herbert, MSW, LICSW: 📞 [617-726-8199](tel:+16177268199).\n- **[The Compassionate Friends](http://www.compassionatefriends.org/)** — Organization dedicated to assisting families toward positive resolution of grief following the death of a child of any age. Chapters across the U.S. and internationally. 📞 [877-969-0010](tel:+18779690010)\n- **[Association of Death Education & Counseling](http://www.adec.org/)** — Online resources for coping with loss; referrals to support groups throughout the U.S. 📞 [847-509-0403](tel:+18475090403)\n- **[Hospice Foundation of America](http://www.hospicefoundation.org/)** — Support and education about death, illness, and bereavement. Referrals to grief support groups, monthly bereavement newsletter, and annual \"Living with Grief\" teleconference series. 📞 [800-854-3402](tel:+18008543402)\n\n### For children and teens\n\n- **Club STAR: Sharing Together and Remembering** — A group for ages 5–18 and their parents grieving the death of a parent or sibling. Meets 5:30 – 7:30 pm on the first Wednesday of October–June at Mass General Hospital. Organized by Mass General for Children, Child Life Services, and the Social Service Department. To register, contact Hillary D'Amato, MS, CCLS: 📞 [617-643-9276](tel:+16176439276) or [mghclubstar@partners.org](mailto:mghclubstar@partners.org).\n- **[Jeff's Place](https://www.jeffsplace.org/)** — Free, bi-monthly, open-ended peer support groups for children ages 3–19 and their caregivers coping with the death of a loved one. Individual and small groups in Framingham, MA; large groups in Wayland, MA. 📞 [508-276-3225](tel:+15082763225)\n- **[Comfort Zone Camps](http://www.comfortzonecamp.org/)** — Free weekend camps for children ages 7–17 who have experienced the death of a parent, sibling, or primary caregiver. Creates an environment where grieving children can have fun while learning coping skills.\n- **[The Dougy Center for Grieving Children & Families](http://www.dougy.org/)** — Headquartered in Portland, Oregon. Their website offers tools for children, teens, and young adults who are grieving. 📞 [866-775-5683](tel:+18667755683)\n- **[The Garden: A Center for Grieving Children and Teens](https://www.cooleydickinson.org/programs-services/vna-hospice/the-garden/)** — Based in Northampton, MA. Programs and discussion groups help young people identify and share their feelings. Parents and guardians meet separately. No charge to families. Email [shelly.thegarden@gmail.com](mailto:shelly.thegarden@gmail.com) for information.\n\n> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Service Department: 📞 [617-726-2643](tel:+16177262643)."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Courageous Kids Program",
+      "No Empty Bedsides Program",
+      "quality of life",
+      "pain and stress relief",
+      "bereavement",
+      "Club STAR"
+    ],
+    "notes": null
+  },
+  {
+    "id": "ebt_card_to_culture_program",
+    "title": "EBT Card to Culture Program",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "outside_of_the_hospital"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Free or reduced-cost access to museums, performances, and cultural programming for families receiving DTA benefits.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "**EBT Card to Culture** allows families receiving benefits from the Massachusetts Department of Transitional Assistance (DTA) to access museums, performances, and other cultural programming at a **reduced or free cost** — a way to give siblings a break and the family some time outside the hospital."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/info-details/learn-about-the-ebt-card-to-culture-program",
+            "label": "EBT Card to Culture — Mass.gov",
+            "description": "Browse participating museums, theaters, and cultural sites across Massachusetts."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "EBT Card to Culture",
+      "reduced cost activity",
+      "free admission",
+      "activities around Boston",
+      "sibling distraction"
+    ],
+    "notes": null
+  },
+  {
+    "id": "family_activities_around_boston",
+    "title": "Family Activities Around Boston",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "outside_of_the_hospital"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Boston Family Days — free and low-cost family activities across the city, useful for sibling time outside the hospital.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "**Boston Family Days** lists free and low-cost family-friendly events, museums, and outdoor activities across the city — a place to find ideas when siblings need a break from the hospital."
+          },
+          {
+            "type": "link",
+            "url": "https://www.boston.gov/departments/arts-and-culture/boston-family-days",
+            "label": "Boston Family Days — Boston.gov",
+            "description": "Browse upcoming family-friendly events and activities around the city."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "things to do outside of the hospital",
+      "family activities",
+      "sibling distraction",
+      "activities around Boston"
+    ],
+    "notes": null
+  },
+  {
+    "id": "things_to_do_around_boston",
+    "title": "Things to Do Around Boston",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "outside_of_the_hospital"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Boston.gov's guide to attractions, sports, entertainment, and tourist activities across the city.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Boston.gov's guide to attractions, sports, entertainment, and tourist activities across the city — useful for families looking to step away from the hospital for a few hours."
+          },
+          {
+            "type": "link",
+            "url": "https://www.boston.gov/departments/tourism-sports-and-entertainment/things-do-around-boston",
+            "label": "Things to Do Around Boston — Boston.gov",
+            "description": "Browse attractions, events, and ideas for exploring the city."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Boston activities",
+      "things to do",
+      "tourism"
+    ],
+    "notes": null
+  },
+  {
+    "id": "catastrophic_illness_in_children_relief_fund",
+    "title": "Catastrophic Illness in Children Relief Fund (CICRF)",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Massachusetts state fund providing financial relief to families caring for children with medical expenses not covered by insurance.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "**CICRF** provides financial relief to eligible Massachusetts families caring for children with medical-related expenses that are not covered by insurance, federal or state assistance, or other financial sources."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/catastrophic-illness-in-children-relief-fund-cicrf",
+            "label": "CICRF — Mass.gov",
+            "description": "Check eligibility, see covered expenses, and apply online."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "financial relief eligibility",
+      "medical related expenses",
+      "illness in children relief fund",
+      "CICRF"
+    ],
+    "notes": null
+  },
+  {
+    "id": "pact_program_parenting_while_battling_serious_illness",
+    "title": "PACT Program: Parenting While Battling Serious Illness",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "MGH program offering child psychiatrists' and psychologists' guidance for parents living with serious illness — how to help children feel secure.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "**PACT** staff clinicians are fully trained child psychiatrists and psychologists. Here you will find knowledge and practical tips to guide you in helping the children you love stay on track and feel secure when a parent is living with serious illness."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mghpact.org/",
+            "label": "PACT Program — Mass General",
+            "description": "Read parent guides, video resources, and find support for talking with children about illness."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "parenting while living with a serious illness",
+      "support family communication",
+      "child resilience through guardian illness",
+      "PACT"
+    ],
+    "notes": null
+  },
+  {
+    "id": "support_for_siblings_of_a_special_needs_child",
+    "title": "Support for Siblings of a Special Needs Child",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How siblings react when a brother or sister has special needs — by age — plus parenting tips, warning signs, and Sibshops support.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Families tell us that managing family life with a special needs child is tough. Parents say that caring for the ill or disabled child takes so much time and energy that they can't always pay as much attention to their other children as they might like. This can make siblings feel neglected — even when mom and dad are doing their best to pay equal attention to everyone.\n\nWe hope these tips will help you better understand what happens when a family member requires special care and attention, and give you ideas to help make things easier for everyone in your family.\n\n## Understanding your healthy or typically developing children — by age\n\n### Preschoolers (before age 5)\n\nYoung children can't understand what is actually wrong with their sibling, and:\n\n- Can't express their feelings with words and may act them out\n- Notice some differences between what their sibling can and can't do, and may try to teach their sibling how to do things\n\n### School-age children (6–12)\n\nChildren of this age can understand that their sibling has special needs. However, they may:\n\n- Worry that the disability or illness is catching\n- Feel guilty about having negative thoughts and feelings about their sibling\n- Become either over-helpful and well-behaved, or badly behaved to get attention\n- Have confusing, mixed feelings about their sibling (love, resentment, anger, loyalty)\n\n### Teens (13–17)\n\nOlder children can understand explanations of the disability or illness, and may:\n\n- Ask detailed questions of parents\n- Be embarrassed in front of friends and dates\n- Be torn between their freedom and wanting a special relationship with their sibling\n- Resent the amount of responsibility they have for their sibling\n\n## At any age\n\n### Your healthy or typically developing children may feel:\n\n- **Embarrassment** over the way siblings act or look\n- **Anger or jealousy** over the amount of attention their siblings get\n- **Pressure** to \"make up\" for a sibling's disability by being perfect at home, in school, or at a sport or music, etc.\n- **Guilt** about being healthy\n\n### But they may also develop:\n\n- **Maturity** that is greater than their age\n- **Pro-social behaviors** (helping others, kindness, etc.)\n- **Understanding** of challenges of others and the advantages most people take for granted\n- **Tolerance** for differences\n- **Pride** about the disabled sibling's accomplishments\n- **Loyalty and caring** towards their sibling\n\n## Parenting tips\n\n- Try to give each child a regularly scheduled special time with each parent alone and together. If you are a single parent, try to give each child regularly scheduled special time with another adult family member or friend who the child is close to.\n- When planning family activities, remember that not everything has to be done with the whole family. If an activity is too much for the special needs child, arrange for their care while the family is out.\n- Encourage each child to have their own interests, and give each one a special space for personal things.\n- Recognize each child's unique strengths and accomplishments, and make sure they develop friendships outside the family.\n- Have the special needs child do as much as they can for themselves, and any other chores they are able to do.\n- Keep the same rules for the special needs child as the others whenever possible.\n- Listen to brothers' and sisters' worries about their disabled sibling.\n- Establish and keep daily routines as much as possible.\n- And, of course, let all your children know they are loved and valued.\n\n## Things to watch for\n\nThese behaviors may mean that your typically developing child could use some more help:\n\n- Unusually aggressive language, fighting words\n- Refusing to attend school, or fear of school\n- Depression\n- Sleep or eating changes\n- Lack of interest in things they usually enjoy\n- Increased anxiety or worries\n- Loss of self-esteem or confidence\n- Lowered achievement\n- Frequent complaints of not feeling well\n\n> If you see any of these signs, please discuss them with your child's doctor.\n\n## Mass General for Children Sibshops\n\nMass General for Children runs a support group for siblings of special needs children called **Sibshops**. Sibshops provide opportunities for siblings to get peer support and education in a lively and fun setting. We mix interesting information and discussion with games as well as special guests.\n\n## Additional resources\n\n- [Sibling Support Project — Sibshops](https://siblingsupport.org/)\n- [Kindering](http://www.kindering.org/)\n\nFor more information, or for help connecting to mental health guidance for your typically developing child, call the Social Service Department: 📞 [617-643-2166](tel:+16176432166).\n\n---\n\n*Source: \"Siblings of your Special Needs Child…\", Kaiser Permanente, Department of Genetics. Their sources: The Siblings Support Project of the Arc of the United States; ARCH (National Resource Center for Respite and Crisis Care Services); Derenda Timmons Schubert, Ph.D. (2004); Meyer and Vadasy (1994); Steinberg (2004). © 2011 The General Hospital Corporation — Social Service Department.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Sibling Support",
+      "Social Services",
+      "Special Needs Child",
+      "Sibshops"
+    ],
+    "notes": null
+  },
+  {
+    "id": "my_loved_one_in_the_hospital_social_story",
+    "title": "My Loved One in the Hospital — A Social Story for Kids",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "first_night",
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Illustrated social story to help children understand what's happening when a loved one is in the ICU.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "An illustrated story to share with a young child when someone they love is staying in the Intensive Care Unit. The story walks through what the hospital and ICU look like, why people come there, what the tubes and machines do, and gives the child space to share their own feelings and questions.\n\nWritten by Emilia Crnjak, MS, CCLS, and Sarah Taddei, MSW, LICSW. Best read together with a trusted adult."
+          },
+          {
+            "type": "pdf",
+            "localPath": "assets/pdfs/my-loved-one-in-the-hospital.pdf",
+            "label": "My Loved One in the Hospital — Social Story"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "social story",
+      "children",
+      "ICU explained for kids",
+      "sibling support",
+      "feelings"
+    ],
+    "notes": null
+  },
+  {
+    "id": "massachusetts_behavioral_health_help_line",
+    "title": "Massachusetts Behavioral Health Help Line",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Free, confidential help for mental health or substance use — for you or someone you know — through the state's Behavioral Health Help Line.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Are you or someone you know struggling with mental health or substance use? The Massachusetts Behavioral Health Help Line offers **free, confidential** help — available 24/7 by phone, chat, or text."
+          },
+          {
+            "type": "link",
+            "url": "https://www.masshelpline.com/",
+            "label": "Behavioral Health Help Line — Massachusetts",
+            "description": "Call, chat, or text for free, confidential mental health and substance use support."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Behavioral health hotline",
+      "mental health",
+      "substance use"
+    ],
+    "notes": null
+  },
+  {
+    "id": "how_to_find_a_therapist",
+    "title": "How to Find a Therapist",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Six concrete starting points for finding a licensed therapist — insurance, the state help line, matching services, EAP, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Finding a therapist can be the first step toward learning new ways to handle difficult situations. Look for a **licensed** therapist.\n\n## Licensed psychotherapists include:\n\n- **Clinical Social Workers (LICSW)** — Master's degree in Social Work (MSW) with at least several years of supervised experience.\n- **Clinical Psychologists** — Ph.D. in Psychology. May do psychological testing in addition to psychotherapy.\n- **Psychiatrists** — Medical doctors who have had additional training in psychiatry. Can prescribe medication.\n- **Psychiatric Nurse Clinicians** — Nurses with master's degrees who may provide psychotherapy and prescribe medication.\n\n## Getting started\n\n### 1. Call your insurance company\n\nSee your card for contact information. Your insurance may require you to use one of their preferred providers.\n\n### 2. Massachusetts residents — contact the 24/7 Behavioral Health Help Line\n\nGet the treatment or support you need, find a provider, and make an appointment.\n\n- 📞 Call or text [833-773-2445](tel:+18337732445)\n- Chat at [masshelpline.com](https://www.masshelpline.com)\n- Helps in **over 200 languages**\n\n### 3. Ask other professionals\n\nTry your doctor, or your child's school nurse or guidance counselor.\n\n### 4. Contact a therapy matching service\n\n> Note: Mass General Hospital does not endorse any non-Mass General affiliated programs.\n\n- **Therapy Matcher** (social work) — 📞 [800-242-9794](tel:+18002429794) · [therapymatcher.org](https://therapymatcher.org)\n- **William James INTERFACE Referral Service** — see if your community participates at [interface.williamjames.edu](https://interface.williamjames.edu), then call 📞 [888-244-6843](tel:+18882446843)\n- **LifeStance** — call their intake department at 📞 [617-405-5735](tel:+16174055735) · [lifestance.com](https://lifestance.com)\n- **Complete your own online search:**\n    - **Thriveworks** — 📞 [628-266-4892](tel:+16282664892) · [thriveworks.com](https://thriveworks.com)\n    - **Psychology Today Therapist Finder** — [psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists)\n\n### 5. Speak with your Employee Assistance Program (EAP)\n\nYour EAP may provide short-term counseling, help you identify longer-term needs, and refer you to a therapist.\n\n### 6. Ask your friends\n\nYou may find that friends or family have had therapy themselves and can make trustworthy recommendations.\n\n---\n\n*Once you have a list of therapists, start asking questions. For ideas, ask your social worker for the tip sheet \"How to Choose a Psychotherapist Who is Right for You.\"*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Therapist",
+      "how-to",
+      "psychiatrist",
+      "social worker",
+      "mental health"
+    ],
+    "notes": null
+  },
+  {
+    "id": "postpartum_and_new_parent_support",
+    "title": "Postpartum and New Parent Support",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Warm lines, hotlines, and Mass General programs supporting postpartum mental health for new parents — plus crisis and parental stress resources.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "*Postpartum is the medical term for the time after childbirth.*\n\n## Postpartum resources\n\n### Massachusetts Postpartum Support International Warm Line\n\n- 📞 [866-472-1897](tel:+18664721897)\n- ✉️ [psiofmass@gmail.com](mailto:psiofmass@gmail.com)\n\nA toll-free, confidential warm line providing support, listings of local counselors, support groups, and information in Massachusetts. Leave a message and a trained volunteer or staff person will return your call within 24 hours.\n\n- **MA Chapters:** [psichapters.com/ma](https://psichapters.com/ma/#get-help)\n- **Find a Provider:** [psidirectory.com](https://psidirectory.com) — search by state and city for therapists specializing in perinatal, postpartum, and parental mental health\n\n### National Postpartum Support International Helpline\n\n- 📞 Call or text [1-800-944-4773](tel:+18009444773)\n- [postpartum.net/get-help/psi-helpline](https://postpartum.net/get-help/psi-helpline)\n\nA toll-free, confidential line. Leave a message at any time and a helpline volunteer will return your call and provide basic information, resources, and support.\n\n**Online support groups:** [postpartum.net/get-help/psi-online-support-meetings](https://postpartum.net/get-help/psi-online-support-meetings)\n\n### National Maternal Mental Health Hotline\n\n- 📞 Call or text [1-833-943-5746](tel:+18339435746)\n- [mchb.hrsa.gov/national-maternal-mental-health-hotline](https://mchb.hrsa.gov/national-maternal-mental-health-hotline)\n\nA 24/7, free, confidential hotline for pregnant people and new moms.\n\n### The Center for Women's Mental Health at Mass General\n\nOffers evaluation and treatment for postpartum psychiatric disorders — including postpartum depression and anxiety — by clinicians with particular expertise in this area. Both medication and non-medication treatments are offered, as well as referrals to community support services specifically designed for postpartum women.\n\n> You would need your own medical provider to order any medications.\n\n- 📞 [617-724-8020](tel:+16177248020)\n- [womensmentalhealth.org/clinical-program](https://womensmentalhealth.org/clinical-program)\n\n### William James College INTERFACE Referral Service\n\nA postpartum support groups list — search by location and topic for local support groups.\n\n- [interface.williamjames.edu](https://interface.williamjames.edu)\n\n## Additional resources\n\n### MA 24/7 Behavioral Health Help Line (BHHL)\n\n- 📞 Call or text [833-773-2445](tel:+18337732445)\n- [masshelpline.com](https://www.masshelpline.com)\n\nCall, text, or chat online for support from a clinician who will assess your needs and connect you to appropriate services — immediate crisis support, outpatient services, and resources in your local community. **For all types of concerns.**\n\n### 988 Suicide & Crisis Lifeline\n\n- 📞 Call [988](tel:988) or [800-273-8255](tel:+18002738255)\n- [988lifeline.org](https://988lifeline.org/current-events/the-lifeline-and-988)\n\n988 is the three-digit dialing code that connects to the 988 Suicide & Crisis Lifeline, active across the United States. When you call, text, or chat 988, you'll be connected to trained counselors who will listen, provide support, and connect you to resources if necessary.\n\n### Parental Stress Line — Massachusetts\n\n- 📞 [800-632-8188](tel:+18006328188)\n- ✉️ [info@parentshelpingparents.org](mailto:info@parentshelpingparents.org)\n\n24/7 confidential helpline including counseling, support, and information for parents. Interpreter services available.\n\n---\n\n*These listings are provided as a convenience for our patients and their families. This list is not comprehensive; there may be other local options. **Mass General Hospital does not endorse any non-Mass General affiliated providers.***"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "women's mental health",
+      "postpartum support",
+      "parental stress line",
+      "988",
+      "suicide crisis line",
+      "warm line"
+    ],
+    "notes": null
+  },
+  {
+    "id": "outpatient_mental_health_services",
+    "title": "Outpatient Mental Health Services",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Short-term therapy with Mass General social workers — for primary care patients managing illness, mental health, grief, relationships, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Mass General social workers are licensed mental health clinicians who provide **short-term individual, couple, family, and group therapy**.\n\n## We can help you with\n\n- Coping with illness, injury, treatment, and recovery\n- Mental health or substance use concerns\n- Grief and bereavement\n- Relationships, parenting, or family concerns\n- Abuse, neglect, violence, and other safety issues\n- Job, school, or other life stresses\n\n## Eligibility\n\nIf you get your primary medical care at Mass General and meet certain other criteria, you may qualify.\n\n- Contact your insurance to determine coverage\n- **No referral required**\n\n> To learn more, call 📞 [617-726-2643](tel:+16177262643) and leave a message for Intake.\n\n## Mass General Health Centers\n\nThese Mass General Health Centers provide outpatient mental health services for their primary care patients. Call your health center to get mental health services:\n\n- **MGH Back Bay HealthCare Center** — 📞 [617-267-7171](tel:+16172677171)\n- **MGH Charlestown HealthCare Center** — 📞 [617-724-8200](tel:+16177248200)\n- **MGH Chelsea HealthCare Center** — 📞 [617-889-8515](tel:+16178898515)\n- **Revere HealthCare Center** — 📞 [781-485-6100](tel:+17814856100)"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "coping with injury and illness",
+      "grief",
+      "bereavement",
+      "mental health",
+      "social worker",
+      "therapy"
+    ],
+    "notes": null
+  },
+  {
+    "id": "meditation_breathing_space",
+    "title": "Meditation: Breathing Space Exercise",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Take four minutes to reset your breathing with this guided meditation from Mass General Brigham for Children.",
+        "content": [
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=f5GvH0FuTZQ",
+            "caption": "Meditation Video: Breathing Space Exercise — Mass General Brigham for Children"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "meditation",
+      "breathing space exercise",
+      "stress relief",
+      "mindfulness"
+    ],
+    "notes": null
+  },
+  {
+    "id": "mindfulness_tips_for_adolescents",
+    "title": "Mindfulness Tips for Adolescents",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "What mindfulness is, how it can help, three simple practices to try, and apps to support a daily habit — written for teens.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Practicing mindfulness is a way to be present in your everyday life — whether you're at school, at home, or out with friends. Here you'll learn about mindfulness and how it can help you feel less stressed and live in the moment every day.\n\n## What is mindfulness?\n\n**Mindfulness** is being present and aware of the moment without judging your thoughts, feelings, and **body sensations** (what you feel physically). The past or future isn't on your mind. Instead, you are aware of how you feel and what you think here and now.\n\n> **Did you know?** Mindfulness is not sitting still and doing nothing — but it can be if you want. Mindfulness is simply being aware of your thoughts, feelings, and surroundings, and not judging or getting wrapped up in them.\n\n## How can mindfulness help me?\n\nMindfulness is helpful in many ways, including helping you:\n\n- Do better in school\n- Concentrate better in school and out of school\n- Feel less stressed\n- Sleep better at night\n- Reduce pain in your body\n- Cope with anxiety, depression, or other mental health issues\n- Improve heart, stomach, and gut health\n\n## How can I practice mindfulness?\n\nThe good thing about mindfulness is that you can do it **anywhere, any time**. You can even practice mindfulness around others and they would never know.\n\n**Simply notice the sights, smells, and things that surround you.** Focus on what's there for you in the moment, right here, right now. If you find your mind starts to wander, that's okay. Find something in your surroundings to focus on that will bring you back to the here and now.\n\n**Count your breaths, either aloud or in your head.** This is helpful if you're feeling stressed, nervous, or overwhelmed. Breathe in for 5 seconds, counting *1-2-3-4-5*. Breathe out for 5 seconds, counting *1-2-3-4-5*. Simply be aware of your stressed or nervous feelings. Don't judge those feelings or try to push them away — they will pass as you count and breathe.\n\n**Release tension in your body.** Sit, stand, or lie down in a comfortable position. Simply notice where you feel tense or stressed. When you breathe in, picture yourself gathering the stress or worry into a cloud. When you breathe out, picture yourself releasing that stress or blowing the cloud away.\n\n## Smartphone apps for mindfulness\n\nThere are many apps that can help you learn to practice and use mindfulness every day:\n\n- **[Calm](https://www.calm.com)** — A meditation website and app designed to bring peace to your mind. Some content is free; longer programs are paid.\n- **[MindShift CBT](https://apps.apple.com/us/app/mindshift-cbt/id634684825)** — A free app designed to teach you positive ways of coping with anxiety, stress, and feelings of being overwhelmed.\n\n## A note for parents\n\nBeing mindful toward your teen, your friends and family, and your surroundings can help improve your own *and* your teen's mindfulness skills. Being mindful also includes being non-judgmental, kind, grateful, loving, patient, forgiving, trusting, open, generous, gentle, and curious.\n\n---\n\n*Revised August 2016. Created by Cate Medeiros, MGH Adolescent and Young Adult Medicine.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "mindfulness",
+      "wellbeing",
+      "adolescents",
+      "stress relief",
+      "breathing"
+    ],
+    "notes": null
+  },
+  {
+    "id": "mindfulness_tips_for_toddlers",
+    "title": "Mindfulness Tips for Toddlers",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How to model mindfulness for toddlers, two breathing exercises to practice together, and a quick S.T.O.P. technique for caregivers.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Children and adults can benefit from practicing mindfulness — the process of pausing to bring attention to the present moment. Here you'll learn more about mindfulness, why it's important, and how you can start practicing mindfulness with your child on a regular basis.\n\n## What is mindfulness?\n\n**Mindfulness** is a way to purposefully pay more attention to our bodies, thoughts, and emotions. It helps your mind and body become more aware of the moment and create a feeling of inner calmness.\n\n## Why is it important to teach mindfulness to young children?\n\nGrowing up can be very stressful starting from the moment you are born (picture a tired, hungry baby). Toddlers and preschoolers often struggle with self-control and language. Teaching mindfulness can give children and their caretakers a tool to decrease anxiety and improve patience for the rest of their lives.\n\nThe benefits of mindfulness include:\n\n- Decreased stress and social anxiety\n- Increased happiness, compassion (concern and caring for others), and empathy (the ability to understand and share the feelings of another)\n- Improved attention, focus, and impulse control\n\n## How do you practice mindfulness?\n\nThere are various ways to practice mindfulness: concentration, breathing exercises, thinking positively, and feeling and expressing gratitude.\n\n### Start by practicing it yourself\n\n- **Be fully present and engaged** when you are spending time with your child. Make eye contact. Don't look at your phone often when your child is around.\n- **Treat other people kindly** even when you are feeling frustrated or upset.\n- **Choose activities that involve focus, creativity, and curiosity** — such as reading or making art rather than watching TV.\n- **Stay calm.** When your child gets upset, try not to become agitated.\n- **Express gratitude** for what you are thankful for, and teach your child to do the same.\n\n### Then try these tips with your toddler\n\n- **Teach your child how to recognize their feelings** (both good and bad) and how to describe them through words or pictures.\n- **Teach your child forgiveness.** If there is a problem, discuss it. Help your child understand the problem will get better. If a child misbehaves, make an effort to show that you forgive them.\n- **Teach your child breathing exercises.** *(See below.)*\n\n## What is mindful breathing?\n\nAs young children learn to manage strong emotions, deep breathing can be part of the process. Mindful breathing can help your child become more familiar with their body and its rhythms. You can practice it *in the moment* when your child is having trouble controlling their emotions (crying, frightened, screaming, hitting). You can also practice mindful breathing as part of your child's morning or bedtime routine. Practicing at times that are *not* stressful can make mindful breathing easier when tougher situations arise.\n\n### Finger-Counting Breaths\n\nA useful exercise to try anywhere to calm a child who is having a tantrum, or even just to take a moment to regroup. Do it together with your child.\n\n1. Create gentle fists with your hands.\n2. With each breath, take one finger out from your palm. For example, on your first exhale, open your right thumb from your fist. Pause and take a breath in.\n3. On your next exhale, take out your right pointer finger. Pause and take a breath in.\n4. Continue until all your fingers are uncurled.\n\n### Deep Breaths Before Bed\n\nBefore bed, take a few minutes to calm your mind and body down with this exercise.\n\n1. Take a deep breath in through the nose. As you breathe out, say *\"three,\"* but hold it out: *\"threeee.\"*\n2. Take another deep breath in. On the next breath out, say *\"twoooo.\"*\n3. Take a last deep breath in and let it out, saying *\"one,\"* but hold it out: *\"onnee.\"*\n4. Relax for a few more breaths and try to enjoy the feeling of calmness.\n5. Repeat if desired.\n\n## S.T.O.P. for parents and caregivers\n\nThis popular short exercise can be woven into your day anytime you are feeling stressed, upset, or out of touch with the present moment.\n\n- **S — Stop.** Take a pause from what you are doing. Put things away for a minute.\n- **T — Take a few deep breaths.** Feel the sensation of your own breathing. You can even say to yourself *\"in\"* and *\"out\"* as you inhale and exhale if it helps you concentrate.\n- **O — Observe.** Take note of your thoughts, feelings, and emotions — good or bad. Name them and notice how they are affecting your body. What is your posture? Are you having aches or pains? Are you feeling worried?\n- **P — Proceed.** If you can, do something that will support you in that moment (talk to a friend, have a cup of tea). Then continue what you were doing.\n\n## Helpful resources for learning to practice mindfulness\n\n- **[Mindfulness for Children](http://annakaharris.com/mindfulness-for-children)** by Annaka Harris — audio instructions on mindful awareness exercises.\n- **[Peace Out](http://bedtime.fm/peaceout)** — daily audio short stories that help children calm down and relax through visualization and breathing exercises.\n- **A Handful of Quiet: Happiness in Four Pebbles** by Thich Nhat Hanh — guide written by a Zen monk for parents who would like to introduce mindfulness and meditation into their homes.\n- **[Resources for Teaching Mindfulness to Your Children](http://leftbrainbuddha.com/resources-for-teaching-mindfulness-to-your-children/)** by Sarah Rudell Beach — lists popular resources (posts, books, websites) for learning mindfulness.\n- **Have You Filled a Bucket Today?** by Carol McCloud — a book that encourages children to see how easy it is to express love, kindness, and appreciation.\n- **Mindful Games** by Greenland and Harris — a card deck of 55 mindfulness exercises for kids.\n- **Sitting Still Like a Frog** by Eline Snel — exercises for helping children with anxiety, improved concentration, and handling emotions.\n- **Sitting Together** by Sumi Loundon Kim — a comprehensive guide to mindfulness for the entire family, including a guide for parents, lesson plans for children, and an activity book.\n\n---\n\n*Sources: Adapted from \"Three Ways for Children to Try Meditation at Home,\" Jillian Pransky, New York Times (5/10/16); and \"Stressing Out? S.T.O.P.\" from mindful.org, Elisha Goldstein, PhD (August 2013).*\n\n*© MGHfC CARMA. Revised November 2018.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "mindfulness",
+      "wellbeing",
+      "toddlers",
+      "breathing exercises",
+      "S.T.O.P."
+    ],
+    "notes": null
+  },
+  {
+    "id": "mindfulness_tips_for_young_children",
+    "title": "Mindfulness Tips for Young Children",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_days"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How to model mindfulness for young children, two breathing exercises to practice together, and a quick S.T.O.P. technique for caregivers.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Children and adults can benefit from practicing mindfulness — the process of pausing to bring attention to the present moment. Here you'll learn more about mindfulness, why it's important, and how you can start practicing mindfulness with your child on a regular basis.\n\n## What is mindfulness?\n\n**Mindfulness** is a way to purposefully pay more attention to our bodies, thoughts, and emotions. It helps your mind and body become more aware of the moment and create a feeling of inner calmness.\n\n## Why is it important to teach mindfulness to young children?\n\nGrowing up can be very stressful starting from the moment you are born (picture a tired, hungry baby). Young children often struggle with self-control and language. Teaching mindfulness can give children and their caretakers a tool to decrease anxiety and improve patience for the rest of their lives.\n\nThe benefits of mindfulness include:\n\n- Decreased stress and social anxiety\n- Increased happiness, compassion (concern and caring for others), and empathy (the ability to understand and share the feelings of another)\n- Improved attention, focus, and impulse control\n\n## How do you practice mindfulness?\n\nThere are various ways to practice mindfulness: concentration, breathing exercises, thinking positively, and feeling and expressing gratitude.\n\n### Start by practicing it yourself\n\n- **Be fully present and engaged** when you are spending time with your child. Make eye contact. Don't look at your phone often when your child is around.\n- **Treat other people kindly** even when you are feeling frustrated or upset.\n- **Choose activities that involve focus, creativity, and curiosity** — such as reading or making art rather than watching TV.\n- **Stay calm.** When your child gets upset, try not to become agitated.\n- **Express gratitude** for what you are thankful for, and teach your child to do the same.\n\n### Then try these tips with your young child\n\n- **Teach your child how to recognize their feelings** (both good and bad) and how to describe them through words or pictures.\n- **Teach your child forgiveness.** If there is a problem, discuss it. Help your child understand the problem will get better. If a child misbehaves, make an effort to show that you forgive them.\n- **Teach your child breathing exercises.** *(See below.)*\n\n## What is mindful breathing?\n\nAs young children learn to manage strong emotions, deep breathing can be part of the process. Mindful breathing can help your child become more familiar with their body and its rhythms. You can practice it *in the moment* when your child is having trouble controlling their emotions (crying, frightened, screaming, hitting). You can also practice mindful breathing as part of your child's morning or bedtime routine. Practicing at times that are *not* stressful can make mindful breathing easier when tougher situations arise.\n\n### Finger-Counting Breaths\n\nA useful exercise to try anywhere to calm a child who is having a tantrum, or even just to take a moment to regroup. Do it together with your child.\n\n1. Create gentle fists with your hands.\n2. With each breath, take one finger out from your palm. For example, on your first exhale, open your right thumb from your fist. Pause and take a breath in.\n3. On your next exhale, take out your right pointer finger. Pause and take a breath in.\n4. Continue until all your fingers are uncurled.\n\n### Deep Breaths Before Bed\n\nBefore bed, take a few minutes to calm your mind and body down with this exercise.\n\n1. Take a deep breath in through the nose. As you breathe out, say *\"three,\"* but hold it out: *\"threeee.\"*\n2. Take another deep breath in. On the next breath out, say *\"twoooo.\"*\n3. Take a last deep breath in and let it out, saying *\"one,\"* but hold it out: *\"onnee.\"*\n4. Relax for a few more breaths and try to enjoy the feeling of calmness.\n5. Repeat if desired.\n\n## S.T.O.P. for parents and caregivers\n\nThis popular short exercise can be woven into your day anytime you are feeling stressed, upset, or out of touch with the present moment.\n\n- **S — Stop.** Take a pause from what you are doing. Put things away for a minute.\n- **T — Take a few deep breaths.** Feel the sensation of your own breathing. You can even say to yourself *\"in\"* and *\"out\"* as you inhale and exhale if it helps you concentrate.\n- **O — Observe.** Take note of your thoughts, feelings, and emotions — good or bad. Name them and notice how they are affecting your body. What is your posture? Are you having aches or pains? Are you feeling worried?\n- **P — Proceed.** If you can, do something that will support you in that moment (talk to a friend, have a cup of tea). Then continue what you were doing.\n\n## Helpful resources for learning to practice mindfulness\n\n- **[Mindfulness for Children](http://annakaharris.com/mindfulness-for-children)** by Annaka Harris — audio instructions on mindful awareness exercises.\n- **[Peace Out](http://bedtime.fm/peaceout)** — daily audio short stories that help children calm down and relax through visualization and breathing exercises.\n- **A Handful of Quiet: Happiness in Four Pebbles** by Thich Nhat Hanh — guide written by a Zen monk for parents who would like to introduce mindfulness and meditation into their homes.\n- **[Resources for Teaching Mindfulness to Your Children](http://leftbrainbuddha.com/resources-for-teaching-mindfulness-to-your-children/)** by Sarah Rudell Beach — lists popular resources (posts, books, websites) for learning mindfulness.\n- **Have You Filled a Bucket Today?** by Carol McCloud — a book that encourages children to see how easy it is to express love, kindness, and appreciation.\n- **Mindful Games** by Greenland and Harris — a card deck of 55 mindfulness exercises for kids.\n- **Sitting Still Like a Frog** by Eline Snel — exercises for helping children with anxiety, improved concentration, and handling emotions.\n- **Sitting Together** by Sumi Loundon Kim — a comprehensive guide to mindfulness for the entire family, including a guide for parents, lesson plans for children, and an activity book.\n\n---\n\n*Sources: Adapted from \"Three Ways for Children to Try Meditation at Home,\" Jillian Pransky, New York Times (5/10/16); and \"Stressing Out? S.T.O.P.\" from mindful.org, Elisha Goldstein, PhD (August 2013).*\n\n*© MGHfC CARMA. Revised November 2018.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "mindfulness",
+      "wellbeing",
+      "young children",
+      "breathing exercises",
+      "S.T.O.P."
+    ],
+    "notes": null
+  },
+  {
+    "id": "family_advisory_council",
+    "title": "Family Advisory Council",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "The FAC is a partnership of families, leadership, and staff working together to improve the patient and family experience at MGfC.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "The Family Advisory Council (FAC) is a partnership dedicated to building positive collaboration among parents, children, and staff — ensuring the needs of children and families are met during their hospital experience."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/about/family-advisory-council",
+            "label": "Family Advisory Council — Mass General Brigham for Children",
+            "description": "Read the council's recent efforts and download the membership application."
+          },
+          {
+            "type": "text",
+            "markdown": "## Who can apply\n\nIndividuals **at least 16 years of age** who have had experience at Mass General Brigham for Children are invited to apply for membership on the council.\n\n- Terms are **three years**\n- Time and commitment levels vary depending on committee needs and candidate interests\n\n## How to apply\n\nFor more information about FAC's services, how to get involved, or to apply to become a member — including eligibility and the formal application and selection process — email [FAC@partners.org](mailto:FAC@partners.org).\n\nA membership application is available as a PDF or Word document on the council's page (use the PDF if you'd like to print and fill it out by hand, or the Word document if you want to fill it out on your computer and email it back).\n\n## Additional opportunities\n\nIn addition to the Family Advisory Council, the hospital offers a number of **standing committee opportunities** of varying time commitments for patients and families with specific interests.\n\n### Committees on which family members serve\n\nMass General Brigham for Children is committed to hearing the patient and parent voice. Some FAC family members choose to serve on additional hospital committees (this is not a requirement of FAC membership):\n\n- MGH Quality Oversight Committee\n- MGH Gun Violence Prevention Committee\n- Mass General Brigham for Children Ambulatory Patient Experience Committee\n- Mass General Brigham for Children In-Patient Experience Committee\n- Mass General Brigham for Children Ethics Committee\n- Mass General Brigham for Children Advisory Board\n- Mass General Brigham for Children PICU Parent Life Committee\n- Mass General Brigham for Children Pediatric Wheelchair Committee\n\n## Hospital members\n\nThe Family Advisory Council is a partnership of family members, hospital leadership, and staff dedicated to working together to improve the care and experience of patients and their families who receive care at Mass General Brigham for Children.\n\nThe FAC is a diverse group of **fifteen family members** whose children have received care at Mass General Brigham for Children. It is co-chaired by a family member and a staff member. Hospital leadership who serve on the FAC includes:\n\n- Medical Director\n- Associate Chief Nurse\n- Executive Director\n- Director of Quality & Safety\n- Clinical Director for Social Work\n- Representation from Nursing, Child Life, and other healthcare disciplines"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "family advisory",
+      "parent voices",
+      "FAC",
+      "council"
+    ],
+    "notes": null
+  },
+  {
+    "id": "community_resources_for_caregivers_of_children",
+    "title": "Community Resources for Caregivers of Children",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Six community organizations supporting families of children with serious illness, disabilities, or special health needs — networks, services, and support lines.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "A directory of community organizations and Massachusetts state services that support families caring for children with serious illness, disabilities, or special health needs."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/palliative-care/community-resources",
+            "label": "Community Resources — Mass General Brigham for Children",
+            "description": "Visit the source page for the most current listing of community partners."
+          },
+          {
+            "type": "text",
+            "markdown": "## Courageous Parents Network (CPN)\n\nThe Pediatric Supportive & Palliative Care team collaborates closely with the Courageous Parents Network. CPN is a destination created by parents, for parents — to support, guide, and strengthen families as they care for a seriously ill child. You'll find wisdom from fellow parents and pediatric care providers to help you be the best parent you can be to your child and get through each moment. CPN has guides, videos, and podcasts available for families.\n\n- ✉️ [Connect@courageousparentsnetwork.org](mailto:Connect@courageousparentsnetwork.org)\n- 🌐 [courageousparentsnetwork.org](https://courageousparentsnetwork.org/)\n\n## Department of Developmental Services (DDS)\n\nThe Massachusetts Department of Developmental Services offers services and supports for individuals with intellectual disabilities and children with developmental disabilities. DDS offers residential supports, services for families, respite care, and transportation services. Some services are provided directly by DDS, and others are available from providers in the community. **Applying early allows families to access supports as needed.**\n\nOnce a child turns 22 years old, DDS takes over day-to-day services from the child's school district — typically as day supports or a day program.\n\n- 📞 [617-727-5608](tel:+16177275608)\n- ✉️ [DDSInfo@mass.gov](mailto:DDSInfo@mass.gov)\n- 🌐 [mass.gov/orgs/department-of-developmental-services](https://www.mass.gov/orgs/department-of-developmental-services)\n\n## Family Ties of Massachusetts\n\nParents of children with special needs often struggle with their emotions around the everyday challenges they face. This may happen at the time of your child's diagnosis — and recur with a new diagnosis, as well as throughout the many transitions from infancy through adulthood.\n\n- 📞 [800-905-8437](tel:+18009058437)\n- 🌐 [massfamilyties.org](https://www.massfamilyties.org)\n\n## Federation for Children with Special Needs\n\nProvides information, support, and assistance to parents of children with disabilities, their professional partners, and their communities. The Federation is committed to listening to and learning from families, and encouraging full participation in community life by all people — especially those with disabilities.\n\n- 📞 [800-331-0688](tel:+18003310688)\n- ✉️ [info@fcsn.org](mailto:info@fcsn.org)\n- 🌐 [fcsn.org](https://fcsn.org/)\n\n## MA Division for Children & Youth with Special Health Needs\n\nThe Division for Children & Youth with Special Health Needs at the Massachusetts Department of Public Health works with families, providers, and others to support children and youth with special health needs ages **birth to 22** and their families. This includes children and youth with chronic medical, physical, developmental, behavioral, or emotional conditions.\n\n- 📞 Community Support Line: [800-882-1435](tel:+18008821435)\n- 🌐 [mass.gov/orgs/division-for-children-youth-with-special-health-needs](https://www.mass.gov/orgs/division-for-children-youth-with-special-health-needs)\n\n## Parents Helping Parents\n\nDoes parenting leave you feeling stressed, alone, or overwhelmed? Any parent feeling overwhelmed, isolated, or stressed who would like **free, confidential, and anonymous** support may call. **All languages available.**\n\n- 📞 [800-632-8188](tel:+18006328188) — Parental Stress Line\n- 🌐 [parentshelpingparents.org](https://www.parentshelpingparents.org/)"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Community Resources",
+      "Courageous Parents Network",
+      "Family Ties of Massachusetts",
+      "Federation for Children with Special Needs",
+      "Parents Helping Parents",
+      "DDS",
+      "special health needs"
+    ],
+    "notes": null
+  },
+  {
+    "id": "bereavement_resources",
+    "title": "Bereavement Resources",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Grief support programs for adults, children, and teens — from local Massachusetts groups to national bereavement camps and counseling networks.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "A directory of grief support resources for adults, children, and teens — including Massachusetts-based programs, national organizations, and free bereavement camps."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/children/palliative-care/bereavement-resources",
+            "label": "Bereavement Resources — Mass General Brigham for Children",
+            "description": "Visit the source page for the most current listing of bereavement programs."
+          },
+          {
+            "type": "text",
+            "markdown": "## For adults\n\n### Mass General Bereavement Support Group\n\nOpen to patients and employees of the Mass General community. An **8-week group** for people who have experienced the death of a loved one within the past 1½ years. The fee is covered by most insurances and Medicare.\n\nFor any questions, to refer, or to schedule a pre-group screening interview, contact the group leaders Ellen McCarthy, LICSW, or Carol McSheffrey, LICSW:\n\n- 📞 [617-724-8021](tel:+16177248021)\n\n### Association of Death Education & Counseling\n\nTheir website provides online resources for coping with loss. The organization can make referrals to support groups throughout the United States.\n\n- 📞 [847-509-0403](tel:+18475090403)\n\n### The Compassionate Friends\n\nOrganization dedicated to assisting families toward positive resolution of grief following the death of a child of any age, and to providing information to help others be supportive. Chapters located across the United States and internationally.\n\n- 📞 [877-969-0010](tel:+18779690010)\n\n### Hospice Foundation of America\n\nOffers support and education about death, illness, and the process of bereavement — for those grieving personally or professionally. Provides referrals to grief support groups throughout the United States and sponsors an annual *\"Living with Grief\"* teleconference series, a monthly bereavement newsletter, and other publications.\n\n- 📞 [800-854-3402](tel:+18008543402)\n\n## For children and teens\n\n### Club STAR: Sharing Together and Remembering\n\nA group for ages **5–18 and their parents** grieving the death of a parent or sibling. Meets 5:30 – 7:30 pm on the first Wednesday of October–June at Mass General Hospital. Organized by Mass General for Children, Child Life Services, and the Social Work Department.\n\nTo register, contact Hillary D'Amato, MS, CCLS:\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Camp Angel Wings\n\nDeveloped for children and teens (**6–15 years**) who share similar experiences with grief. The camp provides an educational, therapeutic experience that is also enjoyable, helping to counter the sense of isolation that can follow losing a loved one. Activities like swimming, focused arts and crafts, and small discussion groups help children and teens explore their thoughts and feelings about grief.\n\n- 📞 [508-973-3426](tel:+15089733426)\n- ✉️ [campangelwings@southcoast.org](mailto:campangelwings@southcoast.org)\n- 🌐 [southcoast.org/camp-angel-wings](https://www.southcoast.org/camp-angel-wings)\n\n### Camp Erin Boston\n\nA **free**, weekend bereavement camp for youth (**6–17**) grieving the death of a significant person. Combines grief education and emotional support with fun, traditional camp activities. Led by bereavement professionals and caring volunteers, campers explore their grief, learn essential coping skills, and make friends with peers who are also grieving.\n\nEluna partners with bereavement programs in local communities to fund and grow Camp Erin nationwide. The Boston-area provider is Beth Israel Lahey Health at Home — Watertown (home to the HEARTplay children's bereavement program).\n\n- 📞 [508-309-5107](tel:+15083095107)\n- 🌐 [camperinboston.org](https://camperinboston.org/)\n\n### Camp Kangaroo\n\nA free weekend retreat providing a camp experience and supportive atmosphere for children (**5–13**) who have experienced the loss of a loved one in the last two years. Participants receive grief education and emotional support combined with fun camp activities that help them learn effective coping strategies.\n\n- 📞 Luisa Kcomt: [847-692-1000](tel:+18476921000)\n- ✉️ [LKcomt@Seasons.org](mailto:LKcomt@Seasons.org)\n- 🌐 [seasonsfoundation.org/camp-kangaroo](http://seasonsfoundation.org/camp-kangaroo)\n\n### Care Dimensions\n\nThe most comprehensive grief support program in Massachusetts. Licensed bereavement counselors offer support groups and workshops for anyone who has experienced a death. Individual counseling is also offered to people grieving the death of a loved one who was on Care Dimensions hospice service.\n\nServices include individual consultation and referrals, workshops and support groups, bereavement resources, community education programs, and remembrance and tribute programs. The children's program provides specialized support for children and teens, including **Camp Stepping Stones**, their summer family retreat.\n\n- 📞 [855-774-5100](tel:+18557745100)\n- ✉️ [Grief@CareDimensions.org](mailto:Grief@CareDimensions.org)\n- 🌐 [caredimensions.org/grief-support](https://www.caredimensions.org/grief-support/)\n\n### Comfort Zone Camp\n\nA bereavement camp for children (**7–17**) who have lost a sibling, parent, or primary caregiver. **Free of charge**, with confidence-building activities and age-based support groups. Programs are also offered to families, plus young adult programs for ages 18–25.\n\nHeld year-round across the country; primary locations are California, Massachusetts, New Jersey, North Carolina, and Virginia (HQ).\n\n- 📞 [804-377-3430](tel:+18043773430)\n- ✉️ [info@comfortzonecamp.org](mailto:info@comfortzonecamp.org)\n- 🌐 [comfortzonecamp.org/programs](https://comfortzonecamp.org/programs/)\n\n### HEARTplay Program\n\nCareGroup Parmenter's award-winning bereavement program for children, teens, and young adults who have experienced a death. Through conversation, music, movement, visual expression, writing, and storytelling, participants share their feelings and experiences.\n\nGroups are **free of charge** through grants and donations. Offered monthly or bi-monthly in Wayland, MA and Newton, MA. Registration is required.\n\n- 📞 Jennifer Wiles: [508-309-5107](tel:+15083095107)\n- 🌐 [heartplayprogram.org](http://heartplayprogram.org/contact)\n\n### The Carriage House — Seven Hills Foundation\n\nA grief support center for children ages **3–18** and their families. The only program in Central Massachusetts providing children and teens a space to grieve the death of a loved one alongside peers also experiencing grief and loss.\n\nThe first step is a telephone intake, then an orientation session at The Carriage House. Families complete paperwork and are assigned to age-appropriate peer groups as space is available.\n\n- 📞 [508-753-5425 ext. 6430](tel:+15087535425)\n- 🌐 [sevenhills.org/programs/grief-support](https://www.sevenhills.org/programs/grief-support)\n\n### The Center for Hope & Healing\n\nCompassionate, individualized grief support for any stage. Offers an expansive grief support group program plus community programs like **Camp BraveHeart** for kids, as well as remembrance events. Services are offered throughout Rhode Island and Massachusetts.\n\n- 📞 [888-528-9077](tel:+18885289077)\n- 🌐 [hopehealthco.org/services/hospice-care/grief-support](https://www.hopehealthco.org/services/hospice-care/grief-support/)\n\n### The Children's Room\n\nCreates safe, supportive communities so that no child, teen, or family has to grieve alone. Offers hope and healing to children and teens **3½ to 18** who have experienced the death of a parent or sibling. Parents and caregivers also have opportunities to meet, talk about parenting a grieving child, and give and receive support.\n\nServices include ongoing peer support groups, educational series for parents, teen programming, monthly arts-based family nights, and adult consultations. **All services are provided free of charge.**\n\n- 📞 [781-641-4741](tel:+17816414741)\n- ✉️ [info@childrensroom.org](mailto:info@childrensroom.org)\n- 🌐 [childrensroom.org](https://childrensroom.org/)\n\n### The Garden: A Center for Grieving Children and Teens\n\nSupport to grieving young people and their families following the death of someone close — parents, siblings, other family members, or friends. Programs and discussion groups help young people identify and share their feelings and begin the healing process. Parents and guardians meet separately for a chance to discuss their own concerns.\n\nThe Garden runs **two programs annually** at its Northampton location: an 8-week session in the fall and a 10-week session in the spring. Services are also increasingly accessible through area schools.\n\n- 📞 Shelly Bathe Lenn: [413-582-5312](tel:+14135825312)\n- ✉️ [slenn@cooleydickinson.org](mailto:slenn@cooleydickinson.org)\n- 🌐 [cooleydickinson.org/programs-services/vna-hospice/the-garden](https://www.cooleydickinson.org/programs-services/vna-hospice/the-garden/)\n\n### Good Grief Program — Boston Medical Center\n\nComprehensive consultation for caregivers supporting grieving children after a significant loss (death, divorce, or separation from a primary caregiver). Offers grief-sensitive training and consultation for educators, schools, and other community agencies, and connects individuals to grief resources and referrals. **Spanish-speaking counselors available.**\n\n- 📞 [617-414-4005](tel:+16174144005)\n- ✉️ Maureen Patterson-Feder: [Maureen.Patterson@bmc.org](mailto:Maureen.Patterson@bmc.org)\n- ✉️ Minelia Rodriguez: [minelia.rodriguez@bmc.org](mailto:minelia.rodriguez@bmc.org)\n- 🌐 [bmc.org/programs/good-grief-program](https://www.bmc.org/programs/good-grief-program)\n\n### Rick's Place\n\nSupports children, teens (**5–18**), and their families after a loved one has died. Through facilitated peer support groups, Rick's Place offers grieving children and their caregivers a safe place to remember their loved ones and honor their memories — avoiding the isolation such a loss can produce.\n\n- 📞 [423-279-2010](tel:+14232792010)\n- 🌐 [ricksplacema.org/grief-support-services](https://ricksplacema.org/grief-support-services/)\n\n### Wildflower Camp Foundation\n\nOffers scholarship assistance for summer camp and enrichment programs to families in which **a parent has died**. The experience provides restoration for both children and the surviving parent. Summers are the most challenging time for single-parent families; the carefree summer days, new friends, and break from pain at home are an invaluable experience for grieving children and a much-needed respite for the surviving parent.\n\n- 📞 [781-861-1413](tel:+17818611413)\n- ✉️ [info@wildflowercampfoundation.org](mailto:info@wildflowercampfoundation.org)\n- 🌐 [wildflowercampfoundation.org](https://www.wildflowercampfoundation.org)\n\n---\n\n> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Work Department: 📞 [617-726-2643](tel:+16177262643)."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "Bereavement",
+      "child death",
+      "family support",
+      "death education and counseling",
+      "hospice",
+      "grief camp",
+      "Club STAR"
+    ],
+    "notes": null
   }
 ]

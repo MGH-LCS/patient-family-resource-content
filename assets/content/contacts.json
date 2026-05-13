@@ -81,5 +81,39 @@
     ],
     "phasesByUnit": {},
     "notes": null
+  },
+  {
+    "id": "patient_and_family_relations",
+    "name": "Patient and Family Relations",
+    "role": "Liaison between patients and MGH for praise, concerns, or questions about care standards.",
+    "phone": "+16177263370",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {},
+    "notes": null
+  },
+  {
+    "id": "pediatric_supportive_palliative_care",
+    "name": "Pediatric Supportive & Palliative Care",
+    "role": "Helps families of children with serious illness focus on quality of life, manage pain and symptoms, and coordinate care.",
+    "phone": "+16176439079",
+    "category": "services",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "after_discharge"
+      ]
+    },
+    "notes": null
   }
 ]
