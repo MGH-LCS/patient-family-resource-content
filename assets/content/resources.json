@@ -1,7 +1,7 @@
 [
   {
-    "id": "health_care_coverage_and_patient_financial_services_picu",
-    "title": "Health Care Coverage and Patient Financial Services PICU",
+    "id": "health_care_coverage_and_patient_financial_services",
+    "title": "Health Care Coverage and Patient Financial Services",
     "status": "published",
     "units": [
       "picu"
@@ -1040,7 +1040,9 @@
       "educational_resource"
     ],
     "phasesByUnit": {
-      "picu": []
+      "picu": [
+        "after_discharge"
+      ]
     },
     "languages": {
       "en": {
@@ -1520,19 +1522,13 @@
         "description": "Short videos on what to expect during a CT scan, MRI, X-ray, ultrasound, and other imaging tests.",
         "content": [
           {
-            "type": "link",
-            "url": "https://www.massgeneral.org/children/imaging/patient-resources",
-            "label": "Imaging PICU"
-          },
-          {
             "type": "text",
             "markdown": "Mass General Brigham's Imaging YouTube channel hosts short videos on what to expect during common imaging tests — including CT scans, MRIs, X-rays, ultrasound, PET scans, and fluoroscopy. Watching one of these before a scan can help your child feel more prepared."
           },
           {
             "type": "link",
-            "url": "https://www.youtube.com/@mgbimaging",
-            "label": "MGB Imaging — YouTube",
-            "description": "Browse the full collection of imaging videos."
+            "url": "https://www.massgeneral.org/children/imaging/patient-resources",
+            "label": "Imaging PICU"
           }
         ]
       }
@@ -2944,7 +2940,7 @@
     },
     "languages": {
       "en": {
-        "description": "Six community organizations supporting families of children with serious illness, disabilities, or special health needs — networks, services, and support lines.",
+        "description": "Community organizations supporting families of children with serious illness, disabilities, or special health needs — across Massachusetts.",
         "content": [
           {
             "type": "text",
