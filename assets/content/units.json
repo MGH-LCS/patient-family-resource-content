@@ -102,6 +102,12 @@
           }
         },
         {
+          "id": "food_dining",
+          "label": {
+            "en": "Food & Dining"
+          }
+        },
+        {
           "id": "hospital_stay",
           "label": {
             "en": "Hospital Stay"

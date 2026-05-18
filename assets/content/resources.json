@@ -1782,7 +1782,7 @@
       "mgh"
     ],
     "categories": [
-      "hospital_stay"
+      "food_dining"
     ],
     "phasesByUnit": {
       "picu": [
@@ -1898,7 +1898,8 @@
       "*"
     ],
     "categories": [
-      "hospital_stay"
+      "hospital_stay",
+      "food_dining"
     ],
     "phasesByUnit": {
       "picu": [
