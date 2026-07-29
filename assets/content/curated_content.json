@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "categoryPages": {
+    "picu": {
+      "discharge_planning": {
+        "blocks": [
+          {
+            "type": "checklist",
+            "id": "discharge_readiness",
+            "title": { "en": "Discharge readiness checklist" },
+            "subtitle": {
+              "en": "Work through this at your pace. Bring anything you can't check off to your care team."
+            },
+            "groups": [
+              {
+                "id": "meds_supplies",
+                "title": { "en": "Medications & supplies" },
+                "items": [
+                  { "id": "meds_know_each", "label": { "en": "I know each medicine's name, dose, and what it's for" } },
+                  { "id": "meds_written_instructions", "label": { "en": "I have written instructions and a schedule" } },
+                  { "id": "meds_prescriptions_filled", "label": { "en": "Prescriptions are filled or on the way" } },
+                  { "id": "meds_supplies_ready", "label": { "en": "I have any needed supplies (syringes, feeding pump, oxygen, etc.)" } },
+                  { "id": "meds_side_effects", "label": { "en": "I know what side effects should prompt a call" } }
+                ]
+              },
+              {
+                "id": "follow_up_care",
+                "title": { "en": "Follow-up care" },
+                "items": [
+                  { "id": "followup_pcp_scheduled", "label": { "en": "PCP follow-up scheduled (within 1–2 weeks)" } },
+                  { "id": "followup_subspecialist", "label": { "en": "Subspecialist follow-ups scheduled (or on the calendar to book)" } },
+                  { "id": "followup_number_to_call", "label": { "en": "I know what number to call if something changes" } },
+                  { "id": "followup_records_sent", "label": { "en": "Records will be sent to our PCP and outside providers" } }
+                ]
+              },
+              {
+                "id": "insurance_school",
+                "title": { "en": "Insurance & school" },
+                "items": [
+                  { "id": "insurance_approval", "label": { "en": "Insurance approval confirmed for meds and equipment" } },
+                  { "id": "school_paperwork", "label": { "en": "School / daycare paperwork completed (return-to-school note, activity restrictions)" } },
+                  { "id": "school_504_iep", "label": { "en": "504 plan or IEP updates requested if needed" } }
+                ]
+              },
+              {
+                "id": "home_readiness",
+                "title": { "en": "Home readiness" },
+                "items": [
+                  { "id": "home_basics", "label": { "en": "Home has heat, food, transportation for follow-ups" } },
+                  { "id": "home_financial_help", "label": { "en": "I know who to call for financial or resource help" } },
+                  { "id": "home_rehab_nursing", "label": { "en": "Rehab, LTAC, or home nursing arranged (if applicable)" } },
+                  { "id": "home_mental_health", "label": { "en": "Mental health follow-up in place for the patient or family (if needed)" } }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
