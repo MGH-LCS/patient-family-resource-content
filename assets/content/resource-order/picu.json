@@ -1,48 +1,94 @@
 {
-  "administrative_resource": [
-    "health_care_coverage_and_patient_financial_services_picu",
-    "appointments_and_referrals",
-    "disability_services",
-    "family_and_medical_leave",
-    "financial_services",
-    "medical_interpreter_services",
-    "patient_gateway",
-    "mgb_for_children",
-    "quality_and_safety"
-  ],
-  "discharge_planning": [
-    "picu_follow_up_clinic"
-  ],
-  "educational_resource": [
-    "learn_child_and_adult_cpr",
-    "the_benefits_of_childhood_vaccines",
-    "childproofing_your_home",
-    "pediatric_tracheostomy_how_to_exchange_a_trach",
-    "pediatric_tracheostomy_what_you_need_to_know",
-    "car_seat_safety",
-    "safe_driving_for_teens",
-    "gun_safety_how_to_discuss_with_any_age_child",
-    "guardianship",
-    "medication_reminder_smartphone_apps",
-    "navigating_relationships_with_chronic_illness",
-    "hospital_treatments_and_services",
-    "preparation_for_surgery",
-    "pediatric_health_library",
-    "bronchitis_and_bronchiolitis",
-    "chronic_lung_conditions",
-    "autism_spectrum_disorder",
-    "rights_for_non_citizens",
-    "healthy_sleep_habits_for_your_baby",
-    "clay_center_for_young_healthy_minds",
-    "pediatric_tracheostomy_how_to_suction_a_trach",
-    "asthma_what_you_need_to_know",
-    "drowning_prevention"
-  ],
-  "hospital_stay": [
+  "getting_oriented": [
+    "demo_youtube_hand_hygiene",
+    "demo_pdf_visitor_guidelines",
+    "demo_mixed_all_in_one",
     "welcome_to_the_picu",
-    "how_to_keep_your_child_safe_during_a_hospital_stay",
-    "what_to_expect_emergency_department",
-    "mgb_imaging_videos",
-    "iv_placement_and_phlebotomy"
+    "meet_your_care_team",
+    "picu_daily_routine",
+    "visiting_hours_and_policies",
+    "wifi_and_connectivity",
+    "patient_rights_and_advocacy",
+    "how_to_communicate_with_your_team",
+    "privacy_and_social_media",
+    "interpreter_services",
+    "what_to_bring_for_admission"
+  ],
+  "food_dining": [
+    "family_meal_programs",
+    "cafeteria_hours_and_menu",
+    "vending_machines",
+    "nearby_restaurants",
+    "food_delivery",
+    "family_kitchen",
+    "cafes_mgh",
+    "cafes_nwh",
+    "cafes_bwh"
+  ],
+  "comfort_basics": [
+    "family_kitchen",
+    "laundry_facilities",
+    "shower_facilities",
+    "toiletries_and_essentials",
+    "blankets_and_pillows",
+    "quiet_rooms_and_chapels",
+    "sleeping_arrangements",
+    "family_resource_room",
+    "loaner_items"
+  ],
+  "getting_around": [
+    "ride_share",
+    "lab_locations",
+    "hospital_shuttle",
+    "pharmacy_mgh",
+    "pharmacy_nwh",
+    "campus_map_bwh",
+    "pharmacy_bwh",
+    "radiology_locations",
+    "campus_map_mgh",
+    "campus_map_nwh",
+    "parking_mgh",
+    "parking_nwh",
+    "parking_bwh",
+    "public_transit_mgh",
+    "public_transit_nwh",
+    "public_transit_bwh"
+  ],
+  "medical_education": [
+    "understanding_the_icu",
+    "lines_and_tubes_explained",
+    "reading_the_monitors",
+    "ventilator_basics",
+    "pain_management",
+    "nutrition_in_the_icu",
+    "infection_prevention",
+    "common_procedures"
+  ],
+  "administrative": [
+    "fmla_information",
+    "pfml_massachusetts",
+    "medical_records_request"
+  ],
+  "wellbeing": [
+    "demo_youtube_mindfulness",
+    "quiet_rooms_and_chapels"
+  ],
+  "family_support": [
+    "family_resource_room"
+  ],
+  "discharge": [
+    "demo_pdf_discharge_checklist",
+    "going_home_checklist",
+    "home_care_instructions",
+    "emergency_department_info",
+    "outpatient_contacts"
+  ],
+  "around_boston": [
+    "nearby_hotels",
+    "ronald_mcdonald_house",
+    "things_to_do_nearby",
+    "places_to_pray_or_reflect",
+    "boston_transportation",
+    "local_support_resources"
   ]
 }
