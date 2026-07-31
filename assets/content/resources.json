@@ -1968,7 +1968,11 @@
       "Hospital Hours and Visiting policy",
       "overnight stays for parents",
       "siblings",
-      "mail and email"
+      "mail and email",
+      "laundry",
+      "washer",
+      "dryer",
+      "shower"
     ],
     "notes": null
   },
