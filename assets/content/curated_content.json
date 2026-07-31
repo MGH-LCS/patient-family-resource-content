@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -7,6 +7,9 @@
           {
             "type": "checklist",
             "id": "discharge_readiness",
+            "sites": [
+              "*"
+            ],
             "title": {
               "en": "Discharge readiness checklist"
             },
@@ -148,6 +151,112 @@
       },
       "food_dining": {
         "blocks": [
+          {
+            "type": "text",
+            "id": "mgh_cafes_intro",
+            "sites": [
+              "*"
+            ],
+            "markdown": {
+              "en": "## MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location."
+            }
+          },
+          {
+            "type": "infoCards",
+            "id": "eat_street_cafe",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "eat_street_cafe",
+                "title": {
+                  "en": "Eat Street Café"
+                },
+                "body": {
+                  "en": "The hospital's main cafeteria, with a variety of choices and daily Choose Well Eat Well healthy and plant-centered options. Wheelchair accessible — ask a staff member or push the red button at the main entrance for help."
+                },
+                "meta": {
+                  "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun & holidays 7 am–7 pm"
+                },
+                "subtitle": {
+                  "en": "Ellison Building, lower level. "
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_central",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "coffee_central",
+                "title": {
+                  "en": "Coffee Central"
+                },
+                "body": {
+                  "en": "Coffee, tea, and cold beverages to go, plus freshly baked muffins, pastries, cookies, and fruit."
+                },
+                "meta": {
+                  "en": "Open 24 hours, 7 days a week"
+                },
+                "subtitle": {
+                  "en": "Gray Building, main lobby."
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "riverside_cafe",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "riverside_cafe",
+                "title": {
+                  "en": "Riverside Café"
+                },
+                "body": {
+                  "en": "Hot breakfast sandwiches and baked goods in the morning; panini, soups, bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads at lunch. Coffee, tea, beverages, and desserts too."
+                },
+                "meta": {
+                  "en": "Mon–Fri 7 am–3 pm"
+                },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. "
+                }
+              }
+            ]
+          },
+          {
+            "type": "infoCards",
+            "id": "coffee_south",
+            "sites": [
+              "*"
+            ],
+            "cards": [
+              {
+                "id": "coffee_south",
+                "title": {
+                  "en": "Coffee South"
+                },
+                "body": {
+                  "en": "Coffee, tea, and cold beverages to go, plus muffins, pastries, bagels, cookies, and fruit. Grab & Go sandwiches and salads, and seasonal smoothies in the warmer months."
+                },
+                "meta": {
+                  "en": "Mon–Fri 6:30 am–5 pm"
+                },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. "
+                }
+              }
+            ]
+          },
           {
             "type": "text",
             "id": "food_vending_intro",
