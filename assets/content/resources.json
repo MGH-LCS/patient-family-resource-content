@@ -986,7 +986,7 @@
   {
     "id": "pediatric_health_library",
     "title": "Pediatric Health Library",
-    "status": "published",
+    "status": "inactive",
     "units": [
       "picu"
     ],
