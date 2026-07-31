@@ -2109,7 +2109,7 @@
   },
   {
     "id": "critical_care_doctors_whos_who",
-    "title": "Who's Who on the Medical Team",
+    "title": "Critical Care Doctors",
     "status": "published",
     "units": [
       "picu"
@@ -2131,7 +2131,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Welcome to Mass General Hospital for Children. You and your child's doctors, nurses, social workers, and therapists make up the healthcare team — with **you as the most important member**. The information below will help you understand the different types of doctors on the *Medical Team* that will be involved in your child's care.\n\n## Attending Physician\n\nThis is the doctor who **leads the medical team** that plans the care and treatment for your child. They will work closely with you to make decisions about your child's care, and are ultimately responsible for the medical care provided by the team.\n\nYour child's Attending Physician will either be:\n\n- A **Pediatrician who specializes in Hospital Medicine**, called a *Hospitalist*\n- A **Subspecialist Pediatrician**, who has a specialty in a certain area of pediatrics (such as a Pediatric Pulmonologist, who specializes in children's lung problems)\n- A physician from your child's primary care practice\n\nIf you are not sure who your child's Attending Physician is, please ask us.\n\n## Consulting Physician\n\nThis is a Pediatrician who has a specialty in a specific area (same as a Subspecialist) and is called in to *consult* on your child's case. This specialist will work with the medical team to diagnose, treat, and care for your child.\n\nThey may also work with a **Pediatric Fellow** — a doctor who has completed medical residency training in Pediatrics and is now in training to become a subspecialist (e.g., a Pediatric Pulmonologist).\n\nThe Consulting Physician and Fellow will make recommendations to the Attending Physician and resident team.\n\n## Resident Physician (or House Officer)\n\nThis is a doctor who has graduated from medical school and is now in a resident training program to become a Pediatrician. A Pediatric resident program usually takes 3 years to complete, and Residents are referred to by the year they are currently in:\n\n- **First-year residents** are also called *Interns*. An intern will examine your child every day and is usually the first person called if you have a question or concern. Your child will have a primary Intern while they are in the hospital.\n- **Second-year residents** are in between their first and third year. They don't have any other special name.\n- **Third-year residents** are also known as *Senior Residents*. They oversee the work of medical interns and medical students.\n\nResidents work with the Attending Physician to give your child the best care possible. The Pediatric floor at MGH has a Resident Physician available **24 hours a day**.\n\n## Medical Students\n\nMedical students are in the third and fourth year of medical school. **Third-year students** work with Interns to help care for your child. **Fourth-year students** usually work under the Senior Resident to care for your child.\n\n---\n\nMass General Hospital for Children is committed to providing you with the highest standard of care. We think this is enhanced by being a Harvard teaching hospital.\n\nSometimes it can be hard to tell who is who in a place bustling with so many pediatric doctors. All members of your child's medical team should introduce themselves and their role on the team.\n\n> **If you are uncertain who a person is, please ask them to introduce themselves.**"
+            "markdown": "# Who’s Who on the Medical Team Taking Care of My Child?\n\nWelcome to Mass General Hospital for Children. You and your child's doctors, nurses, social workers, and therapists make up the healthcare team — with **you as the most important member**. The information below will help you understand the different types of doctors on the *Medical Team* that will be involved in your child's care.\n\n## Attending Physician\n\nThis is the doctor who **leads the medical team** that plans the care and treatment for your child. They will work closely with you to make decisions about your child's care, and are ultimately responsible for the medical care provided by the team.\n\nYour child's Attending Physician will either be:\n\n- A **Pediatrician who specializes in Hospital Medicine**, called a *Hospitalist*\n- A **Subspecialist Pediatrician**, who has a specialty in a certain area of pediatrics (such as a Pediatric Pulmonologist, who specializes in children's lung problems)\n- A physician from your child's primary care practice\n\nIf you are not sure who your child's Attending Physician is, please ask us.\n\n## Consulting Physician\n\nThis is a Pediatrician who has a specialty in a specific area (same as a Subspecialist) and is called in to *consult* on your child's case. This specialist will work with the medical team to diagnose, treat, and care for your child.\n\nThey may also work with a **Pediatric Fellow** — a doctor who has completed medical residency training in Pediatrics and is now in training to become a subspecialist (e.g., a Pediatric Pulmonologist).\n\nThe Consulting Physician and Fellow will make recommendations to the Attending Physician and resident team.\n\n## Resident Physician (or House Officer)\n\nThis is a doctor who has graduated from medical school and is now in a resident training program to become a Pediatrician. A Pediatric resident program usually takes 3 years to complete, and Residents are referred to by the year they are currently in:\n\n- **First-year residents** are also called *Interns*. An intern will examine your child every day and is usually the first person called if you have a question or concern. Your child will have a primary Intern while they are in the hospital.\n- **Second-year residents** are in between their first and third year. They don't have any other special name.\n- **Third-year residents** are also known as *Senior Residents*. They oversee the work of medical interns and medical students.\n\nResidents work with the Attending Physician to give your child the best care possible. The Pediatric floor at MGH has a Resident Physician available **24 hours a day**.\n\n## Medical Students\n\nMedical students are in the third and fourth year of medical school. **Third-year students** work with Interns to help care for your child. **Fourth-year students** usually work under the Senior Resident to care for your child.\n\n---\n\nMass General Hospital for Children is committed to providing you with the highest standard of care. We think this is enhanced by being a Harvard teaching hospital.\n\nSometimes it can be hard to tell who is who in a place bustling with so many pediatric doctors. All members of your child's medical team should introduce themselves and their role on the team.\n\n> **If you are uncertain who a person is, please ask them to introduce themselves.**"
           }
         ]
       }
@@ -3022,5 +3022,376 @@
       "Club STAR"
     ],
     "notes": null
+  },
+  {
+    "id": "breastfeeding_getting_started",
+    "title": "Breastfeeding: Getting Started",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "How to latch, hand express, and pump — plus how to tell whether your baby is getting enough milk.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Breastfeeding is a skill, and most parents need practice and help to get comfortable with it. The short videos and guides below cover the basics: how to position your baby, how to get a good latch, how to express milk by hand or with a pump, and how to tell that your baby is feeding well.\n\nIf something isn't working, that is normal and it is worth asking for help early. Ask your nurse or care team to connect you with a lactation consultant."
+          },
+          {
+            "type": "link",
+            "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/a-perfect-latch.html",
+            "label": "A Perfect Latch (video) — Stanford Medicine",
+            "description": "Watch what a good latch looks like and how to help your baby get one."
+          },
+          {
+            "type": "link",
+            "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/getting-started---position-and-latch.html",
+            "label": "Getting Started: Position and Latch — Stanford Medicine",
+            "description": "Step-by-step guide to holding your baby and starting a feed."
+          },
+          {
+            "type": "link",
+            "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/hand-expressing-milk.html",
+            "label": "Hand Expression of Milk (video) — Stanford Medicine",
+            "description": "How to express milk by hand — useful in the first days and any time a pump isn't nearby."
+          },
+          {
+            "type": "link",
+            "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/maximizing-milk-production.html",
+            "label": "Hands-On Pumping to Increase Milk Supply (video) — Stanford Medicine",
+            "description": "Combining hand technique with an electric pump to get more milk per session."
+          },
+          {
+            "type": "link",
+            "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/well-fed-baby-checklist.html",
+            "label": "Well-Fed Baby Checklist — Stanford Medicine",
+            "description": "Signs that your baby is getting enough milk, by day and week."
+          },
+          {
+            "type": "link",
+            "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding.html",
+            "label": "Breastfeeding Video Library — Stanford Medicine",
+            "description": "The full set of short breastfeeding videos, handouts, and guides."
+          },
+          {
+            "type": "link",
+            "url": "https://womenshealth.gov/breastfeeding",
+            "label": "Breastfeeding Basics — Office on Women's Health",
+            "description": "Plain-language answers on getting started, positions, and what to expect."
+          },
+          {
+            "type": "link",
+            "url": "https://womenshealth.gov/breastfeeding/breastfeeding-challenges/common-breastfeeding-challenges",
+            "label": "Common Breastfeeding Challenges — Office on Women's Health",
+            "description": "Sore nipples, low milk supply, engorgement, nursing strikes, and what helps."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "breastfeeding",
+      "latch",
+      "hand expression",
+      "pumping",
+      "milk supply",
+      "lactation",
+      "feeding",
+      "newborn",
+      "chestfeeding",
+      "nursing"
+    ],
+    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything."
+  },
+  {
+    "id": "breastfeeding_help_and_support",
+    "title": "Breastfeeding Help and Support",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "Where to find lactation help near you — support groups, milk banks, WIC, and Massachusetts programs.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "You do not have to figure breastfeeding out alone. Ask your nurse or care team to connect you with a lactation consultant while you are here. The organizations below offer free or low-cost help after you go home — support groups, warmlines, and lactation counselors near you."
+          },
+          {
+            "type": "link",
+            "url": "https://zipmilk.org/",
+            "label": "ZipMilk — Find Lactation Support by Zip Code",
+            "description": "Search local lactation consultants, support groups, and warmlines by zip code."
+          },
+          {
+            "type": "link",
+            "url": "https://llli.org/",
+            "label": "La Leche League International",
+            "description": "Free peer support groups and a large library of breastfeeding articles."
+          },
+          {
+            "type": "link",
+            "url": "https://www.babycafeusa.org/",
+            "label": "Baby Cafe — Free Drop-In Breastfeeding Support",
+            "description": "Free drop-in sessions with a lactation specialist. Search for a location near you."
+          },
+          {
+            "type": "link",
+            "url": "https://massbreastfeeding.org/",
+            "label": "Massachusetts Breastfeeding Coalition",
+            "description": "Statewide resources, local coalitions, and advocacy for Massachusetts families."
+          },
+          {
+            "type": "link",
+            "url": "https://milkbankne.org/",
+            "label": "Mothers' Milk Bank Northeast",
+            "description": "Donor milk for babies who need it, and information on donating milk."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/eohhs/consumer/basic-needs/food/wic/",
+            "label": "Massachusetts WIC Nutrition Program",
+            "description": "Free nutrition support, breastfeeding counseling, and food benefits for eligible families."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/obgyn/patient-resources/breastfeeding/",
+            "label": "Breastfeeding Support — Mass General OB/GYN",
+            "description": "Classes, consultations, and breastfeeding services at Mass General."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/MGH/pdf/children/carma-breastfeeding-community-resources.pdf",
+            "label": "Breastfeeding Community Resources and Websites (PDF)",
+            "description": "A printable list of community breastfeeding resources, compiled by Mass General Brigham for Children."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding/index.htm",
+            "label": "Breastfeeding — Centers for Disease Control and Prevention",
+            "description": "Guidance on breastfeeding, milk storage, illness, and returning to work."
+          },
+          {
+            "type": "text",
+            "markdown": "## Medications while breastfeeding\n\nMost medications are compatible with breastfeeding, but always check with your own doctor or pharmacist before starting or stopping anything."
+          },
+          {
+            "type": "link",
+            "url": "https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/",
+            "label": "Psychiatric Medications and Breastfeeding — MGH Center for Women's Mental Health",
+            "description": "What is known about antidepressants and other psychiatric medications while breastfeeding."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding/recommendations/vaccinations.htm",
+            "label": "Vaccines While Breastfeeding — CDC",
+            "description": "Which vaccines are safe to receive while you are breastfeeding."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "breastfeeding",
+      "lactation consultant",
+      "support group",
+      "milk bank",
+      "donor milk",
+      "WIC",
+      "ZipMilk",
+      "La Leche League",
+      "Baby Cafe",
+      "Massachusetts",
+      "medications",
+      "nursing",
+      "chestfeeding"
+    ],
+    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything."
+  },
+  {
+    "id": "breastfeeding_handouts",
+    "title": "Breastfeeding Handouts",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "Printable guides on milk storage, breastfeeding twins, nutrition, and feeding after substance use.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Printable handouts you can save or bring to an appointment."
+          },
+          {
+            "type": "link",
+            "url": "https://www.healthychildren.org/english/ages-stages/baby/breastfeeding/pages/why-breastfeed.aspx",
+            "label": "Breastfeeding Benefits for Parents — HealthyChildren.org (AAP)",
+            "description": "How breastfeeding affects your own health, not just your baby's."
+          },
+          {
+            "type": "link",
+            "url": "https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/Breastfeeding-Benefits-Your-Babys-Immune-System.aspx",
+            "label": "How Breastfeeding Supports Your Baby's Immune System — HealthyChildren.org (AAP)",
+            "description": "What is in breast milk and how it helps protect your baby from infection."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding/pdf/preparation-of-breast-milk_H.pdf",
+            "label": "Breast Milk Storage and Preparation (PDF) — CDC",
+            "description": "How long milk keeps on the counter, in the fridge, and in the freezer — and how to warm it."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/mgh/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf",
+            "label": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children",
+            "description": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
+          },
+          {
+            "type": "link",
+            "url": "https://llli.org/news/two-breastfeeding-twins-2/",
+            "label": "Breastfeeding Twins — La Leche League",
+            "description": "Positions, supply, and scheduling when you are feeding two."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/mgh/pdf/children/carma-breastfeeding-guidance-for-patients-who-use-substances.pdf",
+            "label": "Breast Milk and Substance Use (PDF) — MGB for Children",
+            "description": "Guidance on breastfeeding for parents who use substances, including what is and isn't safe."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/mgh/pdf/children/ramadan-taking-care-of-your-family-breastfeeding-tips.pdf",
+            "label": "Ramadan: Breastfeeding Tips for Your Family (PDF) — MGB for Children",
+            "description": "Fasting, hydration, and keeping your milk supply up during Ramadan."
+          },
+          {
+            "type": "link",
+            "url": "https://www.foodallergy.org/resources/food-allergy-labeling",
+            "label": "Reading Food Labels for Allergens — FARE",
+            "description": "How to spot milk, soy, egg, wheat, peanut, tree nut, and shellfish on ingredient labels."
+          }
+        ]
+      },
+      "es": {
+        "description": "Guías para imprimir sobre el almacenamiento de leche, amamantar gemelos, nutrición y lactancia con uso de sustancias.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Materiales para imprimir que puede guardar o llevar a una cita."
+          },
+          {
+            "type": "link",
+            "url": "https://www.healthychildren.org/spanish/ages-stages/baby/breastfeeding/paginas/why-breastfeed.aspx",
+            "label": "Beneficios de la lactancia materna — HealthyChildren.org (AAP)",
+            "description": "Cómo la lactancia beneficia su propia salud, no solo la de su bebé."
+          },
+          {
+            "type": "link",
+            "url": "https://www.healthychildren.org/spanish/ages-stages/baby/breastfeeding/paginas/breastfeeding-benefits-your-babys-immune-system.aspx",
+            "label": "La lactancia y el sistema inmunitario de su bebé — HealthyChildren.org (AAP)",
+            "description": "Qué contiene la leche materna y cómo protege a su bebé."
+          },
+          {
+            "type": "link",
+            "url": "https://espanol.womenshealth.gov/breastfeeding/breastfeeding-challenges/common-breastfeeding-challenges",
+            "label": "Problemas comunes de la lactancia — Oficina para la Salud de la Mujer",
+            "description": "Pezones adoloridos, poca leche, congestión y qué hacer."
+          },
+          {
+            "type": "link",
+            "url": "https://llli.org/news/cuando-son-dos-amamantar-gemelos-2/",
+            "label": "Cuando son dos: amamantar gemelos — La Leche League",
+            "description": "Posiciones, producción de leche y horarios para alimentar a dos bebés."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding/media/pdfs/preparacion-de-la-leche-materna-508.pdf",
+            "label": "Preparación y almacenamiento de la leche materna (PDF) — CDC",
+            "description": "Cuánto dura la leche en el mostrador, el refrigerador y el congelador."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/MGH/pdf/children/DownSyndrome-Helpful-Information-Breastfeeding-SPAN.pdf",
+            "label": "Síndrome de Down: amamantar a su bebé (PDF) — MGB for Children",
+            "description": "Información útil para amamantar a un bebé con síndrome de Down."
+          },
+          {
+            "type": "text",
+            "markdown": "## Solo disponible en inglés\n\nEstos materiales todavía no tienen versión en español."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/mgh/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf",
+            "label": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children",
+            "description": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/mgh/pdf/children/carma-breastfeeding-guidance-for-patients-who-use-substances.pdf",
+            "label": "Breast Milk and Substance Use (PDF) — MGB for Children",
+            "description": "Guidance on breastfeeding for parents who use substances, including what is and isn't safe."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneral.org/assets/mgh/pdf/children/ramadan-taking-care-of-your-family-breastfeeding-tips.pdf",
+            "label": "Ramadan: Breastfeeding Tips for Your Family (PDF) — MGB for Children",
+            "description": "Fasting, hydration, and keeping your milk supply up during Ramadan."
+          },
+          {
+            "type": "link",
+            "url": "https://www.foodallergy.org/resources/food-allergy-labeling",
+            "label": "Reading Food Labels for Allergens — FARE",
+            "description": "How to spot milk, soy, egg, wheat, peanut, tree nut, and shellfish on ingredient labels."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "breastfeeding",
+      "handouts",
+      "printable",
+      "milk storage",
+      "twins",
+      "nutrition",
+      "substance use",
+      "Ramadan",
+      "Down syndrome",
+      "food allergy",
+      "Spanish",
+      "español",
+      "lactation"
+    ],
+    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything."
   }
 ]
