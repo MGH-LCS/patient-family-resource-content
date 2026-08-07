@@ -38,11 +38,11 @@
     "the_benefits_of_childhood_vaccines",
     "clay_center_for_young_healthy_minds",
     "guardianship",
-    "rights_for_non_citizens"
+    "rights_for_non_citizens",
+    "pediatric_health_library"
   ],
   "food_dining": [
-    "mgh_cafeterias_and_cafes",
-    "picu_welcome_guide"
+    "mgh_cafeterias_and_cafes"
   ],
   "hospital_stay": [
     "welcome_to_the_picu",
@@ -58,6 +58,7 @@
     "daisy_award_nomination"
   ],
   "meet_the_care_team": [
+    "whos_who_on_the_picu_team",
     "critical_care_doctors_whos_who",
     "certified_child_life_specialists",
     "patient_and_family_relations",
