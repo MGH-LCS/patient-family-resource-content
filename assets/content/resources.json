@@ -1898,8 +1898,7 @@
       "*"
     ],
     "categories": [
-      "hospital_stay",
-      "food_dining"
+      "hospital_stay"
     ],
     "phasesByUnit": {
       "picu": [
