@@ -3396,5 +3396,57 @@
       "lactation"
     ],
     "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything."
+  },
+  {
+    "id": "whos_who_on_the_picu_team",
+    "title": "Who’s Who on the PICU Team",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "meet_the_care_team"
+    ],
+    "phasesByUnit": {
+      "picu": []
+    },
+    "languages": {
+      "en": {
+        "description": "\tA guide to every role on your child's PICU care team, what they do, and how they support your family.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "**Physicians (MD):** The Physicians on the unit consist of Attendings, Fellows, Residents, and Medical Students. Please see the “Critical Care Doctors” link on the app to learn more about the different roles of the medical team. \n\n \n\n**Nurses (RN):** The RNs on the PICU work 12-hour shifts, either from 7a-7p or 7p-7a. Your child’s Nursing Team provides high-level clinical care while managing the unique physical, emotional, and developmental needs of patients, often acting as a bridge between physicians, patients, and families. \n\n \n\n**Patient Care Assistants (PCA):** The PCAs on the PICU work in 4-, 8-, or 12-hour increments, both day and night. PCAs provide around-the-clock care to patients under the supervision of a nurse. \n\n \n\n**Respiratory Therapists (RT):** RTs evaluate, treat, and care for patients with breathing or cardiopulmonary disorders, ranging from asthma to chronic lung diseases and emergency trauma. There is an RT present on the PICU 24 hours a day. \n\n \n\n**Child Life Specialist (CLS):** CLS’s are trained to work with children in medical settings, using play and developmental interventions to help children and families adjust to, and understand, their experience in the hospital. \n\n \n\n**Art Therapy:** Art therapy uses simple art activities to help patients express themselves and develop a sense of well-being through the creative process. You do not have to be an artist to enjoy and take advantage of art’s powers to enhance wellness. \n\n \n\n**Music Therapy:** Music therapy can help support a child’s experience through active music making, gentle live music for relaxation, music-supported meditation, and much more. \n\n \n\n**Pet Therapy:** Specially trained dogs who visit your hospital room to help children cope and overcome the stress that they may experience during their stay. Ask your Child Life Specialist about our pet therapy schedule. \n\n \n\n**Social Work (SW):** SW is available to discuss new diagnoses as well as the crisis of hospitalization and family adjustment to hospitalization. SW can help support your child and family throughout the entire hospital stay. \n\n \n\n**Case Management (CM):** To ensure that patients are receiving the services they need to achieve an optimum quality of life, the CM coordinates treatments and providers, facilitates safe transitions between hospital and outpatient settings and educates patients, families and providers on best health practices and services in the outpatient setting. \n \n\n**Spiritual Care (SC):** As partners in healing, SC Providers serve patients, families, visitors and staff through comfort, encouragement and prayer. They embrace life-long learning, respect the dignity and worth of every person, and honor the sacredness of the human spirit. SC services are always free, private and confidential. \n\n \n\n**Physical Therapy (PT):** Specialize in focusing on the large motor groups that contribute to walking, reaching, standing, and many more physical activities. \n\n \n\n**Occupational Therapy (OT):** Offer skilled treatment to help individuals achieve independence in all facets of their lives. OT facilitates early mobility, sensory regulation, and developmental support to improve recovery. \n\n \n\n**Speech-Language Pathologists (SLP):** Assess, diagnose, treat, and help to prevent communication and swallowing disorders in patients. \n\n \n\n**Nutritionists/Dieticians:** Trained to care for children with a variety of feeding difficulties. Nutritionists work together with the Dietary team to provide tailored nutritional care that helps support growth, development, and health management. "
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "care team",
+      "who's who",
+      "nurse",
+      "rn",
+      "pca",
+      "patient care assistant",
+      "respiratory therapist",
+      "rt",
+      "child life",
+      "social work",
+      "case management",
+      "spiritual care",
+      "chaplain",
+      "physical therapy",
+      "occupational therapy",
+      "speech language pathologist",
+      "slp",
+      "nutritionist",
+      "dietitian",
+      "dietician"
+    ],
+    "notes": null
   }
 ]
