@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -158,7 +158,7 @@
               "*"
             ],
             "markdown": {
-              "en": "## MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\n---"
+              "en": "# MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\n---"
             }
           },
           {
@@ -264,7 +264,7 @@
               "*"
             ],
             "markdown": {
-              "en": "## Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
+              "en": "# Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
             }
           },
           {
@@ -382,7 +382,7 @@
               "*"
             ],
             "markdown": {
-              "en": "## Food near the hospital"
+              "en": "# Food near the hospital"
             }
           },
           {
