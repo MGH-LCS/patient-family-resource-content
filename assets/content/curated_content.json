@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -158,7 +158,7 @@
               "*"
             ],
             "markdown": {
-              "en": "## MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location."
+              "en": "## MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\n---"
             }
           },
           {
@@ -173,14 +173,14 @@
                 "title": {
                   "en": "Eat Street Café"
                 },
+                "subtitle": {
+                  "en": "Ellison Building, lower level. "
+                },
                 "body": {
                   "en": "The hospital's main cafeteria, with a variety of choices and daily Choose Well Eat Well healthy and plant-centered options. Wheelchair accessible — ask a staff member or push the red button at the main entrance for help."
                 },
                 "meta": {
                   "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun & holidays 7 am–7 pm"
-                },
-                "subtitle": {
-                  "en": "Ellison Building, lower level. "
                 }
               }
             ]
@@ -197,14 +197,14 @@
                 "title": {
                   "en": "Coffee Central"
                 },
+                "subtitle": {
+                  "en": "Gray Building, main lobby."
+                },
                 "body": {
                   "en": "Coffee, tea, and cold beverages to go, plus freshly baked muffins, pastries, cookies, and fruit."
                 },
                 "meta": {
                   "en": "Open 24 hours, 7 days a week"
-                },
-                "subtitle": {
-                  "en": "Gray Building, main lobby."
                 }
               }
             ]
@@ -221,14 +221,14 @@
                 "title": {
                   "en": "Riverside Café"
                 },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. "
+                },
                 "body": {
                   "en": "Hot breakfast sandwiches and baked goods in the morning; panini, soups, bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads at lunch. Coffee, tea, beverages, and desserts too."
                 },
                 "meta": {
                   "en": "Mon–Fri 7 am–3 pm"
-                },
-                "subtitle": {
-                  "en": "Yawkey Center for Outpatient Care, main lobby. "
                 }
               }
             ]
@@ -245,14 +245,14 @@
                 "title": {
                   "en": "Coffee South"
                 },
+                "subtitle": {
+                  "en": "Yawkey Center for Outpatient Care, main lobby. "
+                },
                 "body": {
                   "en": "Coffee, tea, and cold beverages to go, plus muffins, pastries, bagels, cookies, and fruit. Grab & Go sandwiches and salads, and seasonal smoothies in the warmer months."
                 },
                 "meta": {
                   "en": "Mon–Fri 6:30 am–5 pm"
-                },
-                "subtitle": {
-                  "en": "Yawkey Center for Outpatient Care, main lobby. "
                 }
               }
             ]
@@ -264,7 +264,7 @@
               "*"
             ],
             "markdown": {
-              "en": "## Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital."
+              "en": "## Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
             }
           },
           {
