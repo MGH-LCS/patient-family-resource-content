@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 6,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -258,6 +258,14 @@
             ]
           },
           {
+            "type": "spacer",
+            "id": "spacer",
+            "sites": [
+              "*"
+            ],
+            "height": 16
+          },
+          {
             "type": "text",
             "id": "food_vending_intro",
             "sites": [
@@ -374,6 +382,14 @@
                 }
               }
             ]
+          },
+          {
+            "type": "spacer",
+            "id": "spacer_2",
+            "sites": [
+              "*"
+            ],
+            "height": 16
           },
           {
             "type": "text",
