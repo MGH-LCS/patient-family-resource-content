@@ -1462,7 +1462,11 @@
       "hospital_stay"
     ],
     "phasesByUnit": {
-      "picu": []
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days"
+      ]
     },
     "languages": {
       "en": {
@@ -3107,7 +3111,12 @@
       "educational_resource"
     ],
     "phasesByUnit": {
-      "picu": []
+      "picu": [
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
     },
     "languages": {
       "en": {
@@ -3197,7 +3206,12 @@
       "educational_resource"
     ],
     "phasesByUnit": {
-      "picu": []
+      "picu": [
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
     },
     "languages": {
       "en": {
@@ -3312,7 +3326,12 @@
       "educational_resource"
     ],
     "phasesByUnit": {
-      "picu": []
+      "picu": [
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
     },
     "languages": {
       "en": {
@@ -3478,7 +3497,12 @@
       "meet_the_care_team"
     ],
     "phasesByUnit": {
-      "picu": []
+      "picu": [
+        "pre_admission",
+        "just_arrived",
+        "first_night",
+        "first_days"
+      ]
     },
     "languages": {
       "en": {

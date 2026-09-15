@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 8,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -9,6 +9,9 @@
             "id": "discharge_readiness",
             "sites": [
               "*"
+            ],
+            "phases": [
+              "going_home"
             ],
             "title": {
               "en": "Discharge readiness checklist"
@@ -159,7 +162,12 @@
             ],
             "markdown": {
               "en": "# MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\n---"
-            }
+            },
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ]
           },
           {
             "type": "infoCards",
@@ -183,6 +191,11 @@
                   "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun & holidays 7 am–7 pm"
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -207,6 +220,11 @@
                   "en": "Open 24 hours, 7 days a week"
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -231,6 +249,11 @@
                   "en": "Mon–Fri 7 am–3 pm"
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -255,6 +278,11 @@
                   "en": "Mon–Fri 6:30 am–5 pm"
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -273,7 +301,12 @@
             ],
             "markdown": {
               "en": "# Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
-            }
+            },
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ]
           },
           {
             "type": "infoCards",
@@ -291,6 +324,11 @@
                   "en": "Snacks, cold drinks, and coffee vending machines in the Ellison Building main lobby. Available 24/7. Accepts cards and mobile pay."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -309,6 +347,11 @@
                   "en": "Off the main corridor near the elevators — hot coffee, sandwiches, chips, and microwaveable meals. Open around the clock."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -327,6 +370,11 @@
                   "en": "Additional vending clusters on lower levels of Bigelow and Blake buildings. Ask any security officer for the closest one to your unit."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -345,6 +393,11 @@
                   "en": "When the seating area closes, the grab-and-go cooler often stays stocked with wraps, yogurt, and fruit until the next morning."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -363,6 +416,11 @@
                   "en": "Free coffee, tea, and light snacks stocked by Child Life and volunteers. Refills happen a few times a day — take what you need."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -381,6 +439,11 @@
                   "en": "Some patient meal programs allow a parent tray to be added to your child's late order. Ask the overnight nurse what's possible."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -399,7 +462,12 @@
             ],
             "markdown": {
               "en": "# Food near the hospital"
-            }
+            },
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
+            ]
           },
           {
             "type": "infoCards",
@@ -420,6 +488,11 @@
                   "en": "Open ~7 AM – 10 PM daily"
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -438,6 +511,11 @@
                   "en": "Tatte Bakery & Café (Charles St) and Pressed Café (Cambridge St) — pastries, sandwiches, salads. Open early morning through evening."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -456,6 +534,11 @@
                   "en": "Sweetgreen, Chipotle, Cava, and Panera are all a 3–5 minute walk. Most open until 9–10 PM and deliver via DoorDash/Uber Eats."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -474,6 +557,11 @@
                   "en": "7-Eleven (Cambridge St, near Charles Circle) is open 24 hours for snacks and basics. Beacon Hill Market (Charles St) is a late-night grocery until midnight. South Station food court (~15 min via Red Line) has several 24-hour spots if you need a change of scene."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -492,6 +580,11 @@
                   "en": "DoorDash, Uber Eats, and Grubhub all deliver to MGH. Meet the driver at the Fruit St main entrance — most buildings don't allow drivers upstairs."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           },
           {
@@ -510,6 +603,11 @@
                   "en": "For a real break: Italian restaurants and cafés on Hanover St stay open late. Regina Pizzeria and Mike's Pastry are family favorites."
                 }
               }
+            ],
+            "phases": [
+              "just_arrived",
+              "first_night",
+              "first_days"
             ]
           }
         ]
