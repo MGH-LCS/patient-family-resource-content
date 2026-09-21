@@ -90,6 +90,12 @@
           }
         },
         {
+          "id": "campus_map",
+          "label": {
+            "en": "Campus Map"
+          }
+        },
+        {
           "id": "discharge_planning",
           "label": {
             "en": "Discharge Planning"
@@ -129,6 +135,12 @@
           "id": "parent_and_family_support",
           "label": {
             "en": "Parent and Family Support"
+          }
+        },
+        {
+          "id": "parking",
+          "label": {
+            "en": "Parking"
           }
         }
       ],

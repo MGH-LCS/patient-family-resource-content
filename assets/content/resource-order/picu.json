@@ -10,6 +10,9 @@
     "quality_and_safety",
     "mgb_for_children"
   ],
+  "campus_map": [
+    "hospital_campus_map"
+  ],
   "discharge_planning": [
     "picu_follow_up_clinic"
   ],
@@ -49,8 +52,6 @@
     "picu_welcome_guide",
     "how_to_keep_your_child_safe_during_a_hospital_stay",
     "overnight_accommodations",
-    "hospital_parking_and_interactive_campus_map",
-    "hospital_campus_map",
     "pediatric_emergency_department",
     "what_to_expect_emergency_department",
     "iv_placement_and_phlebotomy",
@@ -86,5 +87,8 @@
     "community_resources_for_caregivers_of_children",
     "family_advisory_council",
     "bereavement_resources"
+  ],
+  "parking": [
+    "hospital_parking_and_interactive_campus_map"
   ]
 }

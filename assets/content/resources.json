@@ -1729,7 +1729,7 @@
       "mgh"
     ],
     "categories": [
-      "hospital_stay"
+      "campus_map"
     ],
     "phasesByUnit": {
       "picu": [
@@ -1775,7 +1775,7 @@
       "*"
     ],
     "categories": [
-      "hospital_stay"
+      "parking"
     ],
     "phasesByUnit": {
       "picu": [
