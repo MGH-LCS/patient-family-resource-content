@@ -47,6 +47,9 @@
   "food_dining": [
     "mgh_cafeterias_and_cafes"
   ],
+  "gift_shop": [
+    "gift_shop_and_flower_shop"
+  ],
   "hospital_stay": [
     "welcome_to_the_picu",
     "picu_welcome_guide",

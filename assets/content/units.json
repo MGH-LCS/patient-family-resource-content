@@ -93,7 +93,8 @@
           "id": "campus_map",
           "label": {
             "en": "Campus Map"
-          }
+          },
+          "directOpenPdf": "assets/pdfs/mgh-main-campus-map.pdf"
         },
         {
           "id": "discharge_planning",
@@ -111,6 +112,12 @@
           "id": "food_dining",
           "label": {
             "en": "Food & Dining"
+          }
+        },
+        {
+          "id": "gift_shop",
+          "label": {
+            "en": "Gift Shop"
           }
         },
         {
@@ -141,6 +148,12 @@
           "id": "parking",
           "label": {
             "en": "Parking"
+          }
+        },
+        {
+          "id": "transportation",
+          "label": {
+            "en": "Transportation"
           }
         }
       ],

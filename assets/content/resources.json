@@ -3539,5 +3539,62 @@
       "dietician"
     ],
     "notes": null
+  },
+  {
+    "id": "gift_shop_and_flower_shop",
+    "title": "Gift Shop and Flower Shop",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "categories": [
+      "gift_shop"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "going_home"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Where to buy flowers, gifts, snacks, and essentials on campus — and what can't come into the PICU.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "**The General Store and Flower Shop** sells flowers, balloons, gifts, snacks, reading materials, toiletries, and phone chargers. Proceeds support patient and family programs at the hospital.\n\n- **Where:** Blake Building, 1st floor\n- **Hours:** Monday–Friday 8:30 am–7:30 pm · Saturday–Sunday 10 am–6 pm\n- 📞 [617-726-2227](tel:+16177262227)\n\n## Please note for the PICU\n\nFresh flowers and balloons are not allowed in intensive care units, and latex balloons are not allowed anywhere in the hospital. If family or friends want to send something, a plush toy, book, or gift basket is a good choice — mention your child's age so staff can help pick something safe.\n\n## Ordering online\n\nFamily and friends can order from the shop's website for free delivery to a patient's room, 7 days a week. If your child is discharged before a delivery arrives, the sender is notified and can redirect it or cancel.\n\n## Second location\n\n**The General Store at Yawkey** is in the Yawkey Center for Outpatient Care, open Monday–Friday 8:30 am–4:30 pm."
+          },
+          {
+            "type": "link",
+            "url": "https://mghgeneralstore.myshopify.com/",
+            "label": "MGH General Store & Flower Shop — order online",
+            "description": "Free delivery to a patient's room within the hospital."
+          },
+          {
+            "type": "link",
+            "url": "https://mghgeneralstore.myshopify.com/pages/medical-restrictions-at-massachusetts-general-hospital",
+            "label": "What can and can't be delivered",
+            "description": "The shop's list of restrictions for ICU, flowers, balloons, and toys."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "gift shop",
+      "flowers",
+      "balloons",
+      "general store",
+      "snacks",
+      "toiletries",
+      "phone charger",
+      "Blake building"
+    ],
+    "notes": "Drafted 2026-09-22 from massgeneralbrigham.org retail-shops page and the shop's own site. Team to verify hours/phone and PICU flower/balloon policy wording."
   }
 ]
