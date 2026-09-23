@@ -3596,5 +3596,118 @@
       "Blake building"
     ],
     "notes": "Drafted 2026-09-22 from massgeneralbrigham.org retail-shops page and the shop's own site. Team to verify hours/phone and PICU flower/balloon policy wording."
+  },
+  {
+    "id": "parking_at_mass_general",
+    "title": "Parking at Mass General",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "categories": [
+      "parking"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "going_home"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Where to park, what it costs with validation, and where to get your ticket validated — there are no cashiers at the exits.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Patients and visitors can park at the **Fruit Street Garage**, **Parkman Street Garage**, **Yawkey Center Garage**, and **Charles River Plaza**. Valet parking is available at the Wang and Yawkey Centers.\n\n## Get your ticket validated\n\nValidated rates are much lower than the regular garage rates (up to $65 a day without validation). Have your ticket validated at the **cashier office on the ground-floor lobby of the garage** before you leave — there are no cashiers at the exit lanes.\n\n- **Fruit Street Garage** cashier: open around the clock\n- **Yawkey Center** cashier: 7 am–11 pm daily; after hours, use Fruit Street\n- **Parkman Street** cashier: Monday–Friday 9 am–5 pm; otherwise use Fruit Street\n\n## Validated patient and visitor rates\n\nEffective February 1, 2026:\n\n- Up to 30 minutes: free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nParking questions: 📞 [617-726-8886](tel:+16177268886)"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+            "label": "Getting Here and Parking — Mass General Brigham",
+            "description": "Garages, valet, rates, and directions for the main campus."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "parking",
+      "garage",
+      "Fruit Street Garage",
+      "Parkman Street Garage",
+      "Yawkey garage",
+      "valet",
+      "parking rates",
+      "validation",
+      "validate ticket"
+    ],
+    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking (rates effective 2026-02-01). Team to verify: the 617-726-8886 parking number (MGB pages show 617-726-2000 main), the Fruit Street cashier 'around the clock' wording (source says the office is open 24/7), and whether any discounted multi-day rate exists for families of inpatients — the page doesn't mention one."
+  },
+  {
+    "id": "getting_here_by_public_transit",
+    "title": "Getting Here by Public Transit",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "categories": [
+      "transportation"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "going_home"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "The hospital is across the street from the Red Line — often easier than parking downtown.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "With so many visitors each day, the hospital recommends public transportation whenever you can. Mass General is **directly across the street from the Charles/MGH stop on the MBTA Red Line**, and a short walk from **Bowdoin** (Blue Line) and **North Station** (Green and Orange Lines, plus commuter rail).\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mbta.com/trip-planner",
+            "label": "MBTA trip planner",
+            "description": "Plan a route to Charles/MGH on the Red Line."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+            "label": "Getting Here and Parking — Mass General Brigham",
+            "description": "Directions, transit, and parking for the main campus."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "public transit",
+      "MBTA",
+      "Red Line",
+      "Charles/MGH",
+      "subway",
+      "train",
+      "North Station",
+      "Bowdoin",
+      "directions",
+      "getting here"
+    ],
+    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking. Team to verify wording; consider adding hospital shuttle info if the unit has any for families."
   }
 ]

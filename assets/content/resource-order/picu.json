@@ -92,6 +92,10 @@
     "bereavement_resources"
   ],
   "parking": [
+    "parking_at_mass_general",
     "hospital_parking_and_interactive_campus_map"
+  ],
+  "transportation": [
+    "getting_here_by_public_transit"
   ]
 }
