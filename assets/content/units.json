@@ -86,7 +86,7 @@
         {
           "id": "administrative_resource",
           "label": {
-            "en": "Administrative Resource"
+            "en": "Administrative Resources"
           }
         },
         {
@@ -105,7 +105,7 @@
         {
           "id": "educational_resource",
           "label": {
-            "en": "Educational Resource"
+            "en": "Educational Resources"
           }
         },
         {
@@ -118,7 +118,8 @@
           "id": "gift_shop",
           "label": {
             "en": "Gift Shop"
-          }
+          },
+          "directOpenResource": "gift_shop_and_flower_shop"
         },
         {
           "id": "hospital_stay",
@@ -154,7 +155,8 @@
           "id": "transportation",
           "label": {
             "en": "Transportation"
-          }
+          },
+          "directOpenResource": "getting_here_by_public_transit"
         }
       ],
       "contactCategories": [
