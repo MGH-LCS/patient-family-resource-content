@@ -107,11 +107,6 @@
         "description": "A demo YouTube resource. Tests the in-app video player. Replace this URL with a real MGB/WHO video before going live.",
         "content": [
           {
-            "type": "image",
-            "localPath": "assets/images/resources/ausmod056_00v2.0.jpg",
-            "alt": "Image"
-          },
-          {
             "type": "text",
             "markdown": "## Why hand hygiene matters\n\nOne of the most important ways to protect your child in the PICU is clean hands. Every person who enters the room — staff, visitors, and caregivers — should wash their hands or use hand sanitiser before touching your child or any equipment.\n\nWatch this short video to see the recommended technique:"
           },
@@ -2549,11 +2544,6 @@
           {
             "type": "text",
             "markdown": "Quisque viverra nunc eget dui. Etiam iaculis tincidunt sapien. Aliquam erat volutpat. Mauris sagittis mi suscipit est. Maecenas adipiscing erat vestibulum purus. In scelerisque facilisis risus. In ac erat. Etiam nulla. Donec ut arcu sit amet nisi sollicitudin gravida."
-          },
-          {
-            "type": "image",
-            "localPath": "assets/images/resources/mediocre-mallards-1.jpg",
-            "alt": "mallards-hockey-1"
           }
         ]
       }
