@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 15,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -187,7 +187,7 @@
                   "en": "Eat Street Café"
                 },
                 "subtitle": {
-                  "en": "Ellison Building, lower level. "
+                  "en": "Ellison Building, lower level."
                 },
                 "body": {
                   "en": "The hospital's main cafeteria, with a variety of choices and daily Choose Well Eat Well healthy and plant-centered options. Wheelchair accessible — ask a staff member or push the red button at the main entrance for help. Take the elevators directly off the PICU to the Basement (B) then follow the signage to the Eat Street Cafe.\n"
@@ -613,5 +613,149 @@
         ]
       }
     }
+  },
+  "essentials": {
+    "items": [
+      {
+        "id": "food",
+        "title": {
+          "en": "Food"
+        },
+        "summary": {
+          "en": "Eat Street Café, Ellison Building lower level. Coffee Central is open 24 hours."
+        },
+        "icon": "food",
+        "link": {
+          "type": "category",
+          "id": "food_dining"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "somewhere_to_sleep",
+        "title": {
+          "en": "Somewhere to sleep"
+        },
+        "summary": {
+          "en": "Sleep rooms are given out nightly, based on availability and your child's condition. If you get one, please clear your things by 10 am."
+        },
+        "icon": "bed",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "shower",
+        "title": {
+          "en": "Shower"
+        },
+        "summary": {
+          "en": "Family Lounge, around the corner from the Bigelow elevators outside the PICU. Wheelchair accessible. Ask your child's nurse for a towel."
+        },
+        "icon": "shower",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "laundry",
+        "title": {
+          "en": "Laundry"
+        },
+        "summary": {
+          "en": "Washer and dryer on Ellison 17. Laundry detergent is available on request."
+        },
+        "icon": "laundry",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "places_to_stay_nearby",
+        "title": {
+          "en": "Places to stay nearby"
+        },
+        "summary": {
+          "en": "Hotels with medical rates, Ronald McDonald House, and other options."
+        },
+        "icon": "hotel",
+        "link": {
+          "type": "resource",
+          "id": "overnight_accommodations"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ]
+      },
+      {
+        "id": "parking",
+        "title": {
+          "en": "Parking"
+        },
+        "summary": {
+          "en": "Show your PICU visitor sticker to get discounted parking."
+        },
+        "icon": "parking",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
+        "id": "toiletries_and_chargers",
+        "title": {
+          "en": "Toiletries and chargers"
+        },
+        "summary": {
+          "en": "The gift shop sells toiletries and phone chargers."
+        },
+        "icon": "toiletries",
+        "link": {
+          "type": "resource",
+          "id": "gift_shop_and_flower_shop"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      }
+    ]
   }
 }
