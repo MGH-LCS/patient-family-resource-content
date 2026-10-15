@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 17,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -155,18 +155,16 @@
       "food_dining": {
         "blocks": [
           {
-            "type": "text",
-            "id": "mgh_cafes_intro",
-            "sites": [
-              "*"
-            ],
-            "phases": [
-              "just_arrived",
-              "first_night",
-              "first_days"
-            ],
-            "markdown": {
-              "en": "# MGH cafeterias & cafés\n\nDelicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\n---"
+            "type": "section",
+            "id": "cafes_section",
+            "title": {
+              "en": "MGH cafeterias & cafés"
+            },
+            "chipLabel": {
+              "en": "Cafés"
+            },
+            "intro": {
+              "en": "Delicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location."
             }
           },
           {
@@ -286,26 +284,16 @@
             ]
           },
           {
-            "type": "spacer",
-            "id": "spacer",
-            "sites": [
-              "*"
-            ],
-            "height": 16
-          },
-          {
-            "type": "text",
-            "id": "food_vending_intro",
-            "sites": [
-              "*"
-            ],
-            "phases": [
-              "just_arrived",
-              "first_night",
-              "first_days"
-            ],
-            "markdown": {
-              "en": "# Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
+            "type": "section",
+            "id": "vending_section",
+            "title": {
+              "en": "Vending machines & 24/7 snacks"
+            },
+            "chipLabel": {
+              "en": "Vending"
+            },
+            "intro": {
+              "en": "When the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital."
             }
           },
           {
@@ -447,26 +435,13 @@
             ]
           },
           {
-            "type": "spacer",
-            "id": "spacer_2",
-            "sites": [
-              "*"
-            ],
-            "height": 16
-          },
-          {
-            "type": "text",
-            "id": "food_nearby_intro",
-            "sites": [
-              "*"
-            ],
-            "phases": [
-              "just_arrived",
-              "first_night",
-              "first_days"
-            ],
-            "markdown": {
-              "en": "# Food near the hospital"
+            "type": "section",
+            "id": "nearby_section",
+            "title": {
+              "en": "Food near the hospital"
+            },
+            "chipLabel": {
+              "en": "Nearby"
             }
           },
           {
@@ -642,7 +617,7 @@
           "en": "Somewhere to sleep"
         },
         "summary": {
-          "en": "Sleep rooms are given out nightly, based on availability and your child's condition. If you get one, please clear your things by 10 am."
+          "en": "Sleep rooms are given out nightly, based on availability and your child's condition."
         },
         "icon": "bed",
         "link": {
