@@ -3709,5 +3709,56 @@
       "getting here"
     ],
     "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking. Team to verify wording; consider adding hospital shuttle info if the unit has any for families."
+  },
+  {
+    "id": "guest_wifi_and_charging",
+    "title": "Guest Wi-Fi and Charging",
+    "status": "published",
+    "units": [
+      "*"
+    ],
+    "sites": [
+      "mgh"
+    ],
+    "categories": [
+      "hospital_stay"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "pre_admission",
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "How to get online at the hospital: the free guest Wi-Fi network, and where to charge your phone.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Guest Wi-Fi\n\nConnect to the **PHSPIAGUEST** network. No password is needed.\n\nThe guest network isn't secure. Mass General Brigham filters some content on it.\n\n## Charging your devices\n\nCharging stations are available throughout Mass General Brigham campuses."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access",
+            "label": "Wi-Fi and charging access — Mass General Brigham",
+            "description": "Mass General Brigham's visitor page about the guest network and charging stations."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "wifi",
+      "wi-fi",
+      "internet",
+      "guest network",
+      "charging",
+      "phone charger"
+    ],
+    "notes": "Drafted 2026-10-15 from massgeneralbrigham.org 'Wi-Fi & charging access' (network PHSPIAGUEST, no password). Mark set it to published the same day. He had remembered the name as 'phswifiguest'; MGB's page and MGH IHP's say PHSPIAGUEST."
   }
 ]

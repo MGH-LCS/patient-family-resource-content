@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 19,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -612,6 +612,26 @@
         ]
       },
       {
+        "id": "vending_machines",
+        "title": {
+          "en": "Vending machines"
+        },
+        "summary": {
+          "en": "Snacks, cold drinks and coffee machines in the Ellison Building main lobby, open 24/7."
+        },
+        "icon": "snacks",
+        "link": {
+          "type": "category",
+          "id": "food_dining"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
         "id": "somewhere_to_sleep",
         "title": {
           "en": "Somewhere to sleep"
@@ -689,6 +709,26 @@
         ],
         "sites": [
           "*"
+        ]
+      },
+      {
+        "id": "wifi",
+        "title": {
+          "en": "Wi-Fi"
+        },
+        "summary": {
+          "en": "Connect to the PHSPIAGUEST guest network. No password needed."
+        },
+        "icon": "wifi",
+        "link": {
+          "type": "resource",
+          "id": "guest_wifi_and_charging"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
         ]
       },
       {
