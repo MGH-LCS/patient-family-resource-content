@@ -3760,5 +3760,111 @@
       "phone charger"
     ],
     "notes": "Drafted 2026-10-15 from massgeneralbrigham.org 'Wi-Fi & charging access'. Network name PHSPIAGUEST confirmed by Mark, 2026-10-15."
+  },
+  {
+    "id": "journal_writing_to_manage_stress",
+    "title": "Journal Writing to Manage Stress",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Writing in a journal can help release worries and ease stress during a PICU stay. Learn the benefits and find prompts to get started.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Benefits of journal writing\n\nWhen you are coping with challenges, writing your thoughts and feelings in a journal can help you express those unspoken thoughts and release some of your worries.\n\nJournal writing can also help you record what happened on a given day. It allows you to reflect on the events at a later date. Rereading your journal gives you the chance to review, process and share information with family members.\n\nResearch has shown that people who wrote in a journal while in an intensive care setting (such as the Pediatric Intensive Care Unit, or PICU) had less stress and a better sense of well-being.\n\nThe video below shares more about the MGHfC Journal Program and how it can help you during your PICU stay."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=BYmxUjc3oao",
+            "caption": "About the FAC Journal Program at MGHfC — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## Writing prompts for adults and families\n\nWriting in a journal is a great way to express yourself, cope with stress and explore your feelings and experiences. Here are some writing prompts to get you started. Feel free to use the prompts in any order or pick your favorites.\n\n### Just get started\n\n- Just write! Put pen to paper and write. Write anything. Do not lift your hand off the paper. If you need to write “Just write” over and over, do so. Before long, your thoughts will emerge and you will write them down.\n- Finish this sentence: “I remember when…” Write as many responses to the prompt as you would like. This can help you recall old or favorite memories and get your thoughts flowing.\n\n### Use your senses\n\n- What colors do you see?\n- What sounds do you hear?\n\n### What do you love?\n\n- Ask yourself, “If I could be anywhere right now, where would I be?”\n- Write about this thought: “I feel the most free when…”\n- What do you like to do on weekends?\n- What new activities would you like to try? (Such as yoga, dance, dog walking, reading, going to movies or others.)\n- What activities are comforting for you? (Such as writing in a journal, walking in the woods, listening to music, gathering shells on a beach or others.)\n\n### Remember good memories\n\n- What was your most memorable trip?\n- What activities did you like to do in the summer when you were a child?\n- What is your favorite memory with a grandparent, parent, sibling, teacher, coach or mentor?\n\n### Feel the love from friends and family\n\n- Who gives you comfort and support, and why? A family member? A longtime friend?\n- Remember, “How do my best friends make me feel when I’m with them?”\n- Ask yourself, “When I’m with my (fill in the blank, such as a grandmother) I feel really loved because…”\n- Who was (and perhaps still is) your best childhood friend?\n\n### Find inspiration from others\n\n- “Courage is found in unlikely places.” — J. R. R. Tolkien\n- “I’ve been searching for ways to heal myself, and I’ve found that kindness is the best way.” — Lady Gaga\n- “What lies behind us and what lies before us are tiny matters compared to what lies within us.” — Often credited to Oliver Wendell Holmes\n- “You are braver than you believe, stronger than you seem and smarter than you think.” — Christopher Robin, in Disney’s Pooh’s Grand Adventure (1997)\n\n## I want to talk to someone about the feelings that come up when I write. What can I do?\n\nIf you would like support for the feelings that may come up as you write, ask your care team to page Social Work, Child Life Services or Spiritual Care at MGHfC."
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "journal",
+      "journaling",
+      "diary",
+      "writing",
+      "writing prompts",
+      "stress",
+      "coping"
+    ],
+    "notes": "Added 2026-10-16 from the team's handouts \"Journal Writing to Manage Stress\" and \"Writing Prompts for Adults and Families\". The handout's QR code is replaced by the YouTube video it points to. Quote attributions corrected 2026-10-16 (Holmes quote is unproven; the Christopher Robin line is from the 1997 Disney film, not A.A. Milne)."
+  },
+  {
+    "id": "writing_prompts_for_teens_age_13_and_older",
+    "title": "Writing Prompts for Teens Age 13 and Older",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "parent_and_family_support"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "Writing prompts for teens to express themselves, cope with stress and explore their feelings and experiences in a journal.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Writing in a journal is a great way to express yourself, cope with stress and explore your feelings and experiences. Here are some writing prompts to get you started. Feel free to do the prompts in any order or pick your favorites.\n\n## Name your favorites\n\n- What songs are on your favorite playlist?\n- What was your favorite childhood book?\n- What is it about your favorite activity (such as biking, listening to music, playing basketball, picking up shells on a beach) that makes you feel good?\n\n## Go on an adventure\n\n- What was your greatest childhood adventure?\n- What do you like to do on weekends?\n- Ask yourself, “If I could be anywhere right now, where would I be?”\n- Write about this experience: “I feel the most free when…”\n\n## Try something new\n\n- What new activities would you like to try? (Such as yoga, dancing, dog walking, playing the guitar and others.)\n\n## Feel the love from friends and family\n\n- Who is your best childhood friend and why?\n- Write about this experience: “How do my best friends make me feel when I’m with them?”\n- Ask yourself, “When I’m with my (fill in the blank, such as your grandmother) I feel really loved because…”\n\n## Find inspiration from other writers\n\nChoose a quote from the list below. You can also find your own quotes from your favorite books, movies or websites. Write your thoughts about the quote. There are no right or wrong responses.\n\n### Quotes from the Harry Potter series\n\n- “It is our choices, Harry, that show what we really are, far more than our abilities.” — Harry Potter and the Chamber of Secrets by J.K. Rowling\n- “Words are, in my not-so-humble opinion, our most inexhaustible source of magic.” — Albus Dumbledore\n- “I solemnly swear I’m up to no good!” — Harry Potter and the Prisoner of Azkaban by J.K. Rowling\n\n### Quotes from other writers and artists\n\n- “Be who you are and say what you feel because those who mind don’t matter and those who matter don’t mind.” — Often credited to Dr. Seuss\n- “Be yourself. Everyone else is taken.” — Oscar Wilde\n- “You’re braver than you believe, stronger than you seem, and smarter than you think.” — Christopher Robin, in Disney’s Pooh’s Grand Adventure (1997)\n- “However small the chance might be of striking it lucky, the chance was there.” — Charlie and the Chocolate Factory by Roald Dahl\n- “You can’t stop the waves but you can learn to surf.” — Wherever You Go, There You Are by Jon Kabat-Zinn\n- “Only that day dawns to which we are awake.” — Walden by Henry David Thoreau\n- “What lies behind us and what lies before us are tiny matters compared to what lies within us.” — Often credited to Oliver Wendell Holmes\n- “Courage is found in unlikely places.” — J. R. R. Tolkien\n- “I’ve been searching for ways to heal myself, and I’ve found that kindness is the best way.” — Lady Gaga\n\n## Learn about the journal program\n\nThe video below shares more about the MGHfC Journal Program and how it can help you during your PICU stay."
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=BYmxUjc3oao",
+            "caption": "About the FAC Journal Program at MGHfC — Mass General Brigham for Children"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [
+      "journal",
+      "journaling",
+      "diary",
+      "writing prompts",
+      "teens",
+      "teenagers",
+      "adolescents",
+      "stress",
+      "coping"
+    ],
+    "notes": "Added 2026-10-16 from the team's handout \"Writing Prompts for Teens Age 13 and Older\". The QR code is replaced by the YouTube video it points to. Quote attributions corrected (Dumbledore line credited to Dumbledore only; sources place it in Deathly Hallows, not Philosopher's Stone; Seuss and Holmes quotes are unproven; the Christopher Robin line is from the 1997 Disney film)."
   }
 ]
