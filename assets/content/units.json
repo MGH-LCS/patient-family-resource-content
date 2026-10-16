@@ -86,75 +86,87 @@
         {
           "id": "administrative_resource",
           "label": {
-            "en": "Administrative Resources"
+            "en": "Administrative Resources",
+            "es": "Recursos administrativos"
           }
         },
         {
           "id": "campus_map",
           "label": {
-            "en": "Campus Map"
+            "en": "Campus Map",
+            "es": "Mapa del campus"
           },
           "directOpenPdf": "assets/pdfs/mgh-main-campus-map.pdf"
         },
         {
           "id": "discharge_planning",
           "label": {
-            "en": "Discharge Planning"
+            "en": "Discharge Planning",
+            "es": "Planificación del alta"
           }
         },
         {
           "id": "educational_resource",
           "label": {
-            "en": "Educational Resources"
+            "en": "Educational Resources",
+            "es": "Recursos educativos"
           }
         },
         {
           "id": "food_dining",
           "label": {
-            "en": "Food & Dining"
+            "en": "Food & Dining",
+            "es": "Alimentación y servicios de comida"
           }
         },
         {
           "id": "gift_shop",
           "label": {
-            "en": "Gift Shop"
+            "en": "Gift Shop",
+            "es": "Tienda de regalos"
           },
           "directOpenResource": "gift_shop_and_flower_shop"
         },
         {
           "id": "hospital_stay",
           "label": {
-            "en": "Hospital Stay"
+            "en": "Hospital Stay",
+            "es": "Estancia en el hospital"
           }
         },
         {
           "id": "meet_the_care_team",
           "label": {
-            "en": "Meet the Care Team"
+            "en": "Meet the Care Team",
+            "es": "Conozca al equipo de atención médica"
           }
         },
         {
           "id": "outside_of_the_hospital",
           "label": {
-            "en": "Outside of the Hospital"
+            "en": "Outside of the Hospital",
+            "es": "Fuera del hospital"
           }
         },
         {
           "id": "parent_and_family_support",
           "label": {
-            "en": "Parent and Family Support"
+            "en": "Parent and Family Support",
+            "es": "Apoyo para padres y familiares"
           }
         },
         {
           "id": "parking",
           "label": {
-            "en": "Parking"
+            "en": "Parking",
+            "es": "Estacionamiento"
           }
         },
         {
           "id": "transportation",
           "label": {
-            "en": "Transportation"
+            "en": "Transportation",
+            "es": "Transporte"
           },
           "directOpenResource": "getting_here_by_public_transit"
         }

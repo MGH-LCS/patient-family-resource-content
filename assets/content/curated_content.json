@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -164,7 +164,7 @@
               "en": "Cafés"
             },
             "intro": {
-              "en": "Delicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location."
+              "en": "Delicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\nHours may be different on holidays."
             }
           },
           {
@@ -191,7 +191,52 @@
                   "en": "The hospital's main cafeteria, with a variety of choices and daily Choose Well Eat Well healthy and plant-centered options. Wheelchair accessible — ask a staff member or push the red button at the main entrance for help. Take the elevators directly off the PICU to the Basement (B) then follow the signage to the Eat Street Cafe.\n"
                 },
                 "meta": {
-                  "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun & holidays 7 am–7 pm"
+                  "en": "Mon–Fri 6:30 am–8 pm · Sat, Sun 7 am–7 pm",
+                  "es": "lun–vie 6:30–20:00 · sáb, dom 7:00–19:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "06:30",
+                      "close": "20:00"
+                    }
+                  ],
+                  "sat": [
+                    {
+                      "open": "07:00",
+                      "close": "19:00"
+                    }
+                  ],
+                  "sun": [
+                    {
+                      "open": "07:00",
+                      "close": "19:00"
+                    }
+                  ]
                 }
               }
             ]
@@ -220,7 +265,52 @@
                   "en": "Coffee, tea, and cold beverages to go, plus freshly baked muffins, pastries, cookies, and fruit."
                 },
                 "meta": {
-                  "en": "Open 24 hours, 7 days a week"
+                  "en": "Open 24 hours, every day",
+                  "es": "Abierto las 24 horas, todos los días"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "sat": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ],
+                  "sun": [
+                    {
+                      "open": "00:00",
+                      "close": "24:00"
+                    }
+                  ]
                 }
               }
             ]
@@ -249,7 +339,42 @@
                   "en": "Hot breakfast sandwiches and baked goods in the morning; panini, soups, bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads at lunch. Coffee, tea, beverages, and desserts too."
                 },
                 "meta": {
-                  "en": "Mon–Fri 7 am–3 pm"
+                  "en": "Mon–Fri 7 am–3 pm",
+                  "es": "lun–vie 7:00–15:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "07:00",
+                      "close": "15:00"
+                    }
+                  ],
+                  "sat": [],
+                  "sun": []
                 }
               }
             ]
@@ -278,7 +403,42 @@
                   "en": "Coffee, tea, and cold beverages to go, plus muffins, pastries, bagels, cookies, and fruit. Grab & Go sandwiches and salads, and seasonal smoothies in the warmer months."
                 },
                 "meta": {
-                  "en": "Mon–Fri 6:30 am–5 pm"
+                  "en": "Mon–Fri 6:30 am–5 pm",
+                  "es": "lun–vie 6:30–17:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "06:30",
+                      "close": "17:00"
+                    }
+                  ],
+                  "sat": [],
+                  "sun": []
                 }
               }
             ]
@@ -465,7 +625,52 @@
                   "en": "Across Cambridge St from MGH. Hot bar, salad bar, sushi, sandwiches, and groceries."
                 },
                 "meta": {
-                  "en": "Open ~7 AM – 10 PM daily"
+                  "en": "Every day 7 am–9 pm",
+                  "es": "Todos los días 7:00–21:00"
+                },
+                "hours": {
+                  "mon": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "tue": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "wed": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "thu": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "fri": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "sat": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ],
+                  "sun": [
+                    {
+                      "open": "07:00",
+                      "close": "21:00"
+                    }
+                  ]
                 }
               }
             ]
