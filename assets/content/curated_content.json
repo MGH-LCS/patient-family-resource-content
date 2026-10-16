@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 22,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -161,7 +161,7 @@
               "en": "MGH cafeterias & cafés"
             },
             "chipLabel": {
-              "en": "Cafés"
+              "en": "MGH Cafés"
             },
             "intro": {
               "en": "Delicious and healthy food and coffee options are available across Mass General's cafés and cafeterias. Please speak with a food service staff member if you need assistance at any location.\n\nHours may be different on holidays."
@@ -439,7 +439,8 @@
                   ],
                   "sat": [],
                   "sun": []
-                }
+                },
+                "style": "plain"
               }
             ]
           },
@@ -590,7 +591,8 @@
                 },
                 "body": {
                   "en": "Some patient meal programs allow a parent tray to be added to your child's late order. Ask the overnight nurse what's possible. Breastfeeding mothers may request a meal tray to be provided directly to their room for Breakfast, Lunch and Dinner — ask your nurse for more information."
-                }
+                },
+                "style": "plain"
               }
             ]
           },
@@ -786,7 +788,8 @@
                 },
                 "body": {
                   "en": "For a real break: Italian restaurants and cafés on Hanover St stay open late. Regina Pizzeria and Mike's Pastry are family favorites."
-                }
+                },
+                "style": "plain"
               }
             ]
           }
