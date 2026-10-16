@@ -5,70 +5,80 @@
       "type": "likert",
       "id": "app_reliable",
       "label": {
-        "en": "The app worked well and did not have glitches."
+        "en": "The app worked well and did not have glitches.",
+        "es": "La aplicación funcionó bien y no presentó fallos."
       }
     },
     {
       "type": "likert",
       "id": "easy_to_use",
       "label": {
-        "en": "The app was easy to learn and simple to use."
+        "en": "The app was easy to learn and simple to use.",
+        "es": "La aplicación fue fácil de aprender y sencilla de usar."
       }
     },
     {
       "type": "likert",
       "id": "easy_to_understand",
       "label": {
-        "en": "The information was easy for my family and I to read and understand."
+        "en": "The information was easy for my family and I to read and understand.",
+        "es": "La información fue fácil de leer y comprender para mí y mi familia."
       }
     },
     {
       "type": "likert",
       "id": "learned_about_care",
       "label": {
-        "en": "Using the app helped me learn more about my child's healthcare."
+        "en": "Using the app helped me learn more about my child's healthcare.",
+        "es": "Usar la aplicación me ayudó a aprender más sobre la atención médica de mi hijo."
       }
     },
     {
       "type": "likert",
       "id": "clear_wording",
       "label": {
-        "en": "The words and steps in the app were clear."
+        "en": "The words and steps in the app were clear.",
+        "es": "El lenguaje y los pasos indicados en la aplicación fueron claros."
       }
     },
     {
       "type": "likert",
       "id": "content_helpful",
       "label": {
-        "en": "The facts and pictures in the app helped me a lot."
+        "en": "The facts and pictures in the app helped me a lot.",
+        "es": "La información y las imágenes de la aplicación me fueron de gran ayuda."
       }
     },
     {
       "type": "likert",
       "id": "trusted_information",
       "label": {
-        "en": "I trusted the information inside the app."
+        "en": "I trusted the information inside the app.",
+        "es": "Confié en la información que contenía la aplicación."
       }
     },
     {
       "type": "likert",
       "id": "had_everything",
       "label": {
-        "en": "The app had everything I hoped to find."
+        "en": "The app had everything I hoped to find.",
+        "es": "La aplicación incluía todo lo que esperaba encontrar."
       }
     },
     {
       "type": "likert",
       "id": "improves_stay",
       "label": {
-        "en": "This app helps make a hospital stay better."
+        "en": "This app helps make a hospital stay better.",
+        "es": "Esta aplicación ayuda a mejorar la experiencia de la estancia en el hospital."
       }
     },
     {
       "type": "likert",
       "id": "overall_liked",
       "label": {
-        "en": "Overall, I liked using this app."
+        "en": "Overall, I liked using this app.",
+        "es": "En general, me gustó usar la aplicación."
       }
     },
     {
@@ -87,70 +97,80 @@
           "type": "likert",
           "id": "app_reliable",
           "label": {
-            "en": "The app worked well and did not have glitches."
+            "en": "The app worked well and did not have glitches.",
+            "es": "La aplicación funcionó bien y no presentó fallos."
           }
         },
         {
           "type": "likert",
           "id": "easy_to_use",
           "label": {
-            "en": "The app was easy to learn and simple to use."
+            "en": "The app was easy to learn and simple to use.",
+            "es": "La aplicación fue fácil de aprender y sencilla de usar."
           }
         },
         {
           "type": "likert",
           "id": "easy_to_understand",
           "label": {
-            "en": "The information was easy for my family and I to read and understand."
+            "en": "The information was easy for my family and I to read and understand.",
+            "es": "La información fue fácil de leer y comprender para mí y mi familia."
           }
         },
         {
           "type": "likert",
           "id": "learned_about_care",
           "label": {
-            "en": "Using the app helped me learn more about my child's healthcare."
+            "en": "Using the app helped me learn more about my child's healthcare.",
+            "es": "Usar la aplicación me ayudó a aprender más sobre la atención médica de mi hijo."
           }
         },
         {
           "type": "likert",
           "id": "clear_wording",
           "label": {
-            "en": "The words and steps in the app were clear."
+            "en": "The words and steps in the app were clear.",
+            "es": "El lenguaje y los pasos indicados en la aplicación fueron claros."
           }
         },
         {
           "type": "likert",
           "id": "content_helpful",
           "label": {
-            "en": "The facts and pictures in the app helped me a lot."
+            "en": "The facts and pictures in the app helped me a lot.",
+            "es": "La información y las imágenes de la aplicación me fueron de gran ayuda."
           }
         },
         {
           "type": "likert",
           "id": "trusted_information",
           "label": {
-            "en": "I trusted the information inside the app."
+            "en": "I trusted the information inside the app.",
+            "es": "Confié en la información que contenía la aplicación."
           }
         },
         {
           "type": "likert",
           "id": "had_everything",
           "label": {
-            "en": "The app had everything I hoped to find."
+            "en": "The app had everything I hoped to find.",
+            "es": "La aplicación incluía todo lo que esperaba encontrar."
           }
         },
         {
           "type": "likert",
           "id": "improves_stay",
           "label": {
-            "en": "This app helps make a hospital stay better."
+            "en": "This app helps make a hospital stay better.",
+            "es": "Esta aplicación ayuda a mejorar la experiencia de la estancia en el hospital."
           }
         },
         {
           "type": "likert",
           "id": "overall_liked",
           "label": {
-            "en": "Overall, I liked using this app."
+            "en": "Overall, I liked using this app.",
+            "es": "En general, me gustó usar la aplicación."
           }
         },
         {
