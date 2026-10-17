@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 22,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -687,7 +687,8 @@
         "icon": "laundry",
         "link": {
           "type": "resource",
-          "id": "picu_welcome_guide"
+          "id": "picu_welcome_guide",
+          "section": "where_can_i_wash_my_clothes"
         },
         "units": [
           "picu"
@@ -754,6 +755,23 @@
         ],
         "sites": [
           "mgh"
+        ]
+      },
+      {
+        "id": "e2e_essential_vhbasva",
+        "title": {
+          "en": "E2E Essential vhbasva"
+        },
+        "icon": "shower",
+        "link": {
+          "type": "resource",
+          "id": "appointments_and_referrals"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
         ]
       }
     ]
