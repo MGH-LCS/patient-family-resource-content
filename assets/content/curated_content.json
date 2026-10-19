@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 93,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -294,6 +294,13 @@
             "height": 16
           },
           {
+            "type": "section",
+            "id": "vending_section",
+            "title": {
+              "en": "Vending machines & 24/7 snacks"
+            }
+          },
+          {
             "type": "text",
             "id": "food_vending_intro",
             "sites": [
@@ -305,7 +312,7 @@
               "first_days"
             ],
             "markdown": {
-              "en": "# Vending machines & 24/7 snacks\n\nWhen the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
+              "en": "When the cafés are closed (late nights, early mornings, weekends), vending machines and a few 24-hour spots can tide you over without leaving the hospital.\n\n---"
             }
           },
           {
@@ -627,7 +634,8 @@
         "icon": "food",
         "link": {
           "type": "category",
-          "id": "food_dining"
+          "id": "food_dining",
+          "section": "vending_section"
         },
         "units": [
           "*"
@@ -755,23 +763,6 @@
         ],
         "sites": [
           "mgh"
-        ]
-      },
-      {
-        "id": "e2e_essential_vhbasva",
-        "title": {
-          "en": "E2E Essential vhbasva"
-        },
-        "icon": "shower",
-        "link": {
-          "type": "resource",
-          "id": "appointments_and_referrals"
-        },
-        "units": [
-          "picu"
-        ],
-        "sites": [
-          "*"
         ]
       }
     ]

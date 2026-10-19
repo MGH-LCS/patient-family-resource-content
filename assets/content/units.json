@@ -4,6 +4,16 @@
       "id": "mgh",
       "name": "MGH",
       "displayName": "Massachusetts General Hospital"
+    },
+    {
+      "id": "test_hospital_cwxsxrb",
+      "name": "Tcwxsxrb",
+      "displayName": "Test Hospital cwxsxrb (edited)"
+    },
+    {
+      "id": "test_hospital_d32limq",
+      "name": "Td32limq",
+      "displayName": "Test Hospital d32limq (edited)"
     }
   ],
   "units": [
