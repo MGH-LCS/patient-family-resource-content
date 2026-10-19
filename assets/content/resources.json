@@ -209,6 +209,21 @@
             "description": "Schedule appointments, request referrals, and access patient services online."
           }
         ]
+      },
+      "es": {
+        "description": "Solicite una cita o una segunda opinión, derive a un paciente, busque un médico o consulte los resultados de sus pruebas mediante los servicios en lín",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Solicite una cita o una segunda opinión, derive a un paciente, busque un médico o consulte los resultados de sus pruebas mediante los servicios en línea seguros de MGH."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/services/children",
+            "label": "Mass General Brigham for Children: Citas y derivaciones",
+            "description": "Programa citas, solicita derivaciones y accede a servicios para pacientes en línea."
+          }
+        ]
       }
     },
     "images": [],
@@ -221,27 +236,32 @@
     ],
     "notes": null,
     "description": {
-      "en": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services."
+      "en": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services.",
+      "es": "Solicite una cita o una segunda opinión, derive a un paciente, busque un médico o consulte los resultados de sus pruebas mediante los servicios en lín"
     },
     "blocks": [
       {
         "id": "text_1",
         "type": "text",
         "markdown": {
-          "en": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services."
+          "en": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services.",
+          "es": "Solicite una cita o una segunda opinión, derive a un paciente, busque un médico o consulte los resultados de sus pruebas mediante los servicios en línea seguros de MGH."
         }
       },
       {
         "id": "link_1",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/children"
+          "en": "https://www.massgeneralbrigham.org/en/services/children",
+          "es": "https://www.massgeneralbrigham.org/es/services/children"
         },
         "label": {
-          "en": "Mass General Brigham for Children — Appointments and Referrals"
+          "en": "Mass General Brigham for Children — Appointments and Referrals",
+          "es": "Mass General Brigham for Children: Citas y derivaciones"
         },
         "description": {
-          "en": "Schedule appointments, request referrals, and access patient services online."
+          "en": "Schedule appointments, request referrals, and access patient services online.",
+          "es": "Programa citas, solicita derivaciones y accede a servicios para pacientes en línea."
         }
       }
     ]
@@ -3005,6 +3025,21 @@
             "description": "Browse Mass General Brigham's full collection of asthma videos."
           }
         ]
+      },
+      "es": {
+        "description": "Biblioteca de videos de Mass General Brigham sobre el asma pediátrica: factores desencadenantes, inhaladores de rescate, cámaras de inhalación y más.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "El canal de YouTube de Mass General Brigham for Children ofrece una serie de videos breves sobre el asma pediátrica que abordan temas como las alergias y los factores desencadenantes, los inhaladores de rescate, las cámaras de inhalación, los nebulizadores y las pruebas de función pulmonar."
+          },
+          {
+            "type": "link",
+            "url": "https://www.youtube.com/@MassGeneralBrighamChildren/search?query=asthma",
+            "label": "Pediatric Asthma Videos — MGB for Children (YouTube)",
+            "description": "Browse Mass General Brigham's full collection of asthma videos."
+          }
+        ]
       }
     },
     "images": [],
@@ -3019,14 +3054,16 @@
     ],
     "notes": null,
     "description": {
-      "en": "Mass General Brigham's video library on pediatric asthma — triggers, rescue inhalers, spacers, and more."
+      "en": "Mass General Brigham's video library on pediatric asthma — triggers, rescue inhalers, spacers, and more.",
+      "es": "Biblioteca de videos de Mass General Brigham sobre el asma pediátrica: factores desencadenantes, inhaladores de rescate, cámaras de inhalación y más."
     },
     "blocks": [
       {
         "id": "text_1",
         "type": "text",
         "markdown": {
-          "en": "Mass General Brigham for Children's YouTube channel hosts a series of short videos on pediatric asthma — covering allergies and triggers, rescue inhalers, spacers, nebulizers, and pulmonary function tests."
+          "en": "Mass General Brigham for Children's YouTube channel hosts a series of short videos on pediatric asthma — covering allergies and triggers, rescue inhalers, spacers, nebulizers, and pulmonary function tests.",
+          "es": "El canal de YouTube de Mass General Brigham for Children ofrece una serie de videos breves sobre el asma pediátrica que abordan temas como las alergias y los factores desencadenantes, los inhaladores de rescate, las cámaras de inhalación, los nebulizadores y las pruebas de función pulmonar."
         }
       },
       {

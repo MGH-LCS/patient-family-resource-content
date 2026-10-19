@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -799,6 +799,27 @@
   },
   "essentials": {
     "items": [
+      {
+        "id": "visiting_hours",
+        "title": {
+          "en": "Visiting hours"
+        },
+        "summary": {
+          "en": "11:00 am – 8:00 pm. Up to 2 visitors at the bedside; one parent or guardian can stay overnight."
+        },
+        "icon": "clock",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide",
+          "section": "visiting"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
       {
         "id": "food",
         "title": {
