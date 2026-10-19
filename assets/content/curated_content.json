@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -850,7 +850,8 @@
         "icon": "bed",
         "link": {
           "type": "resource",
-          "id": "picu_welcome_guide"
+          "id": "picu_welcome_guide",
+          "section": "where_can_i_sleep"
         },
         "units": [
           "picu"
@@ -870,7 +871,8 @@
         "icon": "shower",
         "link": {
           "type": "resource",
-          "id": "picu_welcome_guide"
+          "id": "picu_welcome_guide",
+          "section": "family_lounge"
         },
         "units": [
           "picu"
@@ -890,7 +892,8 @@
         "icon": "laundry",
         "link": {
           "type": "resource",
-          "id": "picu_welcome_guide"
+          "id": "picu_welcome_guide",
+          "section": "where_can_i_wash_my_clothes"
         },
         "units": [
           "picu"
@@ -930,7 +933,8 @@
         "icon": "wifi",
         "link": {
           "type": "resource",
-          "id": "guest_wifi_and_charging"
+          "id": "guest_wifi_and_charging",
+          "section": "guest_wi_fi"
         },
         "units": [
           "*"
@@ -950,7 +954,8 @@
         "icon": "parking",
         "link": {
           "type": "resource",
-          "id": "picu_welcome_guide"
+          "id": "picu_welcome_guide",
+          "section": "how_can_i_validate_parking"
         },
         "units": [
           "picu"
