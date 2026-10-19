@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -830,7 +830,8 @@
         "icon": "snacks",
         "link": {
           "type": "category",
-          "id": "food_dining"
+          "id": "food_dining",
+          "section": "vending_section"
         },
         "units": [
           "*"
