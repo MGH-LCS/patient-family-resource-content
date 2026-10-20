@@ -264,7 +264,10 @@
           "es": "Programa citas, solicita derivaciones y accede a servicios para pacientes en línea."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Citas y derivaciones"
+    }
   },
   {
     "id": "disability_services",
@@ -354,7 +357,10 @@
           "es": "Beneficios del gobierno, programas de pago a cuidadores y recursos de empleo."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Servicios para personas con discapacidades"
+    }
   },
   {
     "id": "family_and_medical_leave",
@@ -3079,7 +3085,10 @@
           "en": "Browse Mass General Brigham's full collection of asthma videos."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Asma: lo que necesita saber"
+    }
   },
   {
     "id": "drowning_prevention",
@@ -4329,7 +4338,10 @@
           "ht": "*Pifò egzije yon minimòm sejou 30 jou. Disponibilite pakin ak tarif yo varye. Mass General sitiye nan katye West End Boston. Ou ka tcheke tou [Vrbo](https://www.vrbo.com) oswa [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — akote campus prensipal Mass General la\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Biwo #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Mande pou **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ekstansyon 1008\n- Mande pou **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Pou koreksyon nan lis la oswa mizajou, tanpri rele 📞 [617-724-0295](tel:+16177240295). — Depatman Travay Sosyal Klinik MGH*"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Alojamiento para pasar la noche"
+    }
   },
   {
     "id": "picu_welcome_guide",
@@ -4631,7 +4643,10 @@
           "pt": "Para receber desconto no estacionamento, apresente seu **adesivo de visitante da UTIP** para o atendente na garagem do estacionamento ou na entrada principal do Yawkey. Perguntas relacionadas ao estacionamento podem ser dirigidas à mesa de informações ou à sua enfermeira.\n\n---\n\n*Para obter mais informações, fale com a enfermeira da sua criança ou com o Coordenador da Unidade na recepção.*"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Guía de bienvenida a la PICU"
+    }
   },
   {
     "id": "daisy_award_nomination",
@@ -7969,7 +7984,10 @@
           "es"
         ]
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Folletos sobre la lactancia materna"
+    }
   },
   {
     "id": "whos_who_on_the_picu_team",
