@@ -2155,76 +2155,8 @@
     ]
   },
   {
-    "id": "pediatric_health_library",
-    "title": "Pediatric Health Library",
-    "status": "inactive",
-    "units": [
-      "picu"
-    ],
-    "sites": [
-      "*"
-    ],
-    "categories": [
-      "educational_resource"
-    ],
-    "phasesByUnit": {
-      "picu": [
-        "after_discharge"
-      ]
-    },
-    "languages": {
-      "en": {
-        "description": "Educational materials on a wide range of pediatric health topics and specialties.",
-        "content": [
-          {
-            "type": "text",
-            "markdown": "Here you will find educational materials on a wide range of pediatric health topics and specialties."
-          },
-          {
-            "type": "link",
-            "url": "https://www.massgeneral.org/children/patients-and-families/pediatric-health-information-library",
-            "label": "Pediatric Health Information Library — Mass General Brigham for Children",
-            "description": "Search educational materials by topic, specialty, or keyword."
-          }
-        ]
-      }
-    },
-    "images": [],
-    "tags": [
-      "Pediatric Health topic",
-      "specialties",
-      "health information"
-    ],
-    "notes": null,
-    "description": {
-      "en": "Educational materials on a wide range of pediatric health topics and specialties."
-    },
-    "blocks": [
-      {
-        "id": "text_1",
-        "type": "text",
-        "markdown": {
-          "en": "Here you will find educational materials on a wide range of pediatric health topics and specialties."
-        }
-      },
-      {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneral.org/children/patients-and-families/pediatric-health-information-library"
-        },
-        "label": {
-          "en": "Pediatric Health Information Library — Mass General Brigham for Children"
-        },
-        "description": {
-          "en": "Search educational materials by topic, specialty, or keyword."
-        }
-      }
-    ]
-  },
-  {
     "id": "bronchitis_and_bronchiolitis",
-    "title": "Bronchitis: What You Need to Know",
+    "title": "Acute Bronchitis in Children",
     "status": "published",
     "units": [
       "picu"
@@ -2242,17 +2174,17 @@
     },
     "languages": {
       "en": {
-        "description": "Acute bronchitis affects the airways and usually clears on its own — what to watch for, when to call the doctor.",
+        "description": "Bronchitis is an inflammation of the large breathing tubes (bronchi) in the lungs. Most cases are mild.",
         "content": [
           {
             "type": "text",
-            "markdown": "Acute bronchitis is an illness that affects the bronchial tubes, or airways. Learn about acute bronchitis and its symptoms.\n\n## What is acute bronchitis?\n\nAcute bronchitis, or simply bronchitis, is a condition in which the bronchial tubes (airways) become swollen and inflamed. The swelling and inflammation can make it harder to breathe. It is called *acute* bronchitis because the illness lasts only a few weeks.\n\n## What causes acute bronchitis?\n\n**Viruses** (a certain type of germ) are the most common cause of acute bronchitis. Other causes include:\n\n- Bacteria\n- Fungal (fungus) infections\n- Spending time around things that can bother your airways, such as dust, chemicals, or smoke\n\n## What is the difference between viruses and bacteria?\n\n**Bacteria** can live in many different types of environments. There are good bacteria and bad bacteria. Infections caused by bad bacteria often get better with antibiotics.\n\n**Viruses** are germs that multiply once a small number of virus germs enter your body. Infections caused by viruses do not usually get better with antibiotics.\n\n## What are the symptoms of acute bronchitis?\n\nSymptoms of acute bronchitis usually last about 2–3 weeks. Symptoms can also look similar to other illnesses, like a cold or the flu.\n\nCommon symptoms include:\n\n- Cough with yellow or green phlegm (mucus)\n- Shortness of breath or wheezing (a whistling sound when you breathe in)\n- Fever or chills\n- Body or muscle aches\n- Sore throat\n\n## How do doctors test for acute bronchitis?\n\nA doctor might use one or more of the following tests for acute bronchitis:\n\n- Physical exam\n- Review of your child's medical history\n- Chest X-ray\n- Pulse oximetry (a test that measures how much oxygen is in your child's blood)\n- Test of the mucus from the lungs or nose\n\n## How do doctors treat acute bronchitis?\n\nTreatment depends on your child's symptoms and age. If your child's acute bronchitis is caused by a virus, they should get better on their own with rest and fluids. The doctor will talk with you about which treatments are right for your child.\n\nIn most cases, **antibiotics will not help your child feel better.** Acute bronchitis is usually caused by a virus. Antibiotics kill bacteria, but not viruses.\n\n## When should I call the doctor?\n\nCall the doctor if your child's symptoms do not get better after 2–3 weeks, or if their symptoms get worse.\n\n---\n\n*Rev. 3/2018. Reviewed by the MGfC Family Advisory Council. This document is intended to provide health information so that you can be better informed. It is not a substitute for medical advice and should not be used to treat any medical conditions.*"
+            "markdown": "## What is acute bronchitis in children?\n\nBronchitis is an inflammation of the large breathing tubes (bronchi) in the lungs. The illness can be short-term (acute) or long-term (chronic). Acute bronchitis means that the symptoms often develop quickly and don't last long. Most cases are mild.\n\n## What causes acute bronchitis in a child?\n\nAcute bronchitis is most often caused by a viral infection. It may also be caused by bacteria or things such as dust, allergens, strong fumes, or tobacco smoke.\n\nThe illness may develop after a cold or other viral infection in the nose, mouth, or throat (upper respiratory tract). Such illnesses can spread easily from direct contact with a person who is sick.\n\n## What are the symptoms of acute bronchitis in a child?\n\nThe most common symptoms are:\n\n- Dry or mucus-filled cough\n- Vomiting or gagging\n- Runny nose, often before a cough starts\n- Chest congestion or pain\n- An overall body discomfort or not feeling well\n- Chills\n- Slight fever\n- Back and muscle pain\n- Wheezing\n- Sore throat\n\nThese symptoms often last 7 to 14 days. But the cough may continue for 3 to 4 weeks. These symptoms may look like other health problems. Make sure your child sees their doctor for a diagnosis.\n\n## How is acute bronchitis diagnosed in a child?\n\nYour child's doctor can often diagnose acute bronchitis with a health history and physical exam. In some cases, your child may need tests to rule out other health problems, such as pneumonia or asthma. These tests may include:\n\n- **Chest X-rays.** This test makes images of internal tissues, bones, and organs.\n- **Pulse oximetry.** An oximeter is a small device that measures the amount of oxygen in the blood. For this test, the doctor puts a small sensor (like a clip) on your child's finger or toe. When the device is on, a small red light can be seen in the sensor. The sensor is painless, and the red light does not get hot.\n- **Sputum and nasal discharge samples.** These tests can find the germ causing an infection.\n\n## How is acute bronchitis treated in a child?\n\nTreatment will depend on your child's symptoms, age, and general health. It will also depend on how severe the condition is.\n\nIn nearly all cases, antibiotics shouldn't be used to treat acute bronchitis. That's because most of the infections are caused by viruses. Even children who have been coughing for longer than 8 to 10 days often don't need antibiotics. Antibiotics aren't used unless your child has a bacterial infection.\n\nThe goal of treatment is to help ease symptoms. Treatment may include:\n\n- Plenty of rest\n- Acetaminophen or ibuprofen (for children over 6 months) for fever and mild pain, if directed by your child's doctor\n- Cough medicine for children over 4 years old, if directed by your child's doctor\n- More fluids\n- Cool-mist humidifier in your child's room\n\nTalk with your child's doctor before giving over-the-counter cough and cold medicine to your child. The American Academy of Pediatrics does not advise giving these medicines to children younger than 4 years old because they may cause harmful side effects. For children between ages 4 and 6, only use over-the-counter products when advised by your child's doctor. In most cases, also don't give antihistamines. They can dry up the secretions. That can make the cough worse.\n\n**Never give aspirin to a child or teen.** It could cause a rare but serious condition called Reye syndrome.\n\nMost children who have acute bronchitis will get better without any problems. But the illness can lead to pneumonia.\n\n## How can you help prevent acute bronchitis in your child?\n\nYou can help prevent acute bronchitis by stopping the spread of viruses that may lead to it. Take these steps:\n\n- Teach your child to cover their nose and mouth when coughing or sneezing\n- Make sure your child washes their hands often\n- Keep your child up-to-date on all vaccines, including the yearly flu shot\n- Keep your child away from others who are sick. If your child is sick, keep them away from others\n\n## When should you contact your child's doctor?\n\nContact your child's doctor right away if your child's symptoms get worse, if new symptoms develop, or if your child:\n\n- Has a high fever\n- Can't keep liquids down\n- Isn't eating or drinking\n- Isn't having wet diapers\n\n**Call 911 if your child:**\n\n- Has trouble breathing\n- Turns blue in color, especially the lips or fingertips\n- Is breathing very fast\n\n*This information is not intended as a substitute for professional medical care. Always follow your healthcare professional's instructions.*"
           },
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/conditions/20158/acute-bronchitis-in-children",
-            "label": "Bronchitis — Mass General Brigham for Children",
-            "description": "Visit the source page on massgeneral.org."
+            "label": "Acute Bronchitis in Children — Mass General Brigham",
+            "description": "Visit the Acute Bronchitis in Children page on massgeneralbrigham.org."
           }
         ]
       }
@@ -2264,127 +2196,120 @@
       "acute",
       "airway"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/conditions/20158/acute-bronchitis-in-children (snapshot 2026-10-21). MGB's text is licensed from StayWell; Mark chose to use it 2026-10-21. Approved by Mark 2026-10-21.",
     "description": {
-      "en": "Acute bronchitis affects the airways and usually clears on its own — what to watch for, when to call the doctor."
+      "en": "Bronchitis is an inflammation of the large breathing tubes (bronchi) in the lungs. Most cases are mild."
     },
     "blocks": [
       {
-        "id": "intro",
-        "type": "text",
-        "markdown": {
-          "en": "Acute bronchitis is an illness that affects the bronchial tubes, or airways. Learn about acute bronchitis and its symptoms."
-        }
-      },
-      {
-        "id": "what_is_acute_bronchitis",
+        "id": "section_y58bueds",
         "type": "section",
         "title": {
-          "en": "What is acute bronchitis?"
+          "en": "What is acute bronchitis in children?"
         }
       },
       {
-        "id": "what_is_acute_bronchitis_text",
+        "id": "text_oxtbciri",
         "type": "text",
         "markdown": {
-          "en": "Acute bronchitis, or simply bronchitis, is a condition in which the bronchial tubes (airways) become swollen and inflamed. The swelling and inflammation can make it harder to breathe. It is called *acute* bronchitis because the illness lasts only a few weeks."
+          "en": "Bronchitis is an inflammation of the large breathing tubes (bronchi) in the lungs. The illness can be short-term (acute) or long-term (chronic). Acute bronchitis means that the symptoms often develop quickly and don't last long. Most cases are mild."
         }
       },
       {
-        "id": "what_causes_acute_bronchitis",
+        "id": "section_18602qvt",
         "type": "section",
         "title": {
-          "en": "What causes acute bronchitis?"
+          "en": "What causes acute bronchitis in a child?"
         }
       },
       {
-        "id": "what_causes_acute_bronchitis_text",
+        "id": "text_e0lqc7ib",
         "type": "text",
         "markdown": {
-          "en": "**Viruses** (a certain type of germ) are the most common cause of acute bronchitis. Other causes include:\n\n- Bacteria\n- Fungal (fungus) infections\n- Spending time around things that can bother your airways, such as dust, chemicals, or smoke"
+          "en": "Acute bronchitis is most often caused by a viral infection. It may also be caused by bacteria or things such as dust, allergens, strong fumes, or tobacco smoke.\n\nThe illness may develop after a cold or other viral infection in the nose, mouth, or throat (upper respiratory tract). Such illnesses can spread easily from direct contact with a person who is sick."
         }
       },
       {
-        "id": "what_is_the_difference_between_viruses",
+        "id": "section_d6qvz7wy",
         "type": "section",
         "title": {
-          "en": "What is the difference between viruses and bacteria?"
+          "en": "What are the symptoms of acute bronchitis in a child?"
         }
       },
       {
-        "id": "what_is_the_difference_between_viruses_text",
+        "id": "text_cr0oaphx",
         "type": "text",
         "markdown": {
-          "en": "**Bacteria** can live in many different types of environments. There are good bacteria and bad bacteria. Infections caused by bad bacteria often get better with antibiotics.\n\n**Viruses** are germs that multiply once a small number of virus germs enter your body. Infections caused by viruses do not usually get better with antibiotics."
+          "en": "The most common symptoms are:\n\n- Dry or mucus-filled cough\n- Vomiting or gagging\n- Runny nose, often before a cough starts\n- Chest congestion or pain\n- An overall body discomfort or not feeling well\n- Chills\n- Slight fever\n- Back and muscle pain\n- Wheezing\n- Sore throat\n\nThese symptoms often last 7 to 14 days. But the cough may continue for 3 to 4 weeks. These symptoms may look like other health problems. Make sure your child sees their doctor for a diagnosis."
         }
       },
       {
-        "id": "what_are_the_symptoms_of_acute",
+        "id": "section_ju9u3ece",
         "type": "section",
         "title": {
-          "en": "What are the symptoms of acute bronchitis?"
+          "en": "How is acute bronchitis diagnosed in a child?"
         }
       },
       {
-        "id": "what_are_the_symptoms_of_acute_text",
+        "id": "text_mfr2vybq",
         "type": "text",
         "markdown": {
-          "en": "Symptoms of acute bronchitis usually last about 2–3 weeks. Symptoms can also look similar to other illnesses, like a cold or the flu.\n\nCommon symptoms include:\n\n- Cough with yellow or green phlegm (mucus)\n- Shortness of breath or wheezing (a whistling sound when you breathe in)\n- Fever or chills\n- Body or muscle aches\n- Sore throat"
+          "en": "Your child's doctor can often diagnose acute bronchitis with a health history and physical exam. In some cases, your child may need tests to rule out other health problems, such as pneumonia or asthma. These tests may include:\n\n- **Chest X-rays.** This test makes images of internal tissues, bones, and organs.\n- **Pulse oximetry.** An oximeter is a small device that measures the amount of oxygen in the blood. For this test, the doctor puts a small sensor (like a clip) on your child's finger or toe. When the device is on, a small red light can be seen in the sensor. The sensor is painless, and the red light does not get hot.\n- **Sputum and nasal discharge samples.** These tests can find the germ causing an infection."
         }
       },
       {
-        "id": "how_do_doctors_test_for_acute_bronchitis",
+        "id": "section_aesv2og7",
         "type": "section",
         "title": {
-          "en": "How do doctors test for acute bronchitis?"
+          "en": "How is acute bronchitis treated in a child?"
         }
       },
       {
-        "id": "how_do_doctors_test_for_acute_bronchitis_text",
+        "id": "text_ztuymuwo",
         "type": "text",
         "markdown": {
-          "en": "A doctor might use one or more of the following tests for acute bronchitis:\n\n- Physical exam\n- Review of your child's medical history\n- Chest X-ray\n- Pulse oximetry (a test that measures how much oxygen is in your child's blood)\n- Test of the mucus from the lungs or nose"
+          "en": "Treatment will depend on your child's symptoms, age, and general health. It will also depend on how severe the condition is.\n\nIn nearly all cases, antibiotics shouldn't be used to treat acute bronchitis. That's because most of the infections are caused by viruses. Even children who have been coughing for longer than 8 to 10 days often don't need antibiotics. Antibiotics aren't used unless your child has a bacterial infection.\n\nThe goal of treatment is to help ease symptoms. Treatment may include:\n\n- Plenty of rest\n- Acetaminophen or ibuprofen (for children over 6 months) for fever and mild pain, if directed by your child's doctor\n- Cough medicine for children over 4 years old, if directed by your child's doctor\n- More fluids\n- Cool-mist humidifier in your child's room\n\nTalk with your child's doctor before giving over-the-counter cough and cold medicine to your child. The American Academy of Pediatrics does not advise giving these medicines to children younger than 4 years old because they may cause harmful side effects. For children between ages 4 and 6, only use over-the-counter products when advised by your child's doctor. In most cases, also don't give antihistamines. They can dry up the secretions. That can make the cough worse.\n\n**Never give aspirin to a child or teen.** It could cause a rare but serious condition called Reye syndrome.\n\nMost children who have acute bronchitis will get better without any problems. But the illness can lead to pneumonia."
         }
       },
       {
-        "id": "how_do_doctors_treat_acute_bronchitis",
+        "id": "section_5sjj6fl5",
         "type": "section",
         "title": {
-          "en": "How do doctors treat acute bronchitis?"
+          "en": "How can you help prevent acute bronchitis in your child?"
         }
       },
       {
-        "id": "how_do_doctors_treat_acute_bronchitis_text",
+        "id": "text_e31jkgtl",
         "type": "text",
         "markdown": {
-          "en": "Treatment depends on your child's symptoms and age. If your child's acute bronchitis is caused by a virus, they should get better on their own with rest and fluids. The doctor will talk with you about which treatments are right for your child.\n\nIn most cases, **antibiotics will not help your child feel better.** Acute bronchitis is usually caused by a virus. Antibiotics kill bacteria, but not viruses."
+          "en": "You can help prevent acute bronchitis by stopping the spread of viruses that may lead to it. Take these steps:\n\n- Teach your child to cover their nose and mouth when coughing or sneezing\n- Make sure your child washes their hands often\n- Keep your child up-to-date on all vaccines, including the yearly flu shot\n- Keep your child away from others who are sick. If your child is sick, keep them away from others"
         }
       },
       {
-        "id": "when_should_i_call_the_doctor",
+        "id": "section_0jfr44lh",
         "type": "section",
         "title": {
-          "en": "When should I call the doctor?"
+          "en": "When should you contact your child's doctor?"
         }
       },
       {
-        "id": "when_should_i_call_the_doctor_text",
+        "id": "text_bds8uodp",
         "type": "text",
         "markdown": {
-          "en": "Call the doctor if your child's symptoms do not get better after 2–3 weeks, or if their symptoms get worse.\n\n---\n\n*Rev. 3/2018. Reviewed by the MGfC Family Advisory Council. This document is intended to provide health information so that you can be better informed. It is not a substitute for medical advice and should not be used to treat any medical conditions.*"
+          "en": "Contact your child's doctor right away if your child's symptoms get worse, if new symptoms develop, or if your child:\n\n- Has a high fever\n- Can't keep liquids down\n- Isn't eating or drinking\n- Isn't having wet diapers\n\n**Call 911 if your child:**\n\n- Has trouble breathing\n- Turns blue in color, especially the lips or fingertips\n- Is breathing very fast\n\n*This information is not intended as a substitute for professional medical care. Always follow your healthcare professional's instructions.*"
         }
       },
       {
-        "id": "link_1",
+        "id": "link_g18fsa7p",
         "type": "link",
         "url": {
           "en": "https://www.massgeneralbrigham.org/en/conditions/20158/acute-bronchitis-in-children"
         },
         "label": {
-          "en": "Bronchitis — Mass General Brigham for Children"
+          "en": "Acute Bronchitis in Children — Mass General Brigham"
         },
         "description": {
-          "en": "Visit the source page on massgeneral.org."
+          "en": "Visit the Acute Bronchitis in Children page on massgeneralbrigham.org."
         }
       }
     ]
@@ -2479,17 +2404,31 @@
     },
     "languages": {
       "en": {
-        "description": "Browse the Lurie Center's full collection of handouts on autism, co-occurring conditions, and related care.",
+        "description": "The Lurie Center for Autism provides expert diagnosis, specialized treatments and customized care plans for people of all ages with autism.",
         "content": [
           {
             "type": "text",
-            "markdown": "Here you will find answers to common questions and concerns about Autism Spectrum Disorder (ASD), as well as related and co-occurring conditions like anxiety, depression, bipolar disorder, and sleep issues. The Lurie Center for Autism's full handout collection covers diagnosis, treatment, behavior tools, and family support."
+            "markdown": "People with autism, and their loved ones, can benefit from specialized therapies and supportive services. At the Lurie Center for Autism, we customize care plans to help those with autism and other developmental disorders achieve their full potential.\n\nWe provide resources and information to help answer common questions about autism. During care, patients and families receive these resources to help them better understand autism and access appropriate support and services.\n\nWe also offer virtual education programs, including:\n\n- **Learn with Lurie**, a monthly webinar series. Learn with Lurie webinars are held monthly on Wednesday evenings from 6:30pm–7:30pm. All events are free and open to the public. Registration opens four weeks before each event.\n- **Parent and Caregiver Workshops.** All workshops are held virtually and open to the public. Registration is required. Reserve your spot by contacting us.\n\n"
+          },
+          {
+            "type": "link",
+            "url": "tel:+17818601700",
+            "label": "Lurie Center for Autism"
+          },
+          {
+            "type": "link",
+            "url": "mailto:LurieCenter@mgb.org",
+            "label": "Lurie Center for Autism"
+          },
+          {
+            "type": "text",
+            "markdown": "Call us to speak with a team member who can help you understand your options and guide you to the care that is right for you."
           },
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/services/autism",
-            "label": "Autism Patient Resources — Lurie Center, MGfC",
-            "description": "Browse the Lurie Center's complete handout library on ASD, co-occurring conditions, and care strategies."
+            "label": "Lurie Center for Autism — Mass General Brigham",
+            "description": "Visit the Lurie Center for Autism page on massgeneralbrigham.org."
           }
         ]
       }
@@ -2505,16 +2444,39 @@
       "depression",
       "sleep issues"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/services/autism (snapshot 2026-10-21), approved by Mark 2026-10-21.",
     "description": {
-      "en": "Browse the Lurie Center's full collection of handouts on autism, co-occurring conditions, and related care."
+      "en": "The Lurie Center for Autism provides expert diagnosis, specialized treatments and customized care plans for people of all ages with autism."
     },
     "blocks": [
       {
         "id": "text_1",
         "type": "text",
         "markdown": {
-          "en": "Here you will find answers to common questions and concerns about Autism Spectrum Disorder (ASD), as well as related and co-occurring conditions like anxiety, depression, bipolar disorder, and sleep issues. The Lurie Center for Autism's full handout collection covers diagnosis, treatment, behavior tools, and family support."
+          "en": "People with autism, and their loved ones, can benefit from specialized therapies and supportive services. At the Lurie Center for Autism, we customize care plans to help those with autism and other developmental disorders achieve their full potential.\n\nWe provide resources and information to help answer common questions about autism. During care, patients and families receive these resources to help them better understand autism and access appropriate support and services.\n\nWe also offer virtual education programs, including:\n\n- **Learn with Lurie**, a monthly webinar series. Learn with Lurie webinars are held monthly on Wednesday evenings from 6:30pm–7:30pm. All events are free and open to the public. Registration opens four weeks before each event.\n- **Parent and Caregiver Workshops.** All workshops are held virtually and open to the public. Registration is required. Reserve your spot by contacting us.\n\n"
+        }
+      },
+      {
+        "id": "phone_j2027buc",
+        "type": "phone",
+        "number": "+17818601700",
+        "label": {
+          "en": "Lurie Center for Autism"
+        }
+      },
+      {
+        "id": "email_cr0ledc5",
+        "type": "email",
+        "email": "LurieCenter@mgb.org",
+        "label": {
+          "en": "Lurie Center for Autism"
+        }
+      },
+      {
+        "id": "text_8maua8og",
+        "type": "text",
+        "markdown": {
+          "en": "Call us to speak with a team member who can help you understand your options and guide you to the care that is right for you."
         }
       },
       {
@@ -2524,10 +2486,10 @@
           "en": "https://www.massgeneralbrigham.org/en/services/autism"
         },
         "label": {
-          "en": "Autism Patient Resources — Lurie Center, MGfC"
+          "en": "Lurie Center for Autism — Mass General Brigham"
         },
         "description": {
-          "en": "Browse the Lurie Center's complete handout library on ASD, co-occurring conditions, and care strategies."
+          "en": "Visit the Lurie Center for Autism page on massgeneralbrigham.org."
         }
       }
     ]
@@ -4027,116 +3989,6 @@
     ]
   },
   {
-    "id": "mgh_cafeterias_and_cafes",
-    "title": "MGH Cafeterias and Cafés",
-    "status": "inactive",
-    "units": [
-      "*"
-    ],
-    "sites": [
-      "mgh"
-    ],
-    "categories": [
-      "food_dining"
-    ],
-    "phasesByUnit": {
-      "picu": [
-        "first_days",
-        "first_night"
-      ]
-    },
-    "languages": {
-      "en": {
-        "description": "Where to find food and coffee at MGH — Eat Street Café, Coffee Central, Riverside Café, and Coffee South.",
-        "content": [
-          {
-            "type": "text",
-            "markdown": "Whether you need a snack, a meal, or light refreshment, there are delicious and healthy food options available at Massachusetts General Hospital's cafés and cafeterias.\n\nPlease speak with a food service staff member if you require assistance at any Mass General café or cafeteria.\n\n## Eat Street Café\n\n**Ellison Building, lower level**\n\n- Monday–Friday: 6:30 am – 8:00 pm\n- Saturday, Sunday, and holidays: 7:00 am – 7:00 pm\n\nThe hospital's main cafeteria, Eat Street Café, features a variety of food choices. Many healthy options are available daily under our **Choose Well Eat Well** label, plus plant-centered options.\n\nThe cafeteria is wheelchair accessible. You can request assistance with getting your meal by alerting a staff member or by pushing the red button at the main entrance.\n\n## Coffee Central\n\n**Gray Building, main lobby**\n\n- Open 24 hours a day, seven days a week\n\nCoffee, tea, and cold beverages available to go, as well as freshly baked muffins, pastries, cookies, and fruit.\n\n## Riverside Café\n\n**Yawkey Center for Outpatient Care, main lobby**\n\n- Monday–Friday: 7:00 am – 3:00 pm\n\nBreakfast items include hot breakfast sandwiches and freshly baked muffins and pastries. Lunch selections include hot panini sandwiches, soups, hot bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads. Coffee, tea, cold beverages, and desserts are also available.\n\n## Coffee South\n\n**Yawkey Center for Outpatient Care, main lobby**\n\n- Monday–Friday: 6:30 am – 5:00 pm\n\nCoffee, tea, and cold beverages available to go, as well as freshly baked muffins, pastries, bagels, cookies, and fruit. Also offers Grab & Go sandwiches and salads. Seasonal smoothies are available through the warmer months."
-          }
-        ]
-      }
-    },
-    "images": [],
-    "tags": [
-      "Cafeteria",
-      "cafe",
-      "food",
-      "Coffee Central",
-      "Eat Street Cafe",
-      "Riverside Cafe",
-      "Coffee South"
-    ],
-    "notes": null,
-    "description": {
-      "en": "Where to find food and coffee at MGH — Eat Street Café, Coffee Central, Riverside Café, and Coffee South."
-    },
-    "blocks": [
-      {
-        "id": "intro",
-        "type": "text",
-        "markdown": {
-          "en": "Whether you need a snack, a meal, or light refreshment, there are delicious and healthy food options available at Massachusetts General Hospital's cafés and cafeterias.\n\nPlease speak with a food service staff member if you require assistance at any Mass General café or cafeteria."
-        }
-      },
-      {
-        "id": "eat_street_cafe",
-        "type": "section",
-        "title": {
-          "en": "Eat Street Café"
-        }
-      },
-      {
-        "id": "eat_street_cafe_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Ellison Building, lower level**\n\n- Monday–Friday: 6:30 am – 8:00 pm\n- Saturday, Sunday, and holidays: 7:00 am – 7:00 pm\n\nThe hospital's main cafeteria, Eat Street Café, features a variety of food choices. Many healthy options are available daily under our **Choose Well Eat Well** label, plus plant-centered options.\n\nThe cafeteria is wheelchair accessible. You can request assistance with getting your meal by alerting a staff member or by pushing the red button at the main entrance."
-        }
-      },
-      {
-        "id": "coffee_central",
-        "type": "section",
-        "title": {
-          "en": "Coffee Central"
-        }
-      },
-      {
-        "id": "coffee_central_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Gray Building, main lobby**\n\n- Open 24 hours a day, seven days a week\n\nCoffee, tea, and cold beverages available to go, as well as freshly baked muffins, pastries, cookies, and fruit."
-        }
-      },
-      {
-        "id": "riverside_cafe",
-        "type": "section",
-        "title": {
-          "en": "Riverside Café"
-        }
-      },
-      {
-        "id": "riverside_cafe_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Yawkey Center for Outpatient Care, main lobby**\n\n- Monday–Friday: 7:00 am – 3:00 pm\n\nBreakfast items include hot breakfast sandwiches and freshly baked muffins and pastries. Lunch selections include hot panini sandwiches, soups, hot bruschetta, a daily hot entrée, and Grab & Go sandwiches and salads. Coffee, tea, cold beverages, and desserts are also available."
-        }
-      },
-      {
-        "id": "coffee_south",
-        "type": "section",
-        "title": {
-          "en": "Coffee South"
-        }
-      },
-      {
-        "id": "coffee_south_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Yawkey Center for Outpatient Care, main lobby**\n\n- Monday–Friday: 6:30 am – 5:00 pm\n\nCoffee, tea, and cold beverages available to go, as well as freshly baked muffins, pastries, bagels, cookies, and fruit. Also offers Grab & Go sandwiches and salads. Seasonal smoothies are available through the warmer months."
-        }
-      }
-    ]
-  },
-  {
     "id": "overnight_accommodations",
     "title": "Overnight Accommodations",
     "status": "published",
@@ -5023,21 +4875,11 @@
     },
     "languages": {
       "en": {
-        "description": "Mass General's pediatric hematology and oncology team treats childhood cancers and blood disorders with multidisciplinary, state-of-the-art care.",
+        "description": "Mass General Brigham for Children provides multidisciplinary, state-of-the-art care for children with cancers or blood disorders.",
         "content": [
           {
             "type": "text",
-            "markdown": "Mass General Brigham for Children's Pediatric Hematology and Oncology team provides personalized, multidisciplinary, state-of-the-art care for childhood cancers and disorders of the blood. The team covers surgical oncology, radiation oncology, and access to clinical trials."
-          },
-          {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/pediatric-cancer",
-            "label": "Pediatric Hematology and Oncology — Mass General Brigham for Children",
-            "description": "Meet the team, learn about conditions treated, and explore care options."
-          },
-          {
-            "type": "text",
-            "markdown": "## Contact Information\n\n**Division of Pediatric Hematology and Oncology**\nYawkey Center for Outpatient Care, Suite 8B\n32 Fruit Street, Boston, MA 02114\n\n- 📞 [617-726-2737](tel:+16177262737)\n- Fax: 617-724-0702\n- Appointments: 📞 [888-644-3248](tel:+18886443248)\n- Near public transit · Wheelchair accessible\n\n## Why choose Mass General Brigham for Children\n\nThe Division of Pediatric Hematology and Oncology is a comprehensive children's program backed by the full resources of Massachusetts General Hospital and close collaboration with adult colleagues in the [Mass General Cancer Center](https://www.massgeneralbrigham.org/en/services/cancer). Doctors who specialize in the care of children provide personalized, state-of-the-art care to children of all ages with malignancies and disorders of the blood.\n\n### Pediatric Hematology Program\n\nSpecialized expertise in anemias (including sickle cell disease), thrombocytopenia, neutropenia, aplastic anemia and other bone marrow failure syndromes. Expert consultation and management of bleeding and clotting disorders including von Willebrand disease, hemophilia, thrombosis, and stroke."
+            "markdown": "Mass General Brigham for Children provides multidisciplinary, state-of-the-art care for children with cancers or blood disorders. Our expert team specializes in caring for children and offers innovative and cooperative group clinical trials through the Children's Oncology Group.\n\n### Division of Pediatric Hematology and Oncology\n\n- Yawkey Center for Outpatient Care, Suite 8B, 32 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2737](tel:+16177262737)\n- 📞 [888-644-3248](tel:+18886443248) (Appointments (Mass General Brigham for Children))\n- 🌐 [massgeneralbrigham.org/en/services/pediatric-cancer](https://www.massgeneralbrigham.org/en/services/pediatric-cancer)\n\nFax 617-724-0702\n\n## Care for childhood cancers and blood disorders\n\nWe specialize in caring for children with anemias, bone marrow disorders, and various bleeding and clotting conditions. We also provide comprehensive, family-centered care for all childhood cancers, including leukemias, lymphomas, and tumors such as Wilms tumor, neuroblastoma, bone and soft tissue sarcomas, retinoblastoma, and brain tumors. Additionally, we're the only center in New England offering proton therapy, a highly focused form of radiation that we helped develop.\n\nOur multidisciplinary team customizes care plans for your child's unique needs and offers a family-centered approach. At Mass General Brigham, your child benefits from:\n\n- A care team that includes social workers, behavioral health specialists, and [child life specialists](https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies), who help children cope with diagnosis and treatments\n- Genetic testing to look for gene changes that increase cancer and blood disorder risk\n- [Hemophilia and Coagulation Disorder Program](https://www.massgeneralbrigham.org/en/services/hemophilia-coagulation-disorder)\n- Innovative [pediatric proton therapy](https://www.massgeneralbrigham.org/en/services/pediatric-proton-therapy) at New England's only proton therapy center\n- Long-term follow-up program\n- [Pediatric Stroke and Cerebrovascular Program](https://www.massgeneralbrigham.org/en/services/pediatric-stroke-vascular)\n- [Pediatric supportive and palliative care](https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care) to ease symptoms and support children's comfort\n- State-of-the-art [pediatric imaging](https://www.massgeneralbrigham.org/en/services/pediatric-imaging) to aid diagnosis and treatment decisions\n\n## Our approach to pediatric cancer care\n\n### Leukemia\n\nLeukemia is the most common childhood cancer. It starts in bone marrow, the spongy material that makes blood cells. It increases your child's risk of infections, bleeding, and anemia.\n\n### Lymphoma\n\nWe offer expert care for children who have Hodgkin lymphoma and non-Hodgkin lymphoma. We see children within 24 hours of a possible lymphoma diagnosis, allowing us to start life-saving treatments quickly.\n\n### Head and neck tumors\n\nWe partner with experts at Mass Eye and Ear to treat children's head and neck tumors.\n\n### Brain and spinal cord tumors\n\nAt our [Pediatric Brain Tumor Service](https://www.massgeneralbrigham.org/en/services/pediatric-brain-tumor), your child receives care from a team of internationally recognized experts. We bring together all the specialty providers in one location, making it easier for your family to access care.\n\n### Bone and soft tissue sarcomas\n\nSarcomas are cancerous tumors that form in your child's bones or connective tissues. Our experts work closely with Mass General Brigham [orthopedic cancer](https://www.massgeneralbrigham.org/en/services/orthopedic-oncology) surgeons.\n\n### Lifelong care for childhood cancer survivors\n\nOur experts provide lifelong care for childhood cancer survivors. We help your child and family understand their diagnosis, treatments, potential risk for future health problems, and the need for ongoing health screenings. We also provide school liaison and vocational counseling services.\n\n### Anemias, bleeding disorders, clotting disorders, and strokes\n\nWe offer expert care for children with sickle cell disease and other anemias, bleeding disorders, clotting disorders, and pediatric strokes.\n\n## Pediatric proton therapy\n\nWith proton therapy, we precisely target the tumor, limiting damage to nearby tissues and cells. There's less risk of long-term effects on your child's growth and development.\n\nMost children need six to eight weeks of proton therapy. Throughout this care journey, your family has access to:\n\n- Oncology resource specialists who assist with housing, transportation, and community resources\n- Child life specialists who help children understand and cope with treatment\n- Support with health insurance and financial assistance\n- Integrative therapies, such as art and music therapy\n- Pediatric palliative care for symptom management and emotional support\n- School coordination and educational support through a local agency\n\n### Pediatric Proton Therapy\n\n- 📞 [617-724-1836](tel:+16177241836)\n- 🌐 [massgeneralbrigham.org/en/services/pediatric-proton-therapy](https://www.massgeneralbrigham.org/en/services/pediatric-proton-therapy)\n\n## Adolescent and Young Adult (AYA) Cancer Program\n\nThe Adolescent and Young Adult (AYA) Cancer Program was created to optimize the care, outcomes, and experiences of adolescent and young adult patients (ages 15-39) with cancer through integrated care delivery, research, and education.\n\n### Adolescent and Young Adult (AYA) Cancer Program\n\n- 📞 [617-643-9331](tel:+16176439331)\n- 🌐 [massgeneralbrigham.org/en/services/cancer/resources/adolescent-young-adult](https://www.massgeneralbrigham.org/en/services/cancer/resources/adolescent-young-adult)"
           },
           {
             "type": "link",
@@ -5047,16 +4889,36 @@
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/services/pediatric-stroke-vascular",
-            "label": "Pediatric Stroke Service"
+            "label": "Pediatric Stroke and Cerebrovascular Program"
           },
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/services/hemophilia-coagulation-disorder",
-            "label": "Hemophilia and clotting disorders"
-          },
+            "label": "Hemophilia and Coagulation Disorder Program"
+          }
+        ]
+      },
+      "es": {
+        "description": "Mass General Brigham para Niños proporciona atención multidisciplinaria y de vanguardia para niños con cánceres o trastornos sanguíneos.",
+        "content": [
           {
             "type": "text",
-            "markdown": "### Pediatric Oncology Program\n\nMultidisciplinary, comprehensive, family-centered care for children with all types of cancer. The clinical team has expertise in treating leukemias, lymphomas, common solid tumors of childhood (including Wilms tumor, neuroblastoma, bone and soft tissue sarcomas, retinoblastoma, and brain tumors).\n\n- [Bone and Soft Tissue Program](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n- [Head and neck tumors](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n- [Pediatric brain tumors](https://www.massgeneralbrigham.org/en/services/pediatric-brain-tumor)\n- [Leukemia](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care) and [lymphoma](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n- [Long-Term Follow-Up Clinic](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n\n## Treatment\n\nMass General Brigham for Children delivers the latest and most advanced treatments for childhood cancers and blood disorders.\n\n- **[Pediatric surgical oncology](https://www.massgeneralbrigham.org/en/services/pediatric-surgery#services-and-programs):** In addition to open surgery, minimally invasive techniques such as video-assisted thoracoscopy, laparoscopy, and robotic-assisted surgery are available to remove solid tumors.\n- **[Pediatric radiation oncology](https://www.massgeneralbrigham.org/en/services/pediatric-radiation-therapy):** Home to the only [proton therapy](https://www.massgeneralbrigham.org/en/services/pediatric-proton-therapy) site in New England. Proton therapy for children can be used to treat pediatric tumors while minimizing long-term effects on growth and development.\n- **[Clinical trials](https://research.massgeneralbrigham.org/en/institutes-centers/cancer-institute-research/cancer-clinical-trials):** Patients receive research-driven cancer treatment through access to the latest clinical trials in cancer and hematology. The Division is a member of the [Children's Oncology Group (COG)](https://childrensoncologygroup.org/) and the [Pediatric Hodgkin Lymphoma Consortium](https://www.stjude.org/care-treatment/treatment/childhood-cancer/leukemia-lymphoma/hodgkin-lymphoma.html) based at St. Jude Children's Hospital.\n\n## Integrated, multidisciplinary care\n\nThe patient care team is led by a pediatric hematologist-oncologist. Depending on the type of tumor and treatment plan, other team members may include:\n\n- Surgical specialists (pediatric surgery, thoracic surgery, neurosurgery, urology, otolaryngology, orthopedics, orthopedic oncology, ophthalmology, oculoplastics, plastic surgery)\n- Pediatric radiation oncologists (for those considered for proton beam, intensity-modulated, or other radiation therapy)\n- Senior-level oncology-certified nurses and nurse practitioners\n- Child psychiatrists, social workers, and [child life specialists](https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies)\n- Nutritionists, physical therapists, and rehabilitation medicine specialists\n\n## Adolescent and Young Adult (AYA) Cancer Program\n\nThe [Adolescent and Young Adult Cancer Program](https://www.massgeneralbrigham.org/en/services/cancer/resources/adolescent-young-adult) was created to optimize the care, outcomes, and experiences of adolescent and young adult patients."
+            "markdown": "Mass General Brigham para Niños proporciona atención multidisciplinaria y de vanguardia para niños con cánceres o trastornos sanguíneos. Nuestro equipo de expertos se especializa en cuidar a los niños y ofrece ensayos clínicos innovadores y cooperativos a través del Grupo de Oncología Infantil.\n\n### División de Hematología y Oncología Pediátrica\n\n- Yawkey Center for Outpatient Care, Suite 8B, 32 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2737](tel:+16177262737)\n- 📞 [888-644-3248](tel:+18886443248) (Citas (Mass General Brigham para Niños))\n- 🌐 [massgeneralbrigham.org/es/services/pediatric-cancer](https://www.massgeneralbrigham.org/es/services/pediatric-cancer)\n\nFax 617-724-0702\n\n## Atención para cánceres infantiles y trastornos sanguíneos\n\nNos especializamos en cuidar a niños con anemias, trastornos de la médula ósea y diversas condiciones de sangrado y coagulación. También proporcionamos atención integral centrada en la familia para todos los cánceres infantiles, incluyendo leucemias, linfomas y tumores como el tumor de Wilms, neuroblastoma, sarcomas de hueso y tejidos blandos, retinoblastoma y tumores cerebrales. Además, somos el único centro en Nueva Inglaterra que ofrece terapia de protones, una forma de radiación altamente enfocada que ayudamos a desarrollar.\n\nNuestro equipo multidisciplinario personaliza los planes de atención para las necesidades únicas de su hijo y ofrece un enfoque centrado en la familia. En Mass General Brigham, su hijo se beneficia de:\n\n- Un equipo de atención que incluye trabajadores sociales, especialistas en salud conductual y [especialistas en desarrollo infantil](https://www.massgeneralbrigham.org/es/services/child-life-pediatric-integrative-therapies), quienes ayudan a los niños a afrontar el diagnóstico y los tratamientos\n- Pruebas genéticas para buscar cambios genéticos que aumenten el riesgo de cáncer y trastornos sanguíneos\n- [Programa de hemofilia y trastornos de coagulación](https://www.massgeneralbrigham.org/es/services/hemophilia-coagulation-disorder)\n- [Terapia pediátrica de protones innovadora](https://www.massgeneralbrigham.org/es/services/pediatric-proton-therapy) en el único centro de terapia de protones de Nueva Inglaterra\n- Programa de seguimiento a largo plazo\n- [Programa Pediátrico de Accidentes Cerebrovasculares y Enfermedades Cerebrovasculares](https://www.massgeneralbrigham.org/es/services/pediatric-stroke-vascular)\n- [Cuidado pediátrico de apoyo y paliativo](https://www.massgeneralbrigham.org/es/services/pediatric-supportive-palliative-care) para aliviar síntomas y apoyar la comodidad de los niños\n- [Imágenes pediátricas de última generación](https://www.massgeneralbrigham.org/es/services/pediatric-imaging) para ayudar en decisiones de diagnóstico y tratamiento\n\n## Nuestro enfoque en el cuidado del cáncer pediátrico\n\n### Leucemia\n\nLa leucemia es el cáncer infantil más común. Comienza en la médula ósea, el material esponjoso que produce células sanguíneas. Aumenta el riesgo de infecciones, hemorragias y anemia en su hijo.\n\n### Linfoma\n\nOfrecemos atención experta para niños que tienen linfoma de Hodgkin y linfoma no Hodgkin. Vemos a los niños dentro de las 24 horas de un posible diagnóstico de linfoma, lo que nos permite comenzar tratamientos que salvan vidas rápidamente.\n\n### Tumores de cabeza y cuello\n\nColaboramos con expertos en Mass Eye and Ear para tratar los tumores de cabeza y cuello en niños.\n\n### Tumores cerebrales y de médula espinal\n\nEn nuestro [Servicio de Tumores Cerebrales Pediátricos](https://www.massgeneralbrigham.org/es/services/pediatric-brain-tumor), su hijo recibe atención de un equipo de expertos reconocidos internacionalmente. Reunimos a todos los proveedores de especialidades en un solo lugar, facilitando el acceso a la atención para su familia.\n\n### Sarcomas de hueso y tejidos blandos\n\nLos sarcomas son tumores cancerosos que se forman en los huesos o tejidos conectivos de su hijo. Nuestros expertos trabajan en estrecha colaboración con los cirujanos de Mass General Brigham [cáncer ortopédico](https://www.massgeneralbrigham.org/es/services/orthopedic-oncology).\n\n### Atención de por vida para sobrevivientes de cáncer infantil\n\nNuestros expertos brindan atención de por vida para sobrevivientes de cáncer infantil. Ayudamos a su hijo y a su familia a comprender su diagnóstico, tratamientos, el riesgo potencial de problemas de salud futuros y la necesidad de exámenes de salud continuos. También proporcionamos servicios de enlace escolar y asesoramiento vocacional.\n\n### Anemias, trastornos hemorrágicos, trastornos de coagulación y accidentes cerebrovasculares\n\nOfrecemos atención experta para niños con enfermedad de células falciformes y otras anemias, trastornos hemorrágicos, trastornos de coagulación y accidentes cerebrovasculares pediátricos.\n\n## Terapia de protones pediátrica\n\nCon la terapia de protones, dirigimos la radiación con precisión al tumor y limitamos el daño a los tejidos y células cercanos. Hay menos riesgo de efectos a largo plazo en el crecimiento y desarrollo de su hijo o hija.\n\nLa mayoría de los niños necesita entre seis y ocho semanas de terapia de protones. Durante todo este proceso de atención, su familia tiene acceso a:\n\n- Especialistas en recursos oncológicos que ayudan con vivienda, transporte y recursos comunitarios\n- Especialistas en vida infantil que ayudan a los niños a comprender y afrontar el tratamiento\n- Apoyo con el seguro médico y la asistencia financiera\n- Terapias integrativas, como terapia de arte y musicoterapia\n- Cuidados paliativos pediátricos para el manejo de síntomas y el apoyo emocional\n- Coordinación escolar y apoyo educativo a través de una agencia local\n\n### Terapia de protones pediátrica\n\n- 📞 [617-724-1836](tel:+16177241836)\n- 🌐 [massgeneralbrigham.org/es/services/pediatric-proton-therapy](https://www.massgeneralbrigham.org/es/services/pediatric-proton-therapy)\n\n## Programa de Cáncer para Adolescentes y Adultos Jóvenes (AYA)\n\nEl Programa de Cáncer para Adolescentes y Adultos Jóvenes (AYA) fue creado para optimizar la atención, los resultados y las experiencias de los pacientes adolescentes y adultos jóvenes (de 15 a 39 años) con cáncer a través de la prestación de atención integrada, investigación y educación.\n\n### Programa de Cáncer para Adolescentes y Adultos Jóvenes (AYA)\n\n- 📞 [617-643-9331](tel:+16176439331)\n- 🌐 [massgeneralbrigham.org/es/services/cancer/resources/adolescent-young-adult](https://www.massgeneralbrigham.org/es/services/cancer/resources/adolescent-young-adult)"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/services/pediatric-blood-disorders",
+            "label": "Programa Pediátrico de Trastornos de la Sangre"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/services/pediatric-stroke-vascular",
+            "label": "Programa Pediátrico de Accidentes Cerebrovasculares y Enfermedades Cerebrovasculares"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/services/hemophilia-coagulation-disorder",
+            "label": "Programa de hemofilia y trastornos de coagulación"
           }
         ]
       }
@@ -5070,139 +4932,208 @@
       "radiation oncology",
       "clinical trials"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/services/pediatric-cancer and its program pages (snapshot 2026-10-21), approved by Mark 2026-10-21.\nSpanish from MGB's /es/ pages (snapshot 2026-10-21); subheadings, listing name and 'Citas' label translated by Claude, need Spanish review. Approved by Mark 2026-10-21.",
     "description": {
-      "en": "Mass General's pediatric hematology and oncology team treats childhood cancers and blood disorders with multidisciplinary, state-of-the-art care."
+      "en": "Mass General Brigham for Children provides multidisciplinary, state-of-the-art care for children with cancers or blood disorders.",
+      "es": "Mass General Brigham para Niños proporciona atención multidisciplinaria y de vanguardia para niños con cánceres o trastornos sanguíneos."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_2dymnsvk",
         "type": "text",
         "markdown": {
-          "en": "Mass General Brigham for Children's Pediatric Hematology and Oncology team provides personalized, multidisciplinary, state-of-the-art care for childhood cancers and disorders of the blood. The team covers surgical oncology, radiation oncology, and access to clinical trials."
+          "en": "Mass General Brigham for Children provides multidisciplinary, state-of-the-art care for children with cancers or blood disorders. Our expert team specializes in caring for children and offers innovative and cooperative group clinical trials through the Children's Oncology Group.",
+          "es": "Mass General Brigham para Niños proporciona atención multidisciplinaria y de vanguardia para niños con cánceres o trastornos sanguíneos. Nuestro equipo de expertos se especializa en cuidar a los niños y ofrece ensayos clínicos innovadores y cooperativos a través del Grupo de Oncología Infantil."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_j22dexfo",
+        "type": "listing",
+        "name": {
+          "en": "Division of Pediatric Hematology and Oncology",
+          "es": "División de Hematología y Oncología Pediátrica"
+        },
+        "address": {
+          "en": "Yawkey Center for Outpatient Care, Suite 8B, 32 Fruit Street, Boston, MA 02114"
+        },
+        "phones": [
+          {
+            "id": "phone_2svgna6u",
+            "number": "+16177262737"
+          },
+          {
+            "id": "phone_h4z818cf",
+            "number": "+18886443248",
+            "label": {
+              "en": "Appointments (Mass General Brigham for Children)",
+              "es": "Citas (Mass General Brigham para Niños)"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_w4umaltr",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-cancer",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-cancer"
+            }
+          }
+        ],
+        "details": {
+          "en": "Fax 617-724-0702",
+          "es": "Fax 617-724-0702"
+        }
+      },
+      {
+        "id": "section_qin2dzpz",
+        "type": "section",
+        "title": {
+          "en": "Care for childhood cancers and blood disorders",
+          "es": "Atención para cánceres infantiles y trastornos sanguíneos"
+        }
+      },
+      {
+        "id": "text_q1l1dkcl",
+        "type": "text",
+        "markdown": {
+          "en": "We specialize in caring for children with anemias, bone marrow disorders, and various bleeding and clotting conditions. We also provide comprehensive, family-centered care for all childhood cancers, including leukemias, lymphomas, and tumors such as Wilms tumor, neuroblastoma, bone and soft tissue sarcomas, retinoblastoma, and brain tumors. Additionally, we're the only center in New England offering proton therapy, a highly focused form of radiation that we helped develop.\n\nOur multidisciplinary team customizes care plans for your child's unique needs and offers a family-centered approach. At Mass General Brigham, your child benefits from:\n\n- A care team that includes social workers, behavioral health specialists, and [child life specialists](https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies), who help children cope with diagnosis and treatments\n- Genetic testing to look for gene changes that increase cancer and blood disorder risk\n- [Hemophilia and Coagulation Disorder Program](https://www.massgeneralbrigham.org/en/services/hemophilia-coagulation-disorder)\n- Innovative [pediatric proton therapy](https://www.massgeneralbrigham.org/en/services/pediatric-proton-therapy) at New England's only proton therapy center\n- Long-term follow-up program\n- [Pediatric Stroke and Cerebrovascular Program](https://www.massgeneralbrigham.org/en/services/pediatric-stroke-vascular)\n- [Pediatric supportive and palliative care](https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care) to ease symptoms and support children's comfort\n- State-of-the-art [pediatric imaging](https://www.massgeneralbrigham.org/en/services/pediatric-imaging) to aid diagnosis and treatment decisions",
+          "es": "Nos especializamos en cuidar a niños con anemias, trastornos de la médula ósea y diversas condiciones de sangrado y coagulación. También proporcionamos atención integral centrada en la familia para todos los cánceres infantiles, incluyendo leucemias, linfomas y tumores como el tumor de Wilms, neuroblastoma, sarcomas de hueso y tejidos blandos, retinoblastoma y tumores cerebrales. Además, somos el único centro en Nueva Inglaterra que ofrece terapia de protones, una forma de radiación altamente enfocada que ayudamos a desarrollar.\n\nNuestro equipo multidisciplinario personaliza los planes de atención para las necesidades únicas de su hijo y ofrece un enfoque centrado en la familia. En Mass General Brigham, su hijo se beneficia de:\n\n- Un equipo de atención que incluye trabajadores sociales, especialistas en salud conductual y [especialistas en desarrollo infantil](https://www.massgeneralbrigham.org/es/services/child-life-pediatric-integrative-therapies), quienes ayudan a los niños a afrontar el diagnóstico y los tratamientos\n- Pruebas genéticas para buscar cambios genéticos que aumenten el riesgo de cáncer y trastornos sanguíneos\n- [Programa de hemofilia y trastornos de coagulación](https://www.massgeneralbrigham.org/es/services/hemophilia-coagulation-disorder)\n- [Terapia pediátrica de protones innovadora](https://www.massgeneralbrigham.org/es/services/pediatric-proton-therapy) en el único centro de terapia de protones de Nueva Inglaterra\n- Programa de seguimiento a largo plazo\n- [Programa Pediátrico de Accidentes Cerebrovasculares y Enfermedades Cerebrovasculares](https://www.massgeneralbrigham.org/es/services/pediatric-stroke-vascular)\n- [Cuidado pediátrico de apoyo y paliativo](https://www.massgeneralbrigham.org/es/services/pediatric-supportive-palliative-care) para aliviar síntomas y apoyar la comodidad de los niños\n- [Imágenes pediátricas de última generación](https://www.massgeneralbrigham.org/es/services/pediatric-imaging) para ayudar en decisiones de diagnóstico y tratamiento"
+        }
+      },
+      {
+        "id": "section_cb56ocx6",
+        "type": "section",
+        "title": {
+          "en": "Our approach to pediatric cancer care",
+          "es": "Nuestro enfoque en el cuidado del cáncer pediátrico"
+        }
+      },
+      {
+        "id": "text_bofz624a",
+        "type": "text",
+        "markdown": {
+          "en": "### Leukemia\n\nLeukemia is the most common childhood cancer. It starts in bone marrow, the spongy material that makes blood cells. It increases your child's risk of infections, bleeding, and anemia.\n\n### Lymphoma\n\nWe offer expert care for children who have Hodgkin lymphoma and non-Hodgkin lymphoma. We see children within 24 hours of a possible lymphoma diagnosis, allowing us to start life-saving treatments quickly.\n\n### Head and neck tumors\n\nWe partner with experts at Mass Eye and Ear to treat children's head and neck tumors.\n\n### Brain and spinal cord tumors\n\nAt our [Pediatric Brain Tumor Service](https://www.massgeneralbrigham.org/en/services/pediatric-brain-tumor), your child receives care from a team of internationally recognized experts. We bring together all the specialty providers in one location, making it easier for your family to access care.\n\n### Bone and soft tissue sarcomas\n\nSarcomas are cancerous tumors that form in your child's bones or connective tissues. Our experts work closely with Mass General Brigham [orthopedic cancer](https://www.massgeneralbrigham.org/en/services/orthopedic-oncology) surgeons.\n\n### Lifelong care for childhood cancer survivors\n\nOur experts provide lifelong care for childhood cancer survivors. We help your child and family understand their diagnosis, treatments, potential risk for future health problems, and the need for ongoing health screenings. We also provide school liaison and vocational counseling services.\n\n### Anemias, bleeding disorders, clotting disorders, and strokes\n\nWe offer expert care for children with sickle cell disease and other anemias, bleeding disorders, clotting disorders, and pediatric strokes.",
+          "es": "### Leucemia\n\nLa leucemia es el cáncer infantil más común. Comienza en la médula ósea, el material esponjoso que produce células sanguíneas. Aumenta el riesgo de infecciones, hemorragias y anemia en su hijo.\n\n### Linfoma\n\nOfrecemos atención experta para niños que tienen linfoma de Hodgkin y linfoma no Hodgkin. Vemos a los niños dentro de las 24 horas de un posible diagnóstico de linfoma, lo que nos permite comenzar tratamientos que salvan vidas rápidamente.\n\n### Tumores de cabeza y cuello\n\nColaboramos con expertos en Mass Eye and Ear para tratar los tumores de cabeza y cuello en niños.\n\n### Tumores cerebrales y de médula espinal\n\nEn nuestro [Servicio de Tumores Cerebrales Pediátricos](https://www.massgeneralbrigham.org/es/services/pediatric-brain-tumor), su hijo recibe atención de un equipo de expertos reconocidos internacionalmente. Reunimos a todos los proveedores de especialidades en un solo lugar, facilitando el acceso a la atención para su familia.\n\n### Sarcomas de hueso y tejidos blandos\n\nLos sarcomas son tumores cancerosos que se forman en los huesos o tejidos conectivos de su hijo. Nuestros expertos trabajan en estrecha colaboración con los cirujanos de Mass General Brigham [cáncer ortopédico](https://www.massgeneralbrigham.org/es/services/orthopedic-oncology).\n\n### Atención de por vida para sobrevivientes de cáncer infantil\n\nNuestros expertos brindan atención de por vida para sobrevivientes de cáncer infantil. Ayudamos a su hijo y a su familia a comprender su diagnóstico, tratamientos, el riesgo potencial de problemas de salud futuros y la necesidad de exámenes de salud continuos. También proporcionamos servicios de enlace escolar y asesoramiento vocacional.\n\n### Anemias, trastornos hemorrágicos, trastornos de coagulación y accidentes cerebrovasculares\n\nOfrecemos atención experta para niños con enfermedad de células falciformes y otras anemias, trastornos hemorrágicos, trastornos de coagulación y accidentes cerebrovasculares pediátricos."
+        }
+      },
+      {
+        "id": "section_bws15trl",
+        "type": "section",
+        "title": {
+          "en": "Pediatric proton therapy",
+          "es": "Terapia de protones pediátrica"
+        }
+      },
+      {
+        "id": "text_1gh4yvti",
+        "type": "text",
+        "markdown": {
+          "en": "With proton therapy, we precisely target the tumor, limiting damage to nearby tissues and cells. There's less risk of long-term effects on your child's growth and development.\n\nMost children need six to eight weeks of proton therapy. Throughout this care journey, your family has access to:\n\n- Oncology resource specialists who assist with housing, transportation, and community resources\n- Child life specialists who help children understand and cope with treatment\n- Support with health insurance and financial assistance\n- Integrative therapies, such as art and music therapy\n- Pediatric palliative care for symptom management and emotional support\n- School coordination and educational support through a local agency",
+          "es": "Con la terapia de protones, dirigimos la radiación con precisión al tumor y limitamos el daño a los tejidos y células cercanos. Hay menos riesgo de efectos a largo plazo en el crecimiento y desarrollo de su hijo o hija.\n\nLa mayoría de los niños necesita entre seis y ocho semanas de terapia de protones. Durante todo este proceso de atención, su familia tiene acceso a:\n\n- Especialistas en recursos oncológicos que ayudan con vivienda, transporte y recursos comunitarios\n- Especialistas en vida infantil que ayudan a los niños a comprender y afrontar el tratamiento\n- Apoyo con el seguro médico y la asistencia financiera\n- Terapias integrativas, como terapia de arte y musicoterapia\n- Cuidados paliativos pediátricos para el manejo de síntomas y el apoyo emocional\n- Coordinación escolar y apoyo educativo a través de una agencia local"
+        }
+      },
+      {
+        "id": "listing_4xirmzmp",
+        "type": "listing",
+        "name": {
+          "en": "Pediatric Proton Therapy",
+          "es": "Terapia de protones pediátrica"
+        },
+        "phones": [
+          {
+            "id": "phone_21otnwwe",
+            "number": "+16177241836"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_soydszsx",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-proton-therapy",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-proton-therapy"
+            }
+          }
+        ]
+      },
+      {
+        "id": "section_kqramvvp",
+        "type": "section",
+        "title": {
+          "en": "Adolescent and Young Adult (AYA) Cancer Program",
+          "es": "Programa de Cáncer para Adolescentes y Adultos Jóvenes (AYA)"
+        }
+      },
+      {
+        "id": "text_uzvjoo72",
+        "type": "text",
+        "markdown": {
+          "en": "The Adolescent and Young Adult (AYA) Cancer Program was created to optimize the care, outcomes, and experiences of adolescent and young adult patients (ages 15-39) with cancer through integrated care delivery, research, and education.",
+          "es": "El Programa de Cáncer para Adolescentes y Adultos Jóvenes (AYA) fue creado para optimizar la atención, los resultados y las experiencias de los pacientes adolescentes y adultos jóvenes (de 15 a 39 años) con cáncer a través de la prestación de atención integrada, investigación y educación."
+        }
+      },
+      {
+        "id": "listing_zlv47oj8",
+        "type": "listing",
+        "name": {
+          "en": "Adolescent and Young Adult (AYA) Cancer Program",
+          "es": "Programa de Cáncer para Adolescentes y Adultos Jóvenes (AYA)"
+        },
+        "phones": [
+          {
+            "id": "phone_4nrsdvck",
+            "number": "+16176439331"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_qytaswh9",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/cancer/resources/adolescent-young-adult",
+              "es": "https://www.massgeneralbrigham.org/es/services/cancer/resources/adolescent-young-adult"
+            }
+          }
+        ]
+      },
+      {
+        "id": "link_zbbpywop",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-cancer"
+          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-blood-disorders",
+          "es": "https://www.massgeneralbrigham.org/es/services/pediatric-blood-disorders"
         },
         "label": {
-          "en": "Pediatric Hematology and Oncology — Mass General Brigham for Children"
-        },
-        "description": {
-          "en": "Meet the team, learn about conditions treated, and explore care options."
+          "en": "Pediatric Blood Disorders Program",
+          "es": "Programa Pediátrico de Trastornos de la Sangre"
         }
       },
       {
-        "id": "contact_information",
-        "type": "section",
-        "title": {
-          "en": "Contact Information"
-        }
-      },
-      {
-        "id": "contact_information_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Division of Pediatric Hematology and Oncology**\nYawkey Center for Outpatient Care, Suite 8B\n32 Fruit Street, Boston, MA 02114\n\n- 📞 [617-726-2737](tel:+16177262737)\n- Fax: 617-724-0702\n- Appointments: 📞 [888-644-3248](tel:+18886443248)\n- Near public transit · Wheelchair accessible"
-        }
-      },
-      {
-        "id": "why_choose_mass_general_brigham_for",
-        "type": "section",
-        "title": {
-          "en": "Why choose Mass General Brigham for Children"
-        }
-      },
-      {
-        "id": "why_choose_mass_general_brigham_for_text",
-        "type": "text",
-        "markdown": {
-          "en": "The Division of Pediatric Hematology and Oncology is a comprehensive children's program backed by the full resources of Massachusetts General Hospital and close collaboration with adult colleagues in the [Mass General Cancer Center](https://www.massgeneralbrigham.org/en/services/cancer). Doctors who specialize in the care of children provide personalized, state-of-the-art care to children of all ages with malignancies and disorders of the blood.\n\n### Pediatric Hematology Program\n\nSpecialized expertise in anemias (including sickle cell disease), thrombocytopenia, neutropenia, aplastic anemia and other bone marrow failure syndromes. Expert consultation and management of bleeding and clotting disorders including von Willebrand disease, hemophilia, thrombosis, and stroke."
-        }
-      },
-      {
-        "id": "link_2",
+        "id": "link_lm2ejnwc",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-blood-disorders"
+          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-stroke-vascular",
+          "es": "https://www.massgeneralbrigham.org/es/services/pediatric-stroke-vascular"
         },
         "label": {
-          "en": "Pediatric Blood Disorders Program"
+          "en": "Pediatric Stroke and Cerebrovascular Program",
+          "es": "Programa Pediátrico de Accidentes Cerebrovasculares y Enfermedades Cerebrovasculares"
         }
       },
       {
-        "id": "link_3",
+        "id": "link_kc8ba71m",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-stroke-vascular"
+          "en": "https://www.massgeneralbrigham.org/en/services/hemophilia-coagulation-disorder",
+          "es": "https://www.massgeneralbrigham.org/es/services/hemophilia-coagulation-disorder"
         },
         "label": {
-          "en": "Pediatric Stroke Service"
-        }
-      },
-      {
-        "id": "link_4",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/hemophilia-coagulation-disorder"
-        },
-        "label": {
-          "en": "Hemophilia and clotting disorders"
-        }
-      },
-      {
-        "id": "why_choose_mass_general_brigham_for_text_2",
-        "type": "text",
-        "markdown": {
-          "en": "### Pediatric Oncology Program\n\nMultidisciplinary, comprehensive, family-centered care for children with all types of cancer. The clinical team has expertise in treating leukemias, lymphomas, common solid tumors of childhood (including Wilms tumor, neuroblastoma, bone and soft tissue sarcomas, retinoblastoma, and brain tumors).\n\n- [Bone and Soft Tissue Program](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n- [Head and neck tumors](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n- [Pediatric brain tumors](https://www.massgeneralbrigham.org/en/services/pediatric-brain-tumor)\n- [Leukemia](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care) and [lymphoma](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)\n- [Long-Term Follow-Up Clinic](https://www.massgeneralbrigham.org/en/services/pediatric-cancer#our-approach-to-pediatric-cancer-care)"
-        }
-      },
-      {
-        "id": "treatment",
-        "type": "section",
-        "title": {
-          "en": "Treatment"
-        }
-      },
-      {
-        "id": "treatment_text",
-        "type": "text",
-        "markdown": {
-          "en": "Mass General Brigham for Children delivers the latest and most advanced treatments for childhood cancers and blood disorders.\n\n- **[Pediatric surgical oncology](https://www.massgeneralbrigham.org/en/services/pediatric-surgery#services-and-programs):** In addition to open surgery, minimally invasive techniques such as video-assisted thoracoscopy, laparoscopy, and robotic-assisted surgery are available to remove solid tumors.\n- **[Pediatric radiation oncology](https://www.massgeneralbrigham.org/en/services/pediatric-radiation-therapy):** Home to the only [proton therapy](https://www.massgeneralbrigham.org/en/services/pediatric-proton-therapy) site in New England. Proton therapy for children can be used to treat pediatric tumors while minimizing long-term effects on growth and development.\n- **[Clinical trials](https://research.massgeneralbrigham.org/en/institutes-centers/cancer-institute-research/cancer-clinical-trials):** Patients receive research-driven cancer treatment through access to the latest clinical trials in cancer and hematology. The Division is a member of the [Children's Oncology Group (COG)](https://childrensoncologygroup.org/) and the [Pediatric Hodgkin Lymphoma Consortium](https://www.stjude.org/care-treatment/treatment/childhood-cancer/leukemia-lymphoma/hodgkin-lymphoma.html) based at St. Jude Children's Hospital."
-        }
-      },
-      {
-        "id": "integrated_multidisciplinary_care",
-        "type": "section",
-        "title": {
-          "en": "Integrated, multidisciplinary care"
-        }
-      },
-      {
-        "id": "integrated_multidisciplinary_care_text",
-        "type": "text",
-        "markdown": {
-          "en": "The patient care team is led by a pediatric hematologist-oncologist. Depending on the type of tumor and treatment plan, other team members may include:\n\n- Surgical specialists (pediatric surgery, thoracic surgery, neurosurgery, urology, otolaryngology, orthopedics, orthopedic oncology, ophthalmology, oculoplastics, plastic surgery)\n- Pediatric radiation oncologists (for those considered for proton beam, intensity-modulated, or other radiation therapy)\n- Senior-level oncology-certified nurses and nurse practitioners\n- Child psychiatrists, social workers, and [child life specialists](https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies)\n- Nutritionists, physical therapists, and rehabilitation medicine specialists"
-        }
-      },
-      {
-        "id": "adolescent_and_young_adult_aya_cancer",
-        "type": "section",
-        "title": {
-          "en": "Adolescent and Young Adult (AYA) Cancer Program"
-        }
-      },
-      {
-        "id": "adolescent_and_young_adult_aya_cancer_text",
-        "type": "text",
-        "markdown": {
-          "en": "The [Adolescent and Young Adult Cancer Program](https://www.massgeneralbrigham.org/en/services/cancer/resources/adolescent-young-adult) was created to optimize the care, outcomes, and experiences of adolescent and young adult patients."
+          "en": "Hemophilia and Coagulation Disorder Program",
+          "es": "Programa de hemofilia y trastornos de coagulación"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Hematología y Oncología Pediátrica"
+    }
   },
   {
     "id": "pediatric_supportive_palliative_care",
