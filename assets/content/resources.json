@@ -179,7 +179,7 @@
   {
     "id": "appointments_and_referrals",
     "title": "Appointments and Referrals",
-    "status": "published",
+    "status": "inactive",
     "units": [
       "picu"
     ],
@@ -234,7 +234,7 @@
       "patient gateway",
       "online second opinions"
     ],
-    "notes": null,
+    "notes": "Merged into mgb_for_children (Mass General Brigham for Children) and set to Inactive 2026-10-22, MGB site copy audit #13, approved by Mark.",
     "description": {
       "en": "Request an appointment or second opinion, refer a patient, find a doctor, or view test results with MGH's secure online services.",
       "es": "Solicite una cita o una segunda opinión, derive a un paciente, busque un médico o consulte los resultados de sus pruebas mediante los servicios en lín"
@@ -451,17 +451,86 @@
     },
     "languages": {
       "en": {
-        "description": "MGH billing and insurance policies for hospital stays, procedures, and doctor's appointments.",
+        "description": "Get answers to billing questions, pay your bill, and contact the Patient Billing Solutions department at Mass General Brigham.",
         "content": [
           {
             "type": "text",
-            "markdown": "Information about MGH's billing and insurance policies for patient hospital stays, procedures and doctor's appointments."
+            "markdown": "Get answers to billing questions, pay your bill, and contact our Patient Billing Solutions department.\n\n### Patient Billing Solutions\n\n- 📞 [617-726-3884](tel:+16177263884)\n- ✉️ [patientbilling@partners.org](mailto:patientbilling@partners.org) (General questions only)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing](https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing)\n\nMonday–Wednesday and Friday, 8:00 a.m.–4:30 p.m. Thursday, 9:00 a.m.–4:30 p.m.\n\n## About your bill\n\nFor your convenience, Mass General Brigham provides you with one bill. Services provided by private practices affiliated with Mass General Brigham (formerly Partners HealthCare) will be sent to you in a separate bill from those practices.\n\nPatients are billed as soon as possible after their visit or hospital stay. Bill cycles are every 30 days. Bills are not sent until all insurance claims have been processed for that visit.\n\nOnce a bill is received, patients are given 25 days to pay their bills in full. The due date will be noted on your bill.\n\n## Payment plans and financial assistance\n\nMass General Brigham can arrange flexible payment options (payment plans) upon request. If you have medical bills for which you cannot pay, please visit our Financial Assistance page to learn more about options available to you."
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing",
-            "label": "Billing and Financial Assistance — Mass General",
-            "description": "Understand your bill, payment options, and financial assistance programs."
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing/financial-assistance",
+            "label": "Financial assistance — Mass General Brigham"
+          },
+          {
+            "type": "text",
+            "markdown": "## Pay your bill\n\n**Online.** If you have a Patient Gateway account, you can see the current status of all open patient balances; payments are immediately posted to your account. You can opt to go paperless and receive your bills online. You also can set up monthly payment plans. You can pay through Patient Gateway or pay as a guest."
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login",
+            "label": "Pay through Patient Gateway"
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/MyChart-PRD/billing/guestpay/payasguest",
+            "label": "Pay as a guest"
+          },
+          {
+            "type": "text",
+            "markdown": "**By phone.** You can also call and press 1 to pay your bill by phone. Please have your account number and the patient's date of birth ready."
+          },
+          {
+            "type": "link",
+            "url": "tel:+16177263884",
+            "label": "Pay your bill by phone",
+            "description": "Press 1"
+          },
+          {
+            "type": "text",
+            "markdown": "**By mail.** Send a check or money order to:\n\nMass General Brigham\nP.O. Box 418393\nBoston, MA 02241-8393\n\nInclude the coupon from the statement and write your account number (not medical record number) on your check."
+          }
+        ]
+      },
+      "es": {
+        "description": "Obtenga respuestas a preguntas sobre facturación, pague su factura y comuníquese con nuestro departamento de Soluciones de Facturación para Pacientes.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Obtenga respuestas a preguntas sobre facturación, pague su factura y comuníquese con nuestro departamento de Soluciones de Facturación para Pacientes.\n\n### Soluciones de Facturación para Pacientes\n\n- 📞 [617-726-3884](tel:+16177263884)\n- ✉️ [patientbilling@partners.org](mailto:patientbilling@partners.org) (Preguntas generales solamente)\n- 🌐 [massgeneralbrigham.org/es/patients-visitors/billing-insurance/billing](https://www.massgeneralbrigham.org/es/patients-visitors/billing-insurance/billing)\n\nLunes a miércoles y viernes, 8:00 a.m.–4:30 p.m. Jueves, 9:00 a.m.–4:30 p.m.\n\n## Acerca de su factura\n\nPara su conveniencia, Mass General Brigham le proporciona una sola factura. Los servicios proporcionados por prácticas privadas afiliadas a Mass General Brigham (anteriormente Partners HealthCare) se le enviarán en una factura separada de esas prácticas.\n\nLos pacientes son facturados tan pronto como sea posible después de su visita o estancia en el hospital. Los ciclos de facturación son cada 30 días. Las facturas no se envían hasta que se hayan procesado todas las reclamaciones del seguro para esa visita.\n\nUna vez que se recibe una factura, se les da a los pacientes 25 días para pagar sus facturas en su totalidad. La fecha de vencimiento se indicará en su factura.\n\n## Planes de pago y asistencia financiera\n\nMass General Brigham puede organizar opciones de pago flexibles (planes de pago) a solicitud. Si tiene facturas médicas que no puede pagar, visite nuestra página de Asistencia Financiera para obtener más información sobre las opciones disponibles para usted."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/billing-insurance/billing/financial-assistance",
+            "label": "Asistencia financiera — Mass General Brigham"
+          },
+          {
+            "type": "text",
+            "markdown": "## Pague su factura\n\n**En línea.** Si tiene una cuenta de Patient Gateway, puede ver el estado actual de todos los saldos de pacientes abiertos; los pagos se publican inmediatamente en su cuenta. Puede optar por recibir sus facturas electrónicamente y no en papel. También puede configurar planes de pago mensuales. Puede pagar a través de Patient Gateway o pagar como invitado."
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login",
+            "label": "Pagar a través de Patient Gateway"
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/MyChart-PRD/billing/guestpay/payasguest",
+            "label": "Pagar como invitado"
+          },
+          {
+            "type": "text",
+            "markdown": "**Por teléfono.** También puede llamar y presionar 1 para pagar su factura por teléfono. Tenga su número de cuenta y la fecha de nacimiento del paciente listos."
+          },
+          {
+            "type": "link",
+            "url": "tel:+16177263884",
+            "label": "Pague su factura por teléfono",
+            "description": "Presione 1"
+          },
+          {
+            "type": "text",
+            "markdown": "**Por correo.** Envíe un cheque o giro postal a:\n\nMass General Brigham\nP.O. Box 418393\nBoston, MA 02241-8393\n\nIncluya el cupón del estado de cuenta y escriba su número de cuenta (no el número de historial médico) en su cheque."
           }
         ]
       }
@@ -474,32 +543,174 @@
       "Patient Cost",
       "Medical Bills"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish from MGB's Spanish billing page (snapshot 2026-10-21); title, one heading, card labels and hours line translated by Claude, need Spanish review. Approved by Mark 2026-10-21.",
     "description": {
-      "en": "MGH billing and insurance policies for hospital stays, procedures, and doctor's appointments."
+      "en": "Get answers to billing questions, pay your bill, and contact the Patient Billing Solutions department at Mass General Brigham.",
+      "es": "Obtenga respuestas a preguntas sobre facturación, pague su factura y comuníquese con nuestro departamento de Soluciones de Facturación para Pacientes."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_0s1niize",
         "type": "text",
         "markdown": {
-          "en": "Information about MGH's billing and insurance policies for patient hospital stays, procedures and doctor's appointments."
+          "en": "Get answers to billing questions, pay your bill, and contact our Patient Billing Solutions department.",
+          "es": "Obtenga respuestas a preguntas sobre facturación, pague su factura y comuníquese con nuestro departamento de Soluciones de Facturación para Pacientes."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_9q5rnkok",
+        "type": "listing",
+        "name": {
+          "en": "Patient Billing Solutions",
+          "es": "Soluciones de Facturación para Pacientes"
+        },
+        "phones": [
+          {
+            "id": "phone_j7n9x33y",
+            "number": "+16177263884"
+          }
+        ],
+        "emails": [
+          {
+            "id": "email_zooocooa",
+            "email": "patientbilling@partners.org",
+            "label": {
+              "en": "General questions only",
+              "es": "Preguntas generales solamente"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_r4irsq30",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing",
+              "es": "https://www.massgeneralbrigham.org/es/patients-visitors/billing-insurance/billing"
+            }
+          }
+        ],
+        "details": {
+          "en": "Monday–Wednesday and Friday, 8:00 a.m.–4:30 p.m. Thursday, 9:00 a.m.–4:30 p.m.",
+          "es": "Lunes a miércoles y viernes, 8:00 a.m.–4:30 p.m. Jueves, 9:00 a.m.–4:30 p.m."
+        }
+      },
+      {
+        "id": "section_ycq3ndz8",
+        "type": "section",
+        "title": {
+          "en": "About your bill",
+          "es": "Acerca de su factura"
+        }
+      },
+      {
+        "id": "text_bcxajylr",
+        "type": "text",
+        "markdown": {
+          "en": "For your convenience, Mass General Brigham provides you with one bill. Services provided by private practices affiliated with Mass General Brigham (formerly Partners HealthCare) will be sent to you in a separate bill from those practices.\n\nPatients are billed as soon as possible after their visit or hospital stay. Bill cycles are every 30 days. Bills are not sent until all insurance claims have been processed for that visit.\n\nOnce a bill is received, patients are given 25 days to pay their bills in full. The due date will be noted on your bill.",
+          "es": "Para su conveniencia, Mass General Brigham le proporciona una sola factura. Los servicios proporcionados por prácticas privadas afiliadas a Mass General Brigham (anteriormente Partners HealthCare) se le enviarán en una factura separada de esas prácticas.\n\nLos pacientes son facturados tan pronto como sea posible después de su visita o estancia en el hospital. Los ciclos de facturación son cada 30 días. Las facturas no se envían hasta que se hayan procesado todas las reclamaciones del seguro para esa visita.\n\nUna vez que se recibe una factura, se les da a los pacientes 25 días para pagar sus facturas en su totalidad. La fecha de vencimiento se indicará en su factura."
+        }
+      },
+      {
+        "id": "section_b88l706i",
+        "type": "section",
+        "title": {
+          "en": "Payment plans and financial assistance",
+          "es": "Planes de pago y asistencia financiera"
+        }
+      },
+      {
+        "id": "text_mz9jmwif",
+        "type": "text",
+        "markdown": {
+          "en": "Mass General Brigham can arrange flexible payment options (payment plans) upon request. If you have medical bills for which you cannot pay, please visit our Financial Assistance page to learn more about options available to you.",
+          "es": "Mass General Brigham puede organizar opciones de pago flexibles (planes de pago) a solicitud. Si tiene facturas médicas que no puede pagar, visite nuestra página de Asistencia Financiera para obtener más información sobre las opciones disponibles para usted."
+        }
+      },
+      {
+        "id": "link_btn6amy8",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing"
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/billing-insurance/billing/financial-assistance",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/billing-insurance/billing/financial-assistance"
         },
         "label": {
-          "en": "Billing and Financial Assistance — Mass General"
+          "en": "Financial assistance — Mass General Brigham",
+          "es": "Asistencia financiera — Mass General Brigham"
+        }
+      },
+      {
+        "id": "section_z55m2lro",
+        "type": "section",
+        "title": {
+          "en": "Pay your bill",
+          "es": "Pague su factura"
+        }
+      },
+      {
+        "id": "text_z6cwizsn",
+        "type": "text",
+        "markdown": {
+          "en": "**Online.** If you have a Patient Gateway account, you can see the current status of all open patient balances; payments are immediately posted to your account. You can opt to go paperless and receive your bills online. You also can set up monthly payment plans. You can pay through Patient Gateway or pay as a guest.",
+          "es": "**En línea.** Si tiene una cuenta de Patient Gateway, puede ver el estado actual de todos los saldos de pacientes abiertos; los pagos se publican inmediatamente en su cuenta. Puede optar por recibir sus facturas electrónicamente y no en papel. También puede configurar planes de pago mensuales. Puede pagar a través de Patient Gateway o pagar como invitado."
+        }
+      },
+      {
+        "id": "link_lewxvscu",
+        "type": "link",
+        "url": {
+          "en": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login",
+          "es": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login"
+        },
+        "label": {
+          "en": "Pay through Patient Gateway",
+          "es": "Pagar a través de Patient Gateway"
+        }
+      },
+      {
+        "id": "link_inkta036",
+        "type": "link",
+        "url": {
+          "en": "https://patientgateway.massgeneralbrigham.org/MyChart-PRD/billing/guestpay/payasguest",
+          "es": "https://patientgateway.massgeneralbrigham.org/MyChart-PRD/billing/guestpay/payasguest"
+        },
+        "label": {
+          "en": "Pay as a guest",
+          "es": "Pagar como invitado"
+        }
+      },
+      {
+        "id": "text_zpiu7una",
+        "type": "text",
+        "markdown": {
+          "en": "**By phone.** You can also call and press 1 to pay your bill by phone. Please have your account number and the patient's date of birth ready.",
+          "es": "**Por teléfono.** También puede llamar y presionar 1 para pagar su factura por teléfono. Tenga su número de cuenta y la fecha de nacimiento del paciente listos."
+        }
+      },
+      {
+        "id": "phone_2shmdibu",
+        "type": "phone",
+        "number": "+16177263884",
+        "label": {
+          "en": "Pay your bill by phone",
+          "es": "Pague su factura por teléfono"
         },
         "description": {
-          "en": "Understand your bill, payment options, and financial assistance programs."
+          "en": "Press 1",
+          "es": "Presione 1"
+        }
+      },
+      {
+        "id": "text_zqnd5jkm",
+        "type": "text",
+        "markdown": {
+          "en": "**By mail.** Send a check or money order to:\n\nMass General Brigham\nP.O. Box 418393\nBoston, MA 02241-8393\n\nInclude the coupon from the statement and write your account number (not medical record number) on your check.",
+          "es": "**Por correo.** Envíe un cheque o giro postal a:\n\nMass General Brigham\nP.O. Box 418393\nBoston, MA 02241-8393\n\nIncluya el cupón del estado de cuenta y escriba su número de cuenta (no el número de historial médico) en su cheque."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Servicios financieros"
+    }
   },
   {
     "id": "medical_interpreter_services",
@@ -521,17 +732,30 @@
     },
     "languages": {
       "en": {
-        "description": "Free interpreter services for patients and families with limited English, or who are deaf, hard of hearing, blind, or visually impaired.",
+        "description": "Mass General Brigham hospitals offer language access services 24 hours a day, at no cost, to patients and their family members.",
         "content": [
           {
             "type": "text",
-            "markdown": "Mass General offers free interpreter services in more than 200 languages, including American Sign Language. Interpreters are available 24/7 for patients and families with limited English proficiency, or who are deaf, hard of hearing, blind, or visually impaired."
+            "markdown": "Mass General Brigham hospitals offer language access services 24 hours a day, at no cost, to patients and their family members. These services include both translation and interpreter services for families and patients to participate fully in their treatment.\n\nPlease let your care team know about your communication needs before or during your appointment. If you are scheduling a visit, you may also request an interpreter at that time.\n\n### Interpreter Services at Massachusetts General Hospital\n\n- 📞 [617-726-6966](tel:+16177266966) (Press 6 to speak with a coordinator)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services](https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services)\n\nBusiness hours are Monday through Friday, 7 a.m. to 8 p.m. and Saturday and Sunday 8:00 a.m. to 6:30 p.m.\n\nSpanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.\n\n## Spoken language interpreters\n\nWe have language interpreters who speak more than 300 languages. Our trained interpreters can join your appointment in person or by phone or video connection. To request an interpreter, please tell your care team or mention your communication needs when scheduling a visit.\n\n## For patients who are Deaf, DeafBlind, or hard of hearing\n\nOur ASL interpreters help patients who are Deaf, DeafBlind, or hard of hearing. Patients also have access to assistive technologies, including videophones, amplified headsets, and CART (Communication Access Realtime Translation) services. If you need one of these resources, please inform your care team before your visit or at check-in.\n\n## Need other accessibility support?\n\nWe're committed to ensuring our facilities, services, and information are accessible to all patients, visitors, and staff."
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services",
-            "label": "Medical Interpreter Services — Mass General",
-            "description": "Request an interpreter and learn about available languages and accommodations."
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/accessibility",
+            "label": "Accessibility — Mass General Brigham"
+          }
+        ]
+      },
+      "es": {
+        "description": "Los hospitales de Mass General Brigham ofrecen servicios de acceso lingüístico las 24 horas del día, sin costo, a pacientes y familiares.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Los hospitales de Mass General Brigham ofrecen servicios de acceso lingüístico las 24 horas del día, sin costo, a pacientes y familiares. Estos servicios incluyen traducción e interpretación para que los pacientes y sus familias participen plenamente en su tratamiento.\n\nInforme a su equipo de atención sobre sus necesidades de comunicación antes de la cita o durante esta. Si está agendando una visita, también puede solicitar un intérprete en ese momento.\n\n### Interpreter Services en Massachusetts General Hospital\n\n- 📞 [617-726-6966](tel:+16177266966) (Marque 6 para hablar con una persona coordinadora)\n- 🌐 [massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/language-access-services](https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/language-access-services)\n\nEl horario de atención es de lunes a viernes, de 7 a.m. a 8 p.m., y los sábados y domingos, de 8:00 a.m. a 6:30 p.m.\n\nDurante la noche, hay intérpretes de guardia de español, portugués y lengua de señas estadounidense disponibles mediante buscapersonas.\n\n## Intérpretes de idiomas hablados\n\nContamos con intérpretes que hablan más de 300 idiomas. Nuestro personal de interpretación capacitado puede participar en su cita en persona, por teléfono o mediante videoconferencia. Para solicitar un intérprete, informe a su equipo de atención o mencione sus necesidades de comunicación cuando agende una visita.\n\n## Para pacientes sordos, sordociegos o con dificultades auditivas\n\nNuestro personal de interpretación de ASL ayuda a pacientes sordos, sordociegos o con dificultades auditivas. Los pacientes también tienen acceso a tecnologías de asistencia, incluidos videoteléfonos, auriculares amplificados y servicios de CART (traducción en tiempo real para acceso a la comunicación). Si necesita alguno de estos recursos, informe a su equipo de atención antes de la visita o al registrarse.\n\n## ¿Necesita otro tipo de apoyo de accesibilidad?\n\nNos comprometemos a garantizar que nuestras instalaciones, servicios e información sean accesibles para todos los pacientes, visitantes y miembros del personal."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/accessibility",
+            "label": "Accesibilidad — Mass General Brigham"
           }
         ]
       }
@@ -544,32 +768,115 @@
       "Blind",
       "Visual impairment"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish from MGB's Spanish Language Access Services page (snapshot 2026-10-21). Approved by Mark 2026-10-21.",
     "description": {
-      "en": "Free interpreter services for patients and families with limited English, or who are deaf, hard of hearing, blind, or visually impaired."
+      "en": "Mass General Brigham hospitals offer language access services 24 hours a day, at no cost, to patients and their family members.",
+      "es": "Los hospitales de Mass General Brigham ofrecen servicios de acceso lingüístico las 24 horas del día, sin costo, a pacientes y familiares."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_w7yosad6",
         "type": "text",
         "markdown": {
-          "en": "Mass General offers free interpreter services in more than 200 languages, including American Sign Language. Interpreters are available 24/7 for patients and families with limited English proficiency, or who are deaf, hard of hearing, blind, or visually impaired."
+          "en": "Mass General Brigham hospitals offer language access services 24 hours a day, at no cost, to patients and their family members. These services include both translation and interpreter services for families and patients to participate fully in their treatment.\n\nPlease let your care team know about your communication needs before or during your appointment. If you are scheduling a visit, you may also request an interpreter at that time.",
+          "es": "Los hospitales de Mass General Brigham ofrecen servicios de acceso lingüístico las 24 horas del día, sin costo, a pacientes y familiares. Estos servicios incluyen traducción e interpretación para que los pacientes y sus familias participen plenamente en su tratamiento.\n\nInforme a su equipo de atención sobre sus necesidades de comunicación antes de la cita o durante esta. Si está agendando una visita, también puede solicitar un intérprete en ese momento."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_pdeoxv22",
+        "type": "listing",
+        "name": {
+          "en": "Interpreter Services at Massachusetts General Hospital",
+          "es": "Interpreter Services en Massachusetts General Hospital"
+        },
+        "phones": [
+          {
+            "id": "phone_svh4nppb",
+            "number": "+16177266966",
+            "label": {
+              "en": "Press 6 to speak with a coordinator",
+              "es": "Marque 6 para hablar con una persona coordinadora"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_5h9btv8j",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services",
+              "es": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/language-access-services"
+            }
+          }
+        ],
+        "details": {
+          "en": "Business hours are Monday through Friday, 7 a.m. to 8 p.m. and Saturday and Sunday 8:00 a.m. to 6:30 p.m.\n\nSpanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.",
+          "es": "El horario de atención es de lunes a viernes, de 7 a.m. a 8 p.m., y los sábados y domingos, de 8:00 a.m. a 6:30 p.m.\n\nDurante la noche, hay intérpretes de guardia de español, portugués y lengua de señas estadounidense disponibles mediante buscapersonas."
+        }
+      },
+      {
+        "id": "section_y1eczg2u",
+        "type": "section",
+        "title": {
+          "en": "Spoken language interpreters",
+          "es": "Intérpretes de idiomas hablados"
+        }
+      },
+      {
+        "id": "text_0cbobo4a",
+        "type": "text",
+        "markdown": {
+          "en": "We have language interpreters who speak more than 300 languages. Our trained interpreters can join your appointment in person or by phone or video connection. To request an interpreter, please tell your care team or mention your communication needs when scheduling a visit.",
+          "es": "Contamos con intérpretes que hablan más de 300 idiomas. Nuestro personal de interpretación capacitado puede participar en su cita en persona, por teléfono o mediante videoconferencia. Para solicitar un intérprete, informe a su equipo de atención o mencione sus necesidades de comunicación cuando agende una visita."
+        }
+      },
+      {
+        "id": "section_3nvoq110",
+        "type": "section",
+        "title": {
+          "en": "For patients who are Deaf, DeafBlind, or hard of hearing",
+          "es": "Para pacientes sordos, sordociegos o con dificultades auditivas"
+        }
+      },
+      {
+        "id": "text_w16r3uvs",
+        "type": "text",
+        "markdown": {
+          "en": "Our ASL interpreters help patients who are Deaf, DeafBlind, or hard of hearing. Patients also have access to assistive technologies, including videophones, amplified headsets, and CART (Communication Access Realtime Translation) services. If you need one of these resources, please inform your care team before your visit or at check-in.",
+          "es": "Nuestro personal de interpretación de ASL ayuda a pacientes sordos, sordociegos o con dificultades auditivas. Los pacientes también tienen acceso a tecnologías de asistencia, incluidos videoteléfonos, auriculares amplificados y servicios de CART (traducción en tiempo real para acceso a la comunicación). Si necesita alguno de estos recursos, informe a su equipo de atención antes de la visita o al registrarse."
+        }
+      },
+      {
+        "id": "section_chlnro2m",
+        "type": "section",
+        "title": {
+          "en": "Need other accessibility support?",
+          "es": "¿Necesita otro tipo de apoyo de accesibilidad?"
+        }
+      },
+      {
+        "id": "text_tvshhce4",
+        "type": "text",
+        "markdown": {
+          "en": "We're committed to ensuring our facilities, services, and information are accessible to all patients, visitors, and staff.",
+          "es": "Nos comprometemos a garantizar que nuestras instalaciones, servicios e información sean accesibles para todos los pacientes, visitantes y miembros del personal."
+        }
+      },
+      {
+        "id": "link_rhl6zff2",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services"
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/accessibility",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/accessibility"
         },
         "label": {
-          "en": "Medical Interpreter Services — Mass General"
-        },
-        "description": {
-          "en": "Request an interpreter and learn about available languages and accommodations."
+          "en": "Accessibility — Mass General Brigham",
+          "es": "Accesibilidad — Mass General Brigham"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Servicios de interpretación"
+    }
   },
   {
     "id": "patient_gateway",
@@ -652,63 +959,353 @@
       "*"
     ],
     "categories": [
-      "administrative_resource"
+      "administrative_resource",
+      "educational_resource"
     ],
     "phasesByUnit": {
       "picu": [
-        "just_arrived"
+        "just_arrived",
+        "pre_admission",
+        "after_discharge"
       ]
     },
     "languages": {
       "en": {
-        "description": "Access everything from primary care to advanced specialty services.",
+        "description": "Find out how to schedule an appointment, make a referral, or request a second opinion at Mass General Brigham.",
         "content": [
           {
             "type": "text",
-            "markdown": "Mass General Brigham for Children offers comprehensive pediatric care — from primary care to advanced specialty services. Read patient stories, learn about programs and conditions, and find pediatric specialists."
+            "markdown": "At Mass General Brigham for Children, you can access everything from primary care to advanced specialty services, all tailored to the needs of newborns, children, and teens.\n\nCall us to speak with a team member who can help you understand your options and guide you to the care that is right for you.\n\n### Mass General Brigham for Children\n\n- 📞 [888-644-3248](tel:+18886443248)\n- 🌐 [massgeneralbrigham.org/en/services/children](https://www.massgeneralbrigham.org/en/services/children)\n\nWhether you're seeking support for a common concern or a complex condition, our pediatric specialists are here to help. Browse our list of services and programs to find the care that's right for your child."
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/children",
-            "label": "Mass General Brigham for Children",
-            "description": "Explore pediatric services, specialists, and patient resources."
+            "url": "https://www.massgeneralbrigham.org/en/services/children#mass-general-brigham-for-children-services-and-programs",
+            "label": "Mass General Brigham for Children services and programs"
+          },
+          {
+            "type": "text",
+            "markdown": "## Request an appointment\n\nWhether you're a new or returning patient, you can request an appointment, find a provider, or get a second opinion, online or by phone."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/search/doctors",
+            "label": "Find a doctor",
+            "description": "Search for physicians by name, specialty, or location across Mass General Brigham."
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/mychart-PRD/Authentication/Login",
+            "label": "Patient Gateway",
+            "description": "Log in to schedule, manage, or view your upcoming appointments."
+          },
+          {
+            "type": "text",
+            "markdown": "Our patient service representatives can help you register as a new patient and schedule appointments.\n\n### Massachusetts General Hospital\n\n- 📞 [866-211-6588](tel:+18662116588) (Patient registration)\n- 📞 [866-489-4046](tel:+18664894046) (Insurance referral)\n- 🌐 [massgeneralbrigham.org/en/find-care/request-appointment](https://www.massgeneralbrigham.org/en/find-care/request-appointment)\n\n### Prepare for your appointment\n\nPreparing in advance for your appointment can help your visit go smoothly. Please plan to arrive early to complete registration and bring:\n\n- A photo ID\n- Your insurance card\n- A list of prescription and over-the-counter medications and supplements\n- Your medical history, including hospitalizations, procedures, and allergies\n\n## Get a second opinion\n\nReceive a second opinion from a Mass General Brigham specialist without traveling to Boston. Through our Online Second Opinions service, your physician can request a written consultation from one of our renowned experts to confirm a diagnosis or explore treatment options.\n\nIf you have received a life-changing diagnosis, have unexplained symptoms, or are unsure about a treatment plan, getting a second opinion can help you make informed decisions about your care.\n\nTo request an Online Second Opinion:\n\n- You and your physician must complete the Online Second Opinions registration.\n- You and/or your physician should send all medical records, including imaging and pathology reports, to us.\n\nSpecialists typically complete a second opinion within 10 business days. Fees for Online Second Opinions depend on the services. Patients are responsible for all fees.\n\nDue to current regulatory constraints, we cannot provide Online Second Opinions to patients living in Connecticut, Iowa, Maine, New Mexico, Ohio, Tennessee, Texas, US Virgin Islands, and Wyoming. If you live in one of these states and would like to schedule an in-person appointment at Mass General Brigham, please contact the clinical department directly."
+          },
+          {
+            "type": "link",
+            "url": "https://poso.partners.org/Home/RegisterLanding",
+            "label": "Register for an online second opinion",
+            "description": "Start your registration for a virtual second opinion with a Mass General Brigham specialist."
+          },
+          {
+            "type": "text",
+            "markdown": "### Online Second Opinions\n\nCall our team with questions about the Online Second Opinions process.\n\n- 📞 [888-456-5003](tel:+18884565003)\n- 📞 [617-724-9295](tel:+16177249295) (Alternate phone)\n- 🌐 [massgeneralbrigham.org/en/find-care/second-opinion](https://www.massgeneralbrigham.org/en/find-care/second-opinion)"
+          }
+        ]
+      },
+      "es": {
+        "description": "Descubra cómo agendar una cita, hacer un referido o solicitar una segunda opinión en Mass General Brigham.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "En Mass General Brigham para Niños, puede acceder a todo, desde atención primaria hasta servicios especializados avanzados, todos adaptados a las necesidades de recién nacidos, niños y adolescentes.\n\nLlámenos para hablar con un miembro del equipo que puede ayudarle a entender sus opciones y guiarle hacia la atención que es adecuada para usted.\n\n### Mass General Brigham para Niños\n\n- 📞 [888-644-3248](tel:+18886443248)\n- 🌐 [massgeneralbrigham.org/es/services/children](https://www.massgeneralbrigham.org/es/services/children)\n\nYa sea que esté buscando apoyo para una preocupación común o una condición compleja, nuestros especialistas pediátricos están aquí para ayudar. Consulte nuestra lista de servicios y programas para encontrar la atención adecuada para su hijo."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/services/children#servicios-y-programas-de-mass-general-brigham-for-children",
+            "label": "Servicios y programas de Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## Solicite una cita\n\nYa sea que sea un paciente nuevo o que ya haya sido paciente, puede solicitar una cita, encontrar un proveedor o solicitar una segunda opinión, en línea o por teléfono."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/search/doctors",
+            "label": "Encuentre un médico",
+            "description": "Busque médicos por nombre, especialidad o ubicación en Mass General Brigham."
+          },
+          {
+            "type": "link",
+            "url": "https://patientgateway.massgeneralbrigham.org/mychart-PRD/Authentication/Login",
+            "label": "Patient Gateway",
+            "description": "Inicie sesión para agendar, gestionar o ver sus próximas citas."
+          },
+          {
+            "type": "text",
+            "markdown": "Nuestros representantes de servicio al paciente pueden ayudarle a registrarse como nuevo paciente y agendar citas.\n\n### Massachusetts General Hospital\n\n- 📞 [866-211-6588](tel:+18662116588) (Registro de pacientes)\n- 📞 [866-489-4046](tel:+18664894046) (Referido de seguro)\n- 🌐 [massgeneralbrigham.org/es/find-care/request-appointment](https://www.massgeneralbrigham.org/es/find-care/request-appointment)\n\n### Prepárese para su cita\n\nPrepararse con anticipación para su cita puede ayudar a que su visita transcurra sin problemas. Planee llegar temprano para completar el registro y traiga:\n\n- Una identificación con foto\n- Su tarjeta de seguro\n- Una lista de medicamentos recetados y de venta libre y suplementos\n- Su historial médico, incluyendo hospitalizaciones, procedimientos y alergias\n\n## Obtenga una segunda opinión\n\nReciba una segunda opinión de un especialista de Mass General Brigham sin viajar a Boston. A través de nuestro servicio de Opiniones Secundarias en Línea, su médico puede solicitar una consulta escrita de uno de nuestros renombrados expertos para confirmar un diagnóstico o explorar opciones de tratamiento.\n\nSi recibió un diagnóstico que cambia la vida, presenta síntomas inexplicables o no está seguro acerca de un plan de tratamiento, obtener una segunda opinión puede ayudarle a tomar decisiones informadas sobre su atención.\n\nPara solicitar una Segunda Opinión en Línea:\n\n- Usted y su médico deben completar el registro de la Segunda Opinión en Línea.\n- Usted o su médico deben enviar todos los registros médicos, incluyendo informes de imágenes y patología, a nosotros.\n\nLos especialistas generalmente completan una segunda opinión dentro de 10 días hábiles. Las tarifas para las Segundas Opiniones en Línea dependen de los servicios. Los pacientes son responsables de todos los honorarios.\n\nDebido a las restricciones regulatorias actuales, no podemos proporcionar Opiniones Secundarias en línea a pacientes que viven en Connecticut, Iowa, Maine, Nuevo México, Ohio, Tennessee, Texas, Islas Vírgenes de EE. UU., y Wyoming. Si vive en uno de estos estados y desea agendar una cita en persona en Mass General Brigham, contacte directamente al departamento clínico."
+          },
+          {
+            "type": "link",
+            "url": "https://poso.partners.org/Home/RegisterLanding",
+            "label": "Regístrese para una segunda opinión en línea",
+            "description": "Inicie su registro para una segunda opinión virtual con un especialista de Mass General Brigham."
+          },
+          {
+            "type": "text",
+            "markdown": "### Opiniones Secundarias en Línea\n\nLlame a nuestro equipo con preguntas sobre el proceso de Opiniones Secundarias en Línea.\n\n- 📞 [888-456-5003](tel:+18884565003)\n- 📞 [617-724-9295](tel:+16177249295) (Teléfono alternativo)\n- 🌐 [massgeneralbrigham.org/es/find-care/second-opinion](https://www.massgeneralbrigham.org/es/find-care/second-opinion)"
           }
         ]
       }
     },
     "images": [],
     "tags": [
+      "appointment resources",
+      "referrals",
+      "find a care provider",
+      "patient gateway",
+      "online second opinions",
       "primary care",
       "specialty services",
       "pediatric specialists",
-      "read patient stories"
+      "treatments",
+      "services",
+      "specialties",
+      "subspecialties",
+      "appointments",
+      "second opinion",
+      "find a doctor",
+      "new patient registration",
+      "insurance referral"
     ],
-    "notes": null,
+    "notes": "Merged with appointments_and_referrals and hospital_treatments_and_services; matched to https://www.massgeneralbrigham.org/en/services/children, /en/find-care/request-appointment and /en/find-care/second-opinion (snapshot 2026-10-22), approved by Mark 2026-10-22.\nSpanish from MGB's /es/ pages (snapshot 2026-10-22). Approved by Mark 2026-10-22.",
     "description": {
-      "en": "Access everything from primary care to advanced specialty services."
+      "en": "Find out how to schedule an appointment, make a referral, or request a second opinion at Mass General Brigham.",
+      "es": "Descubra cómo agendar una cita, hacer un referido o solicitar una segunda opinión en Mass General Brigham."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_yj8hx134",
         "type": "text",
         "markdown": {
-          "en": "Mass General Brigham for Children offers comprehensive pediatric care — from primary care to advanced specialty services. Read patient stories, learn about programs and conditions, and find pediatric specialists."
+          "en": "At Mass General Brigham for Children, you can access everything from primary care to advanced specialty services, all tailored to the needs of newborns, children, and teens.\n\nCall us to speak with a team member who can help you understand your options and guide you to the care that is right for you.",
+          "es": "En Mass General Brigham para Niños, puede acceder a todo, desde atención primaria hasta servicios especializados avanzados, todos adaptados a las necesidades de recién nacidos, niños y adolescentes.\n\nLlámenos para hablar con un miembro del equipo que puede ayudarle a entender sus opciones y guiarle hacia la atención que es adecuada para usted."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_et11hikk",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Brigham for Children",
+          "es": "Mass General Brigham para Niños"
+        },
+        "phones": [
+          {
+            "id": "phone_7riiyxmu",
+            "number": "+18886443248"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_h2ao4wb8",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/children",
+              "es": "https://www.massgeneralbrigham.org/es/services/children"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_cl9vdsn9",
+        "type": "text",
+        "markdown": {
+          "en": "Whether you're seeking support for a common concern or a complex condition, our pediatric specialists are here to help. Browse our list of services and programs to find the care that's right for your child.",
+          "es": "Ya sea que esté buscando apoyo para una preocupación común o una condición compleja, nuestros especialistas pediátricos están aquí para ayudar. Consulte nuestra lista de servicios y programas para encontrar la atención adecuada para su hijo."
+        }
+      },
+      {
+        "id": "link_g43a2rc6",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/children"
+          "en": "https://www.massgeneralbrigham.org/en/services/children#mass-general-brigham-for-children-services-and-programs",
+          "es": "https://www.massgeneralbrigham.org/es/services/children#servicios-y-programas-de-mass-general-brigham-for-children"
         },
         "label": {
-          "en": "Mass General Brigham for Children"
+          "en": "Mass General Brigham for Children services and programs",
+          "es": "Servicios y programas de Mass General Brigham for Children"
+        }
+      },
+      {
+        "id": "section_5ssvz95n",
+        "type": "section",
+        "title": {
+          "en": "Request an appointment",
+          "es": "Solicite una cita"
+        }
+      },
+      {
+        "id": "text_q28e6sxj",
+        "type": "text",
+        "markdown": {
+          "en": "Whether you're a new or returning patient, you can request an appointment, find a provider, or get a second opinion, online or by phone.",
+          "es": "Ya sea que sea un paciente nuevo o que ya haya sido paciente, puede solicitar una cita, encontrar un proveedor o solicitar una segunda opinión, en línea o por teléfono."
+        }
+      },
+      {
+        "id": "link_w4tx1utr",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/en/search/doctors",
+          "es": "https://www.massgeneralbrigham.org/es/search/doctors"
+        },
+        "label": {
+          "en": "Find a doctor",
+          "es": "Encuentre un médico"
         },
         "description": {
-          "en": "Explore pediatric services, specialists, and patient resources."
+          "en": "Search for physicians by name, specialty, or location across Mass General Brigham.",
+          "es": "Busque médicos por nombre, especialidad o ubicación en Mass General Brigham."
         }
+      },
+      {
+        "id": "link_g1hwrvmb",
+        "type": "link",
+        "url": {
+          "en": "https://patientgateway.massgeneralbrigham.org/mychart-PRD/Authentication/Login",
+          "es": "https://patientgateway.massgeneralbrigham.org/mychart-PRD/Authentication/Login"
+        },
+        "label": {
+          "en": "Patient Gateway",
+          "es": "Patient Gateway"
+        },
+        "description": {
+          "en": "Log in to schedule, manage, or view your upcoming appointments.",
+          "es": "Inicie sesión para agendar, gestionar o ver sus próximas citas."
+        }
+      },
+      {
+        "id": "text_1u96lh5r",
+        "type": "text",
+        "markdown": {
+          "en": "Our patient service representatives can help you register as a new patient and schedule appointments.",
+          "es": "Nuestros representantes de servicio al paciente pueden ayudarle a registrarse como nuevo paciente y agendar citas."
+        }
+      },
+      {
+        "id": "listing_8vf1af9z",
+        "type": "listing",
+        "name": {
+          "en": "Massachusetts General Hospital",
+          "es": "Massachusetts General Hospital"
+        },
+        "phones": [
+          {
+            "id": "phone_ysi33xvo",
+            "number": "+18662116588",
+            "label": {
+              "en": "Patient registration",
+              "es": "Registro de pacientes"
+            }
+          },
+          {
+            "id": "phone_dl6exi00",
+            "number": "+18664894046",
+            "label": {
+              "en": "Insurance referral",
+              "es": "Referido de seguro"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_pbfvw3pu",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/find-care/request-appointment",
+              "es": "https://www.massgeneralbrigham.org/es/find-care/request-appointment"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_dsxgztom",
+        "type": "text",
+        "markdown": {
+          "en": "### Prepare for your appointment\n\nPreparing in advance for your appointment can help your visit go smoothly. Please plan to arrive early to complete registration and bring:\n\n- A photo ID\n- Your insurance card\n- A list of prescription and over-the-counter medications and supplements\n- Your medical history, including hospitalizations, procedures, and allergies",
+          "es": "### Prepárese para su cita\n\nPrepararse con anticipación para su cita puede ayudar a que su visita transcurra sin problemas. Planee llegar temprano para completar el registro y traiga:\n\n- Una identificación con foto\n- Su tarjeta de seguro\n- Una lista de medicamentos recetados y de venta libre y suplementos\n- Su historial médico, incluyendo hospitalizaciones, procedimientos y alergias"
+        }
+      },
+      {
+        "id": "section_qv8ilk9m",
+        "type": "section",
+        "title": {
+          "en": "Get a second opinion",
+          "es": "Obtenga una segunda opinión"
+        }
+      },
+      {
+        "id": "text_gb5wdsq6",
+        "type": "text",
+        "markdown": {
+          "en": "Receive a second opinion from a Mass General Brigham specialist without traveling to Boston. Through our Online Second Opinions service, your physician can request a written consultation from one of our renowned experts to confirm a diagnosis or explore treatment options.\n\nIf you have received a life-changing diagnosis, have unexplained symptoms, or are unsure about a treatment plan, getting a second opinion can help you make informed decisions about your care.\n\nTo request an Online Second Opinion:\n\n- You and your physician must complete the Online Second Opinions registration.\n- You and/or your physician should send all medical records, including imaging and pathology reports, to us.\n\nSpecialists typically complete a second opinion within 10 business days. Fees for Online Second Opinions depend on the services. Patients are responsible for all fees.\n\nDue to current regulatory constraints, we cannot provide Online Second Opinions to patients living in Connecticut, Iowa, Maine, New Mexico, Ohio, Tennessee, Texas, US Virgin Islands, and Wyoming. If you live in one of these states and would like to schedule an in-person appointment at Mass General Brigham, please contact the clinical department directly.",
+          "es": "Reciba una segunda opinión de un especialista de Mass General Brigham sin viajar a Boston. A través de nuestro servicio de Opiniones Secundarias en Línea, su médico puede solicitar una consulta escrita de uno de nuestros renombrados expertos para confirmar un diagnóstico o explorar opciones de tratamiento.\n\nSi recibió un diagnóstico que cambia la vida, presenta síntomas inexplicables o no está seguro acerca de un plan de tratamiento, obtener una segunda opinión puede ayudarle a tomar decisiones informadas sobre su atención.\n\nPara solicitar una Segunda Opinión en Línea:\n\n- Usted y su médico deben completar el registro de la Segunda Opinión en Línea.\n- Usted o su médico deben enviar todos los registros médicos, incluyendo informes de imágenes y patología, a nosotros.\n\nLos especialistas generalmente completan una segunda opinión dentro de 10 días hábiles. Las tarifas para las Segundas Opiniones en Línea dependen de los servicios. Los pacientes son responsables de todos los honorarios.\n\nDebido a las restricciones regulatorias actuales, no podemos proporcionar Opiniones Secundarias en línea a pacientes que viven en Connecticut, Iowa, Maine, Nuevo México, Ohio, Tennessee, Texas, Islas Vírgenes de EE. UU., y Wyoming. Si vive en uno de estos estados y desea agendar una cita en persona en Mass General Brigham, contacte directamente al departamento clínico."
+        }
+      },
+      {
+        "id": "link_v2h1jt7g",
+        "type": "link",
+        "url": {
+          "en": "https://poso.partners.org/Home/RegisterLanding",
+          "es": "https://poso.partners.org/Home/RegisterLanding"
+        },
+        "label": {
+          "en": "Register for an online second opinion",
+          "es": "Regístrese para una segunda opinión en línea"
+        },
+        "description": {
+          "en": "Start your registration for a virtual second opinion with a Mass General Brigham specialist.",
+          "es": "Inicie su registro para una segunda opinión virtual con un especialista de Mass General Brigham."
+        }
+      },
+      {
+        "id": "listing_ynbeiybg",
+        "type": "listing",
+        "name": {
+          "en": "Online Second Opinions",
+          "es": "Opiniones Secundarias en Línea"
+        },
+        "notes": {
+          "en": "Call our team with questions about the Online Second Opinions process.",
+          "es": "Llame a nuestro equipo con preguntas sobre el proceso de Opiniones Secundarias en Línea."
+        },
+        "phones": [
+          {
+            "id": "phone_ri2cu4oc",
+            "number": "+18884565003"
+          },
+          {
+            "id": "phone_dig76qib",
+            "number": "+16177249295",
+            "label": {
+              "en": "Alternate phone",
+              "es": "Teléfono alternativo"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_aelr2h1j",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/find-care/second-opinion",
+              "es": "https://www.massgeneralbrigham.org/es/find-care/second-opinion"
+            }
+          }
+        ]
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Mass General Brigham para Niños"
+    }
   },
   {
     "id": "quality_and_safety",
@@ -730,17 +1327,30 @@
     },
     "languages": {
       "en": {
-        "description": "Mass General Brigham for Children's commitment to safe, high-quality care across the health system.",
+        "description": "We strive to be the top health system in the country for quality, informed by data and grounded in safety and equity.",
         "content": [
           {
             "type": "text",
-            "markdown": "## What Does Quality & Safety Mean for Your Child?\n\nWhen you get \"outstanding quality\" health care, it means your care is based on evidence, family-centered and provided by skilled and knowledgeable professionals who communicate and coordinate the care in a timely way.\n\nYou and your child should feel safe at Mass General Brigham for Children, and one of the best ways to improve patient safety is to constantly monitor performance and family experiences to set up systems to provide the best care for your child. The Mass General Brigham for Children Quality and Safety is committed to this work every day.\n\n### High Quality & Safe Care at Mass General Brigham for Children Is:\n\n- Evidence-based\n- Family-centered\n- Provided by skilled professionals\n- Rooted in a culture of open communication and continuous improvement\n- Driven by feedback from our families\n\n## About Us\n\n### Our Vision for Mass General Brigham for Children Quality and Safety\n\nMass General Brigham for Children, as a national leader in Quality and Safety, is distinguished by a culture that partners with patients and families to assure that care is safe, high quality, equitable, and efficient.\n\nThis culture is characterized by:\n\n- Teamwork\n- Transparency\n- Continuous learning and improvement\n- Communication\n- Innovation\n\n### Mass General Brigham for Children Quality and Safety Core Team\n\n- [Brian Cummings, MD](https://www.massgeneralbrigham.org/en/doctors/c/brian-cummings-3001544) — Vice Chair, Medical Director, Mass General Brigham for Children\n- Sandra Dodge McGee, MHA — Executive Director, Mass General Brigham for Children and Mass General Brigham Pediatrics\n- [Esther Israel, MD](https://www.massgeneralbrigham.org/en/doctors/i/esther-israel-3003033) — Quality Chair, Pediatrics\n- [Cassandra Kelleher, MD](https://www.massgeneralbrigham.org/en/doctors/k/cassandra-kelleher-3011889) — Quality Chair, Pediatric Surgery\n- [Lindsay Carter, MD](https://www.massgeneralbrigham.org/en/doctors/c/lindsay-carter-3008725) — Director, Inpatient Quality and Safety\n- Kristen Solemina, MPH — Quality and Safety Manager\n- Caren Harris, RN, MSN — Quality Nurse Coordinator\n- Jessica Mascola, MS — Quality and Safety Program Coordinator\n- Cathleen Glynn, RN, MSN — Quality and Safety Data Analyst\n\n### Our History\n\nThe Mass General Brigham for Children Quality and Safety Team work with leadership and staff to provide the highest quality, safest and patient-centered care to our families. We strive to create a culture of continuous improvement through communication, education, information dissemination and data-driven improvement.\n\nSince 2009, our team has implemented safety initiatives and evidence-based care models across all care delivery areas at Mass General Brigham for Children.\n\n### Mass General Brigham for Children Quality and Safety Structure\n\nOur structure begins with unit-based triads (physician, nurse and administrator), that report into our ambulatory and inpatient quality and safety team to foster shared learning, teamwork and communication. Our work is driven by priorities set by Mass General Brigham for Children leadership, and MGH leadership including Patient Care Services, Practice Improvement and the MGH Center for Quality and Safety.\n\n## Strategic Plan (5-Year Plan, 2017) — Our Key Areas of Focus\n\n- Reinforce the culture of continuous improvement\n- Improve safety culture\n- Improve patient safety, especially in high risk areas\n- Optimize the patient experience\n- Advance provider skills in safety science and quality improvement\n- Establish a national presence through scholarly activity\n\n## A Culture of Continuous Improvement\n\n**Strategic Plan, Goal #1: Reinforce the culture of continuous improvement.**\n\n### Quality and Safety Initiatives\n\nMass General Brigham for Children is engaged in a variety of local and national quality improvement (QI) initiatives, impacting children's health care locally and nationally.\n\n- Every primary care practice, subspecialty division, and inpatient unit is engaged in quality improvement initiatives that they have identified as most meaningful to their patients and themselves. Projects focus on improving different dimensions of care delivery, including patient safety, care effectiveness, patient experience and value.\n- To help encourage and support improvement work, Mass General Brigham for Children has developed a Quality and Safety Mini-Grant Program to provide resources and recognition for work initiated by front line care providers. Projects and initiatives are highlighted on the Department's Quality Dashboard, with practices encouraged to present their practice specific data and metrics at division level meetings.\n- Mass General Brigham for Children assesses several key quality metrics according to patient/family demographics in an effort to identify and reduce health care disparities.\n- At Mass General Brigham for Children, several practices/care units are engaged in quality improvement efforts through national collaboratives, including:\n  - Pediatric Gastroenterology — [Improve Care Now](https://www.improvecarenow.org/)\n  - Neonatal Intensive Care Unit — [Vermont Oxford Network](https://public.vtoxford.org/)\n  - Pediatric Intensive Care Unit — [Pediatric Intensive Care Unit](https://myvps.org/)\n  - Pediatric Surgery — [American College of Surgeons National Surgical Quality Improvement Program](https://www.facs.org/quality-programs/childrens-surgery/pediatric/overview)\n\n## Safety Culture / Patient Safety\n\n**Strategic Plan, Goal #2: Improve safety culture.**\n**Strategic Plan, Goal #3: Improve patient safety, especially in high risk areas.**\n\nIt can be difficult for infants and children to communicate their concerns or changes in symptoms. Mass General Brigham for Children offers our patients, families and staff a robust patient safety program which focuses on family participation in care, mitigation of safety risks, teamwork and rapid response to emergencies. We are committed to being a high reliability organization where our systems support patient safety and allow our patients, families and staff to feel free to speak up about patient safety concerns.\n\nSome examples of our Patient Safety initiatives include:\n\n**Safety Culture** — Mass General Brigham for Children is committed to a strong safety culture in which families and staff feel free to raise patient safety concerns and those voiced concerns result in patient safety improvements. We are proud that we have outperformed our peers on the [AHRQ (Agency for Healthcare Research and Quality)](https://www.ahrq.gov/sops/index.html) Safety Culture Survey.\n\n**Near Miss Safety Reporting** — Staff are encouraged to report near misses which represent opportunities to improve patient safety. Over 1200 reports are filed across pediatrics every year.\n\n**Medication Safety** — An interdisciplinary medication safety committee, Preventing Pediatric Medication Errors (PPME) Committee, consisting of physicians, nurses, pediatric pharmacists, information systems experts and quality specialists who oversee pediatric medication safety projects.\n\n**Rapid Response** — Mass General Brigham for Children Neonatal and Pediatric Rapid Response Teams can be activated for any acute or unexpected clinical concerns. The Rapid Response Team comes to the patient location to assist patients and care teams with their urgent concerns.\n\n**Good Catch Program** — Mass General Brigham for Children recognizes staff who speak up and prevent an error which could have reached a patient.\n\n**Integrated Electronic Medical Record** — Single electronic medical record across all practices enables all providers to review notes from other providers, test results and medication lists. The patient portal (My Chart) provides patient access to parts of their medical record as well as a secure portal for communicating with their providers.\n\n**Family-Centered Rounds** — Families are encouraged to participate as team members during morning rounds. This enables parents to actively participate in their child's care planning and provides a time for raising questions or concerns.\n\n## The Patient Experience\n\nPatients and families may receive a phone call or mail survey following their hospitalization or ambulatory visit asking about their experience and anything that we can do better for the family in the future. At Mass General Brigham for Children, we utilize our patient experience survey scores and responses to continually assess the quality of care we provide to our patients and families. Suggestions that families make or improvement opportunities identified allow us to constantly hold ourselves to the highest standards of care for our patients and families.\n\nThe Mass General Brigham for Children Quality and Safety team partners with parent volunteers to host staff training sessions. These sessions focus on understanding and optimizing the family experience at Mass General Brigham for Children. Staff gain perspective from the parents as well as strategizing improvement opportunities by directly collaborating with families.\n\n### Patient Experience Survey Comments\n\n> \"The staff were amazing. The receptionist is amazing. The nurses are brilliant. My kid just loves it there. Anytime he goes there he feels comfortable, and the staff are unbelievable.\"\n\n> \"They delighted me because they are kind of like an extended family to us. They always treat us with respect. They are always just very courteous. It's just a great experience in stressful times, especially.\"\n\n> \"They were very respectful. They kept us informed on the time of wait. They gave us very good information about the procedure, as well as having very good bedside manner.\"\n\n> \"His ability to sit and talk to a child, engage a child, explain what he was doing, and what was happening. He's a wonderful doctor.\"\n\n> \"[The doctor] is a phenomenal medical doctor, surgeon, and caretaker. He had a kind and wonderful bedside manner with my 11-year-old son. He explained the surgery, was reassuring, and confident. [The doctor] was kind to my son. He patiently listened to questions I had and answered each question. He is the best pediatric surgeon in the world.\"\n\n> \"[The doctor] is the best pediatrician I have ever encountered. She is nice, courteous, great with kids, and has excellent medical knowledge. I have the greatest possible confidence in her abilities to care for our children and have recommended her to numerous friends.\"\n\n## Quality & Safety Education\n\n**Strategic Plan, Goal #5: Advance provider skills in safety science and quality improvement.**\n\n**[Resident Program](https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/pediatrics/mgb-pediatric-residency)** — The MGH Pediatric Residency program is committed to educating its trainees in the principles of patient safety and quality improvement, as well as meaningfully engaging residents in improvement initiatives for providing experiential learning opportunities as well as ensuring its initiatives are informed by residents.\n\n- During the first year of the residency program, residents are taught the fundamentals of patient safety and quality improvement by faculty from Mass General Brigham for Children / MGH Quality and Safety leadership.\n- By the end of the second year of training, residents are expected to have become a member of and meaningfully participated in a quality improvement initiative at Mass General Brigham for Children.\n- The Mass General Brigham for Children Quality and Safety team has implemented \"Resident Quality and Safety Rounds,\" which is a forum for communication between residents and Mass General Brigham for Children Quality and Safety leadership regarding residents' quality and safety concerns.\n\n**Psychological Safety Leadership Programs** — A four-session psychological safety leadership series focused on communication techniques and teamwork.\n\n**Mass General Brigham's Clinical Process Improvement Leadership Program (CPIP)** — An intensive 6–8 session program with the purpose of engaging clinical teams in the use of process improvement tools to reduce variation in care and improve outcomes for patients.\n\n**[Team STEPPS](https://www.ahrq.gov/teamstepps-program/index.html)** — An evidence-based teamwork system to improve communication and teamwork skills among health care professionals.\n\n**Patient Safety Awareness Week** — Mass General Brigham for Children celebrates patient safety accomplishments and educates patients, providers and staff on patient safety. Every year the Mass General location recognizes a select group of Patient Safety Stars, nominated by their peers, for their commitment to patient safety within the hospital.\n\n**Interdisciplinary Tracer Program** — A team consisting of nurses, doctors, physician assistants, registered pharmacists and quality and safety specialists visit each unit to evaluate hospital and patient care operations."
+            "markdown": "## What does quality and safety mean for your child?\n\nWhen you get \"outstanding quality\" health care, it means your care is based on evidence, family-centered and provided by skilled and knowledgeable professionals who communicate and coordinate the care in a timely way.\n\nYou and your child should feel safe at Mass General Brigham for Children, and one of the best ways to improve patient safety is to constantly monitor performance and family experiences to set up systems to provide the best care for your child. The Mass General Brigham for Children Quality and Safety is committed to this work every day.\n\n### High Quality & Safe Care at Mass General Brigham for Children Is:\n\n- Evidence-based\n- Family-centered\n- Provided by skilled professionals\n- Rooted in a culture of open communication and continuous improvement\n- Driven by feedback from our families\n\n## Patient safety\n\nIt can be difficult for infants and children to communicate their concerns or changes in symptoms. Mass General Brigham for Children offers our patients, families and staff a robust patient safety program which focuses on family participation in care, mitigation of safety risks, teamwork and rapid response to emergencies. We are committed to being a high reliability organization where our systems support patient safety and allow our patients, families and staff to feel free to speak up about patient safety concerns.\n\nSome examples of our Patient Safety initiatives include:\n\n**Safety Culture** — Mass General Brigham for Children is committed to a strong safety culture in which families and staff feel free to raise patient safety concerns and those voiced concerns result in patient safety improvements.\n\n**Rapid Response** — Mass General Brigham for Children Neonatal and Pediatric Rapid Response Teams can be activated for any acute or unexpected clinical concerns. The Rapid Response Team comes to the patient location to assist patients and care teams with their urgent concerns.\n\n**Family-Centered Rounds** — Families are encouraged to participate as team members during morning rounds. This enables parents to actively participate in their child's care planning and provides a time for raising questions or concerns.\n\nMass General Brigham clinicians and care teams work together every day to deliver the very best patient outcomes, guided by our patient care strategy, For Every Patient."
           },
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/about/quality-safety",
-            "label": "Quality and Safety — Mass General Brigham for Children",
-            "description": "Visit the full Quality and Safety page on massgeneral.org."
+            "label": "Quality, Safety, and Outcomes — Mass General Brigham"
+          }
+        ]
+      },
+      "es": {
+        "description": "Nos esforzamos por ser el mejor sistema de salud del país en calidad, informado por datos y fundamentado en la seguridad y la equidad.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## ¿Qué significan la calidad y la seguridad para su hijo?\n\nRecibir atención médica de \"calidad excepcional\" significa que la atención se basa en evidencia, está centrada en la familia y la brindan profesionales capacitados y con conocimientos que se comunican y coordinan la atención de manera oportuna.\n\nUsted y su hijo deben sentirse seguros en Mass General Brigham para Niños, y una de las mejores maneras de mejorar la seguridad del paciente es supervisar constantemente el desempeño y las experiencias de las familias para establecer sistemas que brinden la mejor atención a su hijo. El equipo de Calidad y Seguridad de Mass General Brigham para Niños se dedica a este trabajo todos los días.\n\n### La atención segura y de alta calidad en Mass General Brigham para Niños es:\n\n- Basada en evidencia\n- Centrada en la familia\n- Brindada por profesionales capacitados\n- Arraigada en una cultura de comunicación abierta y mejora continua\n- Guiada por los comentarios de nuestras familias\n\n## Seguridad del paciente\n\nPuede ser difícil para los bebés y los niños comunicar sus preocupaciones o los cambios en sus síntomas. Mass General Brigham para Niños ofrece a nuestros pacientes, familias y personal un sólido programa de seguridad del paciente que se centra en la participación de la familia en la atención, la reducción de los riesgos de seguridad, el trabajo en equipo y la respuesta rápida ante emergencias. Nos comprometemos a ser una organización de alta confiabilidad en la que nuestros sistemas apoyen la seguridad del paciente y permitan que nuestros pacientes, familias y personal se sientan libres de expresar sus preocupaciones sobre la seguridad del paciente.\n\nAlgunos ejemplos de nuestras iniciativas de seguridad del paciente son:\n\n**Cultura de seguridad** — Mass General Brigham para Niños está comprometido con una sólida cultura de seguridad en la que las familias y el personal se sienten libres de expresar sus preocupaciones sobre la seguridad del paciente, y esas preocupaciones dan lugar a mejoras en la seguridad del paciente.\n\n**Respuesta rápida** — Los Equipos de Respuesta Rápida Neonatal y Pediátrica de Mass General Brigham para Niños pueden activarse ante cualquier preocupación clínica aguda o inesperada. El Equipo de Respuesta Rápida acude al lugar donde está el paciente para ayudar a los pacientes y a los equipos de atención con sus preocupaciones urgentes.\n\n**Rondas centradas en la familia** — Se anima a las familias a participar como miembros del equipo durante las rondas de la mañana. Esto permite que los padres participen activamente en la planificación de la atención de su hijo y ofrece un momento para hacer preguntas o expresar preocupaciones.\n\nLos clínicos y equipos de atención de Mass General Brigham trabajan juntos todos los días para ofrecer los mejores resultados para los pacientes, guiados por nuestra estrategia de atención al paciente, For Every Patient."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/about/quality-safety",
+            "label": "Calidad, seguridad y resultados — Mass General Brigham"
           }
         ]
       }
@@ -755,123 +1365,68 @@
       "innovation",
       "transparency"
     ],
-    "notes": null,
+    "notes": "Shortened to the family-facing parts of our own text (MGB has no children's quality page); link to MGB's system-wide Quality, Safety, and Outcomes page (snapshot 2026-10-21). Approved by Mark 2026-10-22.\nSpanish: closing and summary from MGB's Spanish quality page; our own sections translated by Claude, need Spanish review. Approved by Mark 2026-10-22.",
     "description": {
-      "en": "Mass General Brigham for Children's commitment to safe, high-quality care across the health system."
+      "en": "We strive to be the top health system in the country for quality, informed by data and grounded in safety and equity.",
+      "es": "Nos esforzamos por ser el mejor sistema de salud del país en calidad, informado por datos y fundamentado en la seguridad y la equidad."
     },
     "blocks": [
       {
-        "id": "what_does_quality_safety_mean_for_your",
+        "id": "section_gk728l6d",
         "type": "section",
         "title": {
-          "en": "What Does Quality & Safety Mean for Your Child?"
+          "en": "What does quality and safety mean for your child?",
+          "es": "¿Qué significan la calidad y la seguridad para su hijo?"
         }
       },
       {
-        "id": "what_does_quality_safety_mean_for_your_text",
+        "id": "text_otq5mgy7",
         "type": "text",
         "markdown": {
-          "en": "When you get \"outstanding quality\" health care, it means your care is based on evidence, family-centered and provided by skilled and knowledgeable professionals who communicate and coordinate the care in a timely way.\n\nYou and your child should feel safe at Mass General Brigham for Children, and one of the best ways to improve patient safety is to constantly monitor performance and family experiences to set up systems to provide the best care for your child. The Mass General Brigham for Children Quality and Safety is committed to this work every day.\n\n### High Quality & Safe Care at Mass General Brigham for Children Is:\n\n- Evidence-based\n- Family-centered\n- Provided by skilled professionals\n- Rooted in a culture of open communication and continuous improvement\n- Driven by feedback from our families"
+          "en": "When you get \"outstanding quality\" health care, it means your care is based on evidence, family-centered and provided by skilled and knowledgeable professionals who communicate and coordinate the care in a timely way.\n\nYou and your child should feel safe at Mass General Brigham for Children, and one of the best ways to improve patient safety is to constantly monitor performance and family experiences to set up systems to provide the best care for your child. The Mass General Brigham for Children Quality and Safety is committed to this work every day.\n\n### High Quality & Safe Care at Mass General Brigham for Children Is:\n\n- Evidence-based\n- Family-centered\n- Provided by skilled professionals\n- Rooted in a culture of open communication and continuous improvement\n- Driven by feedback from our families",
+          "es": "Recibir atención médica de \"calidad excepcional\" significa que la atención se basa en evidencia, está centrada en la familia y la brindan profesionales capacitados y con conocimientos que se comunican y coordinan la atención de manera oportuna.\n\nUsted y su hijo deben sentirse seguros en Mass General Brigham para Niños, y una de las mejores maneras de mejorar la seguridad del paciente es supervisar constantemente el desempeño y las experiencias de las familias para establecer sistemas que brinden la mejor atención a su hijo. El equipo de Calidad y Seguridad de Mass General Brigham para Niños se dedica a este trabajo todos los días.\n\n### La atención segura y de alta calidad en Mass General Brigham para Niños es:\n\n- Basada en evidencia\n- Centrada en la familia\n- Brindada por profesionales capacitados\n- Arraigada en una cultura de comunicación abierta y mejora continua\n- Guiada por los comentarios de nuestras familias"
         }
       },
       {
-        "id": "about_us",
+        "id": "section_le9gfudi",
         "type": "section",
         "title": {
-          "en": "About Us"
+          "en": "Patient safety",
+          "es": "Seguridad del paciente"
         }
       },
       {
-        "id": "about_us_text",
+        "id": "text_ijvb6c1m",
         "type": "text",
         "markdown": {
-          "en": "### Our Vision for Mass General Brigham for Children Quality and Safety\n\nMass General Brigham for Children, as a national leader in Quality and Safety, is distinguished by a culture that partners with patients and families to assure that care is safe, high quality, equitable, and efficient.\n\nThis culture is characterized by:\n\n- Teamwork\n- Transparency\n- Continuous learning and improvement\n- Communication\n- Innovation\n\n### Mass General Brigham for Children Quality and Safety Core Team\n\n- [Brian Cummings, MD](https://www.massgeneralbrigham.org/en/doctors/c/brian-cummings-3001544) — Vice Chair, Medical Director, Mass General Brigham for Children\n- Sandra Dodge McGee, MHA — Executive Director, Mass General Brigham for Children and Mass General Brigham Pediatrics\n- [Esther Israel, MD](https://www.massgeneralbrigham.org/en/doctors/i/esther-israel-3003033) — Quality Chair, Pediatrics\n- [Cassandra Kelleher, MD](https://www.massgeneralbrigham.org/en/doctors/k/cassandra-kelleher-3011889) — Quality Chair, Pediatric Surgery\n- [Lindsay Carter, MD](https://www.massgeneralbrigham.org/en/doctors/c/lindsay-carter-3008725) — Director, Inpatient Quality and Safety\n- Kristen Solemina, MPH — Quality and Safety Manager\n- Caren Harris, RN, MSN — Quality Nurse Coordinator\n- Jessica Mascola, MS — Quality and Safety Program Coordinator\n- Cathleen Glynn, RN, MSN — Quality and Safety Data Analyst\n\n### Our History\n\nThe Mass General Brigham for Children Quality and Safety Team work with leadership and staff to provide the highest quality, safest and patient-centered care to our families. We strive to create a culture of continuous improvement through communication, education, information dissemination and data-driven improvement.\n\nSince 2009, our team has implemented safety initiatives and evidence-based care models across all care delivery areas at Mass General Brigham for Children.\n\n### Mass General Brigham for Children Quality and Safety Structure\n\nOur structure begins with unit-based triads (physician, nurse and administrator), that report into our ambulatory and inpatient quality and safety team to foster shared learning, teamwork and communication. Our work is driven by priorities set by Mass General Brigham for Children leadership, and MGH leadership including Patient Care Services, Practice Improvement and the MGH Center for Quality and Safety."
+          "en": "It can be difficult for infants and children to communicate their concerns or changes in symptoms. Mass General Brigham for Children offers our patients, families and staff a robust patient safety program which focuses on family participation in care, mitigation of safety risks, teamwork and rapid response to emergencies. We are committed to being a high reliability organization where our systems support patient safety and allow our patients, families and staff to feel free to speak up about patient safety concerns.\n\nSome examples of our Patient Safety initiatives include:\n\n**Safety Culture** — Mass General Brigham for Children is committed to a strong safety culture in which families and staff feel free to raise patient safety concerns and those voiced concerns result in patient safety improvements.\n\n**Rapid Response** — Mass General Brigham for Children Neonatal and Pediatric Rapid Response Teams can be activated for any acute or unexpected clinical concerns. The Rapid Response Team comes to the patient location to assist patients and care teams with their urgent concerns.\n\n**Family-Centered Rounds** — Families are encouraged to participate as team members during morning rounds. This enables parents to actively participate in their child's care planning and provides a time for raising questions or concerns.",
+          "es": "Puede ser difícil para los bebés y los niños comunicar sus preocupaciones o los cambios en sus síntomas. Mass General Brigham para Niños ofrece a nuestros pacientes, familias y personal un sólido programa de seguridad del paciente que se centra en la participación de la familia en la atención, la reducción de los riesgos de seguridad, el trabajo en equipo y la respuesta rápida ante emergencias. Nos comprometemos a ser una organización de alta confiabilidad en la que nuestros sistemas apoyen la seguridad del paciente y permitan que nuestros pacientes, familias y personal se sientan libres de expresar sus preocupaciones sobre la seguridad del paciente.\n\nAlgunos ejemplos de nuestras iniciativas de seguridad del paciente son:\n\n**Cultura de seguridad** — Mass General Brigham para Niños está comprometido con una sólida cultura de seguridad en la que las familias y el personal se sienten libres de expresar sus preocupaciones sobre la seguridad del paciente, y esas preocupaciones dan lugar a mejoras en la seguridad del paciente.\n\n**Respuesta rápida** — Los Equipos de Respuesta Rápida Neonatal y Pediátrica de Mass General Brigham para Niños pueden activarse ante cualquier preocupación clínica aguda o inesperada. El Equipo de Respuesta Rápida acude al lugar donde está el paciente para ayudar a los pacientes y a los equipos de atención con sus preocupaciones urgentes.\n\n**Rondas centradas en la familia** — Se anima a las familias a participar como miembros del equipo durante las rondas de la mañana. Esto permite que los padres participen activamente en la planificación de la atención de su hijo y ofrece un momento para hacer preguntas o expresar preocupaciones."
         }
       },
       {
-        "id": "strategic_plan_5_year_plan_2017_our_key",
-        "type": "section",
-        "title": {
-          "en": "Strategic Plan (5-Year Plan, 2017) — Our Key Areas of Focus"
-        }
-      },
-      {
-        "id": "strategic_plan_5_year_plan_2017_our_key_text",
+        "id": "text_86w6h0ea",
         "type": "text",
         "markdown": {
-          "en": "- Reinforce the culture of continuous improvement\n- Improve safety culture\n- Improve patient safety, especially in high risk areas\n- Optimize the patient experience\n- Advance provider skills in safety science and quality improvement\n- Establish a national presence through scholarly activity"
+          "en": "Mass General Brigham clinicians and care teams work together every day to deliver the very best patient outcomes, guided by our patient care strategy, For Every Patient.",
+          "es": "Los clínicos y equipos de atención de Mass General Brigham trabajan juntos todos los días para ofrecer los mejores resultados para los pacientes, guiados por nuestra estrategia de atención al paciente, For Every Patient."
         }
       },
       {
-        "id": "a_culture_of_continuous_improvement",
-        "type": "section",
-        "title": {
-          "en": "A Culture of Continuous Improvement"
-        }
-      },
-      {
-        "id": "a_culture_of_continuous_improvement_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Strategic Plan, Goal #1: Reinforce the culture of continuous improvement.**\n\n### Quality and Safety Initiatives\n\nMass General Brigham for Children is engaged in a variety of local and national quality improvement (QI) initiatives, impacting children's health care locally and nationally.\n\n- Every primary care practice, subspecialty division, and inpatient unit is engaged in quality improvement initiatives that they have identified as most meaningful to their patients and themselves. Projects focus on improving different dimensions of care delivery, including patient safety, care effectiveness, patient experience and value.\n- To help encourage and support improvement work, Mass General Brigham for Children has developed a Quality and Safety Mini-Grant Program to provide resources and recognition for work initiated by front line care providers. Projects and initiatives are highlighted on the Department's Quality Dashboard, with practices encouraged to present their practice specific data and metrics at division level meetings.\n- Mass General Brigham for Children assesses several key quality metrics according to patient/family demographics in an effort to identify and reduce health care disparities.\n- At Mass General Brigham for Children, several practices/care units are engaged in quality improvement efforts through national collaboratives, including:\n  - Pediatric Gastroenterology — [Improve Care Now](https://www.improvecarenow.org/)\n  - Neonatal Intensive Care Unit — [Vermont Oxford Network](https://public.vtoxford.org/)\n  - Pediatric Intensive Care Unit — [Pediatric Intensive Care Unit](https://myvps.org/)\n  - Pediatric Surgery — [American College of Surgeons National Surgical Quality Improvement Program](https://www.facs.org/quality-programs/childrens-surgery/pediatric/overview)"
-        }
-      },
-      {
-        "id": "safety_culture_patient_safety",
-        "type": "section",
-        "title": {
-          "en": "Safety Culture / Patient Safety"
-        }
-      },
-      {
-        "id": "safety_culture_patient_safety_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Strategic Plan, Goal #2: Improve safety culture.**\n**Strategic Plan, Goal #3: Improve patient safety, especially in high risk areas.**\n\nIt can be difficult for infants and children to communicate their concerns or changes in symptoms. Mass General Brigham for Children offers our patients, families and staff a robust patient safety program which focuses on family participation in care, mitigation of safety risks, teamwork and rapid response to emergencies. We are committed to being a high reliability organization where our systems support patient safety and allow our patients, families and staff to feel free to speak up about patient safety concerns.\n\nSome examples of our Patient Safety initiatives include:\n\n**Safety Culture** — Mass General Brigham for Children is committed to a strong safety culture in which families and staff feel free to raise patient safety concerns and those voiced concerns result in patient safety improvements. We are proud that we have outperformed our peers on the [AHRQ (Agency for Healthcare Research and Quality)](https://www.ahrq.gov/sops/index.html) Safety Culture Survey.\n\n**Near Miss Safety Reporting** — Staff are encouraged to report near misses which represent opportunities to improve patient safety. Over 1200 reports are filed across pediatrics every year.\n\n**Medication Safety** — An interdisciplinary medication safety committee, Preventing Pediatric Medication Errors (PPME) Committee, consisting of physicians, nurses, pediatric pharmacists, information systems experts and quality specialists who oversee pediatric medication safety projects.\n\n**Rapid Response** — Mass General Brigham for Children Neonatal and Pediatric Rapid Response Teams can be activated for any acute or unexpected clinical concerns. The Rapid Response Team comes to the patient location to assist patients and care teams with their urgent concerns.\n\n**Good Catch Program** — Mass General Brigham for Children recognizes staff who speak up and prevent an error which could have reached a patient.\n\n**Integrated Electronic Medical Record** — Single electronic medical record across all practices enables all providers to review notes from other providers, test results and medication lists. The patient portal (My Chart) provides patient access to parts of their medical record as well as a secure portal for communicating with their providers.\n\n**Family-Centered Rounds** — Families are encouraged to participate as team members during morning rounds. This enables parents to actively participate in their child's care planning and provides a time for raising questions or concerns."
-        }
-      },
-      {
-        "id": "the_patient_experience",
-        "type": "section",
-        "title": {
-          "en": "The Patient Experience"
-        }
-      },
-      {
-        "id": "the_patient_experience_text",
-        "type": "text",
-        "markdown": {
-          "en": "Patients and families may receive a phone call or mail survey following their hospitalization or ambulatory visit asking about their experience and anything that we can do better for the family in the future. At Mass General Brigham for Children, we utilize our patient experience survey scores and responses to continually assess the quality of care we provide to our patients and families. Suggestions that families make or improvement opportunities identified allow us to constantly hold ourselves to the highest standards of care for our patients and families.\n\nThe Mass General Brigham for Children Quality and Safety team partners with parent volunteers to host staff training sessions. These sessions focus on understanding and optimizing the family experience at Mass General Brigham for Children. Staff gain perspective from the parents as well as strategizing improvement opportunities by directly collaborating with families.\n\n### Patient Experience Survey Comments\n\n> \"The staff were amazing. The receptionist is amazing. The nurses are brilliant. My kid just loves it there. Anytime he goes there he feels comfortable, and the staff are unbelievable.\"\n\n> \"They delighted me because they are kind of like an extended family to us. They always treat us with respect. They are always just very courteous. It's just a great experience in stressful times, especially.\"\n\n> \"They were very respectful. They kept us informed on the time of wait. They gave us very good information about the procedure, as well as having very good bedside manner.\"\n\n> \"His ability to sit and talk to a child, engage a child, explain what he was doing, and what was happening. He's a wonderful doctor.\"\n\n> \"[The doctor] is a phenomenal medical doctor, surgeon, and caretaker. He had a kind and wonderful bedside manner with my 11-year-old son. He explained the surgery, was reassuring, and confident. [The doctor] was kind to my son. He patiently listened to questions I had and answered each question. He is the best pediatric surgeon in the world.\"\n\n> \"[The doctor] is the best pediatrician I have ever encountered. She is nice, courteous, great with kids, and has excellent medical knowledge. I have the greatest possible confidence in her abilities to care for our children and have recommended her to numerous friends.\""
-        }
-      },
-      {
-        "id": "quality_safety_education",
-        "type": "section",
-        "title": {
-          "en": "Quality & Safety Education"
-        }
-      },
-      {
-        "id": "quality_safety_education_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Strategic Plan, Goal #5: Advance provider skills in safety science and quality improvement.**\n\n**[Resident Program](https://research.massgeneralbrigham.org/en/education-and-training/graduate-medical-education/pediatrics/mgb-pediatric-residency)** — The MGH Pediatric Residency program is committed to educating its trainees in the principles of patient safety and quality improvement, as well as meaningfully engaging residents in improvement initiatives for providing experiential learning opportunities as well as ensuring its initiatives are informed by residents.\n\n- During the first year of the residency program, residents are taught the fundamentals of patient safety and quality improvement by faculty from Mass General Brigham for Children / MGH Quality and Safety leadership.\n- By the end of the second year of training, residents are expected to have become a member of and meaningfully participated in a quality improvement initiative at Mass General Brigham for Children.\n- The Mass General Brigham for Children Quality and Safety team has implemented \"Resident Quality and Safety Rounds,\" which is a forum for communication between residents and Mass General Brigham for Children Quality and Safety leadership regarding residents' quality and safety concerns.\n\n**Psychological Safety Leadership Programs** — A four-session psychological safety leadership series focused on communication techniques and teamwork.\n\n**Mass General Brigham's Clinical Process Improvement Leadership Program (CPIP)** — An intensive 6–8 session program with the purpose of engaging clinical teams in the use of process improvement tools to reduce variation in care and improve outcomes for patients.\n\n**[Team STEPPS](https://www.ahrq.gov/teamstepps-program/index.html)** — An evidence-based teamwork system to improve communication and teamwork skills among health care professionals.\n\n**Patient Safety Awareness Week** — Mass General Brigham for Children celebrates patient safety accomplishments and educates patients, providers and staff on patient safety. Every year the Mass General location recognizes a select group of Patient Safety Stars, nominated by their peers, for their commitment to patient safety within the hospital.\n\n**Interdisciplinary Tracer Program** — A team consisting of nurses, doctors, physician assistants, registered pharmacists and quality and safety specialists visit each unit to evaluate hospital and patient care operations."
-        }
-      },
-      {
-        "id": "link_1",
+        "id": "link_v94ms7uo",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/about/quality-safety"
+          "en": "https://www.massgeneralbrigham.org/en/about/quality-safety",
+          "es": "https://www.massgeneralbrigham.org/es/about/quality-safety"
         },
         "label": {
-          "en": "Quality and Safety — Mass General Brigham for Children"
-        },
-        "description": {
-          "en": "Visit the full Quality and Safety page on massgeneral.org."
+          "en": "Quality, Safety, and Outcomes — Mass General Brigham",
+          "es": "Calidad, seguridad y resultados — Mass General Brigham"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Calidad y seguridad"
+    }
   },
   {
     "id": "picu_follow_up_clinic",
@@ -897,13 +1452,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "## About Us\n\nFor those patients who require its services, our mission is to aid in the critical care post-discharge difficulties that may arise from hospital discharge by providing exceptional service and treatment to the multicultural patients and families we serve. We utilize excellent communication with the family and primary care pediatricians to optimize long-term successful patient outcomes.\n\nThe Mass General Brigham for Children PICU provides monitoring and life-sustaining treatment for critically ill patients suffering from a wide range of illnesses. The Mass General Brigham for Children PICU Follow-Up Clinic will focus on evaluating the intensive care patients discharged from the PICU. PICU patients and their families experience a high risk for developing medical, neurodevelopmental, and psychosocial needs related to post-intensive care syndrome. So, it is not uncommon for them to seek out help along this journey. This includes patients who have had a prolonged stay in the PICU for a critical illness.\n\nThe Pediatric Intensive Care Unit Follow-Up Clinic is a developmental follow-up service. We support your children through the aid in their development, growth, and recovery for them to reach their full potential.\n\nThese issues have commonly been overlooked by health care providers as post-intensive care patients transition care back into the community following their serious illness. The Mass General Brigham for Children PICU Follow-Up Clinic was uniquely designed to combat this issue.\n\nThis process can be described in four steps:\n\n## Steps of Patient Care\n\n1. Hospital discharge\n2. Evaluate areas of cognition and psychosocial function\n3. Neurodevelopment and family functioning to identify ongoing needs, and set up referrals to community providers for ongoing follow-up\n4. Support the child and family through the long-term recovery after critical illness"
-          },
+            "markdown": "Mass General Brigham for Children Hospital Discharge Follow Up Clinic is a diverse unit that provides high-quality follow-up service to aid in the development of former PICU patients.\n\n### Hospital Discharge Follow Up Clinic\n\n- 165 Cambridge Street, Floor 5, Boston, MA 02114\n- 📞 [617-724-8797](tel:+16177248797)\n- 🌐 [massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196](https://www.massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196)\n\nPatients with appointments at 165, 175, and 185 Cambridge Street should park in the Charles River Plaza garage, with the entrance at 207 Cambridge Street, next to Flour Bakery.\n\n## About Us\n\nFor those patients who require its services, our mission is to aid in the critical care post-discharge difficulties that may arise from hospital discharge by providing exceptional service and treatment to the multicultural patients and families we serve. We utilize excellent communication with the family and primary care pediatricians to optimize long-term successful patient outcomes.\n\nThe Mass General Brigham for Children PICU provides monitoring and life-sustaining treatment for critically ill patients suffering from a wide range of illnesses. The Mass General Brigham for Children PICU Follow-Up Clinic will focus on evaluating the intensive care patients discharged from the PICU. PICU patients and their families experience a high risk for developing medical, neurodevelopmental, and psychosocial needs related to post-intensive care syndrome. So, it is not uncommon for them to seek out help along this journey. This includes patients who have had a prolonged stay in the PICU for a critical illness.\n\nThe Pediatric Intensive Care Unit Follow-Up Clinic is a developmental follow-up service. We support your children through the aid in their development, growth, and recovery for them to reach their full potential.\n\nThese issues have commonly been overlooked by health care providers as post-intensive care patients transition care back into the community following their serious illness. The Mass General Brigham for Children PICU Follow-Up Clinic was uniquely designed to combat this issue.\n\nThis process can be described in four steps:\n\n## Steps of Patient Care\n\n1. Hospital discharge\n2. Evaluate areas of cognition and psychosocial function\n3. Neurodevelopment and family functioning to identify ongoing needs, and set up referrals to community providers for ongoing follow-up\n4. Support the child and family through the long-term recovery after critical illness"
+          }
+        ]
+      },
+      "es": {
+        "description": "Servicio de seguimiento del desarrollo que apoya a antiguos pacientes de la PICU en su recuperación, crecimiento y atención continua.",
+        "content": [
           {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196",
-            "label": "PICU Follow-Up Clinic — Mass General Brigham for Children",
-            "description": "Visit the full clinic page on massgeneralbrigham.org."
+            "type": "text",
+            "markdown": "La Clínica de Seguimiento tras el Alta Hospitalaria de Mass General Brigham para Niños es una unidad diversa que brinda un servicio de seguimiento de alta calidad para ayudar en el desarrollo de antiguos pacientes de la PICU.\n\n### Clínica de Seguimiento tras el Alta Hospitalaria\n\n- 165 Cambridge Street, Floor 5, Boston, MA 02114\n- 📞 [617-724-8797](tel:+16177248797)\n- 🌐 [massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196](https://www.massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196)\n\nSi tiene una cita en 165, 175 o 185 Cambridge Street, estacione en el garaje de Charles River Plaza, con entrada en 207 Cambridge Street.\n\n## Sobre nosotros\n\nPara los pacientes que requieren sus servicios, nuestra misión es ayudar con las dificultades que pueden surgir después del alta de cuidados intensivos, brindando un servicio y tratamiento excepcionales a los pacientes y familias multiculturales a quienes servimos. Mantenemos una excelente comunicación con la familia y los pediatras de atención primaria para lograr los mejores resultados a largo plazo para los pacientes.\n\nLa PICU de Mass General Brigham para Niños brinda monitoreo y tratamiento de soporte vital a pacientes en estado crítico con una amplia variedad de enfermedades. La Clínica de Seguimiento de la PICU de Mass General Brigham para Niños se centra en evaluar a los pacientes de cuidados intensivos dados de alta de la PICU. Los pacientes de la PICU y sus familias tienen un alto riesgo de desarrollar necesidades médicas, del neurodesarrollo y psicosociales relacionadas con el síndrome posterior a cuidados intensivos. Por eso, no es raro que busquen ayuda a lo largo de este camino. Esto incluye a pacientes que han tenido una estancia prolongada en la PICU por una enfermedad crítica.\n\nLa Clínica de Seguimiento de la Unidad de Cuidados Intensivos Pediátricos es un servicio de seguimiento del desarrollo. Apoyamos a sus hijos en su desarrollo, crecimiento y recuperación para que alcancen todo su potencial.\n\nLos profesionales de la salud a menudo han pasado por alto estas necesidades cuando los pacientes que salen de cuidados intensivos regresan a su comunidad después de una enfermedad grave. La Clínica de Seguimiento de la PICU de Mass General Brigham para Niños fue diseñada especialmente para atender este problema.\n\nEste proceso se puede describir en cuatro pasos:\n\n## Pasos de la atención al paciente\n\n1. Alta hospitalaria\n2. Evaluar las áreas de cognición y funcionamiento psicosocial\n3. Evaluar el neurodesarrollo y el funcionamiento familiar para identificar necesidades continuas, y hacer referidos a proveedores de la comunidad para el seguimiento\n4. Apoyar al niño y a la familia durante la recuperación a largo plazo después de una enfermedad crítica"
           }
         ]
       }
@@ -916,53 +1474,86 @@
       "Support",
       "Aftercare"
     ],
-    "notes": null,
+    "notes": "Matched to MGB's Hospital Discharge Follow Up Clinic page (snapshot 2026-10-21); About Us and Steps kept word for word at Mark's request. Approved by Mark 2026-10-22.\nSpanish translated by Claude (MGB's clinic page has no Spanish version), needs Spanish review; parking sentence from MGB's Spanish parking page. Approved by Mark 2026-10-22.",
     "description": {
-      "en": "Developmental follow-up service supporting former PICU patients through recovery, growth, and ongoing care."
+      "en": "Developmental follow-up service supporting former PICU patients through recovery, growth, and ongoing care.",
+      "es": "Servicio de seguimiento del desarrollo que apoya a antiguos pacientes de la PICU en su recuperación, crecimiento y atención continua."
     },
     "blocks": [
       {
-        "id": "about_us",
-        "type": "section",
-        "title": {
-          "en": "About Us"
-        }
-      },
-      {
-        "id": "about_us_text",
+        "id": "text_qaics04j",
         "type": "text",
         "markdown": {
-          "en": "For those patients who require its services, our mission is to aid in the critical care post-discharge difficulties that may arise from hospital discharge by providing exceptional service and treatment to the multicultural patients and families we serve. We utilize excellent communication with the family and primary care pediatricians to optimize long-term successful patient outcomes.\n\nThe Mass General Brigham for Children PICU provides monitoring and life-sustaining treatment for critically ill patients suffering from a wide range of illnesses. The Mass General Brigham for Children PICU Follow-Up Clinic will focus on evaluating the intensive care patients discharged from the PICU. PICU patients and their families experience a high risk for developing medical, neurodevelopmental, and psychosocial needs related to post-intensive care syndrome. So, it is not uncommon for them to seek out help along this journey. This includes patients who have had a prolonged stay in the PICU for a critical illness.\n\nThe Pediatric Intensive Care Unit Follow-Up Clinic is a developmental follow-up service. We support your children through the aid in their development, growth, and recovery for them to reach their full potential.\n\nThese issues have commonly been overlooked by health care providers as post-intensive care patients transition care back into the community following their serious illness. The Mass General Brigham for Children PICU Follow-Up Clinic was uniquely designed to combat this issue.\n\nThis process can be described in four steps:"
+          "en": "Mass General Brigham for Children Hospital Discharge Follow Up Clinic is a diverse unit that provides high-quality follow-up service to aid in the development of former PICU patients.",
+          "es": "La Clínica de Seguimiento tras el Alta Hospitalaria de Mass General Brigham para Niños es una unidad diversa que brinda un servicio de seguimiento de alta calidad para ayudar en el desarrollo de antiguos pacientes de la PICU."
         }
       },
       {
-        "id": "steps_of_patient_care",
+        "id": "listing_rr6f2xx4",
+        "type": "listing",
+        "name": {
+          "en": "Hospital Discharge Follow Up Clinic",
+          "es": "Clínica de Seguimiento tras el Alta Hospitalaria"
+        },
+        "address": {
+          "en": "165 Cambridge Street, Floor 5, Boston, MA 02114"
+        },
+        "phones": [
+          {
+            "id": "phone_2xqbjalv",
+            "number": "+16177248797"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_a9klknlb",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196",
+              "es": "https://www.massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196"
+            }
+          }
+        ],
+        "details": {
+          "en": "Patients with appointments at 165, 175, and 185 Cambridge Street should park in the Charles River Plaza garage, with the entrance at 207 Cambridge Street, next to Flour Bakery.",
+          "es": "Si tiene una cita en 165, 175 o 185 Cambridge Street, estacione en el garaje de Charles River Plaza, con entrada en 207 Cambridge Street."
+        }
+      },
+      {
+        "id": "section_7i8kstbe",
         "type": "section",
         "title": {
-          "en": "Steps of Patient Care"
+          "en": "About Us",
+          "es": "Sobre nosotros"
         }
       },
       {
-        "id": "steps_of_patient_care_text",
+        "id": "text_7di83rmq",
         "type": "text",
         "markdown": {
-          "en": "1. Hospital discharge\n2. Evaluate areas of cognition and psychosocial function\n3. Neurodevelopment and family functioning to identify ongoing needs, and set up referrals to community providers for ongoing follow-up\n4. Support the child and family through the long-term recovery after critical illness"
+          "en": "For those patients who require its services, our mission is to aid in the critical care post-discharge difficulties that may arise from hospital discharge by providing exceptional service and treatment to the multicultural patients and families we serve. We utilize excellent communication with the family and primary care pediatricians to optimize long-term successful patient outcomes.\n\nThe Mass General Brigham for Children PICU provides monitoring and life-sustaining treatment for critically ill patients suffering from a wide range of illnesses. The Mass General Brigham for Children PICU Follow-Up Clinic will focus on evaluating the intensive care patients discharged from the PICU. PICU patients and their families experience a high risk for developing medical, neurodevelopmental, and psychosocial needs related to post-intensive care syndrome. So, it is not uncommon for them to seek out help along this journey. This includes patients who have had a prolonged stay in the PICU for a critical illness.\n\nThe Pediatric Intensive Care Unit Follow-Up Clinic is a developmental follow-up service. We support your children through the aid in their development, growth, and recovery for them to reach their full potential.\n\nThese issues have commonly been overlooked by health care providers as post-intensive care patients transition care back into the community following their serious illness. The Mass General Brigham for Children PICU Follow-Up Clinic was uniquely designed to combat this issue.\n\nThis process can be described in four steps:",
+          "es": "Para los pacientes que requieren sus servicios, nuestra misión es ayudar con las dificultades que pueden surgir después del alta de cuidados intensivos, brindando un servicio y tratamiento excepcionales a los pacientes y familias multiculturales a quienes servimos. Mantenemos una excelente comunicación con la familia y los pediatras de atención primaria para lograr los mejores resultados a largo plazo para los pacientes.\n\nLa PICU de Mass General Brigham para Niños brinda monitoreo y tratamiento de soporte vital a pacientes en estado crítico con una amplia variedad de enfermedades. La Clínica de Seguimiento de la PICU de Mass General Brigham para Niños se centra en evaluar a los pacientes de cuidados intensivos dados de alta de la PICU. Los pacientes de la PICU y sus familias tienen un alto riesgo de desarrollar necesidades médicas, del neurodesarrollo y psicosociales relacionadas con el síndrome posterior a cuidados intensivos. Por eso, no es raro que busquen ayuda a lo largo de este camino. Esto incluye a pacientes que han tenido una estancia prolongada en la PICU por una enfermedad crítica.\n\nLa Clínica de Seguimiento de la Unidad de Cuidados Intensivos Pediátricos es un servicio de seguimiento del desarrollo. Apoyamos a sus hijos en su desarrollo, crecimiento y recuperación para que alcancen todo su potencial.\n\nLos profesionales de la salud a menudo han pasado por alto estas necesidades cuando los pacientes que salen de cuidados intensivos regresan a su comunidad después de una enfermedad grave. La Clínica de Seguimiento de la PICU de Mass General Brigham para Niños fue diseñada especialmente para atender este problema.\n\nEste proceso se puede describir en cuatro pasos:"
         }
       },
       {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/locations/boston-ma/mass-general-brigham-for-children-hospital-discharge-follow-up-clinic-loc0000280196"
-        },
-        "label": {
-          "en": "PICU Follow-Up Clinic — Mass General Brigham for Children"
-        },
-        "description": {
-          "en": "Visit the full clinic page on massgeneralbrigham.org."
+        "id": "section_is16ftij",
+        "type": "section",
+        "title": {
+          "en": "Steps of Patient Care",
+          "es": "Pasos de la atención al paciente"
+        }
+      },
+      {
+        "id": "text_9z5yp1xy",
+        "type": "text",
+        "markdown": {
+          "en": "1. Hospital discharge\n2. Evaluate areas of cognition and psychosocial function\n3. Neurodevelopment and family functioning to identify ongoing needs, and set up referrals to community providers for ongoing follow-up\n4. Support the child and family through the long-term recovery after critical illness",
+          "es": "1. Alta hospitalaria\n2. Evaluar las áreas de cognición y funcionamiento psicosocial\n3. Evaluar el neurodesarrollo y el funcionamiento familiar para identificar necesidades continuas, y hacer referidos a proveedores de la comunidad para el seguimiento\n4. Apoyar al niño y a la familia durante la recuperación a largo plazo después de una enfermedad crítica"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Clínica de Seguimiento de la PICU"
+    }
   },
   {
     "id": "learn_child_and_adult_cpr",
@@ -2024,7 +2615,7 @@
   {
     "id": "hospital_treatments_and_services",
     "title": "Hospital Treatments and Services",
-    "status": "published",
+    "status": "inactive",
     "units": [
       "picu"
     ],
@@ -2063,7 +2654,7 @@
       "Specialties",
       "Subspecialties"
     ],
-    "notes": null,
+    "notes": "Merged into mgb_for_children (Mass General Brigham for Children) and set to Inactive 2026-10-22, MGB site copy audit #13, approved by Mark.",
     "description": {
       "en": "An alphabetized list of medical and surgical specialties and subspecialties at Mass General Brigham for Children."
     },
@@ -3601,7 +4192,7 @@
   {
     "id": "welcome_to_the_picu",
     "title": "Welcome to the PICU",
-    "status": "published",
+    "status": "inactive",
     "units": [
       "picu"
     ],
@@ -3647,7 +4238,7 @@
       "PICU overview",
       "sedation and pain free procedures"
     ],
-    "notes": null,
+    "notes": "Retired 2026-10-22: merged into \"PICU Welcome Guide\" (contact card, video and parents-as-partners paragraph moved there). Set back to Published to restore.",
     "description": {
       "en": "Mass General for Children's 14-bed Pediatric Intensive Care Unit — services, care team, and contact information."
     },
@@ -3956,7 +4547,7 @@
   },
   {
     "id": "hospital_parking_and_interactive_campus_map",
-    "title": "Hospital Parking and Interactive Campus Map",
+    "title": "Getting to Mass General",
     "status": "published",
     "units": [
       "picu"
@@ -3975,17 +4566,60 @@
     },
     "languages": {
       "en": {
-        "description": "Mass General's interactive online map — parking garages, driving directions, public transit, and accessible entrances.",
+        "description": "Prepare for your visit to Massachusetts General Hospital with information on parking, directions, navigating the hospital, and on-site amenities.",
         "content": [
           {
             "type": "text",
-            "markdown": "An interactive map of the Mass General main campus, with parking garages, driving directions, public transit options, and accessible entrances. **Requires an internet connection to load.**\n\nFor an offline option, see the *Hospital Campus Map* resource."
+            "markdown": "Prepare for your visit to Massachusetts General Hospital with information on parking, directions, navigating the hospital, and on-site amenities.\n\n### Massachusetts General Hospital\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2000](tel:+16177262000)\n- 🌐 [massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778](https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778)\n\nMassachusetts General Hospital is located directly across from the Charles/MGH stop on the MBTA Red Line and is a short walk from Bowdoin (Blue Line) and North Station (Green and Orange Lines).\n\nUse our map to find your way around campus."
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778",
-            "label": "Maps and Directions — Mass General Hospital",
-            "description": "Interactive campus map with parking, transit, and accessible entrances."
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf",
+            "label": "Mass General campus map (PDF)",
+            "description": "Parking garages and MBTA stops."
+          },
+          {
+            "type": "text",
+            "markdown": "Learn about campus accessibility and parking."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+            "label": "Getting Here and Parking — Mass General Brigham"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/accessibility",
+            "label": "Accessibility — Mass General Brigham"
+          }
+        ]
+      },
+      "es": {
+        "description": "Prepárese para su visita a Massachusetts General Hospital: estacionamiento, cómo llegar y cómo moverse dentro del hospital.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Prepárese para su visita a Massachusetts General Hospital con información sobre estacionamiento, cómo llegar, cómo moverse dentro del hospital y los servicios disponibles.\n\n### Massachusetts General Hospital\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2000](tel:+16177262000)\n- 🌐 [massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778](https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778)\n\nEl hospital está ubicado justo enfrente de la parada Charles/MGH de la Línea Roja del MBTA y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja).\n\nUse nuestro mapa para orientarse en el campus."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf",
+            "label": "Mapa del campus de Mass General (PDF)",
+            "description": "Estacionamientos y paradas del MBTA."
+          },
+          {
+            "type": "text",
+            "markdown": "Infórmese sobre la accesibilidad y el estacionamiento en el campus."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking",
+            "label": "Cómo llegar y estacionamiento — Mass General Brigham"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/accessibility",
+            "label": "Accesibilidad — Mass General Brigham"
           }
         ]
       }
@@ -3997,32 +4631,106 @@
       "interactive map",
       "campus area"
     ],
-    "notes": null,
+    "notes": "Repurposed from 'Hospital Parking and Interactive Campus Map' (MGB has no interactive map). Matched to MGB's MGH location page (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish mostly translated by Claude (MGB's location page has no Spanish version), needs Spanish review; Red Line sentence from MGB's Spanish parking page. Approved by Mark 2026-10-21.",
     "description": {
-      "en": "Mass General's interactive online map — parking garages, driving directions, public transit, and accessible entrances."
+      "en": "Prepare for your visit to Massachusetts General Hospital with information on parking, directions, navigating the hospital, and on-site amenities.",
+      "es": "Prepárese para su visita a Massachusetts General Hospital: estacionamiento, cómo llegar y cómo moverse dentro del hospital."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_n3lrq5ky",
         "type": "text",
         "markdown": {
-          "en": "An interactive map of the Mass General main campus, with parking garages, driving directions, public transit options, and accessible entrances. **Requires an internet connection to load.**\n\nFor an offline option, see the *Hospital Campus Map* resource."
+          "en": "Prepare for your visit to Massachusetts General Hospital with information on parking, directions, navigating the hospital, and on-site amenities.",
+          "es": "Prepárese para su visita a Massachusetts General Hospital con información sobre estacionamiento, cómo llegar, cómo moverse dentro del hospital y los servicios disponibles."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_0blfojgb",
+        "type": "listing",
+        "name": {
+          "en": "Massachusetts General Hospital",
+          "es": "Massachusetts General Hospital"
+        },
+        "address": {
+          "en": "55 Fruit Street, Boston, MA 02114"
+        },
+        "phones": [
+          {
+            "id": "phone_7ibfdqsg",
+            "number": "+16177262000"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_xo0on2lu",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778",
+              "es": "https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_n8f3tca8",
+        "type": "text",
+        "markdown": {
+          "en": "Massachusetts General Hospital is located directly across from the Charles/MGH stop on the MBTA Red Line and is a short walk from Bowdoin (Blue Line) and North Station (Green and Orange Lines).\n\nUse our map to find your way around campus.",
+          "es": "El hospital está ubicado justo enfrente de la parada Charles/MGH de la Línea Roja del MBTA y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja).\n\nUse nuestro mapa para orientarse en el campus."
+        }
+      },
+      {
+        "id": "link_0dr7wldt",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778"
+          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf",
+          "es": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf"
         },
         "label": {
-          "en": "Maps and Directions — Mass General Hospital"
+          "en": "Mass General campus map (PDF)",
+          "es": "Mapa del campus de Mass General (PDF)"
         },
         "description": {
-          "en": "Interactive campus map with parking, transit, and accessible entrances."
+          "en": "Parking garages and MBTA stops.",
+          "es": "Estacionamientos y paradas del MBTA."
+        }
+      },
+      {
+        "id": "text_00qqh7hc",
+        "type": "text",
+        "markdown": {
+          "en": "Learn about campus accessibility and parking.",
+          "es": "Infórmese sobre la accesibilidad y el estacionamiento en el campus."
+        }
+      },
+      {
+        "id": "link_rqql8txo",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking"
+        },
+        "label": {
+          "en": "Getting Here and Parking — Mass General Brigham",
+          "es": "Cómo llegar y estacionamiento — Mass General Brigham"
+        }
+      },
+      {
+        "id": "link_pby7b9po",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/accessibility",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/accessibility"
+        },
+        "label": {
+          "en": "Accessibility — Mass General Brigham",
+          "es": "Accesibilidad — Mass General Brigham"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Cómo llegar a Mass General"
+    }
   },
   {
     "id": "overnight_accommodations",
@@ -4247,7 +4955,8 @@
     "phasesByUnit": {
       "picu": [
         "pre_admission",
-        "first_night"
+        "first_night",
+        "just_arrived"
       ]
     },
     "languages": {
@@ -4256,7 +4965,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "We would like to partner with you to ensure a safe and comfortable healing environment for all our children and families. Here are some tips for your stay in the Pediatric Intensive Care Unit.\n\n## Visiting\n\n- **Visiting hours:** 11:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve.\n\n## Medical Rounds\n\nEach morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions.\n\n## Family Lounge\n\nYou are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed.\n\n## Where can I sleep?\n\nSleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk\n\n## Where can I wash my clothes?\n\nThere is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request.\n\n## What food is available?\n\nMGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work.\n\n## What activities can my child have?\n\nYou are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information.\n\n## How can I validate parking?\n\nTo receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
+            "markdown": "We would like to partner with you to ensure a safe and comfortable healing environment for all our children and families. Here are some tips for your stay in the Pediatric Intensive Care Unit.\n\nAt Mass General Brigham for Children, we strive to provide an open and welcoming environment. We believe that no one knows a child as well as parents do, and therefore parents, along with primary care providers, become partners in the child’s care. The parents have an active voice in all treatment plans.\n\n### Pediatric Intensive Care Unit (PICU)\n\nBigelow Building, 6th floor\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4350](tel:+16177244350)\n- 🌐 [Learn more about the PICU](https://www.massgeneralbrigham.org/en/services/pediatric-critical-care-medicine)"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## Visiting\n\n- **Visiting hours:** 11:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve.\n\n## Medical Rounds\n\nEach morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions.\n\n## Family Lounge\n\nYou are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed.\n\n## Where can I sleep?\n\nSleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk\n\n## Where can I wash my clothes?\n\nThere is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request.\n\n## What food is available?\n\nMGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work.\n\n## What activities can my child have?\n\nYou are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information.\n\n## How can I validate parking?\n\nTo receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
           }
         ]
       },
@@ -4265,7 +4983,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "我們願意與您合作,確保為我們所有的兒童和家庭提供安全舒適的治療環境。以下是您在兒童加護病房 (PICU) 入住時的一些提示。\n\n## 訪客\n\n- **探視時間:** 上午 11:00 – 晚上 8:00\n- 為了所有患者的安全與舒適,我們能夠為每位患者安排**一位家長或監護人過夜**\n- 請將床邊的訪客數量限制在 **2 人**\n- 歡迎兄弟姊妹來訪。為了所有患者的安全,兄弟姊妹不得無人看管,也不得過夜\n- 生病的訪客(包括兄弟姊妹)需要待在家裡,直到症狀消失為止\n\n## 醫療查房\n\n每天早上,PICU 團隊都會聚集在孩子的病房外,審查資訊並制定當天的照護計畫。**我們邀請您參加查房。**\n\n在對所有患者查完房之後,您的醫生將可審查您孩子的照護計畫並回答問題。\n\n## 家庭休息室\n\n歡迎您使用位於 PICU 外 Bigelow 電梯附近的家庭休息室。這裡設有:\n\n- 水槽、冰箱、微波爐與咖啡\n- 桌子和椅子,您可以在那裡就餐和放鬆\n- 帶淋浴間的公共盥洗室,輪椅可以使用\n\n如果需要,請向孩子的護士要一條毛巾。\n\n## 我在哪裡睡覺?\n\n每晚都提供臥室。這些房間是根據可用性與患者情況分配的。\n\n- 如果您分到臥室,請於**第二天早上 10 點之前**搬走您的物品\n- 如果您需要再一個晚上的臥室,請諮詢前台的房間協調員\n\n## 我在哪裡洗衣服?\n\n**Ellison 17** 住院兒科樓層設有洗衣機和烘乾機。離開 PICU 後向右轉,按照指示牌到達 Ellison 電梯並前往 17 樓。洗衣清潔劑可應要求提供。\n\n## 我可獲取什麼食物?\n\nMGH 提供各種各樣的食物,可在自助餐廳購買。乘坐 Bigelow 電梯到地下層 (「B」層),然後按照指示牌前往 **Eat Street Café**。\n\n您也可以在孩子的房間點一盤食物送到病房,但這是需要付費的。如果您有財務問題,請諮詢您的護士以請求社會工作。\n\n## 我的孩子可以參加什麼活動?\n\n歡迎您從家中帶來任何舒適的物品或玩具。我們也有玩具、舒適物品以及美術用品,可由我們的工作人員為您的孩子提供,以在他們住院期間帶來幫助。向**兒童生活專家**諮詢更多資訊。\n\n## 如何驗證停車?\n\n若要獲得折扣停車,請在停車場或 Yawkey 主大廳向管理員出示 **PICU 訪客貼紙**。有關停車的問題可以直接諮詢詢問台或您孩子的護士。\n\n---\n\n*如需瞭解更多資訊,請諮詢您孩子的護士或前台的房間協調員。*"
+            "markdown": "我們願意與您合作,確保為我們所有的兒童和家庭提供安全舒適的治療環境。以下是您在兒童加護病房 (PICU) 入住時的一些提示。\n\n### Pediatric Intensive Care Unit (PICU)\n\nBigelow Building, 6th floor\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4350](tel:+16177244350)\n- 🌐 [Learn more about the PICU](https://www.massgeneralbrigham.org/en/services/pediatric-critical-care-medicine)"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## 訪客\n\n- **探視時間:** 上午 11:00 – 晚上 8:00\n- 為了所有患者的安全與舒適,我們能夠為每位患者安排**一位家長或監護人過夜**\n- 請將床邊的訪客數量限制在 **2 人**\n- 歡迎兄弟姊妹來訪。為了所有患者的安全,兄弟姊妹不得無人看管,也不得過夜\n- 生病的訪客(包括兄弟姊妹)需要待在家裡,直到症狀消失為止\n\n## 醫療查房\n\n每天早上,PICU 團隊都會聚集在孩子的病房外,審查資訊並制定當天的照護計畫。**我們邀請您參加查房。**\n\n在對所有患者查完房之後,您的醫生將可審查您孩子的照護計畫並回答問題。\n\n## 家庭休息室\n\n歡迎您使用位於 PICU 外 Bigelow 電梯附近的家庭休息室。這裡設有:\n\n- 水槽、冰箱、微波爐與咖啡\n- 桌子和椅子,您可以在那裡就餐和放鬆\n- 帶淋浴間的公共盥洗室,輪椅可以使用\n\n如果需要,請向孩子的護士要一條毛巾。\n\n## 我在哪裡睡覺?\n\n每晚都提供臥室。這些房間是根據可用性與患者情況分配的。\n\n- 如果您分到臥室,請於**第二天早上 10 點之前**搬走您的物品\n- 如果您需要再一個晚上的臥室,請諮詢前台的房間協調員\n\n## 我在哪裡洗衣服?\n\n**Ellison 17** 住院兒科樓層設有洗衣機和烘乾機。離開 PICU 後向右轉,按照指示牌到達 Ellison 電梯並前往 17 樓。洗衣清潔劑可應要求提供。\n\n## 我可獲取什麼食物?\n\nMGH 提供各種各樣的食物,可在自助餐廳購買。乘坐 Bigelow 電梯到地下層 (「B」層),然後按照指示牌前往 **Eat Street Café**。\n\n您也可以在孩子的房間點一盤食物送到病房,但這是需要付費的。如果您有財務問題,請諮詢您的護士以請求社會工作。\n\n## 我的孩子可以參加什麼活動?\n\n歡迎您從家中帶來任何舒適的物品或玩具。我們也有玩具、舒適物品以及美術用品,可由我們的工作人員為您的孩子提供,以在他們住院期間帶來幫助。向**兒童生活專家**諮詢更多資訊。\n\n## 如何驗證停車?\n\n若要獲得折扣停車,請在停車場或 Yawkey 主大廳向管理員出示 **PICU 訪客貼紙**。有關停車的問題可以直接諮詢詢問台或您孩子的護士。\n\n---\n\n*如需瞭解更多資訊,請諮詢您孩子的護士或前台的房間協調員。*"
           }
         ]
       },
@@ -4274,7 +5001,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Quisiéramos colaborar con usted para garantizar un entorno de recuperación seguro y cómodo para todos nuestros niños y familias. Aquí tiene algunos consejos para su estadía en la Unidad de Cuidados Intensivos Pediátricos (PICU, por sus siglas en inglés).\n\n## Visitantes\n\n- **Horario de visitas:** 11:00 am – 8:00 pm\n- Por la seguridad y comodidad de todos nuestros pacientes, solo podemos hospedar a **un padre, madre o tutor por paciente durante la noche**\n- Por favor, mantenga un límite de **2 visitantes** en la habitación\n- Le invitamos a los hermanos a hacer visitas. Por la seguridad de todos nuestros pacientes, los hermanos no pueden pasar la noche ni estar sin supervisión en la unidad.\n- Le pedimos encarecidamente a todo visitante que esté enfermo — incluidos los hermanos — que permanezca en casa hasta que se hayan resuelto sus síntomas.\n\n## Visita del equipo médico\n\nCada mañana, el equipo de la PICU se reunirá fuera de la habitación de su hijo para revisar su información y hacer un plan de atención para el día. **Le invitamos a participar en estas visitas.**\n\nDespués de hacerles la visita a todos los pacientes, los médicos de su hijo estarán disponibles para revisar con usted el plan de atención y responder sus preguntas.\n\n## Sala familiar\n\nLe invitamos a usar la sala familiar, ubicada fuera de la PICU al lado de los ascensores de Bigelow. La sala cuenta con:\n\n- Lavamanos, refrigerador, microondas y café\n- Una mesa y sillas donde puede comer y relajarse\n- Un baño compartido con ducha accesible para sillas de ruedas\n\nPuede pedirle una toalla a la enfermera de su hijo si la necesita.\n\n## ¿Dónde puedo dormir?\n\nLas habitaciones para dormir están disponibles en la noche. El uso de estas habitaciones está sujeto a disponibilidad y a la condición del paciente.\n\n- Si se le proporciona una habitación, por favor retire sus pertenencias **a más tardar a las 10 am del día siguiente**\n- Si necesita la habitación para alguna otra noche, por favor hable con el coordinador de la unidad\n\n## ¿Dónde puedo lavar mi ropa?\n\nHay una lavadora y secadora en el **piso 17 del edificio Ellison**, en la unidad pediátrica de pacientes internados. Al salir de la PICU, gire a la derecha y siga las señales hasta los ascensores de Ellison; suba al piso 17. El detergente está disponible a pedido.\n\n## ¿Hay opciones de comida?\n\nSe vende una amplia variedad de comida en la cafetería del MGH. Tome los ascensores de Bigelow hasta el sótano (oprima \"B\" en el ascensor) y siga las señales hasta la cafetería **Eat Street Café**.\n\nPuede pedir una bandeja de comida a la habitación de su hijo, pero esto tiene un costo asociado. Si está pasando por dificultades financieras, por favor pídale a la enfermera de su hijo que le ponga en contacto con un trabajador social.\n\n## ¿Qué actividades puede hacer mi hijo?\n\nUsted siempre puede traer de su casa algún juguete u objeto reconfortante o de valor sentimental. Nosotros también tenemos juguetes, objetos reconfortantes y materiales de arte que le podemos proporcionar a su hijo durante su estadía. Para obtener más información, pida una consulta con nuestro **especialista en vida infantil**.\n\n## ¿Cómo obtengo la tarifa de descuento para el estacionamiento?\n\nPara recibir la tarifa de descuento, presente su **vale de visitante de la PICU** al cajero en la planta baja del estacionamiento (garaje) o en el vestíbulo principal del Centro Yawkey. Puede dirigir cualquier pregunta acerca del estacionamiento a la enfermera de su hijo o al personal encargado de los mostradores de información.\n\n---\n\n*Para obtener más información, hable con la enfermera de su hijo o con uno de los coordinadores en la recepción.*"
+            "markdown": "Quisiéramos colaborar con usted para garantizar un entorno de recuperación seguro y cómodo para todos nuestros niños y familias. Aquí tiene algunos consejos para su estadía en la Unidad de Cuidados Intensivos Pediátricos (PICU, por sus siglas en inglés).\n\nEn Mass General Brigham para Niños, nos esforzamos por proporcionar un ambiente abierto y acogedor. Creemos que nadie conoce a un niño tan bien como sus padres; por eso, los padres, junto con los proveedores de atención primaria, se convierten en colaboradores de la atención del niño. Los padres tienen una voz activa en todos los planes de tratamiento.\n\n### Unidad de Cuidados Intensivos Pediátricos (PICU)\n\nEdificio Bigelow, 6.º piso\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4350](tel:+16177244350)\n- 🌐 [Más información sobre la PICU](https://www.massgeneralbrigham.org/es/services/pediatric-critical-care-medicine)"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Bienvenidos a la Unidad de Cuidados Intensivos Pediátricos — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## Visitantes\n\n- **Horario de visitas:** 11:00 am – 8:00 pm\n- Por la seguridad y comodidad de todos nuestros pacientes, solo podemos hospedar a **un padre, madre o tutor por paciente durante la noche**\n- Por favor, mantenga un límite de **2 visitantes** en la habitación\n- Le invitamos a los hermanos a hacer visitas. Por la seguridad de todos nuestros pacientes, los hermanos no pueden pasar la noche ni estar sin supervisión en la unidad.\n- Le pedimos encarecidamente a todo visitante que esté enfermo — incluidos los hermanos — que permanezca en casa hasta que se hayan resuelto sus síntomas.\n\n## Visita del equipo médico\n\nCada mañana, el equipo de la PICU se reunirá fuera de la habitación de su hijo para revisar su información y hacer un plan de atención para el día. **Le invitamos a participar en estas visitas.**\n\nDespués de hacerles la visita a todos los pacientes, los médicos de su hijo estarán disponibles para revisar con usted el plan de atención y responder sus preguntas.\n\n## Sala familiar\n\nLe invitamos a usar la sala familiar, ubicada fuera de la PICU al lado de los ascensores de Bigelow. La sala cuenta con:\n\n- Lavamanos, refrigerador, microondas y café\n- Una mesa y sillas donde puede comer y relajarse\n- Un baño compartido con ducha accesible para sillas de ruedas\n\nPuede pedirle una toalla a la enfermera de su hijo si la necesita.\n\n## ¿Dónde puedo dormir?\n\nLas habitaciones para dormir están disponibles en la noche. El uso de estas habitaciones está sujeto a disponibilidad y a la condición del paciente.\n\n- Si se le proporciona una habitación, por favor retire sus pertenencias **a más tardar a las 10 am del día siguiente**\n- Si necesita la habitación para alguna otra noche, por favor hable con el coordinador de la unidad\n\n## ¿Dónde puedo lavar mi ropa?\n\nHay una lavadora y secadora en el **piso 17 del edificio Ellison**, en la unidad pediátrica de pacientes internados. Al salir de la PICU, gire a la derecha y siga las señales hasta los ascensores de Ellison; suba al piso 17. El detergente está disponible a pedido.\n\n## ¿Hay opciones de comida?\n\nSe vende una amplia variedad de comida en la cafetería del MGH. Tome los ascensores de Bigelow hasta el sótano (oprima \"B\" en el ascensor) y siga las señales hasta la cafetería **Eat Street Café**.\n\nPuede pedir una bandeja de comida a la habitación de su hijo, pero esto tiene un costo asociado. Si está pasando por dificultades financieras, por favor pídale a la enfermera de su hijo que le ponga en contacto con un trabajador social.\n\n## ¿Qué actividades puede hacer mi hijo?\n\nUsted siempre puede traer de su casa algún juguete u objeto reconfortante o de valor sentimental. Nosotros también tenemos juguetes, objetos reconfortantes y materiales de arte que le podemos proporcionar a su hijo durante su estadía. Para obtener más información, pida una consulta con nuestro **especialista en vida infantil**.\n\n## ¿Cómo obtengo la tarifa de descuento para el estacionamiento?\n\nPara recibir la tarifa de descuento, presente su **vale de visitante de la PICU** al cajero en la planta baja del estacionamiento (garaje) o en el vestíbulo principal del Centro Yawkey. Puede dirigir cualquier pregunta acerca del estacionamiento a la enfermera de su hijo o al personal encargado de los mostradores de información.\n\n---\n\n*Para obtener más información, hable con la enfermera de su hijo o con uno de los coordinadores en la recepción.*"
           }
         ]
       },
@@ -4283,7 +5019,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Nou vle travay nan patenarya avèk ou pou asire yon anviwònman gerizon ki sekirize epi ki konfòtab pou tout timoun ak fanmi nou yo. Men kèk konsèy pou rete nan Inite Swen Entansif Pedyatrik (PICU).\n\n## Vizitè\n\n- **Orè vizit:** 11:00 am – 8:00 pm\n- Pou sekirite ak konfò tout pasyan nou yo, nou kapab akeyi **yon (1) paran oswa responsab legal pou chak pasyan pandan nuit lan**\n- Tanpri, limite kantite vizitè nan chanm pasyan an pou **2 moun**\n- Nou ap kontan akeyi frè ak sè yo. Pou sekirite tout pasyan nou yo, nou pa kapab kite frè ak sè yo san siveyans, epi yo pa kapab pase nuit lan nan lopital la.\n- Nou ap mande vizitè (san wete frè ak sè) ki malad yo pou rete lakay yo jiskaske sentòm yo a disparèt.\n\n## Vizit medikal\n\nChak maten, ekip PICU a ap reyini deyò chanm timoun ou an pou revize enfòmasyon yo epi pou etabli yon plan swen pou jounen an. **Nou envite w patisipe nan vizit yo.**\n\nApre yo fin vizite tout pasyan yo, doktè ou yo ap disponib pou egzamine plan swen timoun ou an epi pou reponn kesyon ou yo.\n\n## Salon familyal\n\nOu kapab itilize Salon Familyal la ki twouve li nan ang asansè Bigelow yo, deyò PICU a. Li gen:\n\n- Yon evye, yon frijidè, yon mikwo-ond, ak kafe\n- Yon tab ak chèz kote ou kapab manje epi detann ou\n- Yon saldeben kominotè ki gen douch ki aksesib pou chèz woulant\n\nTanpri, mande enfimyè timoun ou an yon sèvyèt si sa nesesè.\n\n## Ki kote mwen kapab dòmi?\n\nGen chanm pou dòmi ki disponib sou baz chak nuit. Nou atribye chanm sa yo selon disponibilite ansanm ak eta sante pasyan an.\n\n- Si ou jwenn yon chanm pou dòmi, tanpri retire bagay pèsonèl ou yo **anvan 10 am nan demen**\n- Si ou bezwen yon chanm pou pase yon lòt nuit, tanpri pale sou sa ak Kowòdonatè Inite a ki nan resepsyon an\n\n## Ki kote mwen kapab lave rad mwen?\n\nGen yon machin a lave ak yon machin pou seche rad nan etaj pasyan ki entène yo, **Ellison 17**. Vire adwat lè ou kite PICU a, suiv pano ki endike asansè Ellison yo, epi monte nan etaj 17 la. Nou kapab bay pwodui netwayaj si ou mande sa.\n\n## Ki manje ki disponib pou mwen?\n\nMGH pwopoze yon pakèt varyete aliman pou achte nan kafeterya a. Pran asansè Bigelow yo rive jis nan etaj anba nèt la (\"B\"), epi suiv pano ki ekri **Eat Street Café** yo.\n\nOu kapab kòmande yon plato aliman nan chanm timoun ou an, men gen yon pri pou sa. Si ou gen pwoblèm finansyè, tanpri pale ak enfimyè ou a pou mande èd sosyal.\n\n## Ki aktivite timoun mwen an kapab fè?\n\nOu kapab toujou vini ak nenpòt atik konfò oswa jwèt li gen lakay li. Epitou, nou gen jwèt, atik konfò, ak materyèl atizay manm pèsonèl nou an kapab bay timoun ou an pou ede li pandan tan li nan lopital la. Pou plis enfòmasyon, pale avèk **espesyalis lavi timoun nan**.\n\n## Kijan mwen kapab valide pakin nan?\n\nPou w resevwa yon rediksyon sou pakin nan, montre **otokolan vizitè PICU ou a** bay moun ki nan pakin nan oswa ki nan chanm prensipal Yawkey a. Ou kapab poze kesyon ki gen rapò ak pakin yo nan biwo enfòmasyon an oswa bay enfimyè ou a.\n\n---\n\n*Pou plis enfòmasyon, tanpri pale avèk enfimyè timoun ou an oswa Kowòdonatè Inite a ki nan resepsyon an.*"
+            "markdown": "Nou vle travay nan patenarya avèk ou pou asire yon anviwònman gerizon ki sekirize epi ki konfòtab pou tout timoun ak fanmi nou yo. Men kèk konsèy pou rete nan Inite Swen Entansif Pedyatrik (PICU).\n\n### Pediatric Intensive Care Unit (PICU)\n\nBigelow Building, 6th floor\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4350](tel:+16177244350)\n- 🌐 [Learn more about the PICU](https://www.massgeneralbrigham.org/en/services/pediatric-critical-care-medicine)"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## Vizitè\n\n- **Orè vizit:** 11:00 am – 8:00 pm\n- Pou sekirite ak konfò tout pasyan nou yo, nou kapab akeyi **yon (1) paran oswa responsab legal pou chak pasyan pandan nuit lan**\n- Tanpri, limite kantite vizitè nan chanm pasyan an pou **2 moun**\n- Nou ap kontan akeyi frè ak sè yo. Pou sekirite tout pasyan nou yo, nou pa kapab kite frè ak sè yo san siveyans, epi yo pa kapab pase nuit lan nan lopital la.\n- Nou ap mande vizitè (san wete frè ak sè) ki malad yo pou rete lakay yo jiskaske sentòm yo a disparèt.\n\n## Vizit medikal\n\nChak maten, ekip PICU a ap reyini deyò chanm timoun ou an pou revize enfòmasyon yo epi pou etabli yon plan swen pou jounen an. **Nou envite w patisipe nan vizit yo.**\n\nApre yo fin vizite tout pasyan yo, doktè ou yo ap disponib pou egzamine plan swen timoun ou an epi pou reponn kesyon ou yo.\n\n## Salon familyal\n\nOu kapab itilize Salon Familyal la ki twouve li nan ang asansè Bigelow yo, deyò PICU a. Li gen:\n\n- Yon evye, yon frijidè, yon mikwo-ond, ak kafe\n- Yon tab ak chèz kote ou kapab manje epi detann ou\n- Yon saldeben kominotè ki gen douch ki aksesib pou chèz woulant\n\nTanpri, mande enfimyè timoun ou an yon sèvyèt si sa nesesè.\n\n## Ki kote mwen kapab dòmi?\n\nGen chanm pou dòmi ki disponib sou baz chak nuit. Nou atribye chanm sa yo selon disponibilite ansanm ak eta sante pasyan an.\n\n- Si ou jwenn yon chanm pou dòmi, tanpri retire bagay pèsonèl ou yo **anvan 10 am nan demen**\n- Si ou bezwen yon chanm pou pase yon lòt nuit, tanpri pale sou sa ak Kowòdonatè Inite a ki nan resepsyon an\n\n## Ki kote mwen kapab lave rad mwen?\n\nGen yon machin a lave ak yon machin pou seche rad nan etaj pasyan ki entène yo, **Ellison 17**. Vire adwat lè ou kite PICU a, suiv pano ki endike asansè Ellison yo, epi monte nan etaj 17 la. Nou kapab bay pwodui netwayaj si ou mande sa.\n\n## Ki manje ki disponib pou mwen?\n\nMGH pwopoze yon pakèt varyete aliman pou achte nan kafeterya a. Pran asansè Bigelow yo rive jis nan etaj anba nèt la (\"B\"), epi suiv pano ki ekri **Eat Street Café** yo.\n\nOu kapab kòmande yon plato aliman nan chanm timoun ou an, men gen yon pri pou sa. Si ou gen pwoblèm finansyè, tanpri pale ak enfimyè ou a pou mande èd sosyal.\n\n## Ki aktivite timoun mwen an kapab fè?\n\nOu kapab toujou vini ak nenpòt atik konfò oswa jwèt li gen lakay li. Epitou, nou gen jwèt, atik konfò, ak materyèl atizay manm pèsonèl nou an kapab bay timoun ou an pou ede li pandan tan li nan lopital la. Pou plis enfòmasyon, pale avèk **espesyalis lavi timoun nan**.\n\n## Kijan mwen kapab valide pakin nan?\n\nPou w resevwa yon rediksyon sou pakin nan, montre **otokolan vizitè PICU ou a** bay moun ki nan pakin nan oswa ki nan chanm prensipal Yawkey a. Ou kapab poze kesyon ki gen rapò ak pakin yo nan biwo enfòmasyon an oswa bay enfimyè ou a.\n\n---\n\n*Pou plis enfòmasyon, tanpri pale avèk enfimyè timoun ou an oswa Kowòdonatè Inite a ki nan resepsyon an.*"
           }
         ]
       },
@@ -4292,7 +5037,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "يسرّنا أن نتشارك سويًا لضمان الاستمتاع ببيئة علاجية آمنة ومريحة لجميع أطفالنا وعائلاتنا. فيما يلي بعض النصائح أثناء إقامتك في وحدة العناية المركزة للأطفال (PICU).\n\n## الزائرون\n\n- **ساعات الزيارة:** 11:00 صباحًا – 8:00 مساءً\n- للحفاظ على سلامة مرضانا وراحتهم، يمكن أن يرافق كل مريض طوال فترة الليل **أحد الوالدين أو الوصي**\n- يُرجى أن يقتصر عدد الزائرين في الغرفة على **شخصين**\n- يسرّنا استقبال الأخوة. للحفاظ على سلامة جميع مرضانا، يحظر ترك الأخوة دون مراقبة وغير مسموح ببقائهم طوال فترة الليل.\n- يُطلب من الزائرين، بما في ذلك الأخوة، المرضى البقاء في المنزل حتى زوال أعراضهم.\n\n## الجولات الطبية\n\nسيجتمع فريق وحدة العناية المركزة للأطفال معًا كل صباح خارج الغرفة التي يقيم فيها طفلك لمراجعة المعلومات ووضع خطة رعاية لهذا اليوم. **أنت مدعو للمشاركة في الجولات.**\n\nبعد المرور في جولات على جميع المرضى، سيكون أطباؤك متاحين لمراجعة خطة رعاية طفلك والإجابة على الاستفسارات التي تساورك.\n\n## صالة العائلات\n\nيمكنك استخدام صالة العائلات التي توجد بالقرب من مصاعد Bigelow خارج وحدة العناية المركزة للأطفال. تشمل:\n\n- مغسلة وثلاجة وميكروويف وماكينة قهوة\n- طاولة وكراسي حيث يمكنك الجلوس لتناول الطعام والاسترخاء\n- حمام مشترك مع دش ملائم لمستخدمي الكراسي المتحركة\n\nيُرجى أن تطلب من ممرضة طفلك الحصول على منشفة، إذا لزم الأمر.\n\n## أين يمكنني النوم؟\n\nتتوفّر الغرف المخصّصة للنوم ليلًا. يتم توزيع هذه الغرف على أساس التوفّر وحالة المريض.\n\n- إذا تم توفير غرفة نوم لك، فيُرجى إزالة متعلقاتك **بحلول الساعة 10 صباحًا من اليوم التالي**\n- إذا كنت بحاجة إلى غرفة نوم لليلة أخرى، فيُرجى التحدث مع منسّق الوحدة في مكتب الاستقبال\n\n## أين يمكنني غسل ملابسي؟\n\nتوجد غسالة ومجفف في طابق مرضى عيادات الأطفال الداخلية، الواقعة في **Ellison 17**. انعطف يمينًا بعد الخروج من وحدة العناية المركزة للأطفال واتبع اللافتات المؤدية إلى مصاعد Ellison ثم اصعد إلى الطابق 17. يمكن توفير منظفات الغسيل عند الطلب.\n\n## ما الأطعمة المتاح لي تناولها؟\n\nتقدم MGH مجموعة واسعة من الأطعمة المتوفّرة للشراء في الكافتيريا. استقل مصاعد Bigelow نزولًا إلى الطابق السفلي (\"B\") واتبع اللافتات المؤدية إلى **Eat Street Café**.\n\nيمكنك أن تطلب توصيل صينية الطعام إلى غرفة طفلك، لكن يتم فرض تكلفة إضافية. إذا كانت لديك مخاوف مالية، فيُرجى التحدث مع ممرضتك لطلب العمل الاجتماعي.\n\n## ما الأنشطة التي يمكن أن يمارسها طفلي؟\n\nيمكنك دائمًا إحضار أي أدوات أو ألعاب ملائمة من المنزل. يتوفّر لدينا أيضًا ألعاب وأدوات ملائمة ولوازم فنية يمكن أن يقدمها العاملون لدينا لطفلك لمساعدتهم أثناء إقامتهم. اطلب من **أخصائي حياة الطفل** الحصول على المزيد من المعلومات.\n\n## كيف يمكنني التحقّق من ساحة الركن المُخصّصة لوقوف السيارات؟\n\nللوقوف في ساحة ركن بسعر مخفض، يمكنك تقديم **ملصق زائر وحدة العناية المركزة للأطفال** الخاص بك إلى الموظف في مرآب السيارات أو ردهة Yawkey الرئيسية. يمكن توجيه الأسئلة المتعلقة بساحات ركن السيارات إلى مكتب المعلومات أو إلى الممرضة المسؤولة عن الحالة الخاصة بك.\n\n---\n\n*للاطّلاع على المزيد من المعلومات، يُرجى التحدث مع ممرضة طفلك أو منسّق الوحدة في مكتب الاستقبال.*"
+            "markdown": "يسرّنا أن نتشارك سويًا لضمان الاستمتاع ببيئة علاجية آمنة ومريحة لجميع أطفالنا وعائلاتنا. فيما يلي بعض النصائح أثناء إقامتك في وحدة العناية المركزة للأطفال (PICU).\n\n### Pediatric Intensive Care Unit (PICU)\n\nBigelow Building, 6th floor\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4350](tel:+16177244350)\n- 🌐 [Learn more about the PICU](https://www.massgeneralbrigham.org/en/services/pediatric-critical-care-medicine)"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## الزائرون\n\n- **ساعات الزيارة:** 11:00 صباحًا – 8:00 مساءً\n- للحفاظ على سلامة مرضانا وراحتهم، يمكن أن يرافق كل مريض طوال فترة الليل **أحد الوالدين أو الوصي**\n- يُرجى أن يقتصر عدد الزائرين في الغرفة على **شخصين**\n- يسرّنا استقبال الأخوة. للحفاظ على سلامة جميع مرضانا، يحظر ترك الأخوة دون مراقبة وغير مسموح ببقائهم طوال فترة الليل.\n- يُطلب من الزائرين، بما في ذلك الأخوة، المرضى البقاء في المنزل حتى زوال أعراضهم.\n\n## الجولات الطبية\n\nسيجتمع فريق وحدة العناية المركزة للأطفال معًا كل صباح خارج الغرفة التي يقيم فيها طفلك لمراجعة المعلومات ووضع خطة رعاية لهذا اليوم. **أنت مدعو للمشاركة في الجولات.**\n\nبعد المرور في جولات على جميع المرضى، سيكون أطباؤك متاحين لمراجعة خطة رعاية طفلك والإجابة على الاستفسارات التي تساورك.\n\n## صالة العائلات\n\nيمكنك استخدام صالة العائلات التي توجد بالقرب من مصاعد Bigelow خارج وحدة العناية المركزة للأطفال. تشمل:\n\n- مغسلة وثلاجة وميكروويف وماكينة قهوة\n- طاولة وكراسي حيث يمكنك الجلوس لتناول الطعام والاسترخاء\n- حمام مشترك مع دش ملائم لمستخدمي الكراسي المتحركة\n\nيُرجى أن تطلب من ممرضة طفلك الحصول على منشفة، إذا لزم الأمر.\n\n## أين يمكنني النوم؟\n\nتتوفّر الغرف المخصّصة للنوم ليلًا. يتم توزيع هذه الغرف على أساس التوفّر وحالة المريض.\n\n- إذا تم توفير غرفة نوم لك، فيُرجى إزالة متعلقاتك **بحلول الساعة 10 صباحًا من اليوم التالي**\n- إذا كنت بحاجة إلى غرفة نوم لليلة أخرى، فيُرجى التحدث مع منسّق الوحدة في مكتب الاستقبال\n\n## أين يمكنني غسل ملابسي؟\n\nتوجد غسالة ومجفف في طابق مرضى عيادات الأطفال الداخلية، الواقعة في **Ellison 17**. انعطف يمينًا بعد الخروج من وحدة العناية المركزة للأطفال واتبع اللافتات المؤدية إلى مصاعد Ellison ثم اصعد إلى الطابق 17. يمكن توفير منظفات الغسيل عند الطلب.\n\n## ما الأطعمة المتاح لي تناولها؟\n\nتقدم MGH مجموعة واسعة من الأطعمة المتوفّرة للشراء في الكافتيريا. استقل مصاعد Bigelow نزولًا إلى الطابق السفلي (\"B\") واتبع اللافتات المؤدية إلى **Eat Street Café**.\n\nيمكنك أن تطلب توصيل صينية الطعام إلى غرفة طفلك، لكن يتم فرض تكلفة إضافية. إذا كانت لديك مخاوف مالية، فيُرجى التحدث مع ممرضتك لطلب العمل الاجتماعي.\n\n## ما الأنشطة التي يمكن أن يمارسها طفلي؟\n\nيمكنك دائمًا إحضار أي أدوات أو ألعاب ملائمة من المنزل. يتوفّر لدينا أيضًا ألعاب وأدوات ملائمة ولوازم فنية يمكن أن يقدمها العاملون لدينا لطفلك لمساعدتهم أثناء إقامتهم. اطلب من **أخصائي حياة الطفل** الحصول على المزيد من المعلومات.\n\n## كيف يمكنني التحقّق من ساحة الركن المُخصّصة لوقوف السيارات؟\n\nللوقوف في ساحة ركن بسعر مخفض، يمكنك تقديم **ملصق زائر وحدة العناية المركزة للأطفال** الخاص بك إلى الموظف في مرآب السيارات أو ردهة Yawkey الرئيسية. يمكن توجيه الأسئلة المتعلقة بساحات ركن السيارات إلى مكتب المعلومات أو إلى الممرضة المسؤولة عن الحالة الخاصة بك.\n\n---\n\n*للاطّلاع على المزيد من المعلومات، يُرجى التحدث مع ممرضة طفلك أو منسّق الوحدة في مكتب الاستقبال.*"
           }
         ]
       },
@@ -4301,7 +5055,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Gostaríamos de fazer parceria com você para assegurar um ambiente de cura seguro e confortável para todas as nossas crianças e famílias. Aqui estão algumas dicas para sua estadia na Unidade de Tratamento Intensivo Pediátrica (UTIP).\n\n## Visitantes\n\n- **Horário de visitas:** 11:00 – 20:00\n- Para a segurança e conforto de todos os nossos pacientes, podemos acomodar **um pai, mãe ou responsável por paciente durante a noite**\n- Limite o número de visitantes no leito para **duas pessoas**\n- Irmãos são bem-vindos para visitar. Para a segurança de todos os nossos pacientes, os irmãos não podem ser deixados sem supervisão e não podem permanecer durante a noite.\n- Visitantes (incluindo irmãos) que estão doentes são solicitados a permanecer em casa até que os sintomas desapareçam.\n\n## Rondas médicas\n\nA cada manhã, a equipe da UTIP se reunirá fora do quarto da sua criança para revisar as informações e fazer um plano de tratamento para o dia. **Você está convidado a participar das rondas.**\n\nApós atender todos os pacientes, os médicos estarão disponíveis para revisar o plano de tratamento da sua criança e responder perguntas.\n\n## Saguão da Família\n\nVocê é bem-vindo para usar o Saguão da Família, localizado na esquina dos elevadores Bigelow fora da UTIP. Há:\n\n- Uma pia, geladeira, micro-ondas e café\n- Uma mesa e cadeiras onde você pode comer e relaxar\n- Um banheiro comunitário com chuveiro acessível para cadeira de rodas\n\nPeça para a enfermeira de sua criança uma toalha, se necessário.\n\n## Onde eu posso dormir?\n\nOs quartos para dormir estão disponíveis por noite. Esses quartos são fornecidos com base na disponibilidade e na condição do paciente.\n\n- Se for dado a você um quarto para dormir, remova seus pertences **até as 10h do dia seguinte**\n- Se você precisar de um quarto para dormir para uma outra noite, fale com o Coordenador da Unidade na recepção\n\n## Onde eu posso lavar minhas roupas?\n\nHá uma lavadora e secadora no andar pediátrico de internação, **Ellison 17**. Vire à direita quando sair da UTIP, siga as placas para os elevadores Ellison e vá até o 17.° andar. Detergente para roupas pode ser fornecido mediante solicitação.\n\n## Qual alimento está disponível para mim?\n\nO MGH oferece uma ampla variedade de alimentos para comprar na cafeteria. Pegue os elevadores Bigelow até o subsolo (\"B\") e siga as placas para o **Eat Street Café**.\n\nVocê pode pedir uma bandeja de alimentos para ser levada ao quarto da sua criança, mas há um custo associado. Se você tiver preocupações financeiras, fale com sua enfermeira para solicitar um assistente social.\n\n## Quais atividades a minha criança pode ter?\n\nVocê é sempre bem-vindo para trazer quaisquer itens de conforto ou brinquedos de casa. Também temos brinquedos, itens de conforto e materiais de arte que podem ser fornecidos para sua criança pela nossa equipe para ajudá-la durante a estadia. Solicite mais informações ao **especialista em vida infantil**.\n\n## Como eu posso validar o estacionamento?\n\nPara receber desconto no estacionamento, apresente seu **adesivo de visitante da UTIP** para o atendente na garagem do estacionamento ou na entrada principal do Yawkey. Perguntas relacionadas ao estacionamento podem ser dirigidas à mesa de informações ou à sua enfermeira.\n\n---\n\n*Para obter mais informações, fale com a enfermeira da sua criança ou com o Coordenador da Unidade na recepção.*"
+            "markdown": "Gostaríamos de fazer parceria com você para assegurar um ambiente de cura seguro e confortável para todas as nossas crianças e famílias. Aqui estão algumas dicas para sua estadia na Unidade de Tratamento Intensivo Pediátrica (UTIP).\n\n### Pediatric Intensive Care Unit (PICU)\n\nBigelow Building, 6th floor\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4350](tel:+16177244350)\n- 🌐 [Learn more about the PICU](https://www.massgeneralbrigham.org/en/services/pediatric-critical-care-medicine)"
+          },
+          {
+            "type": "video",
+            "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+            "caption": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children"
+          },
+          {
+            "type": "text",
+            "markdown": "## Visitantes\n\n- **Horário de visitas:** 11:00 – 20:00\n- Para a segurança e conforto de todos os nossos pacientes, podemos acomodar **um pai, mãe ou responsável por paciente durante a noite**\n- Limite o número de visitantes no leito para **duas pessoas**\n- Irmãos são bem-vindos para visitar. Para a segurança de todos os nossos pacientes, os irmãos não podem ser deixados sem supervisão e não podem permanecer durante a noite.\n- Visitantes (incluindo irmãos) que estão doentes são solicitados a permanecer em casa até que os sintomas desapareçam.\n\n## Rondas médicas\n\nA cada manhã, a equipe da UTIP se reunirá fora do quarto da sua criança para revisar as informações e fazer um plano de tratamento para o dia. **Você está convidado a participar das rondas.**\n\nApós atender todos os pacientes, os médicos estarão disponíveis para revisar o plano de tratamento da sua criança e responder perguntas.\n\n## Saguão da Família\n\nVocê é bem-vindo para usar o Saguão da Família, localizado na esquina dos elevadores Bigelow fora da UTIP. Há:\n\n- Uma pia, geladeira, micro-ondas e café\n- Uma mesa e cadeiras onde você pode comer e relaxar\n- Um banheiro comunitário com chuveiro acessível para cadeira de rodas\n\nPeça para a enfermeira de sua criança uma toalha, se necessário.\n\n## Onde eu posso dormir?\n\nOs quartos para dormir estão disponíveis por noite. Esses quartos são fornecidos com base na disponibilidade e na condição do paciente.\n\n- Se for dado a você um quarto para dormir, remova seus pertences **até as 10h do dia seguinte**\n- Se você precisar de um quarto para dormir para uma outra noite, fale com o Coordenador da Unidade na recepção\n\n## Onde eu posso lavar minhas roupas?\n\nHá uma lavadora e secadora no andar pediátrico de internação, **Ellison 17**. Vire à direita quando sair da UTIP, siga as placas para os elevadores Ellison e vá até o 17.° andar. Detergente para roupas pode ser fornecido mediante solicitação.\n\n## Qual alimento está disponível para mim?\n\nO MGH oferece uma ampla variedade de alimentos para comprar na cafeteria. Pegue os elevadores Bigelow até o subsolo (\"B\") e siga as placas para o **Eat Street Café**.\n\nVocê pode pedir uma bandeja de alimentos para ser levada ao quarto da sua criança, mas há um custo associado. Se você tiver preocupações financeiras, fale com sua enfermeira para solicitar um assistente social.\n\n## Quais atividades a minha criança pode ter?\n\nVocê é sempre bem-vindo para trazer quaisquer itens de conforto ou brinquedos de casa. Também temos brinquedos, itens de conforto e materiais de arte que podem ser fornecidos para sua criança pela nossa equipe para ajudá-la durante a estadia. Solicite mais informações ao **especialista em vida infantil**.\n\n## Como eu posso validar o estacionamento?\n\nPara receber desconto no estacionamento, apresente seu **adesivo de visitante da UTIP** para o atendente na garagem do estacionamento ou na entrada principal do Yawkey. Perguntas relacionadas ao estacionamento podem ser dirigidas à mesa de informações ou à sua enfermeira.\n\n---\n\n*Para obter mais informações, fale com a enfermeira da sua criança ou com o Coordenador da Unidade na recepção.*"
           }
         ]
       }
@@ -4315,9 +5078,10 @@
       "laundry",
       "washer",
       "dryer",
-      "shower"
+      "shower",
+      "picu overview"
     ],
-    "notes": null,
+    "notes": "Merged \"Welcome to the PICU\" into this guide 2026-10-22 (contact card, welcome video, parents-as-partners paragraph; MGB PICU page). Spanish card note, link name and video caption are Claude drafts: needs Spanish review.",
     "description": {
       "en": "Tips for your stay in the PICU — visiting hours, medical rounds, the family lounge, sleep rooms, food, parking, and more.",
       "zh-Hant": "兒童加護病房入住提示 — 探視時間、醫療查房、家庭休息室、臥室、餐飲、停車等。",
@@ -4337,6 +5101,61 @@
           "ht": "Nou vle travay nan patenarya avèk ou pou asire yon anviwònman gerizon ki sekirize epi ki konfòtab pou tout timoun ak fanmi nou yo. Men kèk konsèy pou rete nan Inite Swen Entansif Pedyatrik (PICU).",
           "ar": "يسرّنا أن نتشارك سويًا لضمان الاستمتاع ببيئة علاجية آمنة ومريحة لجميع أطفالنا وعائلاتنا. فيما يلي بعض النصائح أثناء إقامتك في وحدة العناية المركزة للأطفال (PICU).",
           "pt": "Gostaríamos de fazer parceria com você para assegurar um ambiente de cura seguro e confortável para todas as nossas crianças e famílias. Aqui estão algumas dicas para sua estadia na Unidade de Tratamento Intensivo Pediátrica (UTIP)."
+        }
+      },
+      {
+        "id": "text_hds0ialr",
+        "type": "text",
+        "markdown": {
+          "en": "At Mass General Brigham for Children, we strive to provide an open and welcoming environment. We believe that no one knows a child as well as parents do, and therefore parents, along with primary care providers, become partners in the child’s care. The parents have an active voice in all treatment plans.",
+          "es": "En Mass General Brigham para Niños, nos esforzamos por proporcionar un ambiente abierto y acogedor. Creemos que nadie conoce a un niño tan bien como sus padres; por eso, los padres, junto con los proveedores de atención primaria, se convierten en colaboradores de la atención del niño. Los padres tienen una voz activa en todos los planes de tratamiento."
+        },
+        "onlyIn": [
+          "en",
+          "es"
+        ]
+      },
+      {
+        "id": "listing_6bwosns6",
+        "type": "listing",
+        "name": {
+          "en": "Pediatric Intensive Care Unit (PICU)",
+          "es": "Unidad de Cuidados Intensivos Pediátricos (PICU)"
+        },
+        "address": {
+          "en": "55 Fruit Street, Boston, MA 02114"
+        },
+        "notes": {
+          "en": "Bigelow Building, 6th floor",
+          "es": "Edificio Bigelow, 6.º piso"
+        },
+        "phones": [
+          {
+            "id": "phone_oiaf77sw",
+            "number": "+16177244350"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_tku3qte9",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-critical-care-medicine",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-critical-care-medicine"
+            },
+            "label": {
+              "en": "Learn more about the PICU",
+              "es": "Más información sobre la PICU"
+            }
+          }
+        ]
+      },
+      {
+        "id": "video_3ay6mwy6",
+        "type": "video",
+        "url": "https://www.youtube.com/watch?v=672lLEKVg-I",
+        "caption": {
+          "en": "Welcome to the Pediatric Intensive Care Unit — Mass General Brigham for Children",
+          "es": "Bienvenidos a la Unidad de Cuidados Intensivos Pediátricos — Mass General Brigham for Children"
         }
       },
       {
@@ -8333,23 +9152,50 @@
     },
     "languages": {
       "en": {
-        "description": "Where to buy flowers, gifts, snacks, and essentials on campus — and what can't come into the PICU.",
+        "description": "Our hospital campuses have several shops offering get-well gifts and other essentials.",
         "content": [
           {
             "type": "text",
-            "markdown": "**The General Store and Flower Shop** sells flowers, balloons, gifts, snacks, reading materials, toiletries, and phone chargers. Proceeds support patient and family programs at the hospital.\n\n- **Where:** Blake Building, 1st floor\n- **Hours:** Monday–Friday 8:30 am–7:30 pm · Saturday–Sunday 10 am–6 pm\n- 📞 [617-726-2227](tel:+16177262227)\n\n## Please note for the PICU\n\nFresh flowers and balloons are not allowed in intensive care units, and latex balloons are not allowed anywhere in the hospital. If family or friends want to send something, a plush toy, book, or gift basket is a good choice — mention your child's age so staff can help pick something safe.\n\n## Ordering online\n\nFamily and friends can order from the shop's website for free delivery to a patient's room, 7 days a week. If your child is discharged before a delivery arrives, the sender is notified and can redirect it or cancel.\n\n## Second location\n\n**The General Store at Yawkey** is in the Yawkey Center for Outpatient Care, open Monday–Friday 8:30 am–4:30 pm."
-          },
-          {
-            "type": "link",
-            "url": "https://mghgeneralstore.myshopify.com/",
-            "label": "MGH General Store & Flower Shop — order online",
-            "description": "Free delivery to a patient's room within the hospital."
+            "markdown": "Our retail shops offer a selection of gifts, snacks, convenience items, flowers, merchandise, and more. The General Store and Flower Shop also sells toiletries and phone chargers.\n\n### The General Store and Flower Shop\n\nBlake Building, first floor\n\n- 📞 [617-726-2227](tel:+16177262227)\n- 🌐 [Order online](https://mghgeneralstore.myshopify.com/)\n\nMonday through Friday: 8:30 a.m. to 7:30 p.m.\n\nSaturday and Sunday: 10 a.m. to 6 p.m.\n\n### The General Store at Yawkey\n\nYawkey Center for Outpatient Care\n\n- 📞 [617-726-2227](tel:+16177262227)\n\nMonday through Friday: 8:30 a.m. to 4:30 p.m.\n\n## Please note for the PICU\n\nPlease check with staff before bringing or sending flowers to a patient. No balloons or fresh flowers are allowed in ICU. Due to hospital policy, latex balloons are not allowed in the Hospital."
           },
           {
             "type": "link",
             "url": "https://mghgeneralstore.myshopify.com/pages/medical-restrictions-at-massachusetts-general-hospital",
-            "label": "What can and can't be delivered",
-            "description": "The shop's list of restrictions for ICU, flowers, balloons, and toys."
+            "label": "Medical restrictions at Massachusetts General Hospital",
+            "description": "The gift shop's list of what can and can't be delivered."
+          },
+          {
+            "type": "text",
+            "markdown": "## Sending mail or a gift\n\nWe distribute mail and flowers to patients daily. You may address deliveries to:\n\n- First and last name\n- Room number\n- Street address\n- City, state, zip code\n\nThe address for Mass General Brigham for Children is 55 Fruit Street, Boston, MA 02114.\n\nYou can also place an online order with the gift shop at Massachusetts General Hospital."
+          },
+          {
+            "type": "link",
+            "url": "https://mghgeneralstore.myshopify.com/",
+            "label": "MGH General Store and Flower Shop — order online"
+          }
+        ]
+      },
+      "es": {
+        "description": "Nuestros campus hospitalarios tienen varias tiendas con regalos para pacientes y otros artículos esenciales.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Nuestras tiendas ofrecen regalos, refrigerios, artículos de conveniencia, flores, mercancía y más. The General Store and Flower Shop también vende artículos de aseo personal y cargadores de teléfono.\n\n### The General Store and Flower Shop\n\nEdificio Blake, primer piso\n\n- 📞 [617-726-2227](tel:+16177262227)\n- 🌐 [Ordenar en línea](https://mghgeneralstore.myshopify.com/)\n\nDe lunes a viernes: 8:30 a.m. a 7:30 p.m.\n\nSábados y domingos: 10 a.m. a 6 p.m.\n\n### The General Store at Yawkey\n\nYawkey Center for Outpatient Care\n\n- 📞 [617-726-2227](tel:+16177262227)\n\nDe lunes a viernes: 8:30 a.m. a 4:30 p.m.\n\n## Aviso importante para la PICU\n\nConsulte con el personal antes de llevar o enviar flores a un paciente. No se permiten globos ni flores frescas en la UCI. Por política del hospital, los globos de látex no están permitidos en el hospital."
+          },
+          {
+            "type": "link",
+            "url": "https://mghgeneralstore.myshopify.com/pages/medical-restrictions-at-massachusetts-general-hospital",
+            "label": "Restricciones médicas en Massachusetts General Hospital",
+            "description": "La lista de la tienda de lo que se puede y no se puede entregar."
+          },
+          {
+            "type": "text",
+            "markdown": "## Envío de correo o flores a un paciente\n\nDistribuimos correo y flores a los pacientes todos los días. Puede dirigir las entregas a:\n\n- Nombre y apellido\n- Número de habitación\n- Dirección\n- Ciudad, estado, código postal\n\nLa dirección de Mass General Brigham for Children es 55 Fruit Street, Boston, MA 02114.\n\nTambién puede hacer un pedido en línea a la tienda de regalos de Massachusetts General Hospital."
+          },
+          {
+            "type": "link",
+            "url": "https://mghgeneralstore.myshopify.com/",
+            "label": "MGH General Store and Flower Shop — ordenar en línea"
           }
         ]
       }
@@ -8365,87 +9211,141 @@
       "phone charger",
       "Blake building"
     ],
-    "notes": "Drafted 2026-09-22 from massgeneralbrigham.org retail-shops page and the shop's own site. Team to verify hours/phone and PICU flower/balloon policy wording.",
+    "notes": "Drafted 2026-09-22 from massgeneralbrigham.org retail-shops page and the shop's own site. Team to verify hours/phone and PICU flower/balloon policy wording.\nMatched to MGB's Retail Shops and Sending Mail or Flowers pages and the gift shop's MGH medical-restrictions page (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish partly from MGB's Spanish mail-and-flowers page; the rest translated by Claude (MGB's retail page has no Spanish version), needs Spanish review. Approved by Mark 2026-10-22.",
     "description": {
-      "en": "Where to buy flowers, gifts, snacks, and essentials on campus — and what can't come into the PICU."
+      "en": "Our hospital campuses have several shops offering get-well gifts and other essentials.",
+      "es": "Nuestros campus hospitalarios tienen varias tiendas con regalos para pacientes y otros artículos esenciales."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_v5b5eegb",
         "type": "text",
         "markdown": {
-          "en": "**The General Store and Flower Shop** sells flowers, balloons, gifts, snacks, reading materials, toiletries, and phone chargers. Proceeds support patient and family programs at the hospital.\n\n- **Where:** Blake Building, 1st floor\n- **Hours:** Monday–Friday 8:30 am–7:30 pm · Saturday–Sunday 10 am–6 pm\n- 📞 [617-726-2227](tel:+16177262227)"
+          "en": "Our retail shops offer a selection of gifts, snacks, convenience items, flowers, merchandise, and more. The General Store and Flower Shop also sells toiletries and phone chargers.",
+          "es": "Nuestras tiendas ofrecen regalos, refrigerios, artículos de conveniencia, flores, mercancía y más. The General Store and Flower Shop también vende artículos de aseo personal y cargadores de teléfono."
         }
       },
       {
-        "id": "please_note_for_the_picu",
+        "id": "listing_xak7rypt",
+        "type": "listing",
+        "name": {
+          "en": "The General Store and Flower Shop",
+          "es": "The General Store and Flower Shop"
+        },
+        "notes": {
+          "en": "Blake Building, first floor",
+          "es": "Edificio Blake, primer piso"
+        },
+        "phones": [
+          {
+            "id": "phone_ldf2lh2q",
+            "number": "+16177262227"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_sarmhcy2",
+            "url": {
+              "en": "https://mghgeneralstore.myshopify.com/",
+              "es": "https://mghgeneralstore.myshopify.com/"
+            },
+            "label": {
+              "en": "Order online",
+              "es": "Ordenar en línea"
+            }
+          }
+        ],
+        "details": {
+          "en": "Monday through Friday: 8:30 a.m. to 7:30 p.m.\n\nSaturday and Sunday: 10 a.m. to 6 p.m.",
+          "es": "De lunes a viernes: 8:30 a.m. a 7:30 p.m.\n\nSábados y domingos: 10 a.m. a 6 p.m."
+        }
+      },
+      {
+        "id": "listing_6ywiufyz",
+        "type": "listing",
+        "name": {
+          "en": "The General Store at Yawkey",
+          "es": "The General Store at Yawkey"
+        },
+        "notes": {
+          "en": "Yawkey Center for Outpatient Care",
+          "es": "Yawkey Center for Outpatient Care"
+        },
+        "phones": [
+          {
+            "id": "phone_1kyb3w2b",
+            "number": "+16177262227"
+          }
+        ],
+        "details": {
+          "en": "Monday through Friday: 8:30 a.m. to 4:30 p.m.",
+          "es": "De lunes a viernes: 8:30 a.m. a 4:30 p.m."
+        }
+      },
+      {
+        "id": "section_t3jdy80i",
         "type": "section",
         "title": {
-          "en": "Please note for the PICU"
+          "en": "Please note for the PICU",
+          "es": "Aviso importante para la PICU"
         }
       },
       {
-        "id": "please_note_for_the_picu_text",
+        "id": "text_azryoaf5",
         "type": "text",
         "markdown": {
-          "en": "Fresh flowers and balloons are not allowed in intensive care units, and latex balloons are not allowed anywhere in the hospital. If family or friends want to send something, a plush toy, book, or gift basket is a good choice — mention your child's age so staff can help pick something safe."
+          "en": "Please check with staff before bringing or sending flowers to a patient. No balloons or fresh flowers are allowed in ICU. Due to hospital policy, latex balloons are not allowed in the Hospital.",
+          "es": "Consulte con el personal antes de llevar o enviar flores a un paciente. No se permiten globos ni flores frescas en la UCI. Por política del hospital, los globos de látex no están permitidos en el hospital."
         }
       },
       {
-        "id": "ordering_online",
-        "type": "section",
-        "title": {
-          "en": "Ordering online"
-        }
-      },
-      {
-        "id": "ordering_online_text",
-        "type": "text",
-        "markdown": {
-          "en": "Family and friends can order from the shop's website for free delivery to a patient's room, 7 days a week. If your child is discharged before a delivery arrives, the sender is notified and can redirect it or cancel."
-        }
-      },
-      {
-        "id": "second_location",
-        "type": "section",
-        "title": {
-          "en": "Second location"
-        }
-      },
-      {
-        "id": "second_location_text",
-        "type": "text",
-        "markdown": {
-          "en": "**The General Store at Yawkey** is in the Yawkey Center for Outpatient Care, open Monday–Friday 8:30 am–4:30 pm."
-        }
-      },
-      {
-        "id": "link_1",
+        "id": "link_1wn4825t",
         "type": "link",
         "url": {
-          "en": "https://mghgeneralstore.myshopify.com/"
+          "en": "https://mghgeneralstore.myshopify.com/pages/medical-restrictions-at-massachusetts-general-hospital",
+          "es": "https://mghgeneralstore.myshopify.com/pages/medical-restrictions-at-massachusetts-general-hospital"
         },
         "label": {
-          "en": "MGH General Store & Flower Shop — order online"
+          "en": "Medical restrictions at Massachusetts General Hospital",
+          "es": "Restricciones médicas en Massachusetts General Hospital"
         },
         "description": {
-          "en": "Free delivery to a patient's room within the hospital."
+          "en": "The gift shop's list of what can and can't be delivered.",
+          "es": "La lista de la tienda de lo que se puede y no se puede entregar."
         }
       },
       {
-        "id": "link_2",
+        "id": "section_bra1e0u2",
+        "type": "section",
+        "title": {
+          "en": "Sending mail or a gift",
+          "es": "Envío de correo o flores a un paciente"
+        }
+      },
+      {
+        "id": "text_a9nyats4",
+        "type": "text",
+        "markdown": {
+          "en": "We distribute mail and flowers to patients daily. You may address deliveries to:\n\n- First and last name\n- Room number\n- Street address\n- City, state, zip code\n\nThe address for Mass General Brigham for Children is 55 Fruit Street, Boston, MA 02114.\n\nYou can also place an online order with the gift shop at Massachusetts General Hospital.",
+          "es": "Distribuimos correo y flores a los pacientes todos los días. Puede dirigir las entregas a:\n\n- Nombre y apellido\n- Número de habitación\n- Dirección\n- Ciudad, estado, código postal\n\nLa dirección de Mass General Brigham for Children es 55 Fruit Street, Boston, MA 02114.\n\nTambién puede hacer un pedido en línea a la tienda de regalos de Massachusetts General Hospital."
+        }
+      },
+      {
+        "id": "link_2nsrc42c",
         "type": "link",
         "url": {
-          "en": "https://mghgeneralstore.myshopify.com/pages/medical-restrictions-at-massachusetts-general-hospital"
+          "en": "https://mghgeneralstore.myshopify.com/",
+          "es": "https://mghgeneralstore.myshopify.com/"
         },
         "label": {
-          "en": "What can and can't be delivered"
-        },
-        "description": {
-          "en": "The shop's list of restrictions for ICU, flowers, balloons, and toys."
+          "en": "MGH General Store and Flower Shop — order online",
+          "es": "MGH General Store and Flower Shop — ordenar en línea"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Tienda de regalos y florería"
+    }
   },
   {
     "id": "parking_at_mass_general",
