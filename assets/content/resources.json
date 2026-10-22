@@ -8336,5 +8336,311 @@
         }
       }
     ]
+  },
+  {
+    "id": "e2e_tmp_ncoqrc8",
+    "title": "E2E Temp ncoqrc8",
+    "status": "pending",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {},
+    "languages": {
+      "en": {
+        "description": "Tips for your stay in the PICU — visiting hours, medical rounds, the family lounge, sleep rooms, food, parking, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "We would like to partner with you to ensure a safe and comfortable healing environment for all our children and families. Here are some tips for your stay in the Pediatric Intensive Care Unit.\n\n## Visiting\n\n- **Visiting hours:** 11:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve.\n\n## Medical Rounds\n\nEach morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions.\n\n## Family Lounge\n\nYou are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed.\n\n## Where can I sleep?\n\nSleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk\n\n## Where can I wash my clothes?\n\nThere is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request.\n\n## What food is available?\n\nMGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work.\n\n## What activities can my child have?\n\nYou are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information.\n\n## How can I validate parking?\n\nTo receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "description": {
+      "en": "Tips for your stay in the PICU — visiting hours, medical rounds, the family lounge, sleep rooms, food, parking, and more."
+    },
+    "blocks": [
+      {
+        "id": "intro",
+        "type": "text",
+        "markdown": {
+          "en": "We would like to partner with you to ensure a safe and comfortable healing environment for all our children and families. Here are some tips for your stay in the Pediatric Intensive Care Unit."
+        }
+      },
+      {
+        "id": "visiting",
+        "type": "section",
+        "title": {
+          "en": "Visiting"
+        }
+      },
+      {
+        "id": "visiting_text",
+        "type": "text",
+        "markdown": {
+          "en": "- **Visiting hours:** 11:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve."
+        }
+      },
+      {
+        "id": "medical_rounds",
+        "type": "section",
+        "title": {
+          "en": "Medical Rounds"
+        }
+      },
+      {
+        "id": "medical_rounds_text",
+        "type": "text",
+        "markdown": {
+          "en": "Each morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions."
+        }
+      },
+      {
+        "id": "family_lounge",
+        "type": "section",
+        "title": {
+          "en": "Family Lounge"
+        }
+      },
+      {
+        "id": "family_lounge_text",
+        "type": "text",
+        "markdown": {
+          "en": "You are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed."
+        }
+      },
+      {
+        "id": "where_can_i_sleep",
+        "type": "section",
+        "title": {
+          "en": "Where can I sleep?"
+        }
+      },
+      {
+        "id": "where_can_i_sleep_text",
+        "type": "text",
+        "markdown": {
+          "en": "Sleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk"
+        }
+      },
+      {
+        "id": "where_can_i_wash_my_clothes",
+        "type": "section",
+        "title": {
+          "en": "Where can I wash my clothes?"
+        }
+      },
+      {
+        "id": "where_can_i_wash_my_clothes_text",
+        "type": "text",
+        "markdown": {
+          "en": "There is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request."
+        }
+      },
+      {
+        "id": "what_food_is_available",
+        "type": "section",
+        "title": {
+          "en": "What food is available?"
+        }
+      },
+      {
+        "id": "what_food_is_available_text",
+        "type": "text",
+        "markdown": {
+          "en": "MGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work."
+        }
+      },
+      {
+        "id": "what_activities_can_my_child_have",
+        "type": "section",
+        "title": {
+          "en": "What activities can my child have?"
+        }
+      },
+      {
+        "id": "what_activities_can_my_child_have_text",
+        "type": "text",
+        "markdown": {
+          "en": "You are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information."
+        }
+      },
+      {
+        "id": "how_can_i_validate_parking",
+        "type": "section",
+        "title": {
+          "en": "How can I validate parking?"
+        }
+      },
+      {
+        "id": "how_can_i_validate_parking_text",
+        "type": "text",
+        "markdown": {
+          "en": "To receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
+        }
+      }
+    ]
+  },
+  {
+    "id": "e2e_tmp_nh3aw1z",
+    "title": "E2E Temp nh3aw1z",
+    "status": "pending",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "administrative_resource"
+    ],
+    "phasesByUnit": {},
+    "languages": {
+      "en": {
+        "description": "Tips for your stay in the PICU — visiting hours, medical rounds, the family lounge, sleep rooms, food, parking, and more.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "We would like to partner with you to ensure a safe and comfortable healing environment for all our children and families. Here are some tips for your stay in the Pediatric Intensive Care Unit.\n\n## Visiting\n\n- **Visiting hours:** 11:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve.\n\n## Medical Rounds\n\nEach morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions.\n\n## Family Lounge\n\nYou are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed.\n\n## Where can I sleep?\n\nSleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk\n\n## Where can I wash my clothes?\n\nThere is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request.\n\n## What food is available?\n\nMGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work.\n\n## What activities can my child have?\n\nYou are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information.\n\n## How can I validate parking?\n\nTo receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
+          }
+        ]
+      }
+    },
+    "images": [],
+    "tags": [],
+    "notes": null,
+    "description": {
+      "en": "Tips for your stay in the PICU — visiting hours, medical rounds, the family lounge, sleep rooms, food, parking, and more."
+    },
+    "blocks": [
+      {
+        "id": "intro",
+        "type": "text",
+        "markdown": {
+          "en": "We would like to partner with you to ensure a safe and comfortable healing environment for all our children and families. Here are some tips for your stay in the Pediatric Intensive Care Unit."
+        }
+      },
+      {
+        "id": "visiting",
+        "type": "section",
+        "title": {
+          "en": "Visiting"
+        }
+      },
+      {
+        "id": "visiting_text",
+        "type": "text",
+        "markdown": {
+          "en": "- **Visiting hours:** 11:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve."
+        }
+      },
+      {
+        "id": "medical_rounds",
+        "type": "section",
+        "title": {
+          "en": "Medical Rounds"
+        }
+      },
+      {
+        "id": "medical_rounds_text",
+        "type": "text",
+        "markdown": {
+          "en": "Each morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions."
+        }
+      },
+      {
+        "id": "family_lounge",
+        "type": "section",
+        "title": {
+          "en": "Family Lounge"
+        }
+      },
+      {
+        "id": "family_lounge_text",
+        "type": "text",
+        "markdown": {
+          "en": "You are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed."
+        }
+      },
+      {
+        "id": "where_can_i_sleep",
+        "type": "section",
+        "title": {
+          "en": "Where can I sleep?"
+        }
+      },
+      {
+        "id": "where_can_i_sleep_text",
+        "type": "text",
+        "markdown": {
+          "en": "Sleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk"
+        }
+      },
+      {
+        "id": "where_can_i_wash_my_clothes",
+        "type": "section",
+        "title": {
+          "en": "Where can I wash my clothes?"
+        }
+      },
+      {
+        "id": "where_can_i_wash_my_clothes_text",
+        "type": "text",
+        "markdown": {
+          "en": "There is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request."
+        }
+      },
+      {
+        "id": "what_food_is_available",
+        "type": "section",
+        "title": {
+          "en": "What food is available?"
+        }
+      },
+      {
+        "id": "what_food_is_available_text",
+        "type": "text",
+        "markdown": {
+          "en": "MGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work."
+        }
+      },
+      {
+        "id": "what_activities_can_my_child_have",
+        "type": "section",
+        "title": {
+          "en": "What activities can my child have?"
+        }
+      },
+      {
+        "id": "what_activities_can_my_child_have_text",
+        "type": "text",
+        "markdown": {
+          "en": "You are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information."
+        }
+      },
+      {
+        "id": "how_can_i_validate_parking",
+        "type": "section",
+        "title": {
+          "en": "How can I validate parking?"
+        }
+      },
+      {
+        "id": "how_can_i_validate_parking_text",
+        "type": "text",
+        "markdown": {
+          "en": "To receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
+        }
+      }
+    ]
   }
 ]

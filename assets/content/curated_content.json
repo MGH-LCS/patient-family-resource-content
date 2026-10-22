@@ -1,5 +1,5 @@
 {
-  "version": 93,
+  "version": 120,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -616,6 +616,64 @@
                 }
               }
             ]
+          }
+        ]
+      },
+      "educational_resource": {
+        "blocks": [],
+        "subcategories": [
+          {
+            "id": "breathing_and_trach_care",
+            "title": {
+              "en": "Breathing and trach care",
+              "es": "Respiración y traqueostomía"
+            },
+            "resourceIds": [
+              "pediatric_tracheostomy_what_you_need_to_know",
+              "pediatric_tracheostomy_how_to_exchange_a_trach",
+              "pediatric_tracheostomy_how_to_suction_a_trach",
+              "asthma_what_you_need_to_know",
+              "bronchitis_and_bronchiolitis",
+              "chronic_lung_conditions"
+            ],
+            "description": {
+              "en": "Trach care, asthma, bronchitis and lung conditions"
+            }
+          },
+          {
+            "id": "keeping_kids_safe",
+            "title": {
+              "en": "Keeping kids safe",
+              "es": "Seguridad infantil"
+            },
+            "resourceIds": [
+              "learn_child_and_adult_cpr",
+              "childproofing_your_home",
+              "car_seat_safety",
+              "safe_driving_for_teens",
+              "gun_safety_how_to_discuss_with_any_age_child",
+              "drowning_prevention"
+            ],
+            "description": {
+              "en": "CPR, car seats, childproofing, water, gun and driving safety"
+            }
+          },
+          {
+            "id": "babies_and_young_children",
+            "title": {
+              "en": "Babies and young children",
+              "es": "Bebés y niños pequeños"
+            },
+            "resourceIds": [
+              "breastfeeding_getting_started",
+              "breastfeeding_help_and_support",
+              "breastfeeding_handouts",
+              "healthy_sleep_habits_for_your_baby",
+              "the_benefits_of_childhood_vaccines"
+            ],
+            "description": {
+              "en": "Breastfeeding, sleep and vaccines"
+            }
           }
         ]
       }
