@@ -3766,11 +3766,20 @@
     },
     "languages": {
       "en": {
-        "description": "What to expect in MGfC's Pediatric Emergency Department — facilities, triage, who you'll meet, and FAQ.",
+        "description": "Pediatric Emergency is a distinct child- and family-friendly service within general Emergency at Massachusetts General Hospital.",
         "content": [
           {
             "type": "text",
-            "markdown": "The pediatric emergency department at Mass General Hospital for Children is specially designed from a pediatric perspective to provide exceptional, child-focused care to our patients, as well as support and guidance to their families.\n\nOur larger space is separate from the adult emergency department. It is staffed by physicians, nurses, and other staff trained in pediatric emergency medicine who provide high-quality and developmentally-appropriate care for your child, while ensuring you are involved every step of the way.\n\n## Child- and family-friendly features\n\nThe pediatric emergency department has special features to help make your child's visit as smooth and stress-free as possible:\n\n- Six private, child-friendly rooms, including one room specifically designed for suspected or diagnosed infectious disease\n- Exam rooms that can accommodate a child and family members if both need emergency care at the same time\n- An evaluation area for minor ailments so we can care for patients more efficiently\n- A colorful waiting area with tablets and age-appropriate toys\n- Interactive LED lights above every bed to help soothe patients while they receive care\n- Televisions and DVD controls in every room\n\n> **Your child's comfort and symptoms are very important to us.** Our first priority is to care for patients whose lives are at risk. If you've been to another hospital, that hospital has contacted us — so we are expecting you and your child. We work as quickly as we can to safely care for all patients and to shorten your waiting time.\n\n## Expert services and facilities\n\nThe pediatric emergency department provides a full breadth of services and resources, including:\n\n- Access to world-class resources at Massachusetts General Hospital and Mass General Hospital for Children, including pediatric surgery and intensive care units\n- **Child Life Specialists** who help your child and family navigate the hospital experience through play and age-appropriate education about treatments, procedures, or exams\n- On-site radiology and fluoroscopy (X-rays on video) that deliver low doses of radiation adjusted for your child's age\n- 24-hour psychiatric coverage\n- Option for conscious sedation (when medically appropriate) to help relieve pain and relax your child\n\nThe pediatric emergency department is verified by the American College of Surgeons as a **Level 1 Pediatric Trauma Center** and a **Level 1 Pediatric Burn Center** — the highest trauma center designation. Each year, we treat more than 14,000 children.\n\n## Our triage system\n\nWhen you arrive, a triage nurse reviews your child's symptoms, medical history, and vital signs. The triage nurse then determines when your child can be seen by one of our doctors trained in pediatric emergency medicine. Depending on the nature of a child's condition or symptoms, they might not always be seen in the order of their arrival:\n\n- **If your child has a life-threatening condition,** they will be evaluated right away.\n- **If your child's condition is not life-threatening,** they will be evaluated as soon as possible.\n\n## Frequently asked questions\n\n**Who will be caring for my child?**\n\nThere will be many staff members on your child's care team — including registered nurses and doctors trained in pediatric emergency medicine. Your child might also see a nurse practitioner, a medical assistant, or a Child Life specialist from John Hancock Child Life and Wellness Services at MGHfC. Registration staff will also ask you for information while you and your child are in the screening area. They might ask you for detailed information about your child's primary care physician or your health insurance.\n\n**Why am I being asked the same questions over and over again?**\n\nWe ask you the same questions to make sure your child receives the most appropriate evaluation possible, and to make sure you and your child stay safe. Initial registration is directed toward getting your child into the system as soon as possible. We might ask you for more information about your child later.\n\n**Can my child have visitors?**\n\nYes. Please have visitors check in at the information desk to get a visitor's pass.\n\n**Will I be charged for this visit?**\n\nWe see all patients whether they can pay or not. If you have insurance, please understand that every plan is different. Co-pays or charges are determined by your individual health plan. Contact your insurance provider if you have other questions.\n\n**Where can I validate my parking?**\n\nPatients and visitors will receive discounted parking without validation. Please show your discharge papers or visitor's pass to the parking attendants.\n\n**Can I use my cell phone?**\n\nYes, in most areas. Please be sensitive to other patients and staff when making calls. We also have landline phones if you need to use them."
+            "markdown": "Pediatric Emergency Medicine at Mass General Brigham for Children is child- and family-friendly and meets the highest standards of care.\n\nThe Pediatric Emergency Department cares for over 20,000 patients a year. Doctors and nurses specially trained in emergency medicine are available 24 hours a day to handle emergencies including serious illnesses and injuries. Infants, children, and adolescents are treated in a child-friendly setting, with a separate waiting room and exam rooms.\n\n### Pediatric Emergency Department\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4110](tel:+16177244110)\n- 🌐 [massgeneralbrigham.org/en/services/pediatric-emergency-medicine](https://www.massgeneralbrigham.org/en/services/pediatric-emergency-medicine)\n\nOpen 24 hours, every day\n\n## Child- and family-friendly features\n\nThe pediatric ED has many child- and family-friendly features to help make your child's visit smooth and minimize stress for you and your child.\n\n- Ten child-friendly, private rooms, including two rooms specifically for infectious disease\n- Exam rooms that accommodate your child and family members if both need emergency care at the same time\n- Child Life Specialists who help your child and family throughout the hospital experience through playtime, age-appropriate education about your child's care and preparing your child for procedures or exams\n- A separate waiting area with pediatric-appropriate programming\n- Televisions and DVD controls in every room\n- Relaxing interactive LED lights above every bed\n\n## Full range of services\n\n- On-site radiology with low doses of radiation, adjusted appropriately for your child's age\n- On-site fluoroscopy with low doses of radiation, adjusted appropriately for your child's age\n- 24-hour psychiatric coverage\n- The option for sedation to facilitate painful procedures is always available when clinically appropriate\n- Access to all of the world-class resources at Massachusetts General Hospital, and Mass General Brigham for Children, including pediatric surgery and intensive care units\n\nOur Mass General Brigham for Children pediatric trauma centers are verified by the American College of Surgeons as a Level I (highest level) pediatric trauma center, capable of providing state-of-the-art emergency care to the most critically injured children.\n\n## Our triage system\n\nWhen you arrive, a triage nurse reviews your child's symptoms, medical history, and vital signs. The triage nurse then determines when your child can be seen by one of our doctors trained in pediatric emergency medicine. Depending on the nature of a child's condition or symptoms, they might not always be seen in the order of their arrival:\n\n- **If your child has a life-threatening condition,** they will be evaluated right away.\n- **If your child's condition is not life-threatening,** they will be evaluated as soon as possible."
+          }
+        ]
+      },
+      "es": {
+        "description": "El Departamento de Emergencias Pediátricas atiende a más de 20,000 pacientes al año.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "La Medicina de Emergencia Pediátrica en Mass General Brigham para Niños es amigable para niños y familias y cumple con los más altos estándares de atención.\n\nEl Departamento de Emergencias Pediátricas atiende a más de 20,000 pacientes al año. Médicos y personal de enfermería con capacitación especializada en medicina de emergencias están disponibles las 24 horas del día para atender emergencias, incluidas enfermedades y lesiones graves. Los bebés, niños y adolescentes reciben atención en un entorno adaptado para ellos, con una sala de espera y consultorios separados.\n\n### Departamento de Emergencias Pediátricas\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-724-4110](tel:+16177244110)\n- 🌐 [massgeneralbrigham.org/es/services/pediatric-emergency-medicine](https://www.massgeneralbrigham.org/es/services/pediatric-emergency-medicine)\n\nAbierto las 24 horas, todos los días\n\n## Características amigables para niños y familias\n\nEl Departamento de Emergencia Pediátrica tiene muchas características amigables para niños y familias para ayudar a que la visita de su hijo sea fluida y minimizar el estrés tanto para usted como para su hijo.\n\n- Diez habitaciones privadas adaptadas para niños, incluyendo dos habitaciones específicamente para enfermedades infecciosas\n- Salas de examen que acomodan a su hijo y a los miembros de la familia si ambos necesitan atención de emergencia al mismo tiempo\n- Especialistas en Vida Infantil que ayudan a su hijo y a su familia durante toda la experiencia hospitalaria a través del juego, educación apropiada para la edad sobre el cuidado de su hijo y la preparación de su hijo para procedimientos o exámenes\n- Un área de espera separada con programación adecuada para niños\n- Televisores y controles de DVD en cada habitación\n- Luces LED interactivas relajantes sobre cada cama\n\n## Gama completa de servicios\n\n- Radiología en el lugar con dosis bajas de radiación, ajustadas adecuadamente a la edad de su hijo\n- Fluoroscopia en el lugar con dosis bajas de radiación, ajustadas adecuadamente a la edad de su hijo\n- Cobertura psiquiátrica las 24 horas\n- La opción de sedación para facilitar procedimientos dolorosos siempre está disponible cuando es clínicamente apropiado\n- Acceso a todos los recursos de clase mundial del Massachusetts General Hospital y Mass General Brigham for Children, incluyendo cirugía pediátrica y unidades de cuidados intensivos\n\nNuestros centros de trauma pediátrico de Mass General Brigham para Niños están verificados por el Colegio Americano de Cirujanos como un centro de trauma pediátrico de Nivel I (el más alto), capaz de proporcionar atención de emergencia de última generación a los niños más críticamente heridos.\n\n## Nuestro sistema de triaje\n\nCuando llegue, una enfermera de triaje revisará los síntomas, el historial médico y los signos vitales de su hijo. La enfermera de triaje decidirá entonces cuándo puede atender a su hijo uno de nuestros médicos especializados en medicina de emergencia pediátrica. Según la naturaleza de la afección o los síntomas, es posible que los niños no siempre sean atendidos en el orden en que llegaron:\n\n- **Si su hijo tiene una afección que pone en peligro su vida,** será evaluado de inmediato.\n- **Si la afección de su hijo no pone en peligro su vida,** será evaluado lo antes posible."
           }
         ]
       }
@@ -3782,75 +3791,102 @@
       "Parking Validation",
       "Triage"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/services/pediatric-emergency-medicine and MGB's MGH Emergency Department location page (snapshot 2026-10-21). Triage section kept from our earlier text. Approved by Mark 2026-10-21.\nSpanish from MGB's Spanish Pediatric Emergency Medicine page (snapshot 2026-10-21); triage section, two headings and the 24-hours line translated by Claude, need Spanish review. Approved by Mark 2026-10-21.",
     "description": {
-      "en": "What to expect in MGfC's Pediatric Emergency Department — facilities, triage, who you'll meet, and FAQ."
+      "en": "Pediatric Emergency is a distinct child- and family-friendly service within general Emergency at Massachusetts General Hospital.",
+      "es": "El Departamento de Emergencias Pediátricas atiende a más de 20,000 pacientes al año."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_x40whs5a",
         "type": "text",
         "markdown": {
-          "en": "The pediatric emergency department at Mass General Hospital for Children is specially designed from a pediatric perspective to provide exceptional, child-focused care to our patients, as well as support and guidance to their families.\n\nOur larger space is separate from the adult emergency department. It is staffed by physicians, nurses, and other staff trained in pediatric emergency medicine who provide high-quality and developmentally-appropriate care for your child, while ensuring you are involved every step of the way."
+          "en": "Pediatric Emergency Medicine at Mass General Brigham for Children is child- and family-friendly and meets the highest standards of care.\n\nThe Pediatric Emergency Department cares for over 20,000 patients a year. Doctors and nurses specially trained in emergency medicine are available 24 hours a day to handle emergencies including serious illnesses and injuries. Infants, children, and adolescents are treated in a child-friendly setting, with a separate waiting room and exam rooms.",
+          "es": "La Medicina de Emergencia Pediátrica en Mass General Brigham para Niños es amigable para niños y familias y cumple con los más altos estándares de atención.\n\nEl Departamento de Emergencias Pediátricas atiende a más de 20,000 pacientes al año. Médicos y personal de enfermería con capacitación especializada en medicina de emergencias están disponibles las 24 horas del día para atender emergencias, incluidas enfermedades y lesiones graves. Los bebés, niños y adolescentes reciben atención en un entorno adaptado para ellos, con una sala de espera y consultorios separados."
         }
       },
       {
-        "id": "child_and_family_friendly_features",
+        "id": "listing_fqja26wa",
+        "type": "listing",
+        "name": {
+          "en": "Pediatric Emergency Department",
+          "es": "Departamento de Emergencias Pediátricas"
+        },
+        "address": {
+          "en": "55 Fruit Street, Boston, MA 02114"
+        },
+        "phones": [
+          {
+            "id": "phone_rw7mp4n9",
+            "number": "+16177244110"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_lqxcwhgh",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-emergency-medicine",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-emergency-medicine"
+            }
+          }
+        ],
+        "details": {
+          "en": "Open 24 hours, every day",
+          "es": "Abierto las 24 horas, todos los días"
+        }
+      },
+      {
+        "id": "section_mxvqdphj",
         "type": "section",
         "title": {
-          "en": "Child- and family-friendly features"
+          "en": "Child- and family-friendly features",
+          "es": "Características amigables para niños y familias"
         }
       },
       {
-        "id": "child_and_family_friendly_features_text",
+        "id": "text_76ahfb6f",
         "type": "text",
         "markdown": {
-          "en": "The pediatric emergency department has special features to help make your child's visit as smooth and stress-free as possible:\n\n- Six private, child-friendly rooms, including one room specifically designed for suspected or diagnosed infectious disease\n- Exam rooms that can accommodate a child and family members if both need emergency care at the same time\n- An evaluation area for minor ailments so we can care for patients more efficiently\n- A colorful waiting area with tablets and age-appropriate toys\n- Interactive LED lights above every bed to help soothe patients while they receive care\n- Televisions and DVD controls in every room\n\n> **Your child's comfort and symptoms are very important to us.** Our first priority is to care for patients whose lives are at risk. If you've been to another hospital, that hospital has contacted us — so we are expecting you and your child. We work as quickly as we can to safely care for all patients and to shorten your waiting time."
+          "en": "The pediatric ED has many child- and family-friendly features to help make your child's visit smooth and minimize stress for you and your child.\n\n- Ten child-friendly, private rooms, including two rooms specifically for infectious disease\n- Exam rooms that accommodate your child and family members if both need emergency care at the same time\n- Child Life Specialists who help your child and family throughout the hospital experience through playtime, age-appropriate education about your child's care and preparing your child for procedures or exams\n- A separate waiting area with pediatric-appropriate programming\n- Televisions and DVD controls in every room\n- Relaxing interactive LED lights above every bed",
+          "es": "El Departamento de Emergencia Pediátrica tiene muchas características amigables para niños y familias para ayudar a que la visita de su hijo sea fluida y minimizar el estrés tanto para usted como para su hijo.\n\n- Diez habitaciones privadas adaptadas para niños, incluyendo dos habitaciones específicamente para enfermedades infecciosas\n- Salas de examen que acomodan a su hijo y a los miembros de la familia si ambos necesitan atención de emergencia al mismo tiempo\n- Especialistas en Vida Infantil que ayudan a su hijo y a su familia durante toda la experiencia hospitalaria a través del juego, educación apropiada para la edad sobre el cuidado de su hijo y la preparación de su hijo para procedimientos o exámenes\n- Un área de espera separada con programación adecuada para niños\n- Televisores y controles de DVD en cada habitación\n- Luces LED interactivas relajantes sobre cada cama"
         }
       },
       {
-        "id": "expert_services_and_facilities",
+        "id": "section_cdwj3aeh",
         "type": "section",
         "title": {
-          "en": "Expert services and facilities"
+          "en": "Full range of services",
+          "es": "Gama completa de servicios"
         }
       },
       {
-        "id": "expert_services_and_facilities_text",
+        "id": "text_8bmydfkc",
         "type": "text",
         "markdown": {
-          "en": "The pediatric emergency department provides a full breadth of services and resources, including:\n\n- Access to world-class resources at Massachusetts General Hospital and Mass General Hospital for Children, including pediatric surgery and intensive care units\n- **Child Life Specialists** who help your child and family navigate the hospital experience through play and age-appropriate education about treatments, procedures, or exams\n- On-site radiology and fluoroscopy (X-rays on video) that deliver low doses of radiation adjusted for your child's age\n- 24-hour psychiatric coverage\n- Option for conscious sedation (when medically appropriate) to help relieve pain and relax your child\n\nThe pediatric emergency department is verified by the American College of Surgeons as a **Level 1 Pediatric Trauma Center** and a **Level 1 Pediatric Burn Center** — the highest trauma center designation. Each year, we treat more than 14,000 children."
+          "en": "- On-site radiology with low doses of radiation, adjusted appropriately for your child's age\n- On-site fluoroscopy with low doses of radiation, adjusted appropriately for your child's age\n- 24-hour psychiatric coverage\n- The option for sedation to facilitate painful procedures is always available when clinically appropriate\n- Access to all of the world-class resources at Massachusetts General Hospital, and Mass General Brigham for Children, including pediatric surgery and intensive care units\n\nOur Mass General Brigham for Children pediatric trauma centers are verified by the American College of Surgeons as a Level I (highest level) pediatric trauma center, capable of providing state-of-the-art emergency care to the most critically injured children.",
+          "es": "- Radiología en el lugar con dosis bajas de radiación, ajustadas adecuadamente a la edad de su hijo\n- Fluoroscopia en el lugar con dosis bajas de radiación, ajustadas adecuadamente a la edad de su hijo\n- Cobertura psiquiátrica las 24 horas\n- La opción de sedación para facilitar procedimientos dolorosos siempre está disponible cuando es clínicamente apropiado\n- Acceso a todos los recursos de clase mundial del Massachusetts General Hospital y Mass General Brigham for Children, incluyendo cirugía pediátrica y unidades de cuidados intensivos\n\nNuestros centros de trauma pediátrico de Mass General Brigham para Niños están verificados por el Colegio Americano de Cirujanos como un centro de trauma pediátrico de Nivel I (el más alto), capaz de proporcionar atención de emergencia de última generación a los niños más críticamente heridos."
         }
       },
       {
-        "id": "our_triage_system",
+        "id": "section_h910lczd",
         "type": "section",
         "title": {
-          "en": "Our triage system"
+          "en": "Our triage system",
+          "es": "Nuestro sistema de triaje"
         }
       },
       {
-        "id": "our_triage_system_text",
+        "id": "text_2szu9eb2",
         "type": "text",
         "markdown": {
-          "en": "When you arrive, a triage nurse reviews your child's symptoms, medical history, and vital signs. The triage nurse then determines when your child can be seen by one of our doctors trained in pediatric emergency medicine. Depending on the nature of a child's condition or symptoms, they might not always be seen in the order of their arrival:\n\n- **If your child has a life-threatening condition,** they will be evaluated right away.\n- **If your child's condition is not life-threatening,** they will be evaluated as soon as possible."
-        }
-      },
-      {
-        "id": "frequently_asked_questions",
-        "type": "section",
-        "title": {
-          "en": "Frequently asked questions"
-        }
-      },
-      {
-        "id": "frequently_asked_questions_text",
-        "type": "text",
-        "markdown": {
-          "en": "**Who will be caring for my child?**\n\nThere will be many staff members on your child's care team — including registered nurses and doctors trained in pediatric emergency medicine. Your child might also see a nurse practitioner, a medical assistant, or a Child Life specialist from John Hancock Child Life and Wellness Services at MGHfC. Registration staff will also ask you for information while you and your child are in the screening area. They might ask you for detailed information about your child's primary care physician or your health insurance.\n\n**Why am I being asked the same questions over and over again?**\n\nWe ask you the same questions to make sure your child receives the most appropriate evaluation possible, and to make sure you and your child stay safe. Initial registration is directed toward getting your child into the system as soon as possible. We might ask you for more information about your child later.\n\n**Can my child have visitors?**\n\nYes. Please have visitors check in at the information desk to get a visitor's pass.\n\n**Will I be charged for this visit?**\n\nWe see all patients whether they can pay or not. If you have insurance, please understand that every plan is different. Co-pays or charges are determined by your individual health plan. Contact your insurance provider if you have other questions.\n\n**Where can I validate my parking?**\n\nPatients and visitors will receive discounted parking without validation. Please show your discharge papers or visitor's pass to the parking attendants.\n\n**Can I use my cell phone?**\n\nYes, in most areas. Please be sensitive to other patients and staff when making calls. We also have landline phones if you need to use them."
+          "en": "When you arrive, a triage nurse reviews your child's symptoms, medical history, and vital signs. The triage nurse then determines when your child can be seen by one of our doctors trained in pediatric emergency medicine. Depending on the nature of a child's condition or symptoms, they might not always be seen in the order of their arrival:\n\n- **If your child has a life-threatening condition,** they will be evaluated right away.\n- **If your child's condition is not life-threatening,** they will be evaluated as soon as possible.",
+          "es": "Cuando llegue, una enfermera de triaje revisará los síntomas, el historial médico y los signos vitales de su hijo. La enfermera de triaje decidirá entonces cuándo puede atender a su hijo uno de nuestros médicos especializados en medicina de emergencia pediátrica. Según la naturaleza de la afección o los síntomas, es posible que los niños no siempre sean atendidos en el orden en que llegaron:\n\n- **Si su hijo tiene una afección que pone en peligro su vida,** será evaluado de inmediato.\n- **Si la afección de su hijo no pone en peligro su vida,** será evaluado lo antes posible."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Departamento de Emergencias Pediátricas"
+    }
   },
   {
     "id": "hospital_campus_map",
@@ -6612,7 +6648,7 @@
   },
   {
     "id": "family_advisory_council",
-    "title": "Family Advisory Council",
+    "title": "Patient and Family Advisory Councils",
     "status": "published",
     "units": [
       "picu"
@@ -6630,21 +6666,48 @@
     },
     "languages": {
       "en": {
-        "description": "The FAC is a partnership of families, leadership, and staff working together to improve the patient and family experience at MGfC.",
+        "description": "Join a Patient and Family Advisory Council (PFAC) at Mass General Brigham to help improve patient care.",
         "content": [
           {
             "type": "text",
-            "markdown": "The Family Advisory Council (FAC) is a partnership dedicated to building positive collaboration among parents, children, and staff — ensuring the needs of children and families are met during their hospital experience."
+            "markdown": "Mass General Brigham's Patient and Family Advisory Councils (PFACs) bring together patients, family members, and hospital staff to improve the care experience. By sharing your insights, you can help shape hospital policies, programs, and services to enhance patient-centered care.\n\n### Patient and Family Advisory Councils\n\n- ✉️ [pfac@mgb.org](mailto:pfac@mgb.org)\n- 🌐 [Apply online](https://www.massgeneralbrigham.org/en/forms/mgb-patient-and-family-advisory-application)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-advisory-council](https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-advisory-council)\n\n## What do PFACs do?\n\nPFAC members help to improve the patient experience by:\n\n- Providing feedback based on their personal experiences as patients or family members\n- Collaborating with hospital staff and clinicians on committees\n- Lending patient expertise in discussion groups, educational sessions, and other strategic initiatives\n- Reviewing and helping to develop educational materials for patients and families\n- Assisting in hospital planning efforts to improve patient care and services\n\n## Who can be a patient and family advisor?\n\nYou may be eligible to become an advisor if you or a family member received care at a Mass General Brigham hospital in the past three years. No special qualifications are required — just a willingness to collaborate, provide feedback, and contribute to meaningful discussions.\n\n## Which PFAC should I join?\n\nEvery Mass General Brigham hospital has at least one general PFAC, which are open to all patients and family members who have received care at that hospital in the past three years. Some larger hospitals also have specialty PFACs, which focus on specific topic areas.\n\nBrigham and Women's Hospital and Massachusetts General Hospital also offer specialty PFACs focused on specific care areas, such as:\n\n- Emergency Department (ED)\n- Neonatal Intensive Care Unit (NICU)\n\nIf you are interested in joining a specialty PFAC, contact us for more information."
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-advisory-council",
-            "label": "Family Advisory Council — Mass General Brigham for Children",
-            "description": "Read the council's recent efforts and download the membership application."
+            "url": "mailto:pfac@mgb.org",
+            "label": "Patient and Family Advisory Councils"
           },
           {
             "type": "text",
-            "markdown": "## Who can apply\n\nIndividuals **at least 16 years of age** who have had experience at Mass General Brigham for Children are invited to apply for membership on the council.\n\n- Terms are **three years**\n- Time and commitment levels vary depending on committee needs and candidate interests\n\n## How to apply\n\nFor more information about FAC's services, how to get involved, or to apply to become a member — including eligibility and the formal application and selection process — email [FAC@partners.org](mailto:FAC@partners.org).\n\nA membership application is available as a PDF or Word document on the council's page (use the PDF if you'd like to print and fill it out by hand, or the Word document if you want to fill it out on your computer and email it back).\n\n## Additional opportunities\n\nIn addition to the Family Advisory Council, the hospital offers a number of **standing committee opportunities** of varying time commitments for patients and families with specific interests.\n\n### Committees on which family members serve\n\nMass General Brigham for Children is committed to hearing the patient and parent voice. Some FAC family members choose to serve on additional hospital committees (this is not a requirement of FAC membership):\n\n- MGH Quality Oversight Committee\n- MGH Gun Violence Prevention Committee\n- Mass General Brigham for Children Ambulatory Patient Experience Committee\n- Mass General Brigham for Children In-Patient Experience Committee\n- Mass General Brigham for Children Ethics Committee\n- Mass General Brigham for Children Advisory Board\n- Mass General Brigham for Children PICU Parent Life Committee\n- Mass General Brigham for Children Pediatric Wheelchair Committee\n\n## Hospital members\n\nThe Family Advisory Council is a partnership of family members, hospital leadership, and staff dedicated to working together to improve the care and experience of patients and their families who receive care at Mass General Brigham for Children.\n\nThe FAC is a diverse group of **fifteen family members** whose children have received care at Mass General Brigham for Children. It is co-chaired by a family member and a staff member. Hospital leadership who serve on the FAC includes:\n\n- Medical Director\n- Associate Chief Nurse\n- Executive Director\n- Director of Quality & Safety\n- Clinical Director for Social Work\n- Representation from Nursing, Child Life, and other healthcare disciplines"
+            "markdown": "## How can I join a PFAC?\n\nIf you are interested in becoming a patient and family advisor, please fill out an application form. Once we receive your application, we'll reach out with the next steps.\n\nPlease note: You may only join one PFAC at a time, even if you are eligible for more than one. If you aren't sure which PFAC is the best fit for you, email us."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/forms/mgb-patient-and-family-advisory-application",
+            "label": "Apply to join an MGB PFAC"
+          }
+        ]
+      },
+      "es": {
+        "description": "Únase a un Consejo Asesor de Pacientes y Familias (PFAC) de Mass General Brigham para ayudar a mejorar la atención al paciente.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Los Consejos Asesores de Pacientes y Familias (PFAC) de Mass General Brigham reúnen a pacientes, familiares y personal del hospital para mejorar la experiencia de atención. Al compartir sus perspectivas, puede ayudar a definir las políticas, los programas y los servicios del hospital para mejorar la atención centrada en el paciente.\n\n### Consejos Asesores de Pacientes y Familias\n\n- ✉️ [pfac@mgb.org](mailto:pfac@mgb.org)\n- 🌐 [Presente su solicitud](https://www.massgeneralbrigham.org/es/forms/mgb-patient-and-family-advisory-application)\n- 🌐 [massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/patient-family-advisory-council](https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/patient-family-advisory-council)\n\n## ¿Qué hacen los PFAC?\n\nLos integrantes de los PFAC ayudan a mejorar la experiencia del paciente de las siguientes maneras:\n\n- Aportan comentarios basados en sus experiencias personales como pacientes o familiares\n- Colaboran con el personal del hospital y los profesionales clínicos en comités\n- Aportan su experiencia como pacientes en grupos de debate, sesiones educativas y otras iniciativas estratégicas\n- Revisan y ayudan a desarrollar materiales educativos para pacientes y familias\n- Colaboran en la planificación del hospital para mejorar la atención y los servicios para pacientes\n\n## ¿Quién puede ser una persona asesora de pacientes y familias?\n\nPuede reunir los requisitos para convertirse en una persona asesora si usted o un familiar recibió atención en un hospital de Mass General Brigham durante los últimos tres años. No se requieren cualificaciones especiales, solo disposición para colaborar, aportar comentarios y participar en conversaciones significativas.\n\n## ¿A qué PFAC debo unirme?\n\nCada hospital de Mass General Brigham tiene al menos un PFAC general, abierto a todos los pacientes y familiares que hayan recibido atención en ese hospital durante los últimos tres años. Algunos hospitales más grandes también tienen PFAC especializados que se centran en temas específicos.\n\nBrigham and Women's Hospital y Massachusetts General Hospital también ofrecen PFAC especializados centrados en áreas de atención específicas, como:\n\n- Departamento de Emergencias (ED)\n- Unidad de Cuidados Intensivos Neonatales (NICU)\n\nSi desea unirse a un PFAC especializado, comuníquese con nosotros para obtener más información."
+          },
+          {
+            "type": "link",
+            "url": "mailto:pfac@mgb.org",
+            "label": "Consejos Asesores de Pacientes y Familias"
+          },
+          {
+            "type": "text",
+            "markdown": "## ¿Cómo puedo unirme a un PFAC?\n\nSi desea convertirse en una persona asesora de pacientes y familias, complete el formulario de solicitud. Cuando recibamos su solicitud, nos comunicaremos con usted para informarle los próximos pasos.\n\nTenga en cuenta: Solo puede participar en un PFAC a la vez, aunque reúna los requisitos para más de uno. Si no sabe qué PFAC es el más adecuado para usted, envíenos un correo electrónico."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/forms/mgb-patient-and-family-advisory-application",
+            "label": "Solicite unirse a un PFAC de MGB"
           }
         ]
       }
@@ -6656,88 +6719,143 @@
       "FAC",
       "council"
     ],
-    "notes": null,
+    "notes": "Matched to MGB's Patient and Family Advisory Councils page (snapshot 2026-10-21). Mark chose to replace our MGfC Family Advisory Council text with it. Approved by Mark 2026-10-21.\nSpanish from MGB's Spanish PFAC page (snapshot 2026-10-21). Approved by Mark 2026-10-21.",
     "description": {
-      "en": "The FAC is a partnership of families, leadership, and staff working together to improve the patient and family experience at MGfC."
+      "en": "Join a Patient and Family Advisory Council (PFAC) at Mass General Brigham to help improve patient care.",
+      "es": "Únase a un Consejo Asesor de Pacientes y Familias (PFAC) de Mass General Brigham para ayudar a mejorar la atención al paciente."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_q4j9xk5d",
         "type": "text",
         "markdown": {
-          "en": "The Family Advisory Council (FAC) is a partnership dedicated to building positive collaboration among parents, children, and staff — ensuring the needs of children and families are met during their hospital experience."
+          "en": "Mass General Brigham's Patient and Family Advisory Councils (PFACs) bring together patients, family members, and hospital staff to improve the care experience. By sharing your insights, you can help shape hospital policies, programs, and services to enhance patient-centered care.",
+          "es": "Los Consejos Asesores de Pacientes y Familias (PFAC) de Mass General Brigham reúnen a pacientes, familiares y personal del hospital para mejorar la experiencia de atención. Al compartir sus perspectivas, puede ayudar a definir las políticas, los programas y los servicios del hospital para mejorar la atención centrada en el paciente."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_c20ce25n",
+        "type": "listing",
+        "name": {
+          "en": "Patient and Family Advisory Councils",
+          "es": "Consejos Asesores de Pacientes y Familias"
+        },
+        "emails": [
+          {
+            "id": "email_9s2bred9",
+            "email": "pfac@mgb.org"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_ubl8is48",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/forms/mgb-patient-and-family-advisory-application",
+              "es": "https://www.massgeneralbrigham.org/es/forms/mgb-patient-and-family-advisory-application"
+            },
+            "label": {
+              "en": "Apply online",
+              "es": "Presente su solicitud"
+            }
+          },
+          {
+            "id": "link_z9gnx0gk",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-advisory-council",
+              "es": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/patient-family-advisory-council"
+            }
+          }
+        ]
+      },
+      {
+        "id": "section_4nt8c5zb",
+        "type": "section",
+        "title": {
+          "en": "What do PFACs do?",
+          "es": "¿Qué hacen los PFAC?"
+        }
+      },
+      {
+        "id": "text_6zi50d7g",
+        "type": "text",
+        "markdown": {
+          "en": "PFAC members help to improve the patient experience by:\n\n- Providing feedback based on their personal experiences as patients or family members\n- Collaborating with hospital staff and clinicians on committees\n- Lending patient expertise in discussion groups, educational sessions, and other strategic initiatives\n- Reviewing and helping to develop educational materials for patients and families\n- Assisting in hospital planning efforts to improve patient care and services",
+          "es": "Los integrantes de los PFAC ayudan a mejorar la experiencia del paciente de las siguientes maneras:\n\n- Aportan comentarios basados en sus experiencias personales como pacientes o familiares\n- Colaboran con el personal del hospital y los profesionales clínicos en comités\n- Aportan su experiencia como pacientes en grupos de debate, sesiones educativas y otras iniciativas estratégicas\n- Revisan y ayudan a desarrollar materiales educativos para pacientes y familias\n- Colaboran en la planificación del hospital para mejorar la atención y los servicios para pacientes"
+        }
+      },
+      {
+        "id": "section_epeeuo1e",
+        "type": "section",
+        "title": {
+          "en": "Who can be a patient and family advisor?",
+          "es": "¿Quién puede ser una persona asesora de pacientes y familias?"
+        }
+      },
+      {
+        "id": "text_tz63fhe6",
+        "type": "text",
+        "markdown": {
+          "en": "You may be eligible to become an advisor if you or a family member received care at a Mass General Brigham hospital in the past three years. No special qualifications are required — just a willingness to collaborate, provide feedback, and contribute to meaningful discussions.",
+          "es": "Puede reunir los requisitos para convertirse en una persona asesora si usted o un familiar recibió atención en un hospital de Mass General Brigham durante los últimos tres años. No se requieren cualificaciones especiales, solo disposición para colaborar, aportar comentarios y participar en conversaciones significativas."
+        }
+      },
+      {
+        "id": "section_sm0ol5jn",
+        "type": "section",
+        "title": {
+          "en": "Which PFAC should I join?",
+          "es": "¿A qué PFAC debo unirme?"
+        }
+      },
+      {
+        "id": "text_s1zf2qfd",
+        "type": "text",
+        "markdown": {
+          "en": "Every Mass General Brigham hospital has at least one general PFAC, which are open to all patients and family members who have received care at that hospital in the past three years. Some larger hospitals also have specialty PFACs, which focus on specific topic areas.\n\nBrigham and Women's Hospital and Massachusetts General Hospital also offer specialty PFACs focused on specific care areas, such as:\n\n- Emergency Department (ED)\n- Neonatal Intensive Care Unit (NICU)\n\nIf you are interested in joining a specialty PFAC, contact us for more information.",
+          "es": "Cada hospital de Mass General Brigham tiene al menos un PFAC general, abierto a todos los pacientes y familiares que hayan recibido atención en ese hospital durante los últimos tres años. Algunos hospitales más grandes también tienen PFAC especializados que se centran en temas específicos.\n\nBrigham and Women's Hospital y Massachusetts General Hospital también ofrecen PFAC especializados centrados en áreas de atención específicas, como:\n\n- Departamento de Emergencias (ED)\n- Unidad de Cuidados Intensivos Neonatales (NICU)\n\nSi desea unirse a un PFAC especializado, comuníquese con nosotros para obtener más información."
+        }
+      },
+      {
+        "id": "email_0nksbbo8",
+        "type": "email",
+        "email": "pfac@mgb.org",
+        "label": {
+          "en": "Patient and Family Advisory Councils",
+          "es": "Consejos Asesores de Pacientes y Familias"
+        }
+      },
+      {
+        "id": "section_deqkwy8o",
+        "type": "section",
+        "title": {
+          "en": "How can I join a PFAC?",
+          "es": "¿Cómo puedo unirme a un PFAC?"
+        }
+      },
+      {
+        "id": "text_t1no7tg2",
+        "type": "text",
+        "markdown": {
+          "en": "If you are interested in becoming a patient and family advisor, please fill out an application form. Once we receive your application, we'll reach out with the next steps.\n\nPlease note: You may only join one PFAC at a time, even if you are eligible for more than one. If you aren't sure which PFAC is the best fit for you, email us.",
+          "es": "Si desea convertirse en una persona asesora de pacientes y familias, complete el formulario de solicitud. Cuando recibamos su solicitud, nos comunicaremos con usted para informarle los próximos pasos.\n\nTenga en cuenta: Solo puede participar en un PFAC a la vez, aunque reúna los requisitos para más de uno. Si no sabe qué PFAC es el más adecuado para usted, envíenos un correo electrónico."
+        }
+      },
+      {
+        "id": "link_jqi9tvei",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-advisory-council"
+          "en": "https://www.massgeneralbrigham.org/en/forms/mgb-patient-and-family-advisory-application",
+          "es": "https://www.massgeneralbrigham.org/es/forms/mgb-patient-and-family-advisory-application"
         },
         "label": {
-          "en": "Family Advisory Council — Mass General Brigham for Children"
-        },
-        "description": {
-          "en": "Read the council's recent efforts and download the membership application."
-        }
-      },
-      {
-        "id": "who_can_apply",
-        "type": "section",
-        "title": {
-          "en": "Who can apply"
-        }
-      },
-      {
-        "id": "who_can_apply_text",
-        "type": "text",
-        "markdown": {
-          "en": "Individuals **at least 16 years of age** who have had experience at Mass General Brigham for Children are invited to apply for membership on the council.\n\n- Terms are **three years**\n- Time and commitment levels vary depending on committee needs and candidate interests"
-        }
-      },
-      {
-        "id": "how_to_apply",
-        "type": "section",
-        "title": {
-          "en": "How to apply"
-        }
-      },
-      {
-        "id": "how_to_apply_text",
-        "type": "text",
-        "markdown": {
-          "en": "For more information about FAC's services, how to get involved, or to apply to become a member — including eligibility and the formal application and selection process — email [FAC@partners.org](mailto:FAC@partners.org).\n\nA membership application is available as a PDF or Word document on the council's page (use the PDF if you'd like to print and fill it out by hand, or the Word document if you want to fill it out on your computer and email it back)."
-        }
-      },
-      {
-        "id": "additional_opportunities",
-        "type": "section",
-        "title": {
-          "en": "Additional opportunities"
-        }
-      },
-      {
-        "id": "additional_opportunities_text",
-        "type": "text",
-        "markdown": {
-          "en": "In addition to the Family Advisory Council, the hospital offers a number of **standing committee opportunities** of varying time commitments for patients and families with specific interests.\n\n### Committees on which family members serve\n\nMass General Brigham for Children is committed to hearing the patient and parent voice. Some FAC family members choose to serve on additional hospital committees (this is not a requirement of FAC membership):\n\n- MGH Quality Oversight Committee\n- MGH Gun Violence Prevention Committee\n- Mass General Brigham for Children Ambulatory Patient Experience Committee\n- Mass General Brigham for Children In-Patient Experience Committee\n- Mass General Brigham for Children Ethics Committee\n- Mass General Brigham for Children Advisory Board\n- Mass General Brigham for Children PICU Parent Life Committee\n- Mass General Brigham for Children Pediatric Wheelchair Committee"
-        }
-      },
-      {
-        "id": "hospital_members",
-        "type": "section",
-        "title": {
-          "en": "Hospital members"
-        }
-      },
-      {
-        "id": "hospital_members_text",
-        "type": "text",
-        "markdown": {
-          "en": "The Family Advisory Council is a partnership of family members, hospital leadership, and staff dedicated to working together to improve the care and experience of patients and their families who receive care at Mass General Brigham for Children.\n\nThe FAC is a diverse group of **fifteen family members** whose children have received care at Mass General Brigham for Children. It is co-chaired by a family member and a staff member. Hospital leadership who serve on the FAC includes:\n\n- Medical Director\n- Associate Chief Nurse\n- Executive Director\n- Director of Quality & Safety\n- Clinical Director for Social Work\n- Representation from Nursing, Child Life, and other healthcare disciplines"
+          "en": "Apply to join an MGB PFAC",
+          "es": "Solicite unirse a un PFAC de MGB"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Consejos Asesores de Pacientes y Familias"
+    }
   },
   {
     "id": "community_resources_for_caregivers_of_children",
