@@ -1,7 +1,7 @@
 [
   {
     "id": "health_care_coverage_and_patient_financial_services",
-    "title": "Health Care Coverage and Patient Financial Services",
+    "title": "Understanding Your Health Insurance",
     "status": "published",
     "units": [
       "picu"
@@ -19,31 +19,60 @@
     },
     "languages": {
       "en": {
-        "description": "Key questions to consider and resources you will need when planning for your healthcare coverage.",
+        "description": "Questions to ask about your child's health insurance, and where to get help with coverage at Mass General and in Massachusetts.",
         "content": [
           {
             "type": "text",
-            "markdown": "# Who Pays for Your Medical Care? \n\nHealth insurance isn’t the most exciting subject, but it is easily one of the most important. Here are some key questions to consider and resources you will need when planning for your healthcare coverage.  \n\n## Find out which health insurance is covering you right now\n\n- What is the name of your insurance company\n- Is it one of your parent's plans they have through their job? If so, what are the rules for how long you can stay on that plan?\n- If you're headed to college, can you get an adequate plan through your school?\n- Is your coverage a federal or state-funded insurance (Medicare or Medicaid/MassHealth)? If so, does it change when you get older or if you begin to earn income?\n\n## Find out what your health insurance covers\n\n- Does it cover the doctor you need to see?\n- Does it cover the procedure you need to have?\n- Does it cover the medications you need to take? \n\n## Find out what your health insurance costs\n\n- What is the premium (the amount you pay each month toward the cost of the insurance policy)? \n- Does it have a deductible (the amount you have to pay for your medical care each year before the insurance will begin to cover your costs)? \n- How much are the co-pays (the amount you pay at each visit and for each prescription)? \n\n## Resources at MGH\n\n### Patient Financial Services (PFS) \n- PFS will work with you if you don’t have enough (or any) insurance coverage. The main number for PFS is [(617) 726-2191](tel:+16177262191). With the passage of new health care legislation, health insurance plans could be changing all the time. You’ll need to keep on top of it to know what the best option is for you.   \n\n## Helpful websites"
+            "markdown": "Health insurance isn’t the most exciting subject, but it is easily one of the most important. Here are some key questions to consider and resources you will need when planning for your child’s health care coverage.\n\n## Find out which health insurance covers your child right now\n\n- What is the name of your child’s insurance company?\n- Is it through a parent’s job, or is it a state or federal plan like MassHealth (Medicaid)?\n- If your child is a teen or young adult: how long can they stay on a parent’s plan, and will their coverage change as they get older?\n\n## Find out what your child’s health insurance covers\n\n- Does it cover the doctors your child needs to see?\n- Does it cover the procedures your child needs to have?\n- Does it cover the medications your child needs to take?\n\n## Find out what your health insurance costs\n\n- What is the premium (the amount you pay each month toward the cost of the insurance policy)?\n- Does it have a deductible (the amount you have to pay for your medical care each year before the insurance will begin to cover your costs)?\n- How much are the co-pays (the amount you pay at each visit and for each prescription)?\n\n## Help at Mass General\n\nVisit a patient financial counselor at your hospital or health center.\n\n### Patient Financial Services\n\nMGH Yawkey, 2nd Floor, Room 2A\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2191](tel:+16177262191)\n\n## Massachusetts insurance programs\n\nIf you live in Massachusetts, you may be able to get health insurance or help paying your health care bills through a state program like MassHealth, the Health Connector, or Health Safety Net. Each program has different rules and income limits."
           },
           {
             "type": "link",
-            "url": "https://www.mahealthconnector.org",
-            "label": "Health Connector"
+            "url": "https://www.mass.gov/topics/masshealth",
+            "label": "MassHealth"
+          },
+          {
+            "type": "link",
+            "url": "https://www.mahealthconnector.org/",
+            "label": "Massachusetts Health Connector"
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/orgs/health-safety-net",
+            "label": "Health Safety Net"
           },
           {
             "type": "link",
             "url": "https://www.masscomparecare.gov/",
             "label": "Mass Compare Care"
+          }
+        ]
+      },
+      "es": {
+        "description": "Preguntas sobre el seguro médico de su hijo y dónde obtener ayuda con la cobertura en Mass General y en Massachusetts.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "El seguro médico no es el tema más emocionante, pero sin duda es uno de los más importantes. Estas son algunas preguntas clave que debe considerar y los recursos que necesitará al planificar la cobertura médica de su hijo.\n\n## Averigüe qué seguro médico cubre a su hijo ahora\n\n- ¿Cuál es el nombre de la compañía de seguro de su hijo?\n- ¿Es a través del trabajo de uno de los padres, o es un plan estatal o federal como MassHealth (Medicaid)?\n- Si su hijo es adolescente o adulto joven: ¿cuánto tiempo puede seguir en el plan de uno de sus padres, y cambiará su cobertura a medida que crezca?\n\n## Averigüe qué cubre el seguro médico de su hijo\n\n- ¿Cubre a los médicos que su hijo necesita ver?\n- ¿Cubre los procedimientos que su hijo necesita?\n- ¿Cubre los medicamentos que su hijo necesita tomar?\n\n## Averigüe cuánto cuesta su seguro médico\n\n- ¿Cuál es la prima (la cantidad que paga cada mes por el costo de la póliza de seguro)?\n- ¿Tiene un deducible (la cantidad que tiene que pagar por su atención médica cada año antes de que el seguro empiece a cubrir sus costos)?\n- ¿Cuánto son los copagos (la cantidad que paga en cada visita y por cada receta)?\n\n## Ayuda en Mass General\n\nVisite a un consejero financiero para pacientes en su hospital o centro de salud.\n\n### Servicios Financieros para Pacientes\n\nMGH Yawkey, 2do Piso, Sala 2A\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2191](tel:+16177262191)\n\n## Programas de seguro médico de Massachusetts\n\nSi vive en Massachusetts, puede obtener seguro médico o ayuda para pagar sus facturas de atención médica a través de un programa estatal como MassHealth, el Health Connector, o Health Safety Net. Cada programa tiene diferentes reglas y límites de ingresos."
           },
           {
             "type": "link",
-            "url": "https://hrtw.org/",
-            "label": "Healthy & Ready to Work"
+            "url": "https://www.mass.gov/topics/masshealth",
+            "label": "MassHealth"
           },
           {
             "type": "link",
-            "url": "http://www.mass.gov",
-            "label": "Consumer Guide to Healthcare Coverage"
+            "url": "https://www.mahealthconnector.org/",
+            "label": "Massachusetts Health Connector"
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/orgs/health-safety-net",
+            "label": "Health Safety Net"
+          },
+          {
+            "type": "link",
+            "url": "https://www.masscomparecare.gov/",
+            "label": "Mass Compare Care"
           }
         ]
       }
@@ -59,122 +88,173 @@
       "health insurance",
       "insurance"
     ],
-    "notes": null,
+    "notes": "Removed the \"Healthy & Ready to Work\" link 2026-10-22: hrtw.org is now a spam site (product reviews), the organisation is gone.\nRewritten 2026-10-22 for parents (was a teen transition handout); PFS contact + state programs from MGB's financial assistance page. Spanish not yet written.\nSpanish added 2026-10-22: counselor sentence, PFS office and state-programs sentence are MGB's official Spanish; title, summary, questions and section headings are Claude's draft (needs Spanish review).",
     "description": {
-      "en": "Key questions to consider and resources you will need when planning for your healthcare coverage."
+      "en": "Questions to ask about your child's health insurance, and where to get help with coverage at Mass General and in Massachusetts.",
+      "es": "Preguntas sobre el seguro médico de su hijo y dónde obtener ayuda con la cobertura en Mass General y en Massachusetts."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_oc7o6wgv",
         "type": "text",
         "markdown": {
-          "en": "# Who Pays for Your Medical Care? \n\nHealth insurance isn’t the most exciting subject, but it is easily one of the most important. Here are some key questions to consider and resources you will need when planning for your healthcare coverage.  "
+          "en": "Health insurance isn’t the most exciting subject, but it is easily one of the most important. Here are some key questions to consider and resources you will need when planning for your child’s health care coverage.",
+          "es": "El seguro médico no es el tema más emocionante, pero sin duda es uno de los más importantes. Estas son algunas preguntas clave que debe considerar y los recursos que necesitará al planificar la cobertura médica de su hijo."
         }
       },
       {
-        "id": "find_out_which_health_insurance_is",
+        "id": "section_312itxbf",
         "type": "section",
         "title": {
-          "en": "Find out which health insurance is covering you right now"
+          "en": "Find out which health insurance covers your child right now",
+          "es": "Averigüe qué seguro médico cubre a su hijo ahora"
         }
       },
       {
-        "id": "find_out_which_health_insurance_is_text",
+        "id": "text_yjtmlx9w",
         "type": "text",
         "markdown": {
-          "en": "- What is the name of your insurance company\n- Is it one of your parent's plans they have through their job? If so, what are the rules for how long you can stay on that plan?\n- If you're headed to college, can you get an adequate plan through your school?\n- Is your coverage a federal or state-funded insurance (Medicare or Medicaid/MassHealth)? If so, does it change when you get older or if you begin to earn income?"
+          "en": "- What is the name of your child’s insurance company?\n- Is it through a parent’s job, or is it a state or federal plan like MassHealth (Medicaid)?\n- If your child is a teen or young adult: how long can they stay on a parent’s plan, and will their coverage change as they get older?",
+          "es": "- ¿Cuál es el nombre de la compañía de seguro de su hijo?\n- ¿Es a través del trabajo de uno de los padres, o es un plan estatal o federal como MassHealth (Medicaid)?\n- Si su hijo es adolescente o adulto joven: ¿cuánto tiempo puede seguir en el plan de uno de sus padres, y cambiará su cobertura a medida que crezca?"
         }
       },
       {
-        "id": "find_out_what_your_health_insurance",
+        "id": "section_jgk3ltbp",
         "type": "section",
         "title": {
-          "en": "Find out what your health insurance covers"
+          "en": "Find out what your child’s health insurance covers",
+          "es": "Averigüe qué cubre el seguro médico de su hijo"
         }
       },
       {
-        "id": "find_out_what_your_health_insurance_text",
+        "id": "text_rukej40r",
         "type": "text",
         "markdown": {
-          "en": "- Does it cover the doctor you need to see?\n- Does it cover the procedure you need to have?\n- Does it cover the medications you need to take? "
+          "en": "- Does it cover the doctors your child needs to see?\n- Does it cover the procedures your child needs to have?\n- Does it cover the medications your child needs to take?",
+          "es": "- ¿Cubre a los médicos que su hijo necesita ver?\n- ¿Cubre los procedimientos que su hijo necesita?\n- ¿Cubre los medicamentos que su hijo necesita tomar?"
         }
       },
       {
-        "id": "find_out_what_your_health_insurance_2",
+        "id": "section_3bwd3zd6",
         "type": "section",
         "title": {
-          "en": "Find out what your health insurance costs"
+          "en": "Find out what your health insurance costs",
+          "es": "Averigüe cuánto cuesta su seguro médico"
         }
       },
       {
-        "id": "find_out_what_your_health_insurance_2_text",
+        "id": "text_ezhr9i6e",
         "type": "text",
         "markdown": {
-          "en": "- What is the premium (the amount you pay each month toward the cost of the insurance policy)? \n- Does it have a deductible (the amount you have to pay for your medical care each year before the insurance will begin to cover your costs)? \n- How much are the co-pays (the amount you pay at each visit and for each prescription)? "
+          "en": "- What is the premium (the amount you pay each month toward the cost of the insurance policy)?\n- Does it have a deductible (the amount you have to pay for your medical care each year before the insurance will begin to cover your costs)?\n- How much are the co-pays (the amount you pay at each visit and for each prescription)?",
+          "es": "- ¿Cuál es la prima (la cantidad que paga cada mes por el costo de la póliza de seguro)?\n- ¿Tiene un deducible (la cantidad que tiene que pagar por su atención médica cada año antes de que el seguro empiece a cubrir sus costos)?\n- ¿Cuánto son los copagos (la cantidad que paga en cada visita y por cada receta)?"
         }
       },
       {
-        "id": "resources_at_mgh",
+        "id": "section_jrzjal4r",
         "type": "section",
         "title": {
-          "en": "Resources at MGH"
+          "en": "Help at Mass General",
+          "es": "Ayuda en Mass General"
         }
       },
       {
-        "id": "resources_at_mgh_text",
+        "id": "text_u7phdscd",
         "type": "text",
         "markdown": {
-          "en": "### Patient Financial Services (PFS) \n- PFS will work with you if you don’t have enough (or any) insurance coverage. The main number for PFS is [(617) 726-2191](tel:+16177262191). With the passage of new health care legislation, health insurance plans could be changing all the time. You’ll need to keep on top of it to know what the best option is for you.   "
+          "en": "Visit a patient financial counselor at your hospital or health center.",
+          "es": "Visite a un consejero financiero para pacientes en su hospital o centro de salud."
         }
       },
       {
-        "id": "helpful_websites",
+        "id": "listing_4l8v1mcs",
+        "type": "listing",
+        "name": {
+          "en": "Patient Financial Services",
+          "es": "Servicios Financieros para Pacientes"
+        },
+        "address": {
+          "en": "55 Fruit Street, Boston, MA 02114"
+        },
+        "notes": {
+          "en": "MGH Yawkey, 2nd Floor, Room 2A",
+          "es": "MGH Yawkey, 2do Piso, Sala 2A"
+        },
+        "phones": [
+          {
+            "id": "phone_yijd795u",
+            "number": "+16177262191"
+          }
+        ]
+      },
+      {
+        "id": "section_79dya2xi",
         "type": "section",
         "title": {
-          "en": "Helpful websites"
+          "en": "Massachusetts insurance programs",
+          "es": "Programas de seguro médico de Massachusetts"
         }
       },
       {
-        "id": "link_1",
+        "id": "text_wlkw8eda",
+        "type": "text",
+        "markdown": {
+          "en": "If you live in Massachusetts, you may be able to get health insurance or help paying your health care bills through a state program like MassHealth, the Health Connector, or Health Safety Net. Each program has different rules and income limits.",
+          "es": "Si vive en Massachusetts, puede obtener seguro médico o ayuda para pagar sus facturas de atención médica a través de un programa estatal como MassHealth, el Health Connector, o Health Safety Net. Cada programa tiene diferentes reglas y límites de ingresos."
+        }
+      },
+      {
+        "id": "link_c2kltv8c",
         "type": "link",
         "url": {
-          "en": "https://www.mahealthconnector.org"
+          "en": "https://www.mass.gov/topics/masshealth",
+          "es": "https://www.mass.gov/topics/masshealth"
         },
         "label": {
-          "en": "Health Connector"
+          "en": "MassHealth",
+          "es": "MassHealth"
         }
       },
       {
-        "id": "link_2",
+        "id": "link_aech2ej0",
         "type": "link",
         "url": {
-          "en": "https://www.masscomparecare.gov/"
+          "en": "https://www.mahealthconnector.org/",
+          "es": "https://www.mahealthconnector.org/"
         },
         "label": {
-          "en": "Mass Compare Care"
+          "en": "Massachusetts Health Connector",
+          "es": "Massachusetts Health Connector"
         }
       },
       {
-        "id": "link_3",
+        "id": "link_qv8yooef",
         "type": "link",
         "url": {
-          "en": "https://hrtw.org/"
+          "en": "https://www.mass.gov/orgs/health-safety-net",
+          "es": "https://www.mass.gov/orgs/health-safety-net"
         },
         "label": {
-          "en": "Healthy & Ready to Work"
+          "en": "Health Safety Net",
+          "es": "Health Safety Net"
         }
       },
       {
-        "id": "link_4",
+        "id": "link_tf8oufdl",
         "type": "link",
         "url": {
-          "en": "http://www.mass.gov"
+          "en": "https://www.masscomparecare.gov/",
+          "es": "https://www.masscomparecare.gov/"
         },
         "label": {
-          "en": "Consumer Guide to Healthcare Coverage"
+          "en": "Mass Compare Care",
+          "es": "Mass Compare Care"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Cómo entender su seguro médico"
+    }
   },
   {
     "id": "appointments_and_referrals",
@@ -3873,13 +3953,13 @@
           },
           {
             "type": "text",
-            "markdown": "## About the video\n\nA trip to the Emergency Department is stressful for patients, particularly for children. *You Are Here: Wendy's Welcome to the ED* explains what pediatric patients can expect during an emergency room visit and gives children insight into their healthcare experience.\n\nWendy Wooden and her mother, Darcy Daniels, are very familiar with Mass General for Children's Emergency Department and inpatient units. Wendy was diagnosed at age 3 with hemolytic uremic syndrome (HUS), caused by an E. coli infection, and has a complex medical history including heart failure, kidney and pancreatic damage that required a kidney transplant, and a partial intestinal removal at age 5. Her care has spanned five pediatric subspecialties.\n\nWhile Wendy is a frequent patient accustomed to beeping machines and procedures, she says she still gets overwhelmed by urgent trips and admissions to the hospital. In 2014 — when a neighbor called for advice about what to expect when her two children were going to be in the hospital — Wendy realized that other children, less experienced with medical treatment, may feel similar anxieties.\n\nWith the help of her mother, Wendy wrote *You Are Here: Wendy's Welcome to the ED*, a guide for what fellow pediatric patients can expect during an emergency room visit and how to help reduce anxiety and foster communication between their parents and providers.\n\n> \"We've learned a lot over the years from the compassionate care we've received from Wendy's team of doctors, nurses, and other staff members. We wanted to share those lessons so other patients and families can get the best care possible while cutting down on stress and worry.\"\n>\n> — *Darcy Daniels, Wendy's mother and member of the MGfC Family Advisory Council*\n\nThe project gained new life thanks to [Payette](https://www.payette.com/), a Boston-based architecture firm, who transformed the story into an animated video. The nine-minute piece is narrated by Wendy and uses stop-motion animation — in which an image is incrementally altered in individual photos to mimic movement atop altered video of the MGH environment. It provides step-by-step introductions about what to expect during trauma care and highlights the department's child-focused features, including interactive LED lights that help soothe patients and child life specialists.\n\nWorking from Wendy's narrative, the Payette team developed the animation concept and storyboard before enlisting the help of over 20 staff members who spent more than 1,000 hours contributing their expertise in drawing, animation, still and time-lapse photography, videography, computer scripting, and video editing to bring the final animation to life.\n\n*Wendy's Welcome* is part of MGfC's efforts to provide a dedicated pediatric space that helps children manage stress while optimizing care during emergency treatment. After nearly five years of designing and planning, the new Pediatric Emergency Department — outfitted with televisions, iPads, and toys — was unveiled in 2015. The area offers a friendly, unintimidating environment with bright artwork and individually themed exam rooms.\n\n> \"Our jobs require us to treat acute illness and injury, but as doctors, we also realize the need to address potential stress and anxiety in kids who require an emergency visit here. *Wendy's Welcome to the ED* is one more tool in our educational toy box that we can offer to kids and their families to ease their fears.\"\n>\n> — *Ari Cohen, MD, Division Chief, MGfC Pediatric Emergency Medicine*"
+            "markdown": "## About the video\n\nA trip to the Emergency Department is stressful for patients, particularly for children. *You Are Here: Wendy's Welcome to the ED* explains what pediatric patients can expect during an emergency room visit and gives children insight into their healthcare experience.\n\nThe nine-minute piece is narrated by Wendy and uses stop-motion animation. It provides step-by-step introductions about what to expect during trauma care and highlights the department's child-focused features, including interactive LED lights that help soothe patients and child life specialists.\n\nWendy Wooden and her mother, Darcy Daniels, are very familiar with Mass General Brigham for Children's Emergency Department and inpatient units. Wendy was diagnosed at age 3 with hemolytic uremic syndrome (HUS), caused by an E. coli infection, and has a complex medical history including heart failure, kidney and pancreatic damage that required a kidney transplant, and a partial intestinal removal at age 5. Her care has spanned five pediatric subspecialties.\n\nWhile Wendy is a frequent patient accustomed to beeping machines and procedures, she says she still gets overwhelmed by urgent trips and admissions to the hospital. In 2014 — when a neighbor called for advice about what to expect when her two children were going to be in the hospital — Wendy realized that other children, less experienced with medical treatment, may feel similar anxieties.\n\nWith the help of her mother, Wendy wrote *You Are Here: Wendy's Welcome to the ED*, a guide for what fellow pediatric patients can expect during an emergency room visit and how to help reduce anxiety and foster communication between their parents and providers.\n\n> \"We've learned a lot over the years from the compassionate care we've received from Wendy's team of doctors, nurses, and other staff members. We wanted to share those lessons so other patients and families can get the best care possible while cutting down on stress and worry.\"\n>\n> — *Darcy Daniels, Wendy's mother and member of the Family Advisory Council*"
           },
           {
             "type": "link",
-            "url": "https://www.youtube.com/watch?v=rD-Zvnw_Glg",
-            "label": "You Are Here: Wendy's Welcome to the ED — Mass General Brigham for Children",
-            "description": "Read the full story behind the video on massgeneral.org."
+            "url": "https://www.massgeneralbrigham.org/en/services/pediatric-emergency-medicine",
+            "label": "Pediatric Emergency Medicine — Mass General Brigham for Children",
+            "description": "The Pediatric Emergency Department's services, child-friendly features, and how to reach it."
           }
         ]
       }
@@ -3889,20 +3969,20 @@
       "Emergency Department",
       "Pediatric Education"
     ],
-    "notes": null,
+    "notes": "Story source (old massgeneral.org article) is gone; trimmed to the family-useful parts, link replaced with https://www.massgeneralbrigham.org/en/services/pediatric-emergency-medicine (snapshot 2026-10-21), approved by Mark 2026-10-22.",
     "description": {
       "en": "A child-friendly tour of the pediatric ED with Wendy — what to expect during an emergency room visit."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_lmi8b11i",
         "type": "text",
         "markdown": {
           "en": "Coming to the Emergency Department can feel scary for children. This short video — *You Are Here: Wendy's Welcome to the ED* — gives kids a tour of what to expect when they arrive: the people they'll meet, the rooms they'll see, and what happens at each step.\n\nWatching it together before a visit (or revisiting after one) can help children feel more in control of an unfamiliar experience."
         }
       },
       {
-        "id": "video_1",
+        "id": "video_nmuzwnkz",
         "type": "video",
         "url": "https://www.youtube.com/watch?v=rD-Zvnw_Glg",
         "caption": {
@@ -3910,30 +3990,30 @@
         }
       },
       {
-        "id": "about_the_video",
+        "id": "section_vt8mhxa3",
         "type": "section",
         "title": {
           "en": "About the video"
         }
       },
       {
-        "id": "about_the_video_text",
+        "id": "text_jrzfbhh1",
         "type": "text",
         "markdown": {
-          "en": "A trip to the Emergency Department is stressful for patients, particularly for children. *You Are Here: Wendy's Welcome to the ED* explains what pediatric patients can expect during an emergency room visit and gives children insight into their healthcare experience.\n\nWendy Wooden and her mother, Darcy Daniels, are very familiar with Mass General for Children's Emergency Department and inpatient units. Wendy was diagnosed at age 3 with hemolytic uremic syndrome (HUS), caused by an E. coli infection, and has a complex medical history including heart failure, kidney and pancreatic damage that required a kidney transplant, and a partial intestinal removal at age 5. Her care has spanned five pediatric subspecialties.\n\nWhile Wendy is a frequent patient accustomed to beeping machines and procedures, she says she still gets overwhelmed by urgent trips and admissions to the hospital. In 2014 — when a neighbor called for advice about what to expect when her two children were going to be in the hospital — Wendy realized that other children, less experienced with medical treatment, may feel similar anxieties.\n\nWith the help of her mother, Wendy wrote *You Are Here: Wendy's Welcome to the ED*, a guide for what fellow pediatric patients can expect during an emergency room visit and how to help reduce anxiety and foster communication between their parents and providers.\n\n> \"We've learned a lot over the years from the compassionate care we've received from Wendy's team of doctors, nurses, and other staff members. We wanted to share those lessons so other patients and families can get the best care possible while cutting down on stress and worry.\"\n>\n> — *Darcy Daniels, Wendy's mother and member of the MGfC Family Advisory Council*\n\nThe project gained new life thanks to [Payette](https://www.payette.com/), a Boston-based architecture firm, who transformed the story into an animated video. The nine-minute piece is narrated by Wendy and uses stop-motion animation — in which an image is incrementally altered in individual photos to mimic movement atop altered video of the MGH environment. It provides step-by-step introductions about what to expect during trauma care and highlights the department's child-focused features, including interactive LED lights that help soothe patients and child life specialists.\n\nWorking from Wendy's narrative, the Payette team developed the animation concept and storyboard before enlisting the help of over 20 staff members who spent more than 1,000 hours contributing their expertise in drawing, animation, still and time-lapse photography, videography, computer scripting, and video editing to bring the final animation to life.\n\n*Wendy's Welcome* is part of MGfC's efforts to provide a dedicated pediatric space that helps children manage stress while optimizing care during emergency treatment. After nearly five years of designing and planning, the new Pediatric Emergency Department — outfitted with televisions, iPads, and toys — was unveiled in 2015. The area offers a friendly, unintimidating environment with bright artwork and individually themed exam rooms.\n\n> \"Our jobs require us to treat acute illness and injury, but as doctors, we also realize the need to address potential stress and anxiety in kids who require an emergency visit here. *Wendy's Welcome to the ED* is one more tool in our educational toy box that we can offer to kids and their families to ease their fears.\"\n>\n> — *Ari Cohen, MD, Division Chief, MGfC Pediatric Emergency Medicine*"
+          "en": "A trip to the Emergency Department is stressful for patients, particularly for children. *You Are Here: Wendy's Welcome to the ED* explains what pediatric patients can expect during an emergency room visit and gives children insight into their healthcare experience.\n\nThe nine-minute piece is narrated by Wendy and uses stop-motion animation. It provides step-by-step introductions about what to expect during trauma care and highlights the department's child-focused features, including interactive LED lights that help soothe patients and child life specialists.\n\nWendy Wooden and her mother, Darcy Daniels, are very familiar with Mass General Brigham for Children's Emergency Department and inpatient units. Wendy was diagnosed at age 3 with hemolytic uremic syndrome (HUS), caused by an E. coli infection, and has a complex medical history including heart failure, kidney and pancreatic damage that required a kidney transplant, and a partial intestinal removal at age 5. Her care has spanned five pediatric subspecialties.\n\nWhile Wendy is a frequent patient accustomed to beeping machines and procedures, she says she still gets overwhelmed by urgent trips and admissions to the hospital. In 2014 — when a neighbor called for advice about what to expect when her two children were going to be in the hospital — Wendy realized that other children, less experienced with medical treatment, may feel similar anxieties.\n\nWith the help of her mother, Wendy wrote *You Are Here: Wendy's Welcome to the ED*, a guide for what fellow pediatric patients can expect during an emergency room visit and how to help reduce anxiety and foster communication between their parents and providers.\n\n> \"We've learned a lot over the years from the compassionate care we've received from Wendy's team of doctors, nurses, and other staff members. We wanted to share those lessons so other patients and families can get the best care possible while cutting down on stress and worry.\"\n>\n> — *Darcy Daniels, Wendy's mother and member of the Family Advisory Council*"
         }
       },
       {
-        "id": "link_1",
+        "id": "link_8hc27mpk",
         "type": "link",
         "url": {
-          "en": "https://www.youtube.com/watch?v=rD-Zvnw_Glg"
+          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-emergency-medicine"
         },
         "label": {
-          "en": "You Are Here: Wendy's Welcome to the ED — Mass General Brigham for Children"
+          "en": "Pediatric Emergency Medicine — Mass General Brigham for Children"
         },
         "description": {
-          "en": "Read the full story behind the video on massgeneral.org."
+          "en": "The Pediatric Emergency Department's services, child-friendly features, and how to reach it."
         }
       }
     ]
@@ -8107,7 +8187,7 @@
   },
   {
     "id": "breastfeeding_help_and_support",
-    "title": "Breastfeeding Help and Support",
+    "title": "Breastfeeding Support Near Home",
     "status": "published",
     "units": [
       "picu"
@@ -8120,8 +8200,6 @@
     ],
     "phasesByUnit": {
       "picu": [
-        "first_night",
-        "first_days",
         "going_home",
         "after_discharge"
       ]
@@ -8132,7 +8210,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "You do not have to figure breastfeeding out alone. Ask your nurse or care team to connect you with a lactation consultant while you are here. The organizations below offer free or low-cost help after you go home — support groups, warmlines, and lactation counselors near you."
+            "markdown": "You do not have to figure breastfeeding out alone. The organizations below offer free or low-cost help after you go home — support groups, warmlines, and lactation counselors near you."
           },
           {
             "type": "link",
@@ -8166,43 +8244,66 @@
           },
           {
             "type": "link",
-            "url": "https://www.mass.gov/eohhs/consumer/basic-needs/food/wic/",
+            "url": "https://www.mass.gov/wic-information-for-participants",
             "label": "Massachusetts WIC Nutrition Program",
             "description": "Free nutrition support, breastfeeding counseling, and food benefits for eligible families."
-          },
-          {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/lactation-support",
-            "label": "Breastfeeding Support — Mass General OB/GYN",
-            "description": "Classes, consultations, and breastfeeding services at Mass General."
-          },
-          {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/carma-breastfeeding-community-resources.pdf",
-            "label": "Breastfeeding Community Resources and Websites (PDF)",
-            "description": "A printable list of community breastfeeding resources, compiled by Mass General Brigham for Children."
           },
           {
             "type": "link",
             "url": "https://www.cdc.gov/breastfeeding/php/about/index.html",
             "label": "Breastfeeding — Centers for Disease Control and Prevention",
             "description": "Guidance on breastfeeding, milk storage, illness, and returning to work."
-          },
+          }
+        ]
+      },
+      "es": {
+        "description": "Dónde encontrar ayuda con la lactancia cerca de usted: grupos de apoyo, bancos de leche, WIC y programas de Massachusetts.",
+        "content": [
           {
             "type": "text",
-            "markdown": "## Medications while breastfeeding\n\nMost medications are compatible with breastfeeding, but always check with your own doctor or pharmacist before starting or stopping anything."
+            "markdown": "No tiene que aprender a amamantar por su cuenta. Las organizaciones a continuación ofrecen ayuda gratuita o de bajo costo después de regresar a casa: grupos de apoyo, líneas de ayuda y consejeros de lactancia cerca de usted."
           },
           {
             "type": "link",
-            "url": "https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/",
-            "label": "Psychiatric Medications and Breastfeeding — MGH Center for Women's Mental Health",
-            "description": "What is known about antidepressants and other psychiatric medications while breastfeeding."
+            "url": "https://zipmilk.org/",
+            "label": "ZipMilk — Find Lactation Support by Zip Code",
+            "description": "Search local lactation consultants, support groups, and warmlines by zip code."
           },
           {
             "type": "link",
-            "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/vaccine-medication-drugs/vaccinations.html",
-            "label": "Vaccines While Breastfeeding — CDC",
-            "description": "Which vaccines are safe to receive while you are breastfeeding."
+            "url": "https://llli.org/es/",
+            "label": "Liga de La Leche Internacional",
+            "description": "Grupos de apoyo gratuitos entre madres y padres, y una amplia biblioteca de artículos sobre la lactancia."
+          },
+          {
+            "type": "link",
+            "url": "https://www.babycafeusa.org/",
+            "label": "Baby Cafe — Free Drop-In Breastfeeding Support",
+            "description": "Free drop-in sessions with a lactation specialist. Search for a location near you."
+          },
+          {
+            "type": "link",
+            "url": "https://massbreastfeeding.org/",
+            "label": "Massachusetts Breastfeeding Coalition",
+            "description": "Statewide resources, local coalitions, and advocacy for Massachusetts families."
+          },
+          {
+            "type": "link",
+            "url": "https://milkbankne.org/",
+            "label": "Mothers' Milk Bank Northeast",
+            "description": "Donor milk for babies who need it, and information on donating milk."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mass.gov/wic-information-for-participants",
+            "label": "Massachusetts WIC Nutrition Program",
+            "description": "Free nutrition support, breastfeeding counseling, and food benefits for eligible families."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding/php/about/index.html",
+            "label": "Breastfeeding — Centers for Disease Control and Prevention",
+            "description": "Guidance on breastfeeding, milk storage, illness, and returning to work."
           }
         ]
       }
@@ -8219,24 +8320,25 @@
       "La Leche League",
       "Baby Cafe",
       "Massachusetts",
-      "medications",
       "nursing",
       "chestfeeding"
     ],
-    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything.",
+    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything.\nSplit into lactation_support_program and medications_while_breastfeeding (MGB audit #14), approved by Mark 2026-10-22.\nSpanish: title, card summary, opening and the La Leche League card translated by Claude, need Spanish review; other links stay English (no Spanish pages). Approved by Mark 2026-10-22.",
     "description": {
-      "en": "Where to find lactation help near you — support groups, milk banks, WIC, and Massachusetts programs."
+      "en": "Where to find lactation help near you — support groups, milk banks, WIC, and Massachusetts programs.",
+      "es": "Dónde encontrar ayuda con la lactancia cerca de usted: grupos de apoyo, bancos de leche, WIC y programas de Massachusetts."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_lmu0qtjs",
         "type": "text",
         "markdown": {
-          "en": "You do not have to figure breastfeeding out alone. Ask your nurse or care team to connect you with a lactation consultant while you are here. The organizations below offer free or low-cost help after you go home — support groups, warmlines, and lactation counselors near you."
+          "en": "You do not have to figure breastfeeding out alone. The organizations below offer free or low-cost help after you go home — support groups, warmlines, and lactation counselors near you.",
+          "es": "No tiene que aprender a amamantar por su cuenta. Las organizaciones a continuación ofrecen ayuda gratuita o de bajo costo después de regresar a casa: grupos de apoyo, líneas de ayuda y consejeros de lactancia cerca de usted."
         }
       },
       {
-        "id": "link_1",
+        "id": "link_qry6vtxi",
         "type": "link",
         "url": {
           "en": "https://zipmilk.org/"
@@ -8249,20 +8351,23 @@
         }
       },
       {
-        "id": "link_2",
+        "id": "link_oi03772j",
         "type": "link",
         "url": {
-          "en": "https://llli.org/"
+          "en": "https://llli.org/",
+          "es": "https://llli.org/es/"
         },
         "label": {
-          "en": "La Leche League International"
+          "en": "La Leche League International",
+          "es": "Liga de La Leche Internacional"
         },
         "description": {
-          "en": "Free peer support groups and a large library of breastfeeding articles."
+          "en": "Free peer support groups and a large library of breastfeeding articles.",
+          "es": "Grupos de apoyo gratuitos entre madres y padres, y una amplia biblioteca de artículos sobre la lactancia."
         }
       },
       {
-        "id": "link_3",
+        "id": "link_d7wj89cs",
         "type": "link",
         "url": {
           "en": "https://www.babycafeusa.org/"
@@ -8275,7 +8380,7 @@
         }
       },
       {
-        "id": "link_4",
+        "id": "link_wxxkveq2",
         "type": "link",
         "url": {
           "en": "https://massbreastfeeding.org/"
@@ -8288,7 +8393,7 @@
         }
       },
       {
-        "id": "link_5",
+        "id": "link_2ysxt2xs",
         "type": "link",
         "url": {
           "en": "https://milkbankne.org/"
@@ -8301,10 +8406,10 @@
         }
       },
       {
-        "id": "link_6",
+        "id": "link_r8ocb0ea",
         "type": "link",
         "url": {
-          "en": "https://www.mass.gov/eohhs/consumer/basic-needs/food/wic/"
+          "en": "https://www.mass.gov/wic-information-for-participants"
         },
         "label": {
           "en": "Massachusetts WIC Nutrition Program"
@@ -8314,33 +8419,7 @@
         }
       },
       {
-        "id": "link_7",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/lactation-support"
-        },
-        "label": {
-          "en": "Breastfeeding Support — Mass General OB/GYN"
-        },
-        "description": {
-          "en": "Classes, consultations, and breastfeeding services at Mass General."
-        }
-      },
-      {
-        "id": "link_8",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/carma-breastfeeding-community-resources.pdf"
-        },
-        "label": {
-          "en": "Breastfeeding Community Resources and Websites (PDF)"
-        },
-        "description": {
-          "en": "A printable list of community breastfeeding resources, compiled by Mass General Brigham for Children."
-        }
-      },
-      {
-        "id": "link_9",
+        "id": "link_lxg31wz6",
         "type": "link",
         "url": {
           "en": "https://www.cdc.gov/breastfeeding/php/about/index.html"
@@ -8351,48 +8430,11 @@
         "description": {
           "en": "Guidance on breastfeeding, milk storage, illness, and returning to work."
         }
-      },
-      {
-        "id": "medications_while_breastfeeding",
-        "type": "section",
-        "title": {
-          "en": "Medications while breastfeeding"
-        }
-      },
-      {
-        "id": "medications_while_breastfeeding_text",
-        "type": "text",
-        "markdown": {
-          "en": "Most medications are compatible with breastfeeding, but always check with your own doctor or pharmacist before starting or stopping anything."
-        }
-      },
-      {
-        "id": "link_10",
-        "type": "link",
-        "url": {
-          "en": "https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/"
-        },
-        "label": {
-          "en": "Psychiatric Medications and Breastfeeding — MGH Center for Women's Mental Health"
-        },
-        "description": {
-          "en": "What is known about antidepressants and other psychiatric medications while breastfeeding."
-        }
-      },
-      {
-        "id": "link_11",
-        "type": "link",
-        "url": {
-          "en": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/vaccine-medication-drugs/vaccinations.html"
-        },
-        "label": {
-          "en": "Vaccines While Breastfeeding — CDC"
-        },
-        "description": {
-          "en": "Which vaccines are safe to receive while you are breastfeeding."
-        }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Apoyo para la lactancia cerca de casa"
+    }
   },
   {
     "id": "breastfeeding_handouts",
@@ -8443,15 +8485,15 @@
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf",
-            "label": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children",
-            "description": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
-          },
-          {
-            "type": "link",
             "url": "https://llli.org/news/two-breastfeeding-twins-2/",
             "label": "Breastfeeding Twins — La Leche League",
             "description": "Positions, supply, and scheduling when you are feeding two."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf",
+            "label": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children",
+            "description": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
           },
           {
             "type": "link",
@@ -8461,9 +8503,9 @@
           },
           {
             "type": "link",
-            "url": "https://www.foodallergy.org/resources/food-allergy-labeling",
-            "label": "Reading Food Labels for Allergens — FARE",
-            "description": "How to spot milk, soy, egg, wheat, peanut, tree nut, and shellfish on ingredient labels."
+            "url": "https://www.foodallergy.org/resources/how-read-food-label",
+            "label": "How to Read a Food Label — FARE",
+            "description": "How to spot common food allergens, including sesame, on ingredient labels."
           }
         ]
       },
@@ -8488,9 +8530,9 @@
           },
           {
             "type": "link",
-            "url": "https://espanol.womenshealth.gov/breastfeeding/breastfeeding-challenges/common-breastfeeding-challenges",
-            "label": "Problemas comunes de la lactancia — Oficina para la Salud de la Mujer",
-            "description": "Pezones adoloridos, poca leche, congestión y qué hacer."
+            "url": "https://www.cdc.gov/breastfeeding/media/pdfs/preparacion-de-la-leche-materna-508.pdf",
+            "label": "Preparación y almacenamiento de la leche materna (PDF) — CDC",
+            "description": "Cuánto dura la leche en el mostrador, el refrigerador y el congelador."
           },
           {
             "type": "link",
@@ -8500,14 +8542,8 @@
           },
           {
             "type": "link",
-            "url": "https://www.cdc.gov/breastfeeding/media/pdfs/preparacion-de-la-leche-materna-508.pdf",
-            "label": "Preparación y almacenamiento de la leche materna (PDF) — CDC",
-            "description": "Cuánto dura la leche en el mostrador, el refrigerador y el congelador."
-          },
-          {
-            "type": "link",
             "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/patient-education/spanish/down-syndrome-helpful-information-breastfeeding.pdf",
-            "label": "Síndrome de Down: amamantar a su bebé (PDF) — MGB for Children",
+            "label": "Información útil sobre la lactancia materna y su bebé con síndrome de Down (PDF) — MGB for Children",
             "description": "Información útil para amamantar a un bebé con síndrome de Down."
           },
           {
@@ -8528,9 +8564,9 @@
           },
           {
             "type": "link",
-            "url": "https://www.foodallergy.org/resources/food-allergy-labeling",
-            "label": "Reading Food Labels for Allergens — FARE",
-            "description": "How to spot milk, soy, egg, wheat, peanut, tree nut, and shellfish on ingredient labels."
+            "url": "https://www.foodallergy.org/resources/how-read-food-label",
+            "label": "How to Read a Food Label — FARE",
+            "description": "How to spot common food allergens, including sesame, on ingredient labels."
           }
         ]
       }
@@ -8550,242 +8586,102 @@
       "español",
       "lactation"
     ],
-    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything.",
+    "notes": "Added from the CARMA Breastfeeding Resources page. Provider-only, staff-SSO, and dead links from the source page were omitted — see the omission list before re-adding anything.\nRestructured to one card per handout with its Spanish link inside (was a separate English list and Spanish list); FARE link fixed; Spanish Down syndrome label matches the PDF's title (MGB audit, approved by Mark 2026-10-22).\nSpanish view rebuilt from the existing Spanish cards, same text (MGB audit, approved by Mark 2026-10-22).",
     "description": {
       "en": "Printable guides on milk storage, breastfeeding twins, nutrition, and feeding after substance use.",
       "es": "Guías para imprimir sobre el almacenamiento de leche, amamantar gemelos, nutrición y lactancia con uso de sustancias."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_c6hvdsdn",
         "type": "text",
         "markdown": {
-          "en": "Printable handouts you can save or bring to an appointment."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.healthychildren.org/english/ages-stages/baby/breastfeeding/pages/why-breastfeed.aspx"
-        },
-        "label": {
-          "en": "Breastfeeding Benefits for Parents — HealthyChildren.org (AAP)"
-        },
-        "description": {
-          "en": "How breastfeeding affects your own health, not just your baby's."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_2",
-        "type": "link",
-        "url": {
-          "en": "https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/Breastfeeding-Benefits-Your-Babys-Immune-System.aspx"
-        },
-        "label": {
-          "en": "How Breastfeeding Supports Your Baby's Immune System — HealthyChildren.org (AAP)"
-        },
-        "description": {
-          "en": "What is in breast milk and how it helps protect your baby from infection."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_3",
-        "type": "link",
-        "url": {
-          "en": "https://www.cdc.gov/breastfeeding/pdf/preparation-of-breast-milk_H.pdf"
-        },
-        "label": {
-          "en": "Breast Milk Storage and Preparation (PDF) — CDC"
-        },
-        "description": {
-          "en": "How long milk keeps on the counter, in the fridge, and in the freezer — and how to warm it."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_4",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf"
-        },
-        "label": {
-          "en": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children"
-        },
-        "description": {
-          "en": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_5",
-        "type": "link",
-        "url": {
-          "en": "https://llli.org/news/two-breastfeeding-twins-2/"
-        },
-        "label": {
-          "en": "Breastfeeding Twins — La Leche League"
-        },
-        "description": {
-          "en": "Positions, supply, and scheduling when you are feeding two."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_6",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/carma-breastfeeding-guidance-for-patients-who-use-substances.pdf"
-        },
-        "label": {
-          "en": "Breast Milk and Substance Use (PDF) — MGB for Children"
-        },
-        "description": {
-          "en": "Guidance on breastfeeding for parents who use substances, including what is and isn't safe."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_8",
-        "type": "link",
-        "url": {
-          "en": "https://www.foodallergy.org/resources/food-allergy-labeling"
-        },
-        "label": {
-          "en": "Reading Food Labels for Allergens — FARE"
-        },
-        "description": {
-          "en": "How to spot milk, soy, egg, wheat, peanut, tree nut, and shellfish on ingredient labels."
-        },
-        "hiddenIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "intro_2",
-        "type": "text",
-        "markdown": {
+          "en": "Printable handouts you can save or bring to an appointment.",
           "es": "Materiales para imprimir que puede guardar o llevar a una cita."
-        },
-        "onlyIn": [
-          "es"
-        ]
+        }
       },
       {
-        "id": "link_9",
+        "id": "link_famvt4qz",
         "type": "link",
         "url": {
+          "en": "https://www.healthychildren.org/english/ages-stages/baby/breastfeeding/pages/why-breastfeed.aspx",
           "es": "https://www.healthychildren.org/spanish/ages-stages/baby/breastfeeding/paginas/why-breastfeed.aspx"
         },
         "label": {
+          "en": "Breastfeeding Benefits for Parents — HealthyChildren.org (AAP)",
           "es": "Beneficios de la lactancia materna — HealthyChildren.org (AAP)"
         },
         "description": {
+          "en": "How breastfeeding affects your own health, not just your baby's.",
           "es": "Cómo la lactancia beneficia su propia salud, no solo la de su bebé."
-        },
-        "onlyIn": [
-          "es"
-        ]
+        }
       },
       {
-        "id": "link_10",
+        "id": "link_y3i0d0di",
         "type": "link",
         "url": {
+          "en": "https://www.healthychildren.org/English/ages-stages/baby/breastfeeding/Pages/Breastfeeding-Benefits-Your-Babys-Immune-System.aspx",
           "es": "https://www.healthychildren.org/spanish/ages-stages/baby/breastfeeding/paginas/breastfeeding-benefits-your-babys-immune-system.aspx"
         },
         "label": {
+          "en": "How Breastfeeding Supports Your Baby's Immune System — HealthyChildren.org (AAP)",
           "es": "La lactancia y el sistema inmunitario de su bebé — HealthyChildren.org (AAP)"
         },
         "description": {
+          "en": "What is in breast milk and how it helps protect your baby from infection.",
           "es": "Qué contiene la leche materna y cómo protege a su bebé."
-        },
-        "onlyIn": [
-          "es"
-        ]
+        }
       },
       {
-        "id": "link_11",
+        "id": "link_wy4h9x7q",
         "type": "link",
         "url": {
-          "es": "https://espanol.womenshealth.gov/breastfeeding/breastfeeding-challenges/common-breastfeeding-challenges"
-        },
-        "label": {
-          "es": "Problemas comunes de la lactancia — Oficina para la Salud de la Mujer"
-        },
-        "description": {
-          "es": "Pezones adoloridos, poca leche, congestión y qué hacer."
-        },
-        "onlyIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_12",
-        "type": "link",
-        "url": {
-          "es": "https://llli.org/news/cuando-son-dos-amamantar-gemelos-2/"
-        },
-        "label": {
-          "es": "Cuando son dos: amamantar gemelos — La Leche League"
-        },
-        "description": {
-          "es": "Posiciones, producción de leche y horarios para alimentar a dos bebés."
-        },
-        "onlyIn": [
-          "es"
-        ]
-      },
-      {
-        "id": "link_13",
-        "type": "link",
-        "url": {
+          "en": "https://www.cdc.gov/breastfeeding/pdf/preparation-of-breast-milk_H.pdf",
           "es": "https://www.cdc.gov/breastfeeding/media/pdfs/preparacion-de-la-leche-materna-508.pdf"
         },
         "label": {
+          "en": "Breast Milk Storage and Preparation (PDF) — CDC",
           "es": "Preparación y almacenamiento de la leche materna (PDF) — CDC"
         },
         "description": {
+          "en": "How long milk keeps on the counter, in the fridge, and in the freezer — and how to warm it.",
           "es": "Cuánto dura la leche en el mostrador, el refrigerador y el congelador."
-        },
-        "onlyIn": [
-          "es"
-        ]
+        }
       },
       {
-        "id": "link_14",
+        "id": "link_tjvwsxu5",
+        "type": "link",
+        "url": {
+          "en": "https://llli.org/news/two-breastfeeding-twins-2/",
+          "es": "https://llli.org/news/cuando-son-dos-amamantar-gemelos-2/"
+        },
+        "label": {
+          "en": "Breastfeeding Twins — La Leche League",
+          "es": "Cuando son dos: amamantar gemelos — La Leche League"
+        },
+        "description": {
+          "en": "Positions, supply, and scheduling when you are feeding two.",
+          "es": "Posiciones, producción de leche y horarios para alimentar a dos bebés."
+        }
+      },
+      {
+        "id": "link_3dlju0lb",
         "type": "link",
         "url": {
           "es": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/patient-education/spanish/down-syndrome-helpful-information-breastfeeding.pdf"
         },
         "label": {
-          "es": "Síndrome de Down: amamantar a su bebé (PDF) — MGB for Children"
-        },
-        "description": {
-          "es": "Información útil para amamantar a un bebé con síndrome de Down."
+          "es": "Información útil sobre la lactancia materna y su bebé con síndrome de Down (PDF) — MGB for Children"
         },
         "onlyIn": [
           "es"
-        ]
+        ],
+        "description": {
+          "es": "Información útil para amamantar a un bebé con síndrome de Down."
+        }
       },
       {
-        "id": "solo_disponible_en_ingles",
+        "id": "section_gu8rolxd",
         "type": "section",
         "title": {
           "es": "Solo disponible en inglés"
@@ -8795,7 +8691,7 @@
         ]
       },
       {
-        "id": "solo_disponible_en_ingles_text",
+        "id": "text_we7pb7a3",
         "type": "text",
         "markdown": {
           "es": "Estos materiales todavía no tienen versión en español."
@@ -8805,52 +8701,43 @@
         ]
       },
       {
-        "id": "link_15",
+        "id": "link_9haj55uh",
         "type": "link",
         "url": {
-          "es": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf"
+          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/nicu-nutrition-tips-for-breastfeeding.pdf"
         },
         "label": {
-          "es": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children"
+          "en": "Nutrition Tips for the Lactating Parent (PDF) — MGB for Children"
         },
         "description": {
-          "es": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
-        },
-        "onlyIn": [
-          "es"
-        ]
+          "en": "What to eat and drink while breastfeeding, from the Mass General Brigham for Children NICU."
+        }
       },
       {
-        "id": "link_16",
+        "id": "link_gnicxu16",
         "type": "link",
         "url": {
-          "es": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/carma-breastfeeding-guidance-for-patients-who-use-substances.pdf"
+          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/pdf/children/carma-breastfeeding-guidance-for-patients-who-use-substances.pdf"
         },
         "label": {
-          "es": "Breast Milk and Substance Use (PDF) — MGB for Children"
+          "en": "Breast Milk and Substance Use (PDF) — MGB for Children"
         },
         "description": {
-          "es": "Guidance on breastfeeding for parents who use substances, including what is and isn't safe."
-        },
-        "onlyIn": [
-          "es"
-        ]
+          "en": "Guidance on breastfeeding for parents who use substances, including what is and isn't safe."
+        }
       },
       {
-        "id": "link_18",
+        "id": "link_1scrk4ei",
         "type": "link",
         "url": {
-          "es": "https://www.foodallergy.org/resources/food-allergy-labeling"
+          "en": "https://www.foodallergy.org/resources/how-read-food-label"
         },
         "label": {
-          "es": "Reading Food Labels for Allergens — FARE"
+          "en": "How to Read a Food Label — FARE"
         },
         "description": {
-          "es": "How to spot milk, soy, egg, wheat, peanut, tree nut, and shellfish on ingredient labels."
-        },
-        "onlyIn": [
-          "es"
-        ]
+          "en": "How to spot common food allergens, including sesame, on ingredient labels."
+        }
       }
     ],
     "titleTranslations": {
@@ -9912,5 +9799,234 @@
         }
       }
     ]
+  },
+  {
+    "id": "lactation_support_program",
+    "title": "Lactation Support Program",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "The Lactation Support Program helps manage breastfeeding challenges. Find support for your breastfeeding goals.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "You do not have to figure breastfeeding out alone. Ask your nurse or care team to connect you with a lactation consultant while you are here.\n\nOur outpatient clinic sees mothers of breastfeeding babies, regardless of where you gave birth.\n\nOutpatient care is available through a breastfeeding and lactation medicine clinic, which provides medical care for more complex feeding concerns. This clinic is designed for patients who may need a higher level of evaluation and treatment. Visits are billed as medical appointments.\n\n### Lactation Support Program\n\n- 📞 [617-724-2229](tel:+16177242229) (Massachusetts General Hospital)\n- 🌐 [massgeneralbrigham.org/en/services/lactation-support](https://www.massgeneralbrigham.org/en/services/lactation-support)"
+          }
+        ]
+      },
+      "es": {
+        "description": "El Programa de Apoyo a la Lactancia ayuda a manejar las dificultades relacionadas con la lactancia.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "No tiene que aprender a amamantar por su cuenta. Pida a su enfermera o a su equipo de atención que le pongan en contacto con un consultor de lactancia mientras esté aquí.\n\nNuestra clínica ambulatoria atiende a madres de bebés lactantes, independientemente de dónde hayan dado a luz.\n\nLa atención ambulatoria está disponible en una clínica de medicina de lactancia y amamantamiento, que brinda atención médica para problemas de alimentación más complejos. Esta clínica está diseñada para pacientes que pueden necesitar un nivel más avanzado de evaluación y tratamiento. Las consultas se facturan como citas médicas.\n\n### Programa de Apoyo a la Lactancia\n\n- 📞 [617-724-2229](tel:+16177242229) (Massachusetts General Hospital)\n- 🌐 [massgeneralbrigham.org/es/services/lactation-support](https://www.massgeneralbrigham.org/es/services/lactation-support)"
+          }
+        ]
+      }
+    },
+    "description": {
+      "en": "The Lactation Support Program helps manage breastfeeding challenges. Find support for your breastfeeding goals.",
+      "es": "El Programa de Apoyo a la Lactancia ayuda a manejar las dificultades relacionadas con la lactancia."
+    },
+    "blocks": [
+      {
+        "id": "text_rxuchneo",
+        "type": "text",
+        "markdown": {
+          "en": "You do not have to figure breastfeeding out alone. Ask your nurse or care team to connect you with a lactation consultant while you are here.",
+          "es": "No tiene que aprender a amamantar por su cuenta. Pida a su enfermera o a su equipo de atención que le pongan en contacto con un consultor de lactancia mientras esté aquí."
+        }
+      },
+      {
+        "id": "text_1nvy1e80",
+        "type": "text",
+        "markdown": {
+          "en": "Our outpatient clinic sees mothers of breastfeeding babies, regardless of where you gave birth.\n\nOutpatient care is available through a breastfeeding and lactation medicine clinic, which provides medical care for more complex feeding concerns. This clinic is designed for patients who may need a higher level of evaluation and treatment. Visits are billed as medical appointments.",
+          "es": "Nuestra clínica ambulatoria atiende a madres de bebés lactantes, independientemente de dónde hayan dado a luz.\n\nLa atención ambulatoria está disponible en una clínica de medicina de lactancia y amamantamiento, que brinda atención médica para problemas de alimentación más complejos. Esta clínica está diseñada para pacientes que pueden necesitar un nivel más avanzado de evaluación y tratamiento. Las consultas se facturan como citas médicas."
+        }
+      },
+      {
+        "id": "listing_czd4xvlz",
+        "type": "listing",
+        "name": {
+          "en": "Lactation Support Program",
+          "es": "Programa de Apoyo a la Lactancia"
+        },
+        "phones": [
+          {
+            "id": "phone_4mamdkzb",
+            "number": "+16177242229",
+            "label": {
+              "en": "Massachusetts General Hospital"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_lt2tli3k",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/lactation-support",
+              "es": "https://www.massgeneralbrigham.org/es/services/lactation-support"
+            }
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "tags": [
+      "breastfeeding",
+      "lactation",
+      "lactation consultant",
+      "lactation support program",
+      "lactation clinic",
+      "breast pump",
+      "pumping",
+      "feeding",
+      "nursing",
+      "chestfeeding"
+    ],
+    "notes": "Split out of breastfeeding_help_and_support (MGB audit #14); matched to https://www.massgeneralbrigham.org/en/services/lactation-support (snapshot 2026-10-21), approved by Mark 2026-10-22.\nSpanish: MGB's /es/ page (snapshot 2026-10-21) for the clinic sentences, card summary (first sentence of MGB's) and name; opening line translated by Claude, needs Spanish review. Approved by Mark 2026-10-22.",
+    "titleTranslations": {
+      "es": "Programa de Apoyo a la Lactancia"
+    }
+  },
+  {
+    "id": "medications_while_breastfeeding",
+    "title": "Medications While Breastfeeding",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "educational_resource"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "first_night",
+        "first_days",
+        "going_home",
+        "after_discharge"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "What is known about medications and vaccines while breastfeeding, and who to ask before you start or stop anything.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Most medications are compatible with breastfeeding, but always check with your own doctor or pharmacist before starting or stopping anything."
+          },
+          {
+            "type": "link",
+            "url": "https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/",
+            "label": "Psychiatric Medications and Breastfeeding — MGH Center for Women's Mental Health",
+            "description": "What is known about antidepressants and other psychiatric medications while breastfeeding."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/vaccine-medication-drugs/vaccinations.html",
+            "label": "Vaccines While Breastfeeding — CDC",
+            "description": "Which vaccines are safe to receive while you are breastfeeding."
+          }
+        ]
+      },
+      "es": {
+        "description": "Lo que se sabe sobre los medicamentos y las vacunas durante la lactancia, y a quién preguntar antes de empezar o dejar cualquier medicamento.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "La mayoría de los medicamentos son compatibles con la lactancia, pero siempre consulte con su propio médico o farmacéutico antes de empezar o dejar cualquier medicamento."
+          },
+          {
+            "type": "link",
+            "url": "https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/",
+            "label": "Psychiatric Medications and Breastfeeding — MGH Center for Women's Mental Health",
+            "description": "What is known about antidepressants and other psychiatric medications while breastfeeding."
+          },
+          {
+            "type": "link",
+            "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/vaccine-medication-drugs/vaccinations.html",
+            "label": "Vaccines While Breastfeeding — CDC",
+            "description": "Which vaccines are safe to receive while you are breastfeeding."
+          }
+        ]
+      }
+    },
+    "description": {
+      "en": "What is known about medications and vaccines while breastfeeding, and who to ask before you start or stop anything.",
+      "es": "Lo que se sabe sobre los medicamentos y las vacunas durante la lactancia, y a quién preguntar antes de empezar o dejar cualquier medicamento."
+    },
+    "blocks": [
+      {
+        "id": "text_jj883hce",
+        "type": "text",
+        "markdown": {
+          "en": "Most medications are compatible with breastfeeding, but always check with your own doctor or pharmacist before starting or stopping anything.",
+          "es": "La mayoría de los medicamentos son compatibles con la lactancia, pero siempre consulte con su propio médico o farmacéutico antes de empezar o dejar cualquier medicamento."
+        }
+      },
+      {
+        "id": "link_4yyzz0o7",
+        "type": "link",
+        "url": {
+          "en": "https://womensmentalhealth.org/specialty-clinics/breastfeeding-and-psychiatric-medication/"
+        },
+        "label": {
+          "en": "Psychiatric Medications and Breastfeeding — MGH Center for Women's Mental Health"
+        },
+        "description": {
+          "en": "What is known about antidepressants and other psychiatric medications while breastfeeding."
+        }
+      },
+      {
+        "id": "link_z0vhf8xk",
+        "type": "link",
+        "url": {
+          "en": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/vaccine-medication-drugs/vaccinations.html"
+        },
+        "label": {
+          "en": "Vaccines While Breastfeeding — CDC"
+        },
+        "description": {
+          "en": "Which vaccines are safe to receive while you are breastfeeding."
+        }
+      }
+    ],
+    "images": [],
+    "tags": [
+      "breastfeeding",
+      "medications",
+      "medicine",
+      "vaccines",
+      "psychiatric medications",
+      "antidepressants",
+      "lactation",
+      "nursing",
+      "chestfeeding"
+    ],
+    "notes": "Split out of breastfeeding_help_and_support's 'Medications while breastfeeding' section (MGB audit #14), approved by Mark 2026-10-22. Content unchanged from that section.\nSpanish: title, card summary and text translated by Claude, need Spanish review; links stay English (no Spanish pages). Approved by Mark 2026-10-22.",
+    "titleTranslations": {
+      "es": "Medicamentos durante la lactancia"
+    }
   }
 ]
