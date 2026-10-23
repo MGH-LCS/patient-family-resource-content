@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -396,6 +396,7 @@
                 "title": {
                   "en": "Coffee South"
                 },
+                "style": "plain",
                 "subtitle": {
                   "en": "Yawkey Center for Outpatient Care, main lobby. "
                 },
@@ -439,8 +440,7 @@
                   ],
                   "sat": [],
                   "sun": []
-                },
-                "style": "plain"
+                }
               }
             ]
           },
@@ -589,10 +589,10 @@
                 "title": {
                   "en": "Room service after hours"
                 },
+                "style": "plain",
                 "body": {
                   "en": "Some patient meal programs allow a parent tray to be added to your child's late order. Ask the overnight nurse what's possible. Breastfeeding mothers may request a meal tray to be provided directly to their room for Breakfast, Lunch and Dinner — ask your nurse for more information."
-                },
-                "style": "plain"
+                }
               }
             ]
           },
@@ -786,12 +786,35 @@
                 "title": {
                   "en": "North End (10 min walk / short ride)"
                 },
+                "style": "plain",
                 "body": {
                   "en": "For a real break: Italian restaurants and cafés on Hanover St stay open late. Regina Pizzeria and Mike's Pastry are family favorites."
-                },
-                "style": "plain"
+                }
               }
             ]
+          }
+        ]
+      },
+      "educational_resource": {
+        "blocks": [],
+        "subcategories": [
+          {
+            "id": "breastfeeding",
+            "title": {
+              "en": "Breastfeeding",
+              "es": "Lactancia materna"
+            },
+            "resourceIds": [
+              "breastfeeding_getting_started",
+              "lactation_support_program",
+              "medications_while_breastfeeding",
+              "breastfeeding_help_and_support",
+              "breastfeeding_handouts"
+            ],
+            "description": {
+              "en": "Latching, pumping, medications, and where to find help",
+              "es": "Agarre, extracción, medicamentos y dónde encontrar ayuda"
+            }
           }
         ]
       }
