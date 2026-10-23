@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -804,16 +804,32 @@
               "en": "Breastfeeding",
               "es": "Lactancia materna"
             },
+            "description": {
+              "en": "Latching, pumping, medications, and where to find help",
+              "es": "Agarre, extracción, medicamentos y dónde encontrar ayuda"
+            },
             "resourceIds": [
               "breastfeeding_getting_started",
               "lactation_support_program",
               "medications_while_breastfeeding",
               "breastfeeding_help_and_support",
               "breastfeeding_handouts"
+            ]
+          },
+          {
+            "id": "trach_care",
+            "title": {
+              "en": "Trach care",
+              "es": "Cuidado de la traqueostomía"
+            },
+            "resourceIds": [
+              "pediatric_tracheostomy_what_you_need_to_know",
+              "pediatric_tracheostomy_how_to_suction_a_trach",
+              "pediatric_tracheostomy_how_to_exchange_a_trach"
             ],
             "description": {
-              "en": "Latching, pumping, medications, and where to find help",
-              "es": "Agarre, extracción, medicamentos y dónde encontrar ayuda"
+              "en": "Videos: what to expect, suctioning, and changing the tube",
+              "es": "Videos: qué esperar, cómo aspirar y cómo cambiar la cánula"
             }
           }
         ]

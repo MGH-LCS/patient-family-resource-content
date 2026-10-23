@@ -807,7 +807,10 @@
     ],
     "phasesByUnit": {
       "picu": [
-        "just_arrived"
+        "just_arrived",
+        "first_night",
+        "first_days",
+        "pre_admission"
       ]
     },
     "languages": {
@@ -1922,7 +1925,9 @@
     ],
     "phasesByUnit": {
       "picu": [
-        "going_home"
+        "going_home",
+        "first_days",
+        "after_discharge"
       ]
     },
     "languages": {
@@ -1974,7 +1979,9 @@
     ],
     "phasesByUnit": {
       "picu": [
-        "first_days"
+        "first_days",
+        "going_home",
+        "after_discharge"
       ]
     },
     "languages": {
@@ -3592,7 +3599,9 @@
     ],
     "phasesByUnit": {
       "picu": [
-        "after_discharge"
+        "after_discharge",
+        "first_days",
+        "going_home"
       ]
     },
     "languages": {
@@ -5639,17 +5648,20 @@
     },
     "languages": {
       "en": {
-        "description": "Patient and Family Relations helps families share concerns, ask questions, and make informed decisions about their care.",
+        "description": "Contact our Patient and Family Relations team to share feedback, ask questions, or receive support navigating your care experience.",
         "content": [
           {
             "type": "text",
-            "markdown": "Patient and Family Relations helps to foster communication between patients and their care team so families can make the best decisions about their care. They are also the team to contact about patient rights, ethics questions, or formal concerns and complaints."
-          },
+            "markdown": "Patient and Family Relations teams at Mass General Brigham hospitals provide a safe, neutral space for sharing feedback about care. Our specialists listen, support communication with care teams, and help patients and families navigate concerns, while also recognizing staff who deliver exceptional service.\n\nIf you have concerns about your care or experience that you cannot resolve with your care team, our Patient and Family Relations teams can help.\n\nPlease note: PFR cannot provide medical advice or emergency assistance.\n\n### Mass General Patient and Family Relations\n\n- 📞 [617-726-3370](tel:+16177263370)\n- ✉️ [mghpfr@mgb.org](mailto:mghpfr@mgb.org)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-relations](https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-relations)\n\n## How Patient and Family Relations can help\n\nOur team:\n\n- Are on site and available to support patients and families\n- Provide a safe, neutral space to share feedback and experiences\n- Listen to concerns and help patients and families understand next steps\n- Support communication between patients, families, and care teams\n- Guide patients and families through the complaint process\n- Support recognition of staff and departments that go above and beyond\n\nPatients, family members, visitors, or staff may contact Patient and Family Relations to share feedback or concerns. Patient or health care proxy permission may be required before we can access or share medical information related to the concern.\n\nWhen patients or families share compliments, PFR passes them along to the staff or department being recognized."
+          }
+        ]
+      },
+      "es": {
+        "description": "Comuníquese con nuestro equipo de Relaciones con Pacientes y Familias para compartir comentarios, hacer preguntas o recibir apoyo con su atención.",
+        "content": [
           {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-relations",
-            "label": "Patient and Family Relations — Mass General",
-            "description": "Learn more about patient rights, how to share concerns, and how to contact the team."
+            "type": "text",
+            "markdown": "Los equipos de Relaciones con Pacientes y Familias de los hospitales de Mass General Brigham ofrecen un espacio seguro y neutral para compartir comentarios sobre la atención. Nuestros especialistas escuchan, facilitan la comunicación con los equipos de atención y ayudan a pacientes y familias a resolver inquietudes, además de reconocer al personal que brinda un servicio excepcional.\n\nSi tiene inquietudes sobre su atención o su experiencia que no puede resolver con su equipo de atención, nuestros equipos de Relaciones con Pacientes y Familias pueden ayudarle.\n\nTenga en cuenta: PFR no puede brindar asesoramiento médico ni asistencia de emergencia.\n\n### Relaciones con Pacientes y Familias de Mass General\n\n- 📞 [617-726-3370](tel:+16177263370)\n- ✉️ [mghpfr@mgb.org](mailto:mghpfr@mgb.org)\n- 🌐 [massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/patient-family-relations](https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/patient-family-relations)\n\n## Cómo puede ayudar Relaciones con Pacientes y Familias\n\nNuestro equipo:\n\n- Está presente en el centro y disponible para apoyar a pacientes y familias\n- Ofrece un espacio seguro y neutral para compartir comentarios y experiencias\n- Escucha las inquietudes y ayuda a pacientes y familias a comprender los próximos pasos\n- Facilita la comunicación entre pacientes, familias y equipos de atención\n- Orienta a pacientes y familias durante el proceso de quejas\n- Ayuda a reconocer al personal y los departamentos que superan las expectativas\n\nLos pacientes, familiares, visitantes o miembros del personal pueden comunicarse con Relaciones con Pacientes y Familias para compartir comentarios o inquietudes. Es posible que necesitemos el permiso del paciente o de su apoderado antes de acceder o compartir información médica relacionada con la inquietud.\n\nCuando los pacientes o las familias comparten elogios, PFR los transmite al personal o departamento reconocido."
           }
         ]
       }
@@ -5663,32 +5675,77 @@
       "Ethics",
       "Complaints"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-relations (snapshot 2026-10-21, live page unchanged 2026-10-23), approved by Mark 2026-10-23.\nSpanish from MGB's /es/ Patient and Family Relations page (2026-10-23); title, card summary, section title, card name and the 'Contact us' sentence translated by Claude (MGB's Spanish page has it in English), need Spanish review. Approved by Mark 2026-10-23.",
     "description": {
-      "en": "Patient and Family Relations helps families share concerns, ask questions, and make informed decisions about their care."
+      "en": "Contact our Patient and Family Relations team to share feedback, ask questions, or receive support navigating your care experience.",
+      "es": "Comuníquese con nuestro equipo de Relaciones con Pacientes y Familias para compartir comentarios, hacer preguntas o recibir apoyo con su atención."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_zui3ha2o",
         "type": "text",
         "markdown": {
-          "en": "Patient and Family Relations helps to foster communication between patients and their care team so families can make the best decisions about their care. They are also the team to contact about patient rights, ethics questions, or formal concerns and complaints."
+          "en": "Patient and Family Relations teams at Mass General Brigham hospitals provide a safe, neutral space for sharing feedback about care. Our specialists listen, support communication with care teams, and help patients and families navigate concerns, while also recognizing staff who deliver exceptional service.",
+          "es": "Los equipos de Relaciones con Pacientes y Familias de los hospitales de Mass General Brigham ofrecen un espacio seguro y neutral para compartir comentarios sobre la atención. Nuestros especialistas escuchan, facilitan la comunicación con los equipos de atención y ayudan a pacientes y familias a resolver inquietudes, además de reconocer al personal que brinda un servicio excepcional."
         }
       },
       {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-relations"
+        "id": "text_ofjdgi3d",
+        "type": "text",
+        "markdown": {
+          "en": "If you have concerns about your care or experience that you cannot resolve with your care team, our Patient and Family Relations teams can help.\n\nPlease note: PFR cannot provide medical advice or emergency assistance.",
+          "es": "Si tiene inquietudes sobre su atención o su experiencia que no puede resolver con su equipo de atención, nuestros equipos de Relaciones con Pacientes y Familias pueden ayudarle.\n\nTenga en cuenta: PFR no puede brindar asesoramiento médico ni asistencia de emergencia."
+        }
+      },
+      {
+        "id": "listing_7cs6kvbq",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Patient and Family Relations",
+          "es": "Relaciones con Pacientes y Familias de Mass General"
         },
-        "label": {
-          "en": "Patient and Family Relations — Mass General"
-        },
-        "description": {
-          "en": "Learn more about patient rights, how to share concerns, and how to contact the team."
+        "phones": [
+          {
+            "id": "phone_hck2dl65",
+            "number": "+16177263370"
+          }
+        ],
+        "emails": [
+          {
+            "id": "email_5g34vufo",
+            "email": "mghpfr@mgb.org"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_uvgp6q7l",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/patient-family-relations",
+              "es": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/patient-family-relations"
+            }
+          }
+        ]
+      },
+      {
+        "id": "section_nemu4tnn",
+        "type": "section",
+        "title": {
+          "en": "How Patient and Family Relations can help",
+          "es": "Cómo puede ayudar Relaciones con Pacientes y Familias"
+        }
+      },
+      {
+        "id": "text_xh5yn6cy",
+        "type": "text",
+        "markdown": {
+          "en": "Our team:\n\n- Are on site and available to support patients and families\n- Provide a safe, neutral space to share feedback and experiences\n- Listen to concerns and help patients and families understand next steps\n- Support communication between patients, families, and care teams\n- Guide patients and families through the complaint process\n- Support recognition of staff and departments that go above and beyond\n\nPatients, family members, visitors, or staff may contact Patient and Family Relations to share feedback or concerns. Patient or health care proxy permission may be required before we can access or share medical information related to the concern.\n\nWhen patients or families share compliments, PFR passes them along to the staff or department being recognized.",
+          "es": "Nuestro equipo:\n\n- Está presente en el centro y disponible para apoyar a pacientes y familias\n- Ofrece un espacio seguro y neutral para compartir comentarios y experiencias\n- Escucha las inquietudes y ayuda a pacientes y familias a comprender los próximos pasos\n- Facilita la comunicación entre pacientes, familias y equipos de atención\n- Orienta a pacientes y familias durante el proceso de quejas\n- Ayuda a reconocer al personal y los departamentos que superan las expectativas\n\nLos pacientes, familiares, visitantes o miembros del personal pueden comunicarse con Relaciones con Pacientes y Familias para compartir comentarios o inquietudes. Es posible que necesitemos el permiso del paciente o de su apoderado antes de acceder o compartir información médica relacionada con la inquietud.\n\nCuando los pacientes o las familias comparten elogios, PFR los transmite al personal o departamento reconocido."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Relaciones con Pacientes y Familias"
+    }
   },
   {
     "id": "certified_child_life_specialists",
@@ -5714,13 +5771,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "## What is the Child Life & Pediatric Integrative Therapies Program?\n\nThe Child Life and Pediatric Integrative Therapies Program at Mass General Brigham for Children helps children and adolescents navigate the mental, emotional, and social effects of illness, medical treatment, and hospitalization.\n\nAs part of the care team, our **board-certified child life specialists** foster positive coping skills and empower children throughout their healthcare experience.\n\n## Our Services\n\n### Preparation and Education\n\nOur child life specialists provide preparation and education for potentially painful procedures, new or unfamiliar diagnoses, and the nature of the hospital environment. Our team works with patients and families to create a coping plan for procedures using techniques like play, guided imagery, and deep breathing. Child life specialists collaborate with the medical team to provide developmentally appropriate diagnosis education to children to promote understanding.\n\n### Developmental Support\n\nWith expertise in child development, child life specialists use play to support typical development — intellectual, motor, emotional, and social skills. Engaging in these activities can support children in reaching developmental milestones.\n\n### Normalization and Play\n\nThe hospital can be a scary place for children, with many new sights and sounds. Our child life team works to create a child-friendly environment through welcoming spaces (like activity rooms) and opportunities to engage in medical and therapeutic play, creative expression, and peer socialization.\n\n### Enhancing Coping and Emotional Regulation\n\nChild life specialists work with children and families to increase coping and normalization of the environment. These skills include techniques such as mindfulness, guided imagery, relaxation, and distraction. This is particularly valuable during medical procedures and lengthy admissions.\n\n### Family Involvement and Bonding\n\nThrough art, music, and play, our child life team can help promote emotional expression and support children in processing their medical experience. With a passion for advocacy and compassion, child life specialists support families through big challenges. Child life specialists also offer legacy-building opportunities during moments of change and loss.\n\n### Art Therapy and Music Therapy\n\nOur music and art therapists use therapeutic interventions to promote wellness.\n\n- **Music therapy** can help support a child's experience through active music making, gentle live music for relaxation, music-supported meditation, or creating recordings to share with loved ones.\n- **Art therapy** can be tailored to a child's interests to raise self-esteem and self-awareness.\n\nWith the help of a board-certified music therapist and art therapist, patients can explore how music and art might best support them during a challenging hospital admission.\n\n> Child life and pediatric integrative therapies are designed to **complement, not replace,** conventional medical treatments. Collaborative efforts ensure a well-rounded and supportive approach to pediatric healthcare.\n\n## Special Programming\n\nThe child life department collaborates with programming throughout inpatient and outpatient pediatric areas. Current special programming may include:\n\n### Acupuncture and Acupressure\n\nAcupuncture uses fine, sterile needles applied to specific areas of the body to stimulate energy flow; acupressure involves applying gentle pressure to these same points with the hands. The acupuncturist will work with you and your care team.\n\n### Art Therapy Group\n\nA peer space designed to provide pediatric patients with an overall sense of community and reduce feelings of isolation through engagement with the visual arts and supportive conversation — using painting, coloring, drawing, sculpting, and building, alongside applied psychological theory facilitated by a board-certified art therapist.\n\n### Child Life Volunteers\n\nChild Life volunteers support and provide play opportunities for our inpatient population.\n\n### Club STAR\n\nA **bereavement peer support group** for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.\n\nFor more information or to register, please contact Hillary D'Amato, MSW, CCLS:\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Facility Dog Kayce\n\nMeet **Kayce**, the first facility dog at Mass General Brigham for Children. He joined the hospital as an employee and member of the Child Life team in September 2024. Kayce is specially trained to help children cope and overcome the stress they may experience during a stay at the hospital.\n\n### Hearts & Noses Hospital Clown Troupe\n\nHospital clowns specially trained to engage, empower, and give choices to children and adults in a medical environment. Clowns receive extensive professional training in the delicate art of engaging children in the hospital — creating an environment that supports play and puts the child in control of the interaction.\n\n### Healing Little Heroes\n\nA non-profit organization that brings superheroes like Captain America and Spider-Man to the bedside of pediatric patients.\n\n### Hero Circle — Martial Arts Program\n\nHero Circle teaches martial arts meditation, movement, and breathing techniques designed to empower children to take control of the pain and stress of their illness. Children **3 years and older** with any pediatric illness, and their siblings, may be eligible for the program.\n\n### Hole in the Wall Gang Camp — Hospital Outreach Program (HOP)\n\nHOP brings the magic of The Hole in the Wall Gang Camp for Seriously Ill Children (founded by Paul Newman in 1988) to patients in the hospital by providing camp activities at the bedside. HOP specialists visit many areas of the hospital to engage children in games, arts and crafts, and fun.\n\n### Massage Therapy\n\nCan help relieve stress, increase relaxation, and lead to a feeling of greater well-being. Massage can alleviate some of the physical symptoms and side effects of treatment, and often relieves pain resulting from excess muscle tension.\n\n### Pet Therapy\n\nA visit from a furry, friendly, and specially trained dog with a trained volunteer handler.\n\n---\n\n*Additional special programming may be available within specific units. Programming is subject to change and may not be available on request. Speak with your child life specialist for more information.*\n\n*Thank you to all of our community partners, donors, and organizations that bring joy to the children and families at Mass General Brigham for Children.*"
-          },
+            "markdown": "## What is the Child Life & Pediatric Integrative Therapies Program?\n\nThe Child Life and Pediatric Integrative Therapies Program at Mass General Brigham for Children helps children and adolescents navigate the mental, emotional, and social effects of illness, medical treatment, and hospitalization.\n\nAs part of the care team, our **board-certified child life specialists** foster positive coping skills and empower children throughout their healthcare experience.\n\n### Child Life and Pediatric Integrative Therapies\n\n- 📞 [617-724-5823](tel:+16177245823) (Massachusetts General Hospital)\n- 🌐 [massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies](https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies)\n\n## Our Services\n\n### Preparation and Education\n\nOur child life specialists provide preparation and education for potentially painful procedures, new or unfamiliar diagnoses, and the nature of the hospital environment. Our team works with patients and families to create a coping plan for procedures using techniques like play, guided imagery, and deep breathing. Child life specialists collaborate with the medical team to provide developmentally appropriate diagnosis education to children to promote understanding.\n\n### Developmental Support\n\nWith expertise in child development, child life specialists use play to support typical development. Child life specialists can help support the development of intellectual, motor, emotional and social skills. Engaging in these activities can support children in reaching developmental milestones.\n\n### Normalization and Play\n\nThe hospital can be a scary place for children, with many new sights and sounds. Our child life team works to create a child-friendly environment through welcoming spaces, such as activity rooms, and opportunities to engage in medical and therapeutic play, creative expression, and peer socialization.\n\n### Enhancing Coping and Emotional Regulation\n\nChild life specialists work with children and families to increase coping and normalization of the environment. These skills include techniques such as mindfulness, guided imagery, relaxation, and distraction techniques. This is particularly valuable during medical procedures and lengthy admissions.\n\n### Family Involvement and Bonding\n\nThrough art, music, and play, our child life team can help promote emotional expression and support children in processing their medical experience. With a passion for advocacy and compassion, child life specialists support families through big challenges. Child life specialists offer legacy-building opportunities during moments of change and loss, as well.\n\n### Art Therapy and Music Therapy\n\nOur music and art therapists use therapeutic interventions to promote wellness.\n\n- **Music therapy** can help support a child's experience through active music making, gentle live music for relaxation, music-supported meditation, or creating recordings to share with loved ones.\n- **Art therapy** can be tailored to a child's interests to raise self-esteem and self-awareness.\n\nWith the help of a board-certified music therapist and art therapist, patients can explore how music and art might best support them during a challenging hospital admission.\n\n> Child life and pediatric integrative therapies are designed to **complement, not replace,** conventional medical treatments. Collaborative efforts ensure a well-rounded and supportive approach to pediatric healthcare.\n\n## Special Programming\n\nThe child life department collaborates with programming throughout inpatient and outpatient pediatric areas. Current special programming may include:\n\n### Acupuncture and Acupressure\n\nAcupuncture uses fine, sterile needles applied to specific areas of the body to stimulate energy flow; acupressure involves applying gentle pressure to these same points with the hands. The acupuncturist will work with you and your care team.\n\n### Art Therapy Group\n\nA peer space designed to provide pediatric patients with an overall sense of community and reduce feelings of isolation through engagement with the visual arts and supportive conversation — using painting, coloring, drawing, sculpting, and building, alongside applied psychological theory facilitated by a board-certified art therapist.\n\n### Child Life Volunteers\n\nChild Life volunteers support and provide play opportunities for our inpatient population.\n\n### Club STAR\n\nA **bereavement peer support group** for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.\n\nFor more information or to register, contact Club STAR.\n\n### Club STAR\n\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Facility Dog Kayce\n\nMeet **Kayce**, the first facility dog at Mass General Brigham for Children. He joined the hospital as an employee and member of the Child Life team in September 2024. Kayce is specially trained to help children cope and overcome the stress they may experience during a stay at the hospital.\n\n### Hearts & Noses Hospital Clown Troupe\n\nHospital clowns specially trained to engage, empower, and give choices to children and adults in a medical environment. Clowns receive extensive professional training in the delicate art of engaging children in the hospital — creating an environment that supports play and puts the child in control of the interaction.\n\n### Healing Little Heroes\n\nA non-profit organization that brings superheroes like Captain America and Spider-Man to the bedside of pediatric patients.\n\n### Hero Circle — Martial Arts Program\n\nHero Circle teaches martial arts meditation, movement, and breathing techniques designed to empower children to take control of the pain and stress of their illness. Children **3 years and older** with any pediatric illness, and their siblings, may be eligible for the program.\n\n### Hole in the Wall Gang Camp — Hospital Outreach Program (HOP)\n\nHOP brings the magic of The Hole in the Wall Gang Camp for Seriously Ill Children (founded by Paul Newman in 1988) to patients in the hospital by providing camp activities at the bedside. HOP specialists visit many areas of the hospital to engage children in games, arts and crafts, and fun.\n\n### Massage Therapy\n\nCan help relieve stress, increase relaxation, and lead to a feeling of greater well-being. Massage can alleviate some of the physical symptoms and side effects of treatment, and often relieves pain resulting from excess muscle tension.\n\n### Pet Therapy\n\nA visit from a furry, friendly, and specially trained dog with a trained volunteer handler.\n\n---\n\n*Additional special programming may be available within specific units. Programming is subject to change and may not be available on request. Speak with your child life specialist for more information.*\n\n*Thank you to all of our community partners, donors, and organizations that bring joy to the children and families at Mass General Brigham for Children.*"
+          }
+        ]
+      },
+      "es": {
+        "description": "Los especialistas en vida infantil ayudan a niños y familias a sobrellevar la hospitalización con juego, educación y programas terapéuticos.",
+        "content": [
           {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies",
-            "label": "Child Life & Pediatric Integrative Therapies — Mass General Brigham for Children",
-            "description": "Learn more about the program, services, and how to request a child life specialist."
+            "type": "text",
+            "markdown": "## ¿Qué es el Programa de Vida Infantil y Terapias Integrativas Pediátricas?\n\nEl Programa de Vida Infantil y Terapias Integrativas Pediátricas de Mass General Brigham para Niños ayuda a niños y adolescentes a enfrentar los efectos mentales, emocionales y sociales de la enfermedad, el tratamiento médico y la hospitalización.\n\nComo parte del equipo de atención, nuestros **especialistas en vida infantil certificados** fomentan habilidades de afrontamiento positivas y empoderan a los niños durante su experiencia de atención médica.\n\n### Programa de Vida Infantil y Terapias Integrativas Pediátricas\n\n- 📞 [617-724-5823](tel:+16177245823) (Massachusetts General Hospital)\n- 🌐 [massgeneralbrigham.org/es/services/child-life-pediatric-integrative-therapies](https://www.massgeneralbrigham.org/es/services/child-life-pediatric-integrative-therapies)\n\n## Nuestros servicios\n\n### Preparación y Educación\n\nNuestros especialistas en vida infantil proporcionan preparación y educación para procedimientos potencialmente dolorosos, diagnósticos nuevos o desconocidos, y la naturaleza del entorno hospitalario. Nuestro equipo trabaja con pacientes y familias para crear un plan de afrontamiento para los procedimientos utilizando técnicas como el juego, la imaginación guiada y la respiración profunda. Los especialistas en vida infantil colaboran con el equipo médico para proporcionar información sobre el diagnóstico adecuada a la etapa de desarrollo de los niños, con el fin de promover la comprensión.\n\n### Apoyo al Desarrollo\n\nCon experiencia en desarrollo infantil, los especialistas en vida infantil utilizan el juego para apoyar el desarrollo típico. Los especialistas en vida infantil pueden ayudar a apoyar el desarrollo de habilidades intelectuales, motoras, emocionales y sociales. Participar en estas actividades puede ayudar a los niños a alcanzar hitos de desarrollo.\n\n### Normalización y Juego\n\nEl hospital puede parecer intimidante para los niños, debido a la cantidad de imágenes y sonidos nuevos. Nuestro equipo de vida infantil trabaja para crear un entorno amigable para los niños mediante espacios acogedores, como salas de actividades, y oportunidades para participar en juegos terapéuticos y médicos, expresión creativa y socialización con otros niños.\n\n### Mejorar el afrontamiento y la regulación emocional\n\nLos especialistas en vida infantil trabajan con niños y familias para fortalecer las habilidades de afrontamiento y promover la normalización del entorno. Estas habilidades incluyen técnicas como la atención plena, la visualización guiada, la relajación y técnicas de distracción. Esto es particularmente valioso durante procedimientos médicos y admisiones prolongadas.\n\n### Participación familiar y vínculo\n\nA través del arte, la música y el juego, nuestro equipo de vida infantil puede ayudar a promover la expresión emocional y apoyar a los niños en el procesamiento de su experiencia médica. Con una pasión por la defensa y la compasión, los especialistas en vida infantil apoyan a las familias en grandes desafíos. Los especialistas en vida infantil también ofrecen oportunidades para construir un legado durante momentos de cambio y pérdida.\n\n### Terapia de Arte y Terapia Musical\n\nNuestros terapeutas de música y arte utilizan intervenciones terapéuticas para promover el bienestar. La terapia musical puede apoyar la experiencia de un niño mediante la creación activa de música, música en vivo suave para la relajación, meditación asistida por música o la elaboración de grabaciones para compartir con sus seres queridos. La terapia de arte puede adaptarse a los intereses de un niño para aumentar la autoestima y la autoconciencia. Con la ayuda de un terapeuta musical certificado y un terapeuta de arte, los pacientes pueden explorar cómo la música y el arte pueden apoyarlos mejor durante una admisión hospitalaria desafiante.\n\n> Es importante señalar que la vida infantil y las terapias pediátricas integrativas deben complementar, no reemplazar, los tratamientos médicos convencionales. Los esfuerzos colaborativos aseguran un enfoque integral y de apoyo para la atención médica pediátrica.\n\n## Programación especial\n\nEl departamento de vida infantil colabora con la programación en todas las áreas pediátricas hospitalarias y ambulatorias. Con el objetivo de fomentar el bienestar emocional, nuestra programación especial actual puede incluir:\n\n### Acupuntura y Acupresión\n\nLa acupuntura utiliza agujas finas y estériles aplicadas a áreas específicas del cuerpo para estimular el flujo de energía, mientras que la acupresión implica aplicar presión suave a estos mismos puntos con las manos. El acupunturista trabajará con usted y su equipo de atención.\n\n### Grupo de Terapia de Arte\n\nEl Grupo de Terapia de Arte está diseñado para proporcionar a los pacientes pediátricos un sentido general de comunidad y reducir los sentimientos de aislamiento a través de la participación en las artes visuales y en conversaciones de apoyo. Este espacio está destinado a ofrecer una oportunidad de liberación emocional mediante actividades como pintar, colorear, dibujar, esculpir y construir, junto con la aplicación de teoría psicológica por parte de un terapeuta de arte certificado.\n\n### Voluntarios de Vida Infantil\n\nLos voluntarios de Vida Infantil apoyan y ofrecen oportunidades de juego a nuestros pacientes hospitalizados.\n\n### Club STAR\n\nEl Club STAR es un grupo de apoyo entre pares para niños y adolescentes (desde jardín de infantes hasta el último año de secundaria) que atraviesan el duelo por la pérdida de un padre o de un hermano. El grupo se reúne mensualmente en persona o a través de Zoom. La cena y el estacionamiento están incluidos para grupos presenciales. El Club STAR está organizado por especialistas en vida infantil de Mass General Brigham for Children. Para más información o para registrarse, comuníquese con el Club STAR.\n\n### Club STAR\n\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Kayce, el perro de apoyo institucional\n\nKayce es el primer perro de apoyo institucional en Mass General Brigham para Niños. Se unió al hospital como parte del equipo de vida infantil en septiembre de 2024. Kayce está especialmente capacitado para ayudar a los niños a sobrellevar y superar el estrés que pueden experimentar durante su estancia en el hospital.\n\n### El grupo de payasos del Hospital Hearts & Noses\n\nLos Payasos del Hospital Hearts & Noses están especialmente entrenados para involucrar, empoderar y dar opciones a niños y adultos en un entorno médico. Los payasos reciben una extensa formación profesional en el delicado arte de involucrar a los niños en el hospital, creando un ambiente que apoya el juego y pone al niño en control de la interacción.\n\n### Sanando a los Pequeños Héroes\n\nUna organización sin fines de lucro creada por un estudiante actual de la Escuela de Medicina de Harvard, para llevar superhéroes como Capitán América y Spider-Man al lado de los pacientes pediátricos.\n\n### Círculo de Héroes - Programa de Artes Marciales\n\nCírculo de Héroes enseña técnicas de meditación, movimiento y respiración inspiradas en las artes marciales, diseñadas para empoderar a los niños para que tomen control del dolor y el estrés de su enfermedad. Los niños de 3 años o más con cualquier enfermedad pediátrica, y sus hermanos, pueden ser candidatos para el programa.\n\n### Campamento Hole In the Wall Gang - Programa de Alcance Hospitalario (HOP)\n\nHOP trae la magia del Campamento Hole in the Wall Gang para Niños Gravemente Enfermos, fundado por Paul Newman en 1988, a los pacientes en el hospital al proporcionar actividades de campamento junto a la cama. Los especialistas de HOP visitan muchas áreas del hospital para que los niños participen en juegos, manualidades y actividades artísticas, disfrutando de momentos de diversión.\n\n### Terapia de Masaje\n\nLa terapia de masaje puede ayudar a aliviar el estrés, aumentar la relajación y llevar a una sensación de mayor bienestar. Puede aliviar algunos de los síntomas físicos y efectos secundarios de la enfermedad y su tratamiento, y a menudo alivia el dolor resultante de la tensión muscular excesiva.\n\n### Terapia con Mascotas\n\nLa terapia con mascotas brinda a los pacientes la oportunidad de recibir una visita de un perro amigable, peludo y especialmente entrenado, y un manejador que también es un voluntario capacitado.\n\n---\n\n*La programación especial adicional puede estar disponible dentro de unidades específicas. Las oportunidades de programación especial están sujetas a cambios y pueden no estar disponibles si se solicita. Hable con su especialista en vida infantil para obtener más información.*\n\n*Gracias a todos nuestros socios comunitarios, donantes y organizaciones que traen alegría a los niños y familias en Mass General Brigham para Niños.*"
           }
         ]
       }
@@ -5734,67 +5794,118 @@
       "facility dog",
       "pet therapy"
     ],
-    "notes": null,
+    "notes": "Opening and services matched to https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies (re-checked 2026-10-23); Art/Music therapy and Special Programming kept by Mark though not on MGB's page (all still listed on MGB's Spanish page 2026-10-23; Club STAR card without a person's name); approved by Mark 2026-10-23.\nSpanish from MGB's /es/ Child Life page (live 2026-10-23, incl. art/music therapy and special programming); title, card summary, two section titles and the Club STAR contact sentence translated by Claude, need Spanish review. Approved by Mark 2026-10-23.",
     "description": {
-      "en": "Child life specialists help children and families cope with hospitalization through play, education, and therapeutic programs."
+      "en": "Child life specialists help children and families cope with hospitalization through play, education, and therapeutic programs.",
+      "es": "Los especialistas en vida infantil ayudan a niños y familias a sobrellevar la hospitalización con juego, educación y programas terapéuticos."
     },
     "blocks": [
       {
-        "id": "what_is_the_child_life_pediatric",
+        "id": "section_g3furcvg",
         "type": "section",
         "title": {
-          "en": "What is the Child Life & Pediatric Integrative Therapies Program?"
+          "en": "What is the Child Life & Pediatric Integrative Therapies Program?",
+          "es": "¿Qué es el Programa de Vida Infantil y Terapias Integrativas Pediátricas?"
         }
       },
       {
-        "id": "what_is_the_child_life_pediatric_text",
+        "id": "text_3s39l6bz",
         "type": "text",
         "markdown": {
-          "en": "The Child Life and Pediatric Integrative Therapies Program at Mass General Brigham for Children helps children and adolescents navigate the mental, emotional, and social effects of illness, medical treatment, and hospitalization.\n\nAs part of the care team, our **board-certified child life specialists** foster positive coping skills and empower children throughout their healthcare experience."
+          "en": "The Child Life and Pediatric Integrative Therapies Program at Mass General Brigham for Children helps children and adolescents navigate the mental, emotional, and social effects of illness, medical treatment, and hospitalization.\n\nAs part of the care team, our **board-certified child life specialists** foster positive coping skills and empower children throughout their healthcare experience.",
+          "es": "El Programa de Vida Infantil y Terapias Integrativas Pediátricas de Mass General Brigham para Niños ayuda a niños y adolescentes a enfrentar los efectos mentales, emocionales y sociales de la enfermedad, el tratamiento médico y la hospitalización.\n\nComo parte del equipo de atención, nuestros **especialistas en vida infantil certificados** fomentan habilidades de afrontamiento positivas y empoderan a los niños durante su experiencia de atención médica."
         }
       },
       {
-        "id": "our_services",
-        "type": "section",
-        "title": {
-          "en": "Our Services"
-        }
-      },
-      {
-        "id": "our_services_text",
-        "type": "text",
-        "markdown": {
-          "en": "### Preparation and Education\n\nOur child life specialists provide preparation and education for potentially painful procedures, new or unfamiliar diagnoses, and the nature of the hospital environment. Our team works with patients and families to create a coping plan for procedures using techniques like play, guided imagery, and deep breathing. Child life specialists collaborate with the medical team to provide developmentally appropriate diagnosis education to children to promote understanding.\n\n### Developmental Support\n\nWith expertise in child development, child life specialists use play to support typical development — intellectual, motor, emotional, and social skills. Engaging in these activities can support children in reaching developmental milestones.\n\n### Normalization and Play\n\nThe hospital can be a scary place for children, with many new sights and sounds. Our child life team works to create a child-friendly environment through welcoming spaces (like activity rooms) and opportunities to engage in medical and therapeutic play, creative expression, and peer socialization.\n\n### Enhancing Coping and Emotional Regulation\n\nChild life specialists work with children and families to increase coping and normalization of the environment. These skills include techniques such as mindfulness, guided imagery, relaxation, and distraction. This is particularly valuable during medical procedures and lengthy admissions.\n\n### Family Involvement and Bonding\n\nThrough art, music, and play, our child life team can help promote emotional expression and support children in processing their medical experience. With a passion for advocacy and compassion, child life specialists support families through big challenges. Child life specialists also offer legacy-building opportunities during moments of change and loss.\n\n### Art Therapy and Music Therapy\n\nOur music and art therapists use therapeutic interventions to promote wellness.\n\n- **Music therapy** can help support a child's experience through active music making, gentle live music for relaxation, music-supported meditation, or creating recordings to share with loved ones.\n- **Art therapy** can be tailored to a child's interests to raise self-esteem and self-awareness.\n\nWith the help of a board-certified music therapist and art therapist, patients can explore how music and art might best support them during a challenging hospital admission.\n\n> Child life and pediatric integrative therapies are designed to **complement, not replace,** conventional medical treatments. Collaborative efforts ensure a well-rounded and supportive approach to pediatric healthcare."
-        }
-      },
-      {
-        "id": "special_programming",
-        "type": "section",
-        "title": {
-          "en": "Special Programming"
-        }
-      },
-      {
-        "id": "special_programming_text",
-        "type": "text",
-        "markdown": {
-          "en": "The child life department collaborates with programming throughout inpatient and outpatient pediatric areas. Current special programming may include:\n\n### Acupuncture and Acupressure\n\nAcupuncture uses fine, sterile needles applied to specific areas of the body to stimulate energy flow; acupressure involves applying gentle pressure to these same points with the hands. The acupuncturist will work with you and your care team.\n\n### Art Therapy Group\n\nA peer space designed to provide pediatric patients with an overall sense of community and reduce feelings of isolation through engagement with the visual arts and supportive conversation — using painting, coloring, drawing, sculpting, and building, alongside applied psychological theory facilitated by a board-certified art therapist.\n\n### Child Life Volunteers\n\nChild Life volunteers support and provide play opportunities for our inpatient population.\n\n### Club STAR\n\nA **bereavement peer support group** for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.\n\nFor more information or to register, please contact Hillary D'Amato, MSW, CCLS:\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Facility Dog Kayce\n\nMeet **Kayce**, the first facility dog at Mass General Brigham for Children. He joined the hospital as an employee and member of the Child Life team in September 2024. Kayce is specially trained to help children cope and overcome the stress they may experience during a stay at the hospital.\n\n### Hearts & Noses Hospital Clown Troupe\n\nHospital clowns specially trained to engage, empower, and give choices to children and adults in a medical environment. Clowns receive extensive professional training in the delicate art of engaging children in the hospital — creating an environment that supports play and puts the child in control of the interaction.\n\n### Healing Little Heroes\n\nA non-profit organization that brings superheroes like Captain America and Spider-Man to the bedside of pediatric patients.\n\n### Hero Circle — Martial Arts Program\n\nHero Circle teaches martial arts meditation, movement, and breathing techniques designed to empower children to take control of the pain and stress of their illness. Children **3 years and older** with any pediatric illness, and their siblings, may be eligible for the program.\n\n### Hole in the Wall Gang Camp — Hospital Outreach Program (HOP)\n\nHOP brings the magic of The Hole in the Wall Gang Camp for Seriously Ill Children (founded by Paul Newman in 1988) to patients in the hospital by providing camp activities at the bedside. HOP specialists visit many areas of the hospital to engage children in games, arts and crafts, and fun.\n\n### Massage Therapy\n\nCan help relieve stress, increase relaxation, and lead to a feeling of greater well-being. Massage can alleviate some of the physical symptoms and side effects of treatment, and often relieves pain resulting from excess muscle tension.\n\n### Pet Therapy\n\nA visit from a furry, friendly, and specially trained dog with a trained volunteer handler.\n\n---\n\n*Additional special programming may be available within specific units. Programming is subject to change and may not be available on request. Speak with your child life specialist for more information.*\n\n*Thank you to all of our community partners, donors, and organizations that bring joy to the children and families at Mass General Brigham for Children.*"
-        }
-      },
-      {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies"
+        "id": "listing_jzg2jdvl",
+        "type": "listing",
+        "name": {
+          "en": "Child Life and Pediatric Integrative Therapies",
+          "es": "Programa de Vida Infantil y Terapias Integrativas Pediátricas"
         },
-        "label": {
-          "en": "Child Life & Pediatric Integrative Therapies — Mass General Brigham for Children"
+        "phones": [
+          {
+            "id": "phone_lelp5vhi",
+            "number": "+16177245823",
+            "label": {
+              "en": "Massachusetts General Hospital"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_h06m4iov",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/child-life-pediatric-integrative-therapies",
+              "es": "https://www.massgeneralbrigham.org/es/services/child-life-pediatric-integrative-therapies"
+            }
+          }
+        ]
+      },
+      {
+        "id": "section_ht63y9sc",
+        "type": "section",
+        "title": {
+          "en": "Our Services",
+          "es": "Nuestros servicios"
+        }
+      },
+      {
+        "id": "text_xjuuwqoe",
+        "type": "text",
+        "markdown": {
+          "en": "### Preparation and Education\n\nOur child life specialists provide preparation and education for potentially painful procedures, new or unfamiliar diagnoses, and the nature of the hospital environment. Our team works with patients and families to create a coping plan for procedures using techniques like play, guided imagery, and deep breathing. Child life specialists collaborate with the medical team to provide developmentally appropriate diagnosis education to children to promote understanding.\n\n### Developmental Support\n\nWith expertise in child development, child life specialists use play to support typical development. Child life specialists can help support the development of intellectual, motor, emotional and social skills. Engaging in these activities can support children in reaching developmental milestones.\n\n### Normalization and Play\n\nThe hospital can be a scary place for children, with many new sights and sounds. Our child life team works to create a child-friendly environment through welcoming spaces, such as activity rooms, and opportunities to engage in medical and therapeutic play, creative expression, and peer socialization.\n\n### Enhancing Coping and Emotional Regulation\n\nChild life specialists work with children and families to increase coping and normalization of the environment. These skills include techniques such as mindfulness, guided imagery, relaxation, and distraction techniques. This is particularly valuable during medical procedures and lengthy admissions.\n\n### Family Involvement and Bonding\n\nThrough art, music, and play, our child life team can help promote emotional expression and support children in processing their medical experience. With a passion for advocacy and compassion, child life specialists support families through big challenges. Child life specialists offer legacy-building opportunities during moments of change and loss, as well.\n\n### Art Therapy and Music Therapy\n\nOur music and art therapists use therapeutic interventions to promote wellness.\n\n- **Music therapy** can help support a child's experience through active music making, gentle live music for relaxation, music-supported meditation, or creating recordings to share with loved ones.\n- **Art therapy** can be tailored to a child's interests to raise self-esteem and self-awareness.\n\nWith the help of a board-certified music therapist and art therapist, patients can explore how music and art might best support them during a challenging hospital admission.\n\n> Child life and pediatric integrative therapies are designed to **complement, not replace,** conventional medical treatments. Collaborative efforts ensure a well-rounded and supportive approach to pediatric healthcare.",
+          "es": "### Preparación y Educación\n\nNuestros especialistas en vida infantil proporcionan preparación y educación para procedimientos potencialmente dolorosos, diagnósticos nuevos o desconocidos, y la naturaleza del entorno hospitalario. Nuestro equipo trabaja con pacientes y familias para crear un plan de afrontamiento para los procedimientos utilizando técnicas como el juego, la imaginación guiada y la respiración profunda. Los especialistas en vida infantil colaboran con el equipo médico para proporcionar información sobre el diagnóstico adecuada a la etapa de desarrollo de los niños, con el fin de promover la comprensión.\n\n### Apoyo al Desarrollo\n\nCon experiencia en desarrollo infantil, los especialistas en vida infantil utilizan el juego para apoyar el desarrollo típico. Los especialistas en vida infantil pueden ayudar a apoyar el desarrollo de habilidades intelectuales, motoras, emocionales y sociales. Participar en estas actividades puede ayudar a los niños a alcanzar hitos de desarrollo.\n\n### Normalización y Juego\n\nEl hospital puede parecer intimidante para los niños, debido a la cantidad de imágenes y sonidos nuevos. Nuestro equipo de vida infantil trabaja para crear un entorno amigable para los niños mediante espacios acogedores, como salas de actividades, y oportunidades para participar en juegos terapéuticos y médicos, expresión creativa y socialización con otros niños.\n\n### Mejorar el afrontamiento y la regulación emocional\n\nLos especialistas en vida infantil trabajan con niños y familias para fortalecer las habilidades de afrontamiento y promover la normalización del entorno. Estas habilidades incluyen técnicas como la atención plena, la visualización guiada, la relajación y técnicas de distracción. Esto es particularmente valioso durante procedimientos médicos y admisiones prolongadas.\n\n### Participación familiar y vínculo\n\nA través del arte, la música y el juego, nuestro equipo de vida infantil puede ayudar a promover la expresión emocional y apoyar a los niños en el procesamiento de su experiencia médica. Con una pasión por la defensa y la compasión, los especialistas en vida infantil apoyan a las familias en grandes desafíos. Los especialistas en vida infantil también ofrecen oportunidades para construir un legado durante momentos de cambio y pérdida.\n\n### Terapia de Arte y Terapia Musical\n\nNuestros terapeutas de música y arte utilizan intervenciones terapéuticas para promover el bienestar. La terapia musical puede apoyar la experiencia de un niño mediante la creación activa de música, música en vivo suave para la relajación, meditación asistida por música o la elaboración de grabaciones para compartir con sus seres queridos. La terapia de arte puede adaptarse a los intereses de un niño para aumentar la autoestima y la autoconciencia. Con la ayuda de un terapeuta musical certificado y un terapeuta de arte, los pacientes pueden explorar cómo la música y el arte pueden apoyarlos mejor durante una admisión hospitalaria desafiante.\n\n> Es importante señalar que la vida infantil y las terapias pediátricas integrativas deben complementar, no reemplazar, los tratamientos médicos convencionales. Los esfuerzos colaborativos aseguran un enfoque integral y de apoyo para la atención médica pediátrica."
+        }
+      },
+      {
+        "id": "section_odapv5j4",
+        "type": "section",
+        "title": {
+          "en": "Special Programming",
+          "es": "Programación especial"
+        }
+      },
+      {
+        "id": "text_hxrkhtmp",
+        "type": "text",
+        "markdown": {
+          "en": "The child life department collaborates with programming throughout inpatient and outpatient pediatric areas. Current special programming may include:\n\n### Acupuncture and Acupressure\n\nAcupuncture uses fine, sterile needles applied to specific areas of the body to stimulate energy flow; acupressure involves applying gentle pressure to these same points with the hands. The acupuncturist will work with you and your care team.\n\n### Art Therapy Group\n\nA peer space designed to provide pediatric patients with an overall sense of community and reduce feelings of isolation through engagement with the visual arts and supportive conversation — using painting, coloring, drawing, sculpting, and building, alongside applied psychological theory facilitated by a board-certified art therapist.\n\n### Child Life Volunteers\n\nChild Life volunteers support and provide play opportunities for our inpatient population.\n\n### Club STAR\n\nA **bereavement peer support group** for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.\n\nFor more information or to register, contact Club STAR.",
+          "es": "El departamento de vida infantil colabora con la programación en todas las áreas pediátricas hospitalarias y ambulatorias. Con el objetivo de fomentar el bienestar emocional, nuestra programación especial actual puede incluir:\n\n### Acupuntura y Acupresión\n\nLa acupuntura utiliza agujas finas y estériles aplicadas a áreas específicas del cuerpo para estimular el flujo de energía, mientras que la acupresión implica aplicar presión suave a estos mismos puntos con las manos. El acupunturista trabajará con usted y su equipo de atención.\n\n### Grupo de Terapia de Arte\n\nEl Grupo de Terapia de Arte está diseñado para proporcionar a los pacientes pediátricos un sentido general de comunidad y reducir los sentimientos de aislamiento a través de la participación en las artes visuales y en conversaciones de apoyo. Este espacio está destinado a ofrecer una oportunidad de liberación emocional mediante actividades como pintar, colorear, dibujar, esculpir y construir, junto con la aplicación de teoría psicológica por parte de un terapeuta de arte certificado.\n\n### Voluntarios de Vida Infantil\n\nLos voluntarios de Vida Infantil apoyan y ofrecen oportunidades de juego a nuestros pacientes hospitalizados.\n\n### Club STAR\n\nEl Club STAR es un grupo de apoyo entre pares para niños y adolescentes (desde jardín de infantes hasta el último año de secundaria) que atraviesan el duelo por la pérdida de un padre o de un hermano. El grupo se reúne mensualmente en persona o a través de Zoom. La cena y el estacionamiento están incluidos para grupos presenciales. El Club STAR está organizado por especialistas en vida infantil de Mass General Brigham for Children. Para más información o para registrarse, comuníquese con el Club STAR."
+        }
+      },
+      {
+        "id": "listing_imr2lhzj",
+        "type": "listing",
+        "name": {
+          "en": "Club STAR",
+          "es": "Club STAR"
         },
-        "description": {
-          "en": "Learn more about the program, services, and how to request a child life specialist."
+        "phones": [
+          {
+            "id": "phone_1saysbzn",
+            "number": "+16176439276"
+          }
+        ],
+        "emails": [
+          {
+            "id": "email_9u5kmuab",
+            "email": "mghclubstar@partners.org"
+          }
+        ]
+      },
+      {
+        "id": "text_5kz0bm47",
+        "type": "text",
+        "markdown": {
+          "en": "### Facility Dog Kayce\n\nMeet **Kayce**, the first facility dog at Mass General Brigham for Children. He joined the hospital as an employee and member of the Child Life team in September 2024. Kayce is specially trained to help children cope and overcome the stress they may experience during a stay at the hospital.\n\n### Hearts & Noses Hospital Clown Troupe\n\nHospital clowns specially trained to engage, empower, and give choices to children and adults in a medical environment. Clowns receive extensive professional training in the delicate art of engaging children in the hospital — creating an environment that supports play and puts the child in control of the interaction.\n\n### Healing Little Heroes\n\nA non-profit organization that brings superheroes like Captain America and Spider-Man to the bedside of pediatric patients.\n\n### Hero Circle — Martial Arts Program\n\nHero Circle teaches martial arts meditation, movement, and breathing techniques designed to empower children to take control of the pain and stress of their illness. Children **3 years and older** with any pediatric illness, and their siblings, may be eligible for the program.\n\n### Hole in the Wall Gang Camp — Hospital Outreach Program (HOP)\n\nHOP brings the magic of The Hole in the Wall Gang Camp for Seriously Ill Children (founded by Paul Newman in 1988) to patients in the hospital by providing camp activities at the bedside. HOP specialists visit many areas of the hospital to engage children in games, arts and crafts, and fun.\n\n### Massage Therapy\n\nCan help relieve stress, increase relaxation, and lead to a feeling of greater well-being. Massage can alleviate some of the physical symptoms and side effects of treatment, and often relieves pain resulting from excess muscle tension.\n\n### Pet Therapy\n\nA visit from a furry, friendly, and specially trained dog with a trained volunteer handler.\n\n---\n\n*Additional special programming may be available within specific units. Programming is subject to change and may not be available on request. Speak with your child life specialist for more information.*\n\n*Thank you to all of our community partners, donors, and organizations that bring joy to the children and families at Mass General Brigham for Children.*",
+          "es": "### Kayce, el perro de apoyo institucional\n\nKayce es el primer perro de apoyo institucional en Mass General Brigham para Niños. Se unió al hospital como parte del equipo de vida infantil en septiembre de 2024. Kayce está especialmente capacitado para ayudar a los niños a sobrellevar y superar el estrés que pueden experimentar durante su estancia en el hospital.\n\n### El grupo de payasos del Hospital Hearts & Noses\n\nLos Payasos del Hospital Hearts & Noses están especialmente entrenados para involucrar, empoderar y dar opciones a niños y adultos en un entorno médico. Los payasos reciben una extensa formación profesional en el delicado arte de involucrar a los niños en el hospital, creando un ambiente que apoya el juego y pone al niño en control de la interacción.\n\n### Sanando a los Pequeños Héroes\n\nUna organización sin fines de lucro creada por un estudiante actual de la Escuela de Medicina de Harvard, para llevar superhéroes como Capitán América y Spider-Man al lado de los pacientes pediátricos.\n\n### Círculo de Héroes - Programa de Artes Marciales\n\nCírculo de Héroes enseña técnicas de meditación, movimiento y respiración inspiradas en las artes marciales, diseñadas para empoderar a los niños para que tomen control del dolor y el estrés de su enfermedad. Los niños de 3 años o más con cualquier enfermedad pediátrica, y sus hermanos, pueden ser candidatos para el programa.\n\n### Campamento Hole In the Wall Gang - Programa de Alcance Hospitalario (HOP)\n\nHOP trae la magia del Campamento Hole in the Wall Gang para Niños Gravemente Enfermos, fundado por Paul Newman en 1988, a los pacientes en el hospital al proporcionar actividades de campamento junto a la cama. Los especialistas de HOP visitan muchas áreas del hospital para que los niños participen en juegos, manualidades y actividades artísticas, disfrutando de momentos de diversión.\n\n### Terapia de Masaje\n\nLa terapia de masaje puede ayudar a aliviar el estrés, aumentar la relajación y llevar a una sensación de mayor bienestar. Puede aliviar algunos de los síntomas físicos y efectos secundarios de la enfermedad y su tratamiento, y a menudo alivia el dolor resultante de la tensión muscular excesiva.\n\n### Terapia con Mascotas\n\nLa terapia con mascotas brinda a los pacientes la oportunidad de recibir una visita de un perro amigable, peludo y especialmente entrenado, y un manejador que también es un voluntario capacitado.\n\n---\n\n*La programación especial adicional puede estar disponible dentro de unidades específicas. Las oportunidades de programación especial están sujetas a cambios y pueden no estar disponibles si se solicita. Hable con su especialista en vida infantil para obtener más información.*\n\n*Gracias a todos nuestros socios comunitarios, donantes y organizaciones que traen alegría a los niños y familias en Mass General Brigham para Niños.*"
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Especialistas certificados en vida infantil"
+    }
   },
   {
     "id": "critical_care_doctors_whos_who",
@@ -9378,13 +9489,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Patients and visitors can park at the **Fruit Street Garage**, **Parkman Street Garage**, **Yawkey Center Garage**, and **Charles River Plaza**. Valet parking is available at the Wang and Yawkey Centers.\n\n## Get your ticket validated\n\nValidated rates are much lower than the regular garage rates (up to $65 a day without validation). Have your ticket validated at the **cashier office on the ground-floor lobby of the garage** before you leave — there are no cashiers at the exit lanes.\n\n- **Fruit Street Garage** cashier: open around the clock\n- **Yawkey Center** cashier: 7 am–11 pm daily; after hours, use Fruit Street\n- **Parkman Street** cashier: Monday–Friday 9 am–5 pm; otherwise use Fruit Street\n\n## Validated patient and visitor rates\n\nEffective February 1, 2026:\n\n- Up to 30 minutes: free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nParking questions: 📞 [617-726-8886](tel:+16177268886)"
-          },
+            "markdown": "Massachusetts General Hospital's main campus spans nearly 30 buildings. We offer parking for patients and visitors at:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nWe also offer valet parking at the Wang and Yawkey Centers.\n\nFor additional information about parking rates at Mass General, please contact the Parking Office.\n\n### Mass General Parking Office\n\n- 📞 [617-726-8886](tel:+16177268886)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking](https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking)\n\n## Get your ticket validated\n\nParking tickets are validated at the cashier in the central payment office, located on the ground floor lobby of each garage. Please note there are no cashiers at the garage exits.\n\n- The Yawkey Center cashier office is open from 7 a.m. to 11 p.m. every day. Tickets can be processed in Fruit Street Garage after hours.\n- The Parkman Street Garage cashier office is open 9 a.m. to 5 p.m. from Monday to Friday. It's closed on weekends and holidays. Tickets can be processed in Fruit Street Garage cashier office.\n\n## Validated patient and visitor rates\n\nNew rates effective February 1, 2026, at the Fruit Street, Parkman Street, Yawkey Center and Charles River Plaza garages:\n\n- 0 to 30 minutes: Free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nWithout validation, parking costs up to $65 a day.\n\n## Appointments at 165, 175, or 185 Cambridge Street\n\nPatients with appointments at 165, 175, and 185 Cambridge Street should park in the Charles River Plaza garage, with the entrance at 207 Cambridge Street, next to Flour Bakery. Parking on the outside deck is for Charles River Plaza (CRP) retail customers only.\n\nPatients must have their parking ticket validated by the cashier in the 165 Cambridge Street lobby, or at the garage cashier office located to the right of the garage exit. Patient validation is not available at the exit lane parking equipment.\n\n### Charles River Plaza Garage\n\nEntrance next to Flour Bakery.\n\n- 207 Cambridge Street, Boston, MA 02114"
+          }
+        ]
+      },
+      "es": {
+        "description": "Dónde estacionar, cuánto cuesta con validación y dónde validar su boleto: no hay cajeros en las salidas.",
+        "content": [
           {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
-            "label": "Getting Here and Parking — Mass General Brigham",
-            "description": "Garages, valet, rates, and directions for the main campus."
+            "type": "text",
+            "markdown": "Massachusetts General Hospital abarca casi 30 edificios. Ofrecemos estacionamiento para pacientes y visitantes en:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nTambién ofrecemos servicio de valet en los centros Wang y Yawkey.\n\nPara obtener más información sobre las tarifas de estacionamiento en Mass General, comuníquese con la Oficina de Estacionamiento.\n\n### Oficina de Estacionamiento de Mass General\n\n- 📞 [617-726-8886](tel:+16177268886)\n- 🌐 [massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking](https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking)\n\n## Valide su boleto de estacionamiento\n\nLos boletos de estacionamiento se validan en la caja de la oficina central de pagos, ubicada en el vestíbulo de la planta baja de cada garaje. Tenga en cuenta que no hay cajeros en las salidas de los garajes.\n\n- La oficina de caja del Yawkey Center está abierta de 7 a. m. a 11 p. m. todos los días. Fuera de ese horario, los boletos se pueden procesar en el Fruit Street Garage.\n- La oficina de caja del Parkman Street Garage está abierta de 9 a. m. a 5 p. m., de lunes a viernes. Está cerrada los fines de semana y días festivos. Los boletos se pueden procesar en la oficina de caja del Fruit Street Garage.\n\n## Tarifas validadas para pacientes y visitantes\n\nNuevas tarifas vigentes desde el 1 de febrero de 2026, en los garajes Fruit Street, Parkman Street, Yawkey Center y Charles River Plaza:\n\n- 0 a 30 minutos: gratis\n- 30 minutos a 1 hora: $11\n- 1 a 2 horas: $12\n- 2 a 4 horas: $14\n- 4 a 6 horas: $16\n- 6 a 8 horas: $19\n- 8 a 24 horas: $21\n\nSin validación, el estacionamiento cuesta hasta $65 al día.\n\n## Citas en 165, 175 o 185 Cambridge Street\n\nSi tiene una cita en 165, 175 o 185 Cambridge Street, estacione en el garaje de Charles River Plaza, con entrada en 207 Cambridge Street. El estacionamiento en la cubierta exterior es solo para clientes del comercio de Charles River Plaza.\n\nValide el boleto de estacionamiento en el vestíbulo de 165 Cambridge Street o en la oficina de caja del garaje, a la derecha del carril de salida. No es posible validar el boleto en el equipo de salida.\n\n### Garaje de Charles River Plaza\n\nEntrada junto a Flour Bakery.\n\n- 207 Cambridge Street, Boston, MA 02114"
           }
         ]
       }
@@ -9401,60 +9515,110 @@
       "validation",
       "validate ticket"
     ],
-    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking (rates effective 2026-02-01). Team to verify: the 617-726-8886 parking number (MGB pages show 617-726-2000 main), the Fruit Street cashier 'around the clock' wording (source says the office is open 24/7), and whether any discounted multi-day rate exists for families of inpatients — the page doesn't mention one.",
+    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking (rates effective 2026-02-01). Team to verify: the 617-726-8886 parking number (MGB pages show 617-726-2000 main), the Fruit Street cashier 'around the clock' wording (source says the office is open 24/7), and whether any discounted multi-day rate exists for families of inpatients — the page doesn't mention one.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking (snapshot 2026-10-21, live page unchanged 2026-10-23); 617-726-8886 confirmed as the Parking Office number; approved by Mark 2026-10-23.\nSpanish: garages, valet and Charles River Plaza paragraphs from MGB's /es/ parking page (2026-10-23); title, card summary, headings, Parking Office line, cashier hours, rates and card names translated by Claude, need Spanish review. Approved by Mark 2026-10-23.",
     "description": {
-      "en": "Where to park, what it costs with validation, and where to get your ticket validated — there are no cashiers at the exits."
+      "en": "Where to park, what it costs with validation, and where to get your ticket validated — there are no cashiers at the exits.",
+      "es": "Dónde estacionar, cuánto cuesta con validación y dónde validar su boleto: no hay cajeros en las salidas."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_s23fl9na",
         "type": "text",
         "markdown": {
-          "en": "Patients and visitors can park at the **Fruit Street Garage**, **Parkman Street Garage**, **Yawkey Center Garage**, and **Charles River Plaza**. Valet parking is available at the Wang and Yawkey Centers."
+          "en": "Massachusetts General Hospital's main campus spans nearly 30 buildings. We offer parking for patients and visitors at:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nWe also offer valet parking at the Wang and Yawkey Centers.\n\nFor additional information about parking rates at Mass General, please contact the Parking Office.",
+          "es": "Massachusetts General Hospital abarca casi 30 edificios. Ofrecemos estacionamiento para pacientes y visitantes en:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nTambién ofrecemos servicio de valet en los centros Wang y Yawkey.\n\nPara obtener más información sobre las tarifas de estacionamiento en Mass General, comuníquese con la Oficina de Estacionamiento."
         }
       },
       {
-        "id": "get_your_ticket_validated",
+        "id": "listing_tzef0e1b",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Parking Office",
+          "es": "Oficina de Estacionamiento de Mass General"
+        },
+        "phones": [
+          {
+            "id": "phone_6feeq310",
+            "number": "+16177268886"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_aee3z7qr",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+              "es": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking"
+            }
+          }
+        ]
+      },
+      {
+        "id": "section_n1sahcs0",
         "type": "section",
         "title": {
-          "en": "Get your ticket validated"
+          "en": "Get your ticket validated",
+          "es": "Valide su boleto de estacionamiento"
         }
       },
       {
-        "id": "get_your_ticket_validated_text",
+        "id": "text_clrs3rwr",
         "type": "text",
         "markdown": {
-          "en": "Validated rates are much lower than the regular garage rates (up to $65 a day without validation). Have your ticket validated at the **cashier office on the ground-floor lobby of the garage** before you leave — there are no cashiers at the exit lanes.\n\n- **Fruit Street Garage** cashier: open around the clock\n- **Yawkey Center** cashier: 7 am–11 pm daily; after hours, use Fruit Street\n- **Parkman Street** cashier: Monday–Friday 9 am–5 pm; otherwise use Fruit Street"
+          "en": "Parking tickets are validated at the cashier in the central payment office, located on the ground floor lobby of each garage. Please note there are no cashiers at the garage exits.\n\n- The Yawkey Center cashier office is open from 7 a.m. to 11 p.m. every day. Tickets can be processed in Fruit Street Garage after hours.\n- The Parkman Street Garage cashier office is open 9 a.m. to 5 p.m. from Monday to Friday. It's closed on weekends and holidays. Tickets can be processed in Fruit Street Garage cashier office.",
+          "es": "Los boletos de estacionamiento se validan en la caja de la oficina central de pagos, ubicada en el vestíbulo de la planta baja de cada garaje. Tenga en cuenta que no hay cajeros en las salidas de los garajes.\n\n- La oficina de caja del Yawkey Center está abierta de 7 a. m. a 11 p. m. todos los días. Fuera de ese horario, los boletos se pueden procesar en el Fruit Street Garage.\n- La oficina de caja del Parkman Street Garage está abierta de 9 a. m. a 5 p. m., de lunes a viernes. Está cerrada los fines de semana y días festivos. Los boletos se pueden procesar en la oficina de caja del Fruit Street Garage."
         }
       },
       {
-        "id": "validated_patient_and_visitor_rates",
+        "id": "section_588mho7c",
         "type": "section",
         "title": {
-          "en": "Validated patient and visitor rates"
+          "en": "Validated patient and visitor rates",
+          "es": "Tarifas validadas para pacientes y visitantes"
         }
       },
       {
-        "id": "validated_patient_and_visitor_rates_text",
+        "id": "text_z3k4oa19",
         "type": "text",
         "markdown": {
-          "en": "Effective February 1, 2026:\n\n- Up to 30 minutes: free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nParking questions: 📞 [617-726-8886](tel:+16177268886)"
+          "en": "New rates effective February 1, 2026, at the Fruit Street, Parkman Street, Yawkey Center and Charles River Plaza garages:\n\n- 0 to 30 minutes: Free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nWithout validation, parking costs up to $65 a day.",
+          "es": "Nuevas tarifas vigentes desde el 1 de febrero de 2026, en los garajes Fruit Street, Parkman Street, Yawkey Center y Charles River Plaza:\n\n- 0 a 30 minutos: gratis\n- 30 minutos a 1 hora: $11\n- 1 a 2 horas: $12\n- 2 a 4 horas: $14\n- 4 a 6 horas: $16\n- 6 a 8 horas: $19\n- 8 a 24 horas: $21\n\nSin validación, el estacionamiento cuesta hasta $65 al día."
         }
       },
       {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking"
+        "id": "section_0m7kmucb",
+        "type": "section",
+        "title": {
+          "en": "Appointments at 165, 175, or 185 Cambridge Street",
+          "es": "Citas en 165, 175 o 185 Cambridge Street"
+        }
+      },
+      {
+        "id": "text_db5fw54a",
+        "type": "text",
+        "markdown": {
+          "en": "Patients with appointments at 165, 175, and 185 Cambridge Street should park in the Charles River Plaza garage, with the entrance at 207 Cambridge Street, next to Flour Bakery. Parking on the outside deck is for Charles River Plaza (CRP) retail customers only.\n\nPatients must have their parking ticket validated by the cashier in the 165 Cambridge Street lobby, or at the garage cashier office located to the right of the garage exit. Patient validation is not available at the exit lane parking equipment.",
+          "es": "Si tiene una cita en 165, 175 o 185 Cambridge Street, estacione en el garaje de Charles River Plaza, con entrada en 207 Cambridge Street. El estacionamiento en la cubierta exterior es solo para clientes del comercio de Charles River Plaza.\n\nValide el boleto de estacionamiento en el vestíbulo de 165 Cambridge Street o en la oficina de caja del garaje, a la derecha del carril de salida. No es posible validar el boleto en el equipo de salida."
+        }
+      },
+      {
+        "id": "listing_7jsooy3c",
+        "type": "listing",
+        "name": {
+          "en": "Charles River Plaza Garage",
+          "es": "Garaje de Charles River Plaza"
         },
-        "label": {
-          "en": "Getting Here and Parking — Mass General Brigham"
+        "address": {
+          "en": "207 Cambridge Street, Boston, MA 02114"
         },
-        "description": {
-          "en": "Garages, valet, rates, and directions for the main campus."
+        "notes": {
+          "en": "Entrance next to Flour Bakery.",
+          "es": "Entrada junto a Flour Bakery."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Estacionamiento en Mass General"
+    }
   },
   {
     "id": "getting_here_by_public_transit",
