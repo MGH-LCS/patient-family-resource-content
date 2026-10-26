@@ -981,17 +981,52 @@
     },
     "languages": {
       "en": {
-        "description": "Access your test results, communicate with your care team, view and pay your bills, and more.",
+        "description": "Schedule appointments, participate in virtual visits, renew prescriptions, and more through our secure electronic portal.",
         "content": [
           {
             "type": "text",
-            "markdown": "Patient Gateway is Mass General Brigham's secure online portal for patients and families. Access test results, send messages to your care team, view and pay bills, schedule appointments, and manage prescriptions."
+            "markdown": "### Mass General Brigham Patient Gateway\n\n- 🌐 [Log in or enroll](https://patientgateway.massgeneralbrigham.org/)\n- 🌐 [iOS app](https://apps.apple.com/us/app/patient-gateway/id1175078347)\n- 🌐 [Android app](https://play.google.com/store/apps/details?id=org.partners.ppgmob)\n\nMass General Brigham Patient Gateway is a secure electronic portal that helps you better manage your own health or the health of a family member. Patient Gateway allows you to do these things and more:\n\n- Communicate with your health care team\n- Schedule appointments\n- Participate in virtual visits\n- Review your medications and renew prescriptions\n- View lab or test results\n- Read visit notes and after-visit summaries\n- Request referrals\n- Pay your bill\n- Read health and wellness information\n\nParents, guardians, and adult children also can take advantage of these features to coordinate care for children, dependents, or parents.\n\nPatient Gateway is available in English, Arabic, Traditional Chinese, Haitian Creole, Portuguese, Russian, and Spanish.\n\n## During a hospital stay\n\nIf you are admitted to one of our hospitals as an inpatient, you can see important information about your hospital stay. This information includes your inpatient medication list, who is on your care team and their progress notes, and education materials.\n\n## Access to your child's account\n\nA Patient Gateway patient care representative (PCR) account can be set up for patients. A Patient Gateway PCR is not the same thing as a health care proxy. A spouse, parent, adult child, or other designee may become a Patient Gateway PCR if they have been authorized by the patient. Please note that Patient Gateway access for teens and their PCR is limited to meet state regulations for confidential teen care.\n\nParents or legal guardians can set up a Patient Care Representative (PCR) account to see their child's health records in Patient Gateway. There are 3 ways to request access:\n\n1. Log in to Patient Gateway and fill out the PCR access request form.\n2. Request access during an appointment.\n3. Call Technical Support.\n\nLegal guardians must provide documentation of guardianship before access is approved.\n\n**Children (ages 0–12):** PCR has full access to the child's health records. But once the child turns 13, access will become limited. This is to protect your teen's privacy and confidentiality, which is required by Massachusetts state law.\n\n**Teens (ages 13–17):** PCR can see all records from ages 0–12. However, PCR access to teens is limited. An example of information that is not shared is anything related to sexual activity/contraception.\n\nWhen the teen turns 18, PCR access ends automatically."
           },
           {
             "type": "link",
-            "url": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login",
-            "label": "Patient Gateway — Mass General Brigham",
-            "description": "Sign in to view your records, message your care team, and pay bills."
+            "url": "tel:+18007459683",
+            "label": "Patient Gateway Technical Support",
+            "description": "Help with enrolling, logging in, or setting up access to your child's account."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/patient-gateway-pcr-proxy-pedi.pdf",
+            "label": "Patient Gateway Access for Parents/Guardians (PDF)",
+            "description": "Mass General Brigham's one-page guide to parent access by age."
+          },
+          {
+            "type": "text",
+            "markdown": "## How to use Patient Gateway\n\nPatient Gateway is best used to make simple requests or review your health information. Here are some examples of appropriate and inappropriate use of Patient Gateway:\n\nDo use Patient Gateway to:\n\n- Request non-urgent prescription refills.\n- Request scheduling of non-urgent appointments.\n- Send photos or information for the care team to review before an appointment.\n- View bills and make payments.\n- Securely message your care team for non-urgent medical concerns.\n- View health information, such as your medication list, test results, and screening tests you might be due for.\n\nDo NOT use Patient Gateway to:\n\n- Make any urgent requests or ask urgent questions. Please contact the office with any urgent needs.\n- Send social or personal conversations, photos, and videos that are not related to health care.\n- Discuss complex medical issues or new severe medical symptoms. These are often best addressed in a visit with your provider or care team.\n- Ask questions about family members from your own Patient Gateway account.\n- Make complaints about other providers or care experiences. If you have concerns about your experience, please contact the patient relations office for the clinic or hospital."
+          }
+        ]
+      },
+      "es": {
+        "description": "Agende citas, participe en visitas virtuales, renueve recetas y mucho más mediante nuestro portal electrónico seguro.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "### Mass General Brigham Patient Gateway\n\n- 🌐 [Inicie sesión o inscríbase](https://patientgateway.massgeneralbrigham.org/)\n- 🌐 [Aplicación para iOS](https://apps.apple.com/us/app/patient-gateway/id1175078347)\n- 🌐 [Aplicación para Android](https://play.google.com/store/apps/details?id=org.partners.ppgmob)\n\nPatient Gateway de Mass General Brigham es un portal electrónico seguro que le ayuda a gestionar mejor su salud o la de un familiar. Patient Gateway le permite hacer lo siguiente y mucho más:\n\n- Comunicarse con su equipo de atención médica\n- Agendar citas\n- Participar en visitas virtuales\n- Revisar sus medicamentos y renovar recetas\n- Ver resultados de laboratorio o pruebas\n- Leer notas de las visitas y resúmenes posteriores a las visitas\n- Solicitar referidos\n- Pagar su factura\n- Leer información sobre salud y bienestar\n\nLas madres, los padres, las personas tutoras y los hijos adultos también pueden usar estas funciones para coordinar la atención de niños, personas dependientes o padres.\n\nPatient Gateway está disponible en inglés, árabe, chino tradicional, criollo haitiano, portugués, ruso y español.\n\n## Durante una hospitalización\n\nSi ingresa en uno de nuestros hospitales como paciente hospitalizado, podrá ver información importante sobre su hospitalización. Esta información incluye su lista de medicamentos durante la hospitalización, los integrantes de su equipo de atención y sus notas de evolución, además de materiales educativos.\n\n## Acceso a la cuenta de su hijo\n\nSe puede configurar una cuenta de representante de atención al paciente (PCR) de Patient Gateway para los pacientes. Un PCR de Patient Gateway no es lo mismo que un apoderado para la atención médica. Un cónyuge, la madre, el padre, un hijo adulto u otra persona designada puede convertirse en PCR de Patient Gateway si el paciente le ha dado autorización. Tenga en cuenta que el acceso a Patient Gateway para adolescentes y sus PCR está limitado para cumplir con las normativas estatales sobre la atención confidencial de adolescentes.\n\nLos padres o tutores legales pueden crear una cuenta de representante de atención al paciente (PCR) para ver los registros médicos de su hijo en Patient Gateway. Hay 3 maneras de solicitar acceso:\n\n1. Inicie sesión en Patient Gateway y complete el formulario de solicitud de acceso de PCR.\n2. Solicite acceso durante una cita.\n3. Llame a Soporte Técnico.\n\nLos tutores legales deben presentar documentación de la tutela antes de que se apruebe el acceso.\n\n**Niños (de 0 a 12 años):** el PCR tiene acceso completo a los registros médicos del niño. Pero cuando el niño cumple 13 años, el acceso se limita. Esto protege la privacidad y la confidencialidad de su hijo adolescente, como lo exige la ley del estado de Massachusetts.\n\n**Adolescentes (de 13 a 17 años):** el PCR puede ver todos los registros de los 0 a los 12 años. Sin embargo, el acceso del PCR a los registros del adolescente es limitado. Por ejemplo, no se comparte nada relacionado con la actividad sexual o la anticoncepción.\n\nCuando el adolescente cumple 18 años, el acceso del PCR termina automáticamente."
+          },
+          {
+            "type": "link",
+            "url": "tel:+18007459683",
+            "label": "Soporte Técnico de Patient Gateway",
+            "description": "Ayuda para inscribirse, iniciar sesión o configurar el acceso a la cuenta de su hijo."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/patient-gateway-pcr-proxy-pedi.pdf",
+            "label": "Acceso a Patient Gateway para padres y tutores (PDF, en inglés)",
+            "description": "La guía de una página de Mass General Brigham sobre el acceso de los padres según la edad."
+          },
+          {
+            "type": "text",
+            "markdown": "## Cómo usar Patient Gateway\n\nPatient Gateway es más adecuado para hacer solicitudes sencillas o consultar su información médica. A continuación, se ofrecen algunos ejemplos de usos apropiados e inapropiados de Patient Gateway:\n\nUse Patient Gateway para lo siguiente:\n\n- Solicitar renovaciones no urgentes de recetas.\n- Solicitar que se agenden citas no urgentes.\n- Enviar fotografías o información para que el equipo de atención las revise antes de una cita.\n- Ver facturas y realizar pagos.\n- Enviar mensajes seguros a su equipo de atención sobre inquietudes médicas no urgentes.\n- Ver información médica, como su lista de medicamentos, resultados de pruebas y pruebas de detección que quizá deba realizarse.\n\nNO use Patient Gateway para lo siguiente:\n\n- Hacer solicitudes urgentes o formular preguntas urgentes. Comuníquese con el consultorio si tiene alguna necesidad urgente.\n- Enviar conversaciones, fotografías o videos sociales o personales que no estén relacionados con la atención médica.\n- Hablar sobre problemas médicos complejos o síntomas médicos nuevos y graves. Por lo general, es mejor tratar estos temas durante una visita con su proveedor o equipo de atención.\n- Hacer preguntas sobre familiares desde su propia cuenta de Patient Gateway.\n- Presentar quejas sobre otros proveedores o experiencias de atención. Si tiene inquietudes sobre su experiencia, comuníquese con la oficina de relaciones con pacientes de la clínica o el hospital."
           }
         ]
       }
@@ -1004,32 +1039,144 @@
       "View Pay Bills",
       "Gateway"
     ],
-    "notes": null,
+    "notes": "Rebuilt from https://www.massgeneralbrigham.org/en/patients-visitors/resources/becoming-patient/patient-gateway (live 2026-10-26, page dated 12/18/25) and MGB's Patient Gateway Access for Parents/Guardians PDF; approved by Mark 2026-10-26.\nSpanish from MGB's /es/ Patient Gateway page (2026-10-26); parent-access details (MGB's PDF is English only), section titles, languages line and card button names translated by Claude, need Spanish review. Approved by Mark 2026-10-26.",
     "description": {
-      "en": "Access your test results, communicate with your care team, view and pay your bills, and more."
+      "en": "Schedule appointments, participate in virtual visits, renew prescriptions, and more through our secure electronic portal.",
+      "es": "Agende citas, participe en visitas virtuales, renueve recetas y mucho más mediante nuestro portal electrónico seguro."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "listing_dby5oj19",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Brigham Patient Gateway",
+          "es": "Mass General Brigham Patient Gateway"
+        },
+        "links": [
+          {
+            "id": "link_g453e2vy",
+            "url": {
+              "en": "https://patientgateway.massgeneralbrigham.org/",
+              "es": "https://patientgateway.massgeneralbrigham.org/"
+            },
+            "label": {
+              "en": "Log in or enroll",
+              "es": "Inicie sesión o inscríbase"
+            }
+          },
+          {
+            "id": "link_ykhhvv3m",
+            "url": {
+              "en": "https://apps.apple.com/us/app/patient-gateway/id1175078347",
+              "es": "https://apps.apple.com/us/app/patient-gateway/id1175078347"
+            },
+            "label": {
+              "en": "iOS app",
+              "es": "Aplicación para iOS"
+            }
+          },
+          {
+            "id": "link_em90cyqs",
+            "url": {
+              "en": "https://play.google.com/store/apps/details?id=org.partners.ppgmob",
+              "es": "https://play.google.com/store/apps/details?id=org.partners.ppgmob"
+            },
+            "label": {
+              "en": "Android app",
+              "es": "Aplicación para Android"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_04t0ko2f",
         "type": "text",
         "markdown": {
-          "en": "Patient Gateway is Mass General Brigham's secure online portal for patients and families. Access test results, send messages to your care team, view and pay bills, schedule appointments, and manage prescriptions."
+          "en": "Mass General Brigham Patient Gateway is a secure electronic portal that helps you better manage your own health or the health of a family member. Patient Gateway allows you to do these things and more:\n\n- Communicate with your health care team\n- Schedule appointments\n- Participate in virtual visits\n- Review your medications and renew prescriptions\n- View lab or test results\n- Read visit notes and after-visit summaries\n- Request referrals\n- Pay your bill\n- Read health and wellness information\n\nParents, guardians, and adult children also can take advantage of these features to coordinate care for children, dependents, or parents.\n\nPatient Gateway is available in English, Arabic, Traditional Chinese, Haitian Creole, Portuguese, Russian, and Spanish.",
+          "es": "Patient Gateway de Mass General Brigham es un portal electrónico seguro que le ayuda a gestionar mejor su salud o la de un familiar. Patient Gateway le permite hacer lo siguiente y mucho más:\n\n- Comunicarse con su equipo de atención médica\n- Agendar citas\n- Participar en visitas virtuales\n- Revisar sus medicamentos y renovar recetas\n- Ver resultados de laboratorio o pruebas\n- Leer notas de las visitas y resúmenes posteriores a las visitas\n- Solicitar referidos\n- Pagar su factura\n- Leer información sobre salud y bienestar\n\nLas madres, los padres, las personas tutoras y los hijos adultos también pueden usar estas funciones para coordinar la atención de niños, personas dependientes o padres.\n\nPatient Gateway está disponible en inglés, árabe, chino tradicional, criollo haitiano, portugués, ruso y español."
         }
       },
       {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://patientgateway.massgeneralbrigham.org/mychart-prd/Authentication/Login"
-        },
+        "id": "section_apz49y43",
+        "type": "section",
+        "title": {
+          "en": "During a hospital stay",
+          "es": "Durante una hospitalización"
+        }
+      },
+      {
+        "id": "text_du7f6cbz",
+        "type": "text",
+        "markdown": {
+          "en": "If you are admitted to one of our hospitals as an inpatient, you can see important information about your hospital stay. This information includes your inpatient medication list, who is on your care team and their progress notes, and education materials.",
+          "es": "Si ingresa en uno de nuestros hospitales como paciente hospitalizado, podrá ver información importante sobre su hospitalización. Esta información incluye su lista de medicamentos durante la hospitalización, los integrantes de su equipo de atención y sus notas de evolución, además de materiales educativos."
+        }
+      },
+      {
+        "id": "section_hcrra0ut",
+        "type": "section",
+        "title": {
+          "en": "Access to your child's account",
+          "es": "Acceso a la cuenta de su hijo"
+        }
+      },
+      {
+        "id": "text_6oyym2uj",
+        "type": "text",
+        "markdown": {
+          "en": "A Patient Gateway patient care representative (PCR) account can be set up for patients. A Patient Gateway PCR is not the same thing as a health care proxy. A spouse, parent, adult child, or other designee may become a Patient Gateway PCR if they have been authorized by the patient. Please note that Patient Gateway access for teens and their PCR is limited to meet state regulations for confidential teen care.\n\nParents or legal guardians can set up a Patient Care Representative (PCR) account to see their child's health records in Patient Gateway. There are 3 ways to request access:\n\n1. Log in to Patient Gateway and fill out the PCR access request form.\n2. Request access during an appointment.\n3. Call Technical Support.\n\nLegal guardians must provide documentation of guardianship before access is approved.\n\n**Children (ages 0–12):** PCR has full access to the child's health records. But once the child turns 13, access will become limited. This is to protect your teen's privacy and confidentiality, which is required by Massachusetts state law.\n\n**Teens (ages 13–17):** PCR can see all records from ages 0–12. However, PCR access to teens is limited. An example of information that is not shared is anything related to sexual activity/contraception.\n\nWhen the teen turns 18, PCR access ends automatically.",
+          "es": "Se puede configurar una cuenta de representante de atención al paciente (PCR) de Patient Gateway para los pacientes. Un PCR de Patient Gateway no es lo mismo que un apoderado para la atención médica. Un cónyuge, la madre, el padre, un hijo adulto u otra persona designada puede convertirse en PCR de Patient Gateway si el paciente le ha dado autorización. Tenga en cuenta que el acceso a Patient Gateway para adolescentes y sus PCR está limitado para cumplir con las normativas estatales sobre la atención confidencial de adolescentes.\n\nLos padres o tutores legales pueden crear una cuenta de representante de atención al paciente (PCR) para ver los registros médicos de su hijo en Patient Gateway. Hay 3 maneras de solicitar acceso:\n\n1. Inicie sesión en Patient Gateway y complete el formulario de solicitud de acceso de PCR.\n2. Solicite acceso durante una cita.\n3. Llame a Soporte Técnico.\n\nLos tutores legales deben presentar documentación de la tutela antes de que se apruebe el acceso.\n\n**Niños (de 0 a 12 años):** el PCR tiene acceso completo a los registros médicos del niño. Pero cuando el niño cumple 13 años, el acceso se limita. Esto protege la privacidad y la confidencialidad de su hijo adolescente, como lo exige la ley del estado de Massachusetts.\n\n**Adolescentes (de 13 a 17 años):** el PCR puede ver todos los registros de los 0 a los 12 años. Sin embargo, el acceso del PCR a los registros del adolescente es limitado. Por ejemplo, no se comparte nada relacionado con la actividad sexual o la anticoncepción.\n\nCuando el adolescente cumple 18 años, el acceso del PCR termina automáticamente."
+        }
+      },
+      {
+        "id": "phone_8qdimda7",
+        "type": "phone",
+        "number": "+18007459683",
         "label": {
-          "en": "Patient Gateway — Mass General Brigham"
+          "en": "Patient Gateway Technical Support",
+          "es": "Soporte Técnico de Patient Gateway"
         },
         "description": {
-          "en": "Sign in to view your records, message your care team, and pay bills."
+          "en": "Help with enrolling, logging in, or setting up access to your child's account.",
+          "es": "Ayuda para inscribirse, iniciar sesión o configurar el acceso a la cuenta de su hijo."
+        }
+      },
+      {
+        "id": "link_imdhunam",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/patient-gateway-pcr-proxy-pedi.pdf",
+          "es": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/patient-gateway-pcr-proxy-pedi.pdf"
+        },
+        "label": {
+          "en": "Patient Gateway Access for Parents/Guardians (PDF)",
+          "es": "Acceso a Patient Gateway para padres y tutores (PDF, en inglés)"
+        },
+        "description": {
+          "en": "Mass General Brigham's one-page guide to parent access by age.",
+          "es": "La guía de una página de Mass General Brigham sobre el acceso de los padres según la edad."
+        }
+      },
+      {
+        "id": "section_kb01ca6w",
+        "type": "section",
+        "title": {
+          "en": "How to use Patient Gateway",
+          "es": "Cómo usar Patient Gateway"
+        }
+      },
+      {
+        "id": "text_ui5asu0i",
+        "type": "text",
+        "markdown": {
+          "en": "Patient Gateway is best used to make simple requests or review your health information. Here are some examples of appropriate and inappropriate use of Patient Gateway:\n\nDo use Patient Gateway to:\n\n- Request non-urgent prescription refills.\n- Request scheduling of non-urgent appointments.\n- Send photos or information for the care team to review before an appointment.\n- View bills and make payments.\n- Securely message your care team for non-urgent medical concerns.\n- View health information, such as your medication list, test results, and screening tests you might be due for.\n\nDo NOT use Patient Gateway to:\n\n- Make any urgent requests or ask urgent questions. Please contact the office with any urgent needs.\n- Send social or personal conversations, photos, and videos that are not related to health care.\n- Discuss complex medical issues or new severe medical symptoms. These are often best addressed in a visit with your provider or care team.\n- Ask questions about family members from your own Patient Gateway account.\n- Make complaints about other providers or care experiences. If you have concerns about your experience, please contact the patient relations office for the clinic or hospital.",
+          "es": "Patient Gateway es más adecuado para hacer solicitudes sencillas o consultar su información médica. A continuación, se ofrecen algunos ejemplos de usos apropiados e inapropiados de Patient Gateway:\n\nUse Patient Gateway para lo siguiente:\n\n- Solicitar renovaciones no urgentes de recetas.\n- Solicitar que se agenden citas no urgentes.\n- Enviar fotografías o información para que el equipo de atención las revise antes de una cita.\n- Ver facturas y realizar pagos.\n- Enviar mensajes seguros a su equipo de atención sobre inquietudes médicas no urgentes.\n- Ver información médica, como su lista de medicamentos, resultados de pruebas y pruebas de detección que quizá deba realizarse.\n\nNO use Patient Gateway para lo siguiente:\n\n- Hacer solicitudes urgentes o formular preguntas urgentes. Comuníquese con el consultorio si tiene alguna necesidad urgente.\n- Enviar conversaciones, fotografías o videos sociales o personales que no estén relacionados con la atención médica.\n- Hablar sobre problemas médicos complejos o síntomas médicos nuevos y graves. Por lo general, es mejor tratar estos temas durante una visita con su proveedor o equipo de atención.\n- Hacer preguntas sobre familiares desde su propia cuenta de Patient Gateway.\n- Presentar quejas sobre otros proveedores o experiencias de atención. Si tiene inquietudes sobre su experiencia, comuníquese con la oficina de relaciones con pacientes de la clínica o el hospital."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Patient Gateway"
+    }
   },
   {
     "id": "mgb_for_children",
@@ -2770,7 +2917,7 @@
   },
   {
     "id": "preparation_for_surgery",
-    "title": "Pediatric Surgery",
+    "title": "Preparing for Surgery",
     "status": "published",
     "units": [
       "picu"
@@ -2789,16 +2936,32 @@
     },
     "languages": {
       "en": {
-        "description": "Mass General's patient resources for preparing for pediatric surgery, including home care instructions.",
+        "description": "What to expect before, during, and after your child's anesthesia for surgery, and when to call for help.",
         "content": [
           {
             "type": "text",
-            "markdown": "At Mass General Brigham for Children, our pediatric surgery team delivers high-quality surgical care for infants, children, and young adults. Our top pediatric surgeons specialize in pediatric general surgery and thoracic surgery, treating everything from common problems like a hernia or appendicitis to complex congenital conditions of the abdomen or chest. Patients will receive expert care from some of the best pediatric surgeons in the world."
+            "markdown": "At Mass General Brigham for Children, our pediatric surgery team delivers high-quality surgical care for infants, children, and young adults. Our top pediatric surgeons specialize in pediatric general surgery and thoracic surgery, treating everything from common problems like a hernia or appendicitis to complex congenital conditions of the abdomen or chest.\n\n### Pediatric Surgery\n\n- 📞 [617-726-0270](tel:+16177260270)\n- 🌐 [massgeneralbrigham.org/en/services/pediatric-surgery](https://www.massgeneralbrigham.org/en/services/pediatric-surgery)\n\nChildren who need anesthesia or sedation for medical tests, procedures, or surgery receive expert care from our pediatric anesthesia team. We focus on your child's safety, comfort, and pain relief before, during, and after care.\n\n## What to expect before your child gets anesthesia\n\nYour child's care team will provide instructions about eating, drinking, and medication use before anesthesia.\n\nYou will meet with a member of the pediatric anesthesia team before the procedure. This is a good time to:\n\n- Ask questions and share any concerns\n- Provide a complete medical history, including allergies, medications, and supplements\n- Share your child's past experiences with anesthesia\n- Let us know about a family history of anesthesia complications or neuromuscular conditions, such as muscular dystrophy\n\n## What to expect during anesthesia\n\nYou may be able to stay with your child while they are prepared for anesthesia, and sometimes until they fall asleep. Talking calmly or helping your child focus on something familiar can be reassuring.\n\nAs anesthesia begins, your child may:\n\n- Roll their eyes upward\n- Seem restless and move around\n- Snore or make funny noises\n\nThese reactions are normal and usually last less than a minute. Although your child may seem awake, they will not remember this part of the experience.\n\n## Recovery after anesthesia\n\nAfter the procedure, your child will wake up in a recovery area where they are closely monitored. Recovery time varies, but many children stay for up to three hours.\n\nDuring recovery, your child may:\n\n- Seem confused or restless or not recognize you\n- Feel nauseated or vomit\n- Need pain or anti-nausea medication\n\nThese effects are common and usually temporary. A care team member will explain what to expect and when your child is ready to go home.\n\n## At-home recovery and safety\n\nAfter your child's procedure, you should follow the care team's instructions. You may need to:\n\n- Keep your child resting and supervised\n- Offer clear liquids and avoid heavy meals\n- Help your child sleep on their side\n- Limit physical activity for the rest of the day\n\nFor older children and teens, driving, alcohol, smoking, and vaping should be avoided after anesthesia.\n\n## When to call for help\n\nYou should call your child's care team if your child has:\n\n- A bad headache or pain\n- Nausea or vomiting that lasts more than four hours\n- Trouble drinking fluids or has not urinated for 12 hours\n- Excessive sleepiness or restlessness\n\nCall 9-1-1 or go to the nearest emergency room if your child:\n\n- Can't wake up from sleep\n- Has pale, gray, or blue skin\n- Has slow or shallow breathing"
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/pediatric-surgery",
-            "label": "Patient Pediatric Surgery — Mass General"
+            "url": "https://www.massgeneralbrigham.org/en/services/pediatric-anesthesia",
+            "label": "Pediatric Anesthesia — Mass General Brigham",
+            "description": "More about anesthesia and sedation care for children."
+          }
+        ]
+      },
+      "es": {
+        "description": "Qué esperar antes, durante y después de la anestesia de su hijo para la cirugía, y cuándo llamar para pedir ayuda.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "En Mass General Brigham for Children, nuestro equipo de cirugía pediátrica brinda atención quirúrgica de alta calidad a bebés, niños y adultos jóvenes. Nuestros principales cirujanos pediátricos se especializan en cirugía general pediátrica y cirugía torácica, y tratan desde problemas comunes, como hernias o apendicitis, hasta afecciones congénitas complejas del abdomen o el pecho.\n\n### Cirugía Pediátrica\n\n- 📞 [617-726-0270](tel:+16177260270)\n- 🌐 [massgeneralbrigham.org/es/services/pediatric-surgery](https://www.massgeneralbrigham.org/es/services/pediatric-surgery)\n\nLos niños que necesitan anestesia o sedación para pruebas médicas, procedimientos o cirugía reciben atención experta de nuestro equipo de anestesia pediátrica. Nos enfocamos en la seguridad, comodidad y alivio del dolor de su hijo antes, durante y después de la atención.\n\n## Qué esperar antes de que su hijo reciba anestesia\n\nEl equipo de atención de su hijo proporcionará instrucciones sobre la alimentación, la bebida y el uso de medicamentos antes de la anestesia.\n\nSe reunirá con un miembro del equipo de anestesia pediátrica antes del procedimiento. Este es un buen momento para:\n\n- Hacer preguntas y compartir cualquier inquietud\n- Proporcionar un historial médico completo, incluyendo alergias, medicamentos y suplementos\n- Compartir las experiencias pasadas de su hijo con la anestesia\n- Informarnos sobre antecedentes familiares de complicaciones con la anestesia o afecciones neuromusculares, como la distrofia muscular\n\n## Qué esperar durante la anestesia\n\nPuede que pueda quedarse con su hijo mientras lo preparan para la anestesia, y a veces hasta que se duerma. Hablar con calma o ayudar a su hijo a concentrarse en algo familiar puede ser reconfortante.\n\nA medida que comienza la anestesia, su hijo puede:\n\n- Poner los ojos en blanco hacia arriba\n- Parecer inquieto y moverse\n- Roncar o hacer ruidos extraños\n\nEstas reacciones son normales y generalmente duran menos de un minuto. Aunque su hijo puede parecer despierto, no recordará esta parte de la experiencia.\n\n## Recuperación después de la anestesia\n\nDespués del procedimiento, su hijo despertará en un área de recuperación donde será monitoreado de cerca. El tiempo de recuperación varía, pero muchos niños permanecen hasta tres horas.\n\nDurante la recuperación, su hijo puede:\n\n- Parecer confundido o inquieto o no reconocerle\n- Sentir náuseas o vomitar\n- Necesitar medicamentos para el dolor o contra las náuseas\n\nEstos efectos son comunes y generalmente temporales. Un miembro del equipo de atención explicará qué esperar y cuándo su hijo estará listo para ir a casa.\n\n## Recuperación y seguridad en casa\n\nDespués del procedimiento de su hijo, debe seguir las instrucciones del equipo de atención. Puede que necesite:\n\n- Mantener a su hijo descansando y supervisado\n- Ofrecer líquidos claros y evitar comidas pesadas\n- Ayudar a su hijo a dormir de lado\n- Limitar la actividad física por el resto del día\n\nPara niños mayores y adolescentes, se debe evitar conducir, el alcohol, fumar y vapear después de la anestesia.\n\n## Cuándo llamar para pedir ayuda\n\nLlame al equipo de atención de su hijo si su hijo presenta:\n\n- Un dolor de cabeza fuerte o dolor\n- Náuseas o vómitos que duran más de cuatro horas\n- Dificultad para beber líquidos o no ha orinado por 12 horas\n- Somnolencia excesiva o inquietud\n\nLlame al 9-1-1 o vaya a la sala de emergencias más cercana si su hijo:\n\n- No puede despertarse del sueño\n- Tiene la piel pálida, gris o azul\n- Tiene respiración lenta o superficial"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/services/pediatric-anesthesia",
+            "label": "Anestesia pediátrica — Mass General Brigham",
+            "description": "Más información sobre la anestesia y la sedación para niños."
           }
         ]
       }
@@ -2808,29 +2971,151 @@
       "Surgery Preparation",
       "Home Care Instructions"
     ],
-    "notes": null,
+    "notes": "Rebuilt from https://www.massgeneralbrigham.org/en/services/pediatric-surgery and /en/services/pediatric-anesthesia (live 2026-10-26); old MGH surgery prep and home-care pages are gone; approved by Mark 2026-10-26.\nSpanish from MGB's /es/ Pediatric Surgery and Pediatric Anesthesia pages (2026-10-26); two lists' verb forms corrected; title, card summary, card name and link card translated by Claude, need Spanish review. Approved by Mark 2026-10-26.",
     "description": {
-      "en": "Mass General's patient resources for preparing for pediatric surgery, including home care instructions."
+      "en": "What to expect before, during, and after your child's anesthesia for surgery, and when to call for help.",
+      "es": "Qué esperar antes, durante y después de la anestesia de su hijo para la cirugía, y cuándo llamar para pedir ayuda."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_wl9vh0v8",
         "type": "text",
         "markdown": {
-          "en": "At Mass General Brigham for Children, our pediatric surgery team delivers high-quality surgical care for infants, children, and young adults. Our top pediatric surgeons specialize in pediatric general surgery and thoracic surgery, treating everything from common problems like a hernia or appendicitis to complex congenital conditions of the abdomen or chest. Patients will receive expert care from some of the best pediatric surgeons in the world."
+          "en": "At Mass General Brigham for Children, our pediatric surgery team delivers high-quality surgical care for infants, children, and young adults. Our top pediatric surgeons specialize in pediatric general surgery and thoracic surgery, treating everything from common problems like a hernia or appendicitis to complex congenital conditions of the abdomen or chest.",
+          "es": "En Mass General Brigham for Children, nuestro equipo de cirugía pediátrica brinda atención quirúrgica de alta calidad a bebés, niños y adultos jóvenes. Nuestros principales cirujanos pediátricos se especializan en cirugía general pediátrica y cirugía torácica, y tratan desde problemas comunes, como hernias o apendicitis, hasta afecciones congénitas complejas del abdomen o el pecho."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_zapthq1b",
+        "type": "listing",
+        "name": {
+          "en": "Pediatric Surgery",
+          "es": "Cirugía Pediátrica"
+        },
+        "phones": [
+          {
+            "id": "phone_3xsavfaa",
+            "number": "+16177260270"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_lbzux4cf",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-surgery",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-surgery"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_840dux44",
+        "type": "text",
+        "markdown": {
+          "en": "Children who need anesthesia or sedation for medical tests, procedures, or surgery receive expert care from our pediatric anesthesia team. We focus on your child's safety, comfort, and pain relief before, during, and after care.",
+          "es": "Los niños que necesitan anestesia o sedación para pruebas médicas, procedimientos o cirugía reciben atención experta de nuestro equipo de anestesia pediátrica. Nos enfocamos en la seguridad, comodidad y alivio del dolor de su hijo antes, durante y después de la atención."
+        }
+      },
+      {
+        "id": "section_b5syfff2",
+        "type": "section",
+        "title": {
+          "en": "What to expect before your child gets anesthesia",
+          "es": "Qué esperar antes de que su hijo reciba anestesia"
+        }
+      },
+      {
+        "id": "text_y0i7xpo6",
+        "type": "text",
+        "markdown": {
+          "en": "Your child's care team will provide instructions about eating, drinking, and medication use before anesthesia.\n\nYou will meet with a member of the pediatric anesthesia team before the procedure. This is a good time to:\n\n- Ask questions and share any concerns\n- Provide a complete medical history, including allergies, medications, and supplements\n- Share your child's past experiences with anesthesia\n- Let us know about a family history of anesthesia complications or neuromuscular conditions, such as muscular dystrophy",
+          "es": "El equipo de atención de su hijo proporcionará instrucciones sobre la alimentación, la bebida y el uso de medicamentos antes de la anestesia.\n\nSe reunirá con un miembro del equipo de anestesia pediátrica antes del procedimiento. Este es un buen momento para:\n\n- Hacer preguntas y compartir cualquier inquietud\n- Proporcionar un historial médico completo, incluyendo alergias, medicamentos y suplementos\n- Compartir las experiencias pasadas de su hijo con la anestesia\n- Informarnos sobre antecedentes familiares de complicaciones con la anestesia o afecciones neuromusculares, como la distrofia muscular"
+        }
+      },
+      {
+        "id": "section_meinld9y",
+        "type": "section",
+        "title": {
+          "en": "What to expect during anesthesia",
+          "es": "Qué esperar durante la anestesia"
+        }
+      },
+      {
+        "id": "text_zj0n58zo",
+        "type": "text",
+        "markdown": {
+          "en": "You may be able to stay with your child while they are prepared for anesthesia, and sometimes until they fall asleep. Talking calmly or helping your child focus on something familiar can be reassuring.\n\nAs anesthesia begins, your child may:\n\n- Roll their eyes upward\n- Seem restless and move around\n- Snore or make funny noises\n\nThese reactions are normal and usually last less than a minute. Although your child may seem awake, they will not remember this part of the experience.",
+          "es": "Puede que pueda quedarse con su hijo mientras lo preparan para la anestesia, y a veces hasta que se duerma. Hablar con calma o ayudar a su hijo a concentrarse en algo familiar puede ser reconfortante.\n\nA medida que comienza la anestesia, su hijo puede:\n\n- Poner los ojos en blanco hacia arriba\n- Parecer inquieto y moverse\n- Roncar o hacer ruidos extraños\n\nEstas reacciones son normales y generalmente duran menos de un minuto. Aunque su hijo puede parecer despierto, no recordará esta parte de la experiencia."
+        }
+      },
+      {
+        "id": "section_3ywv4s1j",
+        "type": "section",
+        "title": {
+          "en": "Recovery after anesthesia",
+          "es": "Recuperación después de la anestesia"
+        }
+      },
+      {
+        "id": "text_06h9xdof",
+        "type": "text",
+        "markdown": {
+          "en": "After the procedure, your child will wake up in a recovery area where they are closely monitored. Recovery time varies, but many children stay for up to three hours.\n\nDuring recovery, your child may:\n\n- Seem confused or restless or not recognize you\n- Feel nauseated or vomit\n- Need pain or anti-nausea medication\n\nThese effects are common and usually temporary. A care team member will explain what to expect and when your child is ready to go home.",
+          "es": "Después del procedimiento, su hijo despertará en un área de recuperación donde será monitoreado de cerca. El tiempo de recuperación varía, pero muchos niños permanecen hasta tres horas.\n\nDurante la recuperación, su hijo puede:\n\n- Parecer confundido o inquieto o no reconocerle\n- Sentir náuseas o vomitar\n- Necesitar medicamentos para el dolor o contra las náuseas\n\nEstos efectos son comunes y generalmente temporales. Un miembro del equipo de atención explicará qué esperar y cuándo su hijo estará listo para ir a casa."
+        }
+      },
+      {
+        "id": "section_b59h9ltd",
+        "type": "section",
+        "title": {
+          "en": "At-home recovery and safety",
+          "es": "Recuperación y seguridad en casa"
+        }
+      },
+      {
+        "id": "text_5cpcmq7p",
+        "type": "text",
+        "markdown": {
+          "en": "After your child's procedure, you should follow the care team's instructions. You may need to:\n\n- Keep your child resting and supervised\n- Offer clear liquids and avoid heavy meals\n- Help your child sleep on their side\n- Limit physical activity for the rest of the day\n\nFor older children and teens, driving, alcohol, smoking, and vaping should be avoided after anesthesia.",
+          "es": "Después del procedimiento de su hijo, debe seguir las instrucciones del equipo de atención. Puede que necesite:\n\n- Mantener a su hijo descansando y supervisado\n- Ofrecer líquidos claros y evitar comidas pesadas\n- Ayudar a su hijo a dormir de lado\n- Limitar la actividad física por el resto del día\n\nPara niños mayores y adolescentes, se debe evitar conducir, el alcohol, fumar y vapear después de la anestesia."
+        }
+      },
+      {
+        "id": "section_i8dv3v3g",
+        "type": "section",
+        "title": {
+          "en": "When to call for help",
+          "es": "Cuándo llamar para pedir ayuda"
+        }
+      },
+      {
+        "id": "text_91a07zi0",
+        "type": "text",
+        "markdown": {
+          "en": "You should call your child's care team if your child has:\n\n- A bad headache or pain\n- Nausea or vomiting that lasts more than four hours\n- Trouble drinking fluids or has not urinated for 12 hours\n- Excessive sleepiness or restlessness\n\nCall 9-1-1 or go to the nearest emergency room if your child:\n\n- Can't wake up from sleep\n- Has pale, gray, or blue skin\n- Has slow or shallow breathing",
+          "es": "Llame al equipo de atención de su hijo si su hijo presenta:\n\n- Un dolor de cabeza fuerte o dolor\n- Náuseas o vómitos que duran más de cuatro horas\n- Dificultad para beber líquidos o no ha orinado por 12 horas\n- Somnolencia excesiva o inquietud\n\nLlame al 9-1-1 o vaya a la sala de emergencias más cercana si su hijo:\n\n- No puede despertarse del sueño\n- Tiene la piel pálida, gris o azul\n- Tiene respiración lenta o superficial"
+        }
+      },
+      {
+        "id": "link_41kt3sl7",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-surgery"
+          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-anesthesia",
+          "es": "https://www.massgeneralbrigham.org/es/services/pediatric-anesthesia"
         },
         "label": {
-          "en": "Patient Pediatric Surgery — Mass General"
+          "en": "Pediatric Anesthesia — Mass General Brigham",
+          "es": "Anestesia pediátrica — Mass General Brigham"
+        },
+        "description": {
+          "en": "More about anesthesia and sedation care for children.",
+          "es": "Más información sobre la anestesia y la sedación para niños."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Cómo prepararse para la cirugía"
+    }
   },
   {
     "id": "bronchitis_and_bronchiolitis",
@@ -6367,7 +6652,7 @@
   },
   {
     "id": "pediatric_supportive_palliative_care",
-    "title": "Pediatric Supportive & Palliative Care",
+    "title": "Pediatric Supportive and Palliative Care",
     "status": "published",
     "units": [
       "picu"
@@ -6389,17 +6674,16 @@
         "content": [
           {
             "type": "text",
-            "markdown": "The Pediatric Palliative Care Team aims to identify your family's goals and values, ease distressing symptoms, optimize quality of life, and improve communication between care teams and families."
-          },
-          {
-            "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care",
-            "label": "Pediatric Supportive & Palliative Care — Mass General Brigham for Children",
-            "description": "Visit the program page for the full team list, services, and additional resources."
-          },
+            "markdown": "When children are faced with a serious disease, we focus on maximizing their quality of life, providing relief from pain, symptoms, and stress, and coordinating and improving their families' experience of care.\n\nIf you are interested in seeing if palliative care may benefit your child's treatment, please call our office and leave a message. We will return your call to determine if, and how, our team may be helpful.\n\n### Pediatric Supportive and Palliative Care\n\n- 32 Fruit Street, Yawkey 6D, Boston, MA 02114\n- 📞 [617-643-9079](tel:+16176439079)\n- 🌐 [massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care](https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care)\n\n## About the program\n\nPediatric Supportive and Palliative Care at Mass General Brigham for Children supports children with chronic, life-threatening or life-limiting illnesses and their families by enhancing their quality of life. Our team offers support to children with serious conditions and their families anywhere along their illness course, including families facing pregnancies complicated by genetic disorders or congenital malformations. We work with your child's primary and specialist teams to provide the best possible care. Our team aims to identify your family's goals and values, ease distressing symptoms, optimize quality of life, and improve communication between care teams and families. We also help families navigate the best treatment choices for them and their child.\n\nOur team is primarily an inpatient consultative service made up of pediatric palliative care doctors and a pediatric nurse practitioner. The Pediatric Supportive and Palliative Care team collaborates closely with your child's care providers within Mass General Brigham for Children as well as those in the community. Key providers we work closely with may include your child's primary care physician, subspecialists, nurses, child life specialists, spiritual care providers, physical, occupational and speech therapists and many others.\n\nWhile your child is in the hospital, their medical providers may invite our service to join your child's care team. When your child is being seen in an outpatient setting, providers may also consult or refer children to our service.\n\n## Programs\n\n### Mass General Brigham for Children Center for Courageous Kids\n\nOur Pediatric Supportive & Palliative Care team, alongside the Coordinated Care Clinic, has received funding to create the **Center for Courageous Kids**. This center provides multidisciplinary, compassionate care for children with complex medical needs and life-limiting illnesses. The aim is to improve quality of life for these children and their families.\n\n### Courageous Parents Network\n\nWe are proud partners with Courageous Parents Network, a website designed to support and empower families whose child faces serious illness, and to enlighten caregivers about the lived experience of these families.\n\n- 🌐 [courageousparentsnetwork.org](https://courageousparentsnetwork.org/)\n\n## Bereavement resources\n\n### For adults\n\n### Mass General Bereavement Support Group\n\nOpen to patients and employees of the Mass General community. An 8-week group for people who have experienced the death of a loved one within the past 1½ years. Fee covered by most insurances and Medicare. Call to refer or to schedule a pre-group screening interview.\n\n- 📞 [617-726-8199](tel:+16177268199)\n\n### The Compassionate Friends\n\nOrganization dedicated to assisting families toward positive resolution of grief following the death of a child of any age. Chapters across the U.S. and internationally.\n\n- 📞 [877-969-0010](tel:+18779690010)\n- 🌐 [compassionatefriends.org](https://www.compassionatefriends.org/)\n\n### Association for Death Education and Counseling\n\nOnline resources for coping with loss; referrals to support groups throughout the U.S.\n\n- 📞 [847-509-0403](tel:+18475090403)\n- 🌐 [adec.org](https://www.adec.org/)\n\n### Hospice Foundation of America\n\nSupport and education about death, illness, and bereavement. Referrals to grief support groups, monthly bereavement newsletter, and annual \"Living with Grief\" teleconference series.\n\n- 📞 [800-854-3402](tel:+18008543402)\n- 🌐 [hospicefoundation.org](https://hospicefoundation.org/)\n\n### For children and teens\n\n### Club STAR\n\nA bereavement peer support group for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.\n\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Jeff's Place\n\nFree, bi-monthly, open-ended peer support groups for children ages 3–19 and their caregivers coping with the death of a loved one. Individual and small groups in Framingham, MA; large groups in Wayland, MA.\n\n- 📞 [508-276-3225](tel:+15082763225)\n- 🌐 [jeffsplace.org](https://www.jeffsplace.org/)\n\n### Comfort Zone Camp\n\nFree weekend camps for children ages 7–17 who have experienced the death of a parent, sibling, or primary caregiver. Creates an environment where grieving children can have fun while learning coping skills.\n\n- 🌐 [comfortzonecamp.org](https://comfortzonecamp.org/)\n\n### The Dougy Center for Grieving Children & Families\n\nHeadquartered in Portland, Oregon. Their website offers tools for children, teens, and young adults who are grieving.\n\n- 📞 [866-775-5683](tel:+18667755683)\n- 🌐 [dougy.org](https://www.dougy.org/)\n\n### The Garden: A Center for Grieving Children and Teens\n\nBased in Northampton, MA. Programs and discussion groups help young people identify and share their feelings. Parents and guardians meet separately. No charge to families. Email for information.\n\n- ✉️ [shelly.thegarden@gmail.com](mailto:shelly.thegarden@gmail.com)\n- 🌐 [mightycause.com/organization/Thegarden](https://www.mightycause.com/organization/Thegarden)\n\n> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Service Department.\n\n### Mass General Hospital Social Service Department\n\n- 📞 [617-726-2643](tel:+16177262643)"
+          }
+        ]
+      },
+      "es": {
+        "description": "Ayuda a las familias de niños con enfermedades graves con la calidad de vida, el alivio de síntomas y la comunicación con el equipo de atención.",
+        "content": [
           {
             "type": "text",
-            "markdown": "## Contact Information\n\n**Pediatric Supportive & Palliative Care**\nYawkey Center for Outpatient Care\n55 Fruit Street, Boston, MA 02114\n\n- 📞 [617-643-9079](tel:+16176439079)\n- Fax: 617-724-8896\n\n## Overview\n\nPediatric Supportive & Palliative Care at Mass General Brigham for Children supports children with chronic, life-threatening, or life-limiting illnesses — and their families — by enhancing their quality of life.\n\nOur team offers support to children with serious conditions and their families anywhere along their illness course, including families facing pregnancies complicated by genetic disorders or congenital malformations. We work with your child's primary and specialist teams to provide the best possible care. Our team aims to:\n\n- **Identify your family's goals and values**\n- **Ease distressing symptoms**\n- **Optimize quality of life**\n- **Improve communication** between care teams and families\n- **Help families navigate** the best treatment choices for them and their child\n\nOur team is primarily an inpatient consultative service made up of pediatric palliative care doctors and a pediatric nurse practitioner. We collaborate closely with your child's care providers within Mass General Brigham for Children and in the community — including primary care physicians, subspecialists, nurses, child life specialists, spiritual care providers, and physical, occupational, and speech therapists.\n\nWhile your child is in the hospital, their medical providers may invite our service to join the care team. In outpatient settings, providers may also consult or refer children to our service.\n\n> If you are interested in seeing if palliative care may benefit your child's treatment, please call our office at 📞 [617-643-9079](tel:+16176439079) and leave a message. We will return your call to determine if, and how, our team may be helpful.\n\n## Programs\n\n### Mass General Brigham for Children Center for Courageous Kids\n\nOur Pediatric Supportive & Palliative Care team, alongside the Coordinated Care Clinic, has received funding to create the **Center for Courageous Kids**. This center provides multidisciplinary, compassionate care for children with complex medical needs and life-limiting illnesses. The aim is to improve quality of life for these children and their families.\n\n### Courageous Parents Network\n\nWe are proud partners with [**Courageous Parents Network**](https://courageousparentsnetwork.org/), a website designed to support and empower families whose child faces serious illness, and to enlighten caregivers about the lived experience of these families.\n\n## Bereavement resources\n\n### For adults\n\n- **Mass General Bereavement Support Group** — Open to patients and employees of the Mass General community. An 8-week group for people who have experienced the death of a loved one within the past 1½ years. Fee covered by most insurances and Medicare. To refer or to schedule a pre-group screening interview, contact Marie Herbert, MSW, LICSW: 📞 [617-726-8199](tel:+16177268199).\n- **[The Compassionate Friends](https://www.compassionatefriends.org/)** — Organization dedicated to assisting families toward positive resolution of grief following the death of a child of any age. Chapters across the U.S. and internationally. 📞 [877-969-0010](tel:+18779690010)\n- **[Association of Death Education & Counseling](http://www.adec.org/)** — Online resources for coping with loss; referrals to support groups throughout the U.S. 📞 [847-509-0403](tel:+18475090403)\n- **[Hospice Foundation of America](https://hospicefoundation.org/)** — Support and education about death, illness, and bereavement. Referrals to grief support groups, monthly bereavement newsletter, and annual \"Living with Grief\" teleconference series. 📞 [800-854-3402](tel:+18008543402)\n\n### For children and teens\n\n- **Club STAR: Sharing Together and Remembering** — A group for ages 5–18 and their parents grieving the death of a parent or sibling. Meets 5:30 – 7:30 pm on the first Wednesday of October–June at Mass General Hospital. Organized by Mass General for Children, Child Life Services, and the Social Service Department. To register, contact Hillary D'Amato, MS, CCLS: 📞 [617-643-9276](tel:+16176439276) or [mghclubstar@partners.org](mailto:mghclubstar@partners.org).\n- **[Jeff's Place](https://www.jeffsplace.org/)** — Free, bi-monthly, open-ended peer support groups for children ages 3–19 and their caregivers coping with the death of a loved one. Individual and small groups in Framingham, MA; large groups in Wayland, MA. 📞 [508-276-3225](tel:+15082763225)\n- **[Comfort Zone Camps](https://comfortzonecamp.org/)** — Free weekend camps for children ages 7–17 who have experienced the death of a parent, sibling, or primary caregiver. Creates an environment where grieving children can have fun while learning coping skills.\n- **[The Dougy Center for Grieving Children & Families](https://www.dougy.org/)** — Headquartered in Portland, Oregon. Their website offers tools for children, teens, and young adults who are grieving. 📞 [866-775-5683](tel:+18667755683)\n- **[The Garden: A Center for Grieving Children and Teens](https://www.mightycause.com/organization/Thegarden)** — Based in Northampton, MA. Programs and discussion groups help young people identify and share their feelings. Parents and guardians meet separately. No charge to families. Email [shelly.thegarden@gmail.com](mailto:shelly.thegarden@gmail.com) for information.\n\n> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Service Department: 📞 [617-726-2643](tel:+16177262643)."
+            "markdown": "Cuando los niños enfrentan una enfermedad grave, nos enfocamos en maximizar su calidad de vida, proporcionando alivio del dolor, los síntomas y el estrés, y coordinando y mejorando la experiencia de atención de sus familias.\n\nSi le interesa saber si los cuidados paliativos podrían beneficiar el tratamiento de su hijo o hija, llame a nuestra oficina y deje un mensaje. Devolveremos su llamada para determinar si, y cómo, nuestro equipo puede ser útil.\n\n### Cuidados de apoyo y paliativos pediátricos\n\n- 32 Fruit Street, Yawkey 6D, Boston, MA 02114\n- 📞 [617-643-9079](tel:+16176439079)\n- 🌐 [massgeneralbrigham.org/es/services/pediatric-supportive-palliative-care](https://www.massgeneralbrigham.org/es/services/pediatric-supportive-palliative-care)\n\n## Acerca del programa\n\nCuidados de apoyo y paliativos pediátricos de Mass General Brigham for Children apoya a niños con enfermedades crónicas, potencialmente mortales o que limitan la vida, y a sus familias, para mejorar su calidad de vida. Nuestro equipo ofrece apoyo a niños con afecciones graves y a sus familias en cualquier momento del curso de la enfermedad, incluidas las familias que enfrentan embarazos complicados por trastornos genéticos o malformaciones congénitas. Colaboramos con los equipos de atención primaria y de especialistas de su hijo o hija para brindar la mejor atención posible. Nuestro equipo procura identificar las metas y los valores de su familia, aliviar los síntomas angustiantes, optimizar la calidad de vida y mejorar la comunicación entre los equipos de atención y las familias. También ayudamos a las familias a navegar las mejores opciones de tratamiento para ellos y su hijo.\n\nNuestro equipo es principalmente un servicio consultivo hospitalario compuesto por médicos de cuidado paliativo pediátrico y un enfermero practicante pediátrico. El equipo de Cuidados de apoyo y paliativos pediátricos colabora estrechamente con los proveedores de atención de su hijo dentro de Mass General Brigham for Children y en la comunidad. Los proveedores clave con los que trabajamos estrechamente pueden incluir al médico de atención primaria de su hijo, subespecialistas, enfermeras, especialistas en vida infantil, proveedores de atención espiritual, terapeutas físicos, ocupacionales y del habla, y muchos otros.\n\nMientras su hijo esté en el hospital, sus proveedores médicos pueden invitar a nuestro servicio a unirse al equipo de atención de su hijo. Cuando su hijo o hija recibe atención ambulatoria, los proveedores también pueden consultar a nuestro servicio o referir al menor.\n\n## Programas\n\n### Centro para Niños Valientes de Mass General Brigham para Niños\n\nNuestro equipo de Cuidados de apoyo y paliativos pediátricos, junto con la Clínica de Atención Coordinada, recibió fondos para crear el **Centro para Niños Valientes** (Center for Courageous Kids). Este centro ofrece atención multidisciplinaria y compasiva a niños con necesidades médicas complejas y enfermedades que limitan la vida. El objetivo es mejorar la calidad de vida de estos niños y sus familias.\n\n### Courageous Parents Network\n\nColaboramos con Courageous Parents Network, un sitio web (en inglés) creado para apoyar y fortalecer a las familias cuyo hijo enfrenta una enfermedad grave, y para dar a conocer a los cuidadores la experiencia de vida de estas familias.\n\n- 🌐 [courageousparentsnetwork.org](https://courageousparentsnetwork.org/)\n\n## Recursos para el duelo\n\n### Para adultos\n\n### Grupo de Apoyo en el Duelo de Mass General\n\nAbierto a pacientes y empleados de la comunidad de Mass General. Un grupo de 8 semanas para personas que han sufrido la muerte de un ser querido en el último año y medio. La mayoría de los seguros y Medicare cubren el costo. Llame para hacer una referencia o programar una entrevista previa al grupo.\n\n- 📞 [617-726-8199](tel:+16177268199)\n\n### The Compassionate Friends\n\nOrganización dedicada a ayudar a las familias a sobrellevar el duelo tras la muerte de un hijo de cualquier edad. Tiene grupos en todo Estados Unidos y en otros países.\n\n- 📞 [877-969-0010](tel:+18779690010)\n- 🌐 [compassionatefriends.org](https://www.compassionatefriends.org/)\n\n### Association for Death Education and Counseling\n\nRecursos en línea para sobrellevar una pérdida y referencias a grupos de apoyo en todo Estados Unidos.\n\n- 📞 [847-509-0403](tel:+18475090403)\n- 🌐 [adec.org](https://www.adec.org/)\n\n### Hospice Foundation of America\n\nApoyo y educación sobre la muerte, la enfermedad y el duelo. Referencias a grupos de apoyo, un boletín mensual sobre el duelo y la serie anual de teleconferencias \"Living with Grief\".\n\n- 📞 [800-854-3402](tel:+18008543402)\n- 🌐 [hospicefoundation.org](https://hospicefoundation.org/)\n\n### Para niños y adolescentes\n\n### Club STAR\n\nUn grupo de apoyo entre pares para niños y adolescentes (desde jardín de infantes hasta el último año de secundaria) que atraviesan el duelo por la pérdida de un padre o de un hermano. El grupo se reúne mensualmente en persona o a través de Zoom. La cena y el estacionamiento están incluidos para grupos presenciales. El Club STAR está organizado por especialistas en vida infantil de Mass General Brigham para Niños.\n\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Jeff's Place\n\nGrupos de apoyo entre pares gratuitos, dos veces al mes y sin fecha de cierre, para niños de 3 a 19 años y sus cuidadores que enfrentan la muerte de un ser querido. Grupos individuales y pequeños en Framingham, MA; grupos grandes en Wayland, MA.\n\n- 📞 [508-276-3225](tel:+15082763225)\n- 🌐 [jeffsplace.org](https://www.jeffsplace.org/)\n\n### Comfort Zone Camp\n\nCampamentos de fin de semana gratuitos para niños de 7 a 17 años que han sufrido la muerte de un padre, un hermano o su cuidador principal. Crea un ambiente donde los niños en duelo pueden divertirse mientras aprenden a sobrellevar su pérdida.\n\n- 🌐 [comfortzonecamp.org](https://comfortzonecamp.org/)\n\n### The Dougy Center for Grieving Children & Families\n\nCon sede en Portland, Oregón. Su sitio web ofrece herramientas para niños, adolescentes y adultos jóvenes en duelo.\n\n- 📞 [866-775-5683](tel:+18667755683)\n- 🌐 [dougy.org](https://www.dougy.org/)\n\n### The Garden: A Center for Grieving Children and Teens\n\nCon sede en Northampton, MA. Sus programas y grupos de conversación ayudan a los jóvenes a reconocer y compartir sus sentimientos. Los padres y tutores se reúnen por separado. Sin costo para las familias. Escriba para más información.\n\n- ✉️ [shelly.thegarden@gmail.com](mailto:shelly.thegarden@gmail.com)\n- 🌐 [mightycause.com/organization/Thegarden](https://www.mightycause.com/organization/Thegarden)\n\n> Esta no es una lista completa de los recursos disponibles para usted y su familia. Si tiene preguntas sobre estos recursos o desea más información sobre el apoyo en el duelo, comuníquese con el Departamento de Servicio Social de Mass General Hospital.\n\n### Departamento de Servicio Social de Mass General Hospital\n\n- 📞 [617-726-2643](tel:+16177262643)"
           }
         ]
       }
@@ -6412,88 +6696,382 @@
       "bereavement",
       "Club STAR"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care and the Palliative Care Clinic location page (live 2026-10-26); Programs kept (on MGB's French page); bereavement list kept, links checked 2026-10-26, staff names removed; approved by Mark 2026-10-26.\nSpanish opening and About from MGB's /es/ page (2026-10-26); title, card summary, card name, Programs and Bereavement sections translated by Claude, need Spanish review. Approved by Mark 2026-10-26.",
     "description": {
-      "en": "Helps families of children with serious illness focus on quality of life, manage symptoms, and improve communication with the care team."
+      "en": "Helps families of children with serious illness focus on quality of life, manage symptoms, and improve communication with the care team.",
+      "es": "Ayuda a las familias de niños con enfermedades graves con la calidad de vida, el alivio de síntomas y la comunicación con el equipo de atención."
     },
     "blocks": [
       {
-        "id": "intro",
+        "id": "text_e2nakzi6",
         "type": "text",
         "markdown": {
-          "en": "The Pediatric Palliative Care Team aims to identify your family's goals and values, ease distressing symptoms, optimize quality of life, and improve communication between care teams and families."
+          "en": "When children are faced with a serious disease, we focus on maximizing their quality of life, providing relief from pain, symptoms, and stress, and coordinating and improving their families' experience of care.",
+          "es": "Cuando los niños enfrentan una enfermedad grave, nos enfocamos en maximizar su calidad de vida, proporcionando alivio del dolor, los síntomas y el estrés, y coordinando y mejorando la experiencia de atención de sus familias."
         }
       },
       {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care"
+        "id": "text_7c8pmqev",
+        "type": "text",
+        "markdown": {
+          "en": "If you are interested in seeing if palliative care may benefit your child's treatment, please call our office and leave a message. We will return your call to determine if, and how, our team may be helpful.",
+          "es": "Si le interesa saber si los cuidados paliativos podrían beneficiar el tratamiento de su hijo o hija, llame a nuestra oficina y deje un mensaje. Devolveremos su llamada para determinar si, y cómo, nuestro equipo puede ser útil."
+        }
+      },
+      {
+        "id": "listing_eil8j8ri",
+        "type": "listing",
+        "name": {
+          "en": "Pediatric Supportive and Palliative Care",
+          "es": "Cuidados de apoyo y paliativos pediátricos"
         },
-        "label": {
-          "en": "Pediatric Supportive & Palliative Care — Mass General Brigham for Children"
+        "address": {
+          "en": "32 Fruit Street, Yawkey 6D, Boston, MA 02114"
         },
-        "description": {
-          "en": "Visit the program page for the full team list, services, and additional resources."
-        }
+        "phones": [
+          {
+            "id": "phone_1f3nhivp",
+            "number": "+16176439079"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_twjvuqce",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-supportive-palliative-care",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-supportive-palliative-care"
+            }
+          }
+        ]
       },
       {
-        "id": "contact_information",
+        "id": "section_y63qfn7s",
         "type": "section",
         "title": {
-          "en": "Contact Information"
+          "en": "About the program",
+          "es": "Acerca del programa"
         }
       },
       {
-        "id": "contact_information_text",
+        "id": "text_6n2ns8uw",
         "type": "text",
         "markdown": {
-          "en": "**Pediatric Supportive & Palliative Care**\nYawkey Center for Outpatient Care\n55 Fruit Street, Boston, MA 02114\n\n- 📞 [617-643-9079](tel:+16176439079)\n- Fax: 617-724-8896"
+          "en": "Pediatric Supportive and Palliative Care at Mass General Brigham for Children supports children with chronic, life-threatening or life-limiting illnesses and their families by enhancing their quality of life. Our team offers support to children with serious conditions and their families anywhere along their illness course, including families facing pregnancies complicated by genetic disorders or congenital malformations. We work with your child's primary and specialist teams to provide the best possible care. Our team aims to identify your family's goals and values, ease distressing symptoms, optimize quality of life, and improve communication between care teams and families. We also help families navigate the best treatment choices for them and their child.\n\nOur team is primarily an inpatient consultative service made up of pediatric palliative care doctors and a pediatric nurse practitioner. The Pediatric Supportive and Palliative Care team collaborates closely with your child's care providers within Mass General Brigham for Children as well as those in the community. Key providers we work closely with may include your child's primary care physician, subspecialists, nurses, child life specialists, spiritual care providers, physical, occupational and speech therapists and many others.\n\nWhile your child is in the hospital, their medical providers may invite our service to join your child's care team. When your child is being seen in an outpatient setting, providers may also consult or refer children to our service.",
+          "es": "Cuidados de apoyo y paliativos pediátricos de Mass General Brigham for Children apoya a niños con enfermedades crónicas, potencialmente mortales o que limitan la vida, y a sus familias, para mejorar su calidad de vida. Nuestro equipo ofrece apoyo a niños con afecciones graves y a sus familias en cualquier momento del curso de la enfermedad, incluidas las familias que enfrentan embarazos complicados por trastornos genéticos o malformaciones congénitas. Colaboramos con los equipos de atención primaria y de especialistas de su hijo o hija para brindar la mejor atención posible. Nuestro equipo procura identificar las metas y los valores de su familia, aliviar los síntomas angustiantes, optimizar la calidad de vida y mejorar la comunicación entre los equipos de atención y las familias. También ayudamos a las familias a navegar las mejores opciones de tratamiento para ellos y su hijo.\n\nNuestro equipo es principalmente un servicio consultivo hospitalario compuesto por médicos de cuidado paliativo pediátrico y un enfermero practicante pediátrico. El equipo de Cuidados de apoyo y paliativos pediátricos colabora estrechamente con los proveedores de atención de su hijo dentro de Mass General Brigham for Children y en la comunidad. Los proveedores clave con los que trabajamos estrechamente pueden incluir al médico de atención primaria de su hijo, subespecialistas, enfermeras, especialistas en vida infantil, proveedores de atención espiritual, terapeutas físicos, ocupacionales y del habla, y muchos otros.\n\nMientras su hijo esté en el hospital, sus proveedores médicos pueden invitar a nuestro servicio a unirse al equipo de atención de su hijo. Cuando su hijo o hija recibe atención ambulatoria, los proveedores también pueden consultar a nuestro servicio o referir al menor."
         }
       },
       {
-        "id": "overview",
+        "id": "section_iuv5rxa7",
         "type": "section",
         "title": {
-          "en": "Overview"
+          "en": "Programs",
+          "es": "Programas"
         }
       },
       {
-        "id": "overview_text",
+        "id": "text_7piv8rwp",
         "type": "text",
         "markdown": {
-          "en": "Pediatric Supportive & Palliative Care at Mass General Brigham for Children supports children with chronic, life-threatening, or life-limiting illnesses — and their families — by enhancing their quality of life.\n\nOur team offers support to children with serious conditions and their families anywhere along their illness course, including families facing pregnancies complicated by genetic disorders or congenital malformations. We work with your child's primary and specialist teams to provide the best possible care. Our team aims to:\n\n- **Identify your family's goals and values**\n- **Ease distressing symptoms**\n- **Optimize quality of life**\n- **Improve communication** between care teams and families\n- **Help families navigate** the best treatment choices for them and their child\n\nOur team is primarily an inpatient consultative service made up of pediatric palliative care doctors and a pediatric nurse practitioner. We collaborate closely with your child's care providers within Mass General Brigham for Children and in the community — including primary care physicians, subspecialists, nurses, child life specialists, spiritual care providers, and physical, occupational, and speech therapists.\n\nWhile your child is in the hospital, their medical providers may invite our service to join the care team. In outpatient settings, providers may also consult or refer children to our service.\n\n> If you are interested in seeing if palliative care may benefit your child's treatment, please call our office at 📞 [617-643-9079](tel:+16176439079) and leave a message. We will return your call to determine if, and how, our team may be helpful."
+          "en": "### Mass General Brigham for Children Center for Courageous Kids\n\nOur Pediatric Supportive & Palliative Care team, alongside the Coordinated Care Clinic, has received funding to create the **Center for Courageous Kids**. This center provides multidisciplinary, compassionate care for children with complex medical needs and life-limiting illnesses. The aim is to improve quality of life for these children and their families.",
+          "es": "### Centro para Niños Valientes de Mass General Brigham para Niños\n\nNuestro equipo de Cuidados de apoyo y paliativos pediátricos, junto con la Clínica de Atención Coordinada, recibió fondos para crear el **Centro para Niños Valientes** (Center for Courageous Kids). Este centro ofrece atención multidisciplinaria y compasiva a niños con necesidades médicas complejas y enfermedades que limitan la vida. El objetivo es mejorar la calidad de vida de estos niños y sus familias."
         }
       },
       {
-        "id": "programs",
+        "id": "listing_caun9in3",
+        "type": "listing",
+        "name": {
+          "en": "Courageous Parents Network",
+          "es": "Courageous Parents Network"
+        },
+        "notes": {
+          "en": "We are proud partners with Courageous Parents Network, a website designed to support and empower families whose child faces serious illness, and to enlighten caregivers about the lived experience of these families.",
+          "es": "Colaboramos con Courageous Parents Network, un sitio web (en inglés) creado para apoyar y fortalecer a las familias cuyo hijo enfrenta una enfermedad grave, y para dar a conocer a los cuidadores la experiencia de vida de estas familias."
+        },
+        "links": [
+          {
+            "id": "link_5nopupzt",
+            "url": {
+              "en": "https://courageousparentsnetwork.org/",
+              "es": "https://courageousparentsnetwork.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "section_j7cxpc6n",
         "type": "section",
         "title": {
-          "en": "Programs"
+          "en": "Bereavement resources",
+          "es": "Recursos para el duelo"
         }
       },
       {
-        "id": "programs_text",
+        "id": "text_gl8z573i",
         "type": "text",
         "markdown": {
-          "en": "### Mass General Brigham for Children Center for Courageous Kids\n\nOur Pediatric Supportive & Palliative Care team, alongside the Coordinated Care Clinic, has received funding to create the **Center for Courageous Kids**. This center provides multidisciplinary, compassionate care for children with complex medical needs and life-limiting illnesses. The aim is to improve quality of life for these children and their families.\n\n### Courageous Parents Network\n\nWe are proud partners with [**Courageous Parents Network**](https://courageousparentsnetwork.org/), a website designed to support and empower families whose child faces serious illness, and to enlighten caregivers about the lived experience of these families."
+          "en": "### For adults",
+          "es": "### Para adultos"
         }
       },
       {
-        "id": "bereavement_resources",
-        "type": "section",
-        "title": {
-          "en": "Bereavement resources"
-        }
+        "id": "listing_0mfsrk85",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Bereavement Support Group",
+          "es": "Grupo de Apoyo en el Duelo de Mass General"
+        },
+        "notes": {
+          "en": "Open to patients and employees of the Mass General community. An 8-week group for people who have experienced the death of a loved one within the past 1½ years. Fee covered by most insurances and Medicare. Call to refer or to schedule a pre-group screening interview.",
+          "es": "Abierto a pacientes y empleados de la comunidad de Mass General. Un grupo de 8 semanas para personas que han sufrido la muerte de un ser querido en el último año y medio. La mayoría de los seguros y Medicare cubren el costo. Llame para hacer una referencia o programar una entrevista previa al grupo."
+        },
+        "phones": [
+          {
+            "id": "phone_9vi8wjar",
+            "number": "+16177268199"
+          }
+        ]
       },
       {
-        "id": "bereavement_resources_text",
+        "id": "listing_0arfshrx",
+        "type": "listing",
+        "name": {
+          "en": "The Compassionate Friends",
+          "es": "The Compassionate Friends"
+        },
+        "notes": {
+          "en": "Organization dedicated to assisting families toward positive resolution of grief following the death of a child of any age. Chapters across the U.S. and internationally.",
+          "es": "Organización dedicada a ayudar a las familias a sobrellevar el duelo tras la muerte de un hijo de cualquier edad. Tiene grupos en todo Estados Unidos y en otros países."
+        },
+        "phones": [
+          {
+            "id": "phone_4ac260hf",
+            "number": "+18779690010"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_nql499q5",
+            "url": {
+              "en": "https://www.compassionatefriends.org/",
+              "es": "https://www.compassionatefriends.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_r7us7usp",
+        "type": "listing",
+        "name": {
+          "en": "Association for Death Education and Counseling",
+          "es": "Association for Death Education and Counseling"
+        },
+        "notes": {
+          "en": "Online resources for coping with loss; referrals to support groups throughout the U.S.",
+          "es": "Recursos en línea para sobrellevar una pérdida y referencias a grupos de apoyo en todo Estados Unidos."
+        },
+        "phones": [
+          {
+            "id": "phone_a93c235c",
+            "number": "+18475090403"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_fdx5jiou",
+            "url": {
+              "en": "https://www.adec.org/",
+              "es": "https://www.adec.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_rgon8ldi",
+        "type": "listing",
+        "name": {
+          "en": "Hospice Foundation of America",
+          "es": "Hospice Foundation of America"
+        },
+        "notes": {
+          "en": "Support and education about death, illness, and bereavement. Referrals to grief support groups, monthly bereavement newsletter, and annual \"Living with Grief\" teleconference series.",
+          "es": "Apoyo y educación sobre la muerte, la enfermedad y el duelo. Referencias a grupos de apoyo, un boletín mensual sobre el duelo y la serie anual de teleconferencias \"Living with Grief\"."
+        },
+        "phones": [
+          {
+            "id": "phone_dd5roej8",
+            "number": "+18008543402"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_a6pg3lxs",
+            "url": {
+              "en": "https://hospicefoundation.org/",
+              "es": "https://hospicefoundation.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_phv2f4t8",
         "type": "text",
         "markdown": {
-          "en": "### For adults\n\n- **Mass General Bereavement Support Group** — Open to patients and employees of the Mass General community. An 8-week group for people who have experienced the death of a loved one within the past 1½ years. Fee covered by most insurances and Medicare. To refer or to schedule a pre-group screening interview, contact Marie Herbert, MSW, LICSW: 📞 [617-726-8199](tel:+16177268199).\n- **[The Compassionate Friends](https://www.compassionatefriends.org/)** — Organization dedicated to assisting families toward positive resolution of grief following the death of a child of any age. Chapters across the U.S. and internationally. 📞 [877-969-0010](tel:+18779690010)\n- **[Association of Death Education & Counseling](http://www.adec.org/)** — Online resources for coping with loss; referrals to support groups throughout the U.S. 📞 [847-509-0403](tel:+18475090403)\n- **[Hospice Foundation of America](https://hospicefoundation.org/)** — Support and education about death, illness, and bereavement. Referrals to grief support groups, monthly bereavement newsletter, and annual \"Living with Grief\" teleconference series. 📞 [800-854-3402](tel:+18008543402)\n\n### For children and teens\n\n- **Club STAR: Sharing Together and Remembering** — A group for ages 5–18 and their parents grieving the death of a parent or sibling. Meets 5:30 – 7:30 pm on the first Wednesday of October–June at Mass General Hospital. Organized by Mass General for Children, Child Life Services, and the Social Service Department. To register, contact Hillary D'Amato, MS, CCLS: 📞 [617-643-9276](tel:+16176439276) or [mghclubstar@partners.org](mailto:mghclubstar@partners.org).\n- **[Jeff's Place](https://www.jeffsplace.org/)** — Free, bi-monthly, open-ended peer support groups for children ages 3–19 and their caregivers coping with the death of a loved one. Individual and small groups in Framingham, MA; large groups in Wayland, MA. 📞 [508-276-3225](tel:+15082763225)\n- **[Comfort Zone Camps](https://comfortzonecamp.org/)** — Free weekend camps for children ages 7–17 who have experienced the death of a parent, sibling, or primary caregiver. Creates an environment where grieving children can have fun while learning coping skills.\n- **[The Dougy Center for Grieving Children & Families](https://www.dougy.org/)** — Headquartered in Portland, Oregon. Their website offers tools for children, teens, and young adults who are grieving. 📞 [866-775-5683](tel:+18667755683)\n- **[The Garden: A Center for Grieving Children and Teens](https://www.mightycause.com/organization/Thegarden)** — Based in Northampton, MA. Programs and discussion groups help young people identify and share their feelings. Parents and guardians meet separately. No charge to families. Email [shelly.thegarden@gmail.com](mailto:shelly.thegarden@gmail.com) for information.\n\n> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Service Department: 📞 [617-726-2643](tel:+16177262643)."
+          "en": "### For children and teens",
+          "es": "### Para niños y adolescentes"
         }
+      },
+      {
+        "id": "listing_mbajmi1x",
+        "type": "listing",
+        "name": {
+          "en": "Club STAR",
+          "es": "Club STAR"
+        },
+        "notes": {
+          "en": "A bereavement peer support group for children and teens (kindergarten through senior year of high school) grieving the death of a parent or sibling. The group meets monthly, in person or via Zoom. Dinner and parking are provided for in-person groups. Club STAR is organized by child life specialists from Mass General Brigham for Children.",
+          "es": "Un grupo de apoyo entre pares para niños y adolescentes (desde jardín de infantes hasta el último año de secundaria) que atraviesan el duelo por la pérdida de un padre o de un hermano. El grupo se reúne mensualmente en persona o a través de Zoom. La cena y el estacionamiento están incluidos para grupos presenciales. El Club STAR está organizado por especialistas en vida infantil de Mass General Brigham para Niños."
+        },
+        "phones": [
+          {
+            "id": "phone_i3g3n0yu",
+            "number": "+16176439276"
+          }
+        ],
+        "emails": [
+          {
+            "id": "email_og3ms1qv",
+            "email": "mghclubstar@partners.org"
+          }
+        ]
+      },
+      {
+        "id": "listing_uz9yahta",
+        "type": "listing",
+        "name": {
+          "en": "Jeff's Place",
+          "es": "Jeff's Place"
+        },
+        "notes": {
+          "en": "Free, bi-monthly, open-ended peer support groups for children ages 3–19 and their caregivers coping with the death of a loved one. Individual and small groups in Framingham, MA; large groups in Wayland, MA.",
+          "es": "Grupos de apoyo entre pares gratuitos, dos veces al mes y sin fecha de cierre, para niños de 3 a 19 años y sus cuidadores que enfrentan la muerte de un ser querido. Grupos individuales y pequeños en Framingham, MA; grupos grandes en Wayland, MA."
+        },
+        "phones": [
+          {
+            "id": "phone_72amli93",
+            "number": "+15082763225"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_qtlbobtj",
+            "url": {
+              "en": "https://www.jeffsplace.org/",
+              "es": "https://www.jeffsplace.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_c1yxxkxv",
+        "type": "listing",
+        "name": {
+          "en": "Comfort Zone Camp",
+          "es": "Comfort Zone Camp"
+        },
+        "notes": {
+          "en": "Free weekend camps for children ages 7–17 who have experienced the death of a parent, sibling, or primary caregiver. Creates an environment where grieving children can have fun while learning coping skills.",
+          "es": "Campamentos de fin de semana gratuitos para niños de 7 a 17 años que han sufrido la muerte de un padre, un hermano o su cuidador principal. Crea un ambiente donde los niños en duelo pueden divertirse mientras aprenden a sobrellevar su pérdida."
+        },
+        "links": [
+          {
+            "id": "link_d3sn9zib",
+            "url": {
+              "en": "https://comfortzonecamp.org/",
+              "es": "https://comfortzonecamp.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_nysnd548",
+        "type": "listing",
+        "name": {
+          "en": "The Dougy Center for Grieving Children & Families",
+          "es": "The Dougy Center for Grieving Children & Families"
+        },
+        "notes": {
+          "en": "Headquartered in Portland, Oregon. Their website offers tools for children, teens, and young adults who are grieving.",
+          "es": "Con sede en Portland, Oregón. Su sitio web ofrece herramientas para niños, adolescentes y adultos jóvenes en duelo."
+        },
+        "phones": [
+          {
+            "id": "phone_c77p0qml",
+            "number": "+18667755683"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_qd6te81i",
+            "url": {
+              "en": "https://www.dougy.org/",
+              "es": "https://www.dougy.org/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_4d6c8cgq",
+        "type": "listing",
+        "name": {
+          "en": "The Garden: A Center for Grieving Children and Teens",
+          "es": "The Garden: A Center for Grieving Children and Teens"
+        },
+        "notes": {
+          "en": "Based in Northampton, MA. Programs and discussion groups help young people identify and share their feelings. Parents and guardians meet separately. No charge to families. Email for information.",
+          "es": "Con sede en Northampton, MA. Sus programas y grupos de conversación ayudan a los jóvenes a reconocer y compartir sus sentimientos. Los padres y tutores se reúnen por separado. Sin costo para las familias. Escriba para más información."
+        },
+        "emails": [
+          {
+            "id": "email_07fgzrq3",
+            "email": "shelly.thegarden@gmail.com"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_fsmodbnx",
+            "url": {
+              "en": "https://www.mightycause.com/organization/Thegarden",
+              "es": "https://www.mightycause.com/organization/Thegarden"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_1tmagrw4",
+        "type": "text",
+        "markdown": {
+          "en": "> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Service Department.",
+          "es": "> Esta no es una lista completa de los recursos disponibles para usted y su familia. Si tiene preguntas sobre estos recursos o desea más información sobre el apoyo en el duelo, comuníquese con el Departamento de Servicio Social de Mass General Hospital."
+        }
+      },
+      {
+        "id": "listing_1zc2pikg",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Hospital Social Service Department",
+          "es": "Departamento de Servicio Social de Mass General Hospital"
+        },
+        "phones": [
+          {
+            "id": "phone_4cxpmpif",
+            "number": "+16177262643"
+          }
+        ]
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Cuidados de apoyo y paliativos pediátricos"
+    }
   },
   {
     "id": "ebt_card_to_culture_program",
@@ -9716,7 +10294,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "With so many visitors each day, the hospital recommends public transportation whenever you can. Mass General is **directly across the street from the Charles/MGH stop on the MBTA Red Line**, and a short walk from **Bowdoin** (Blue Line) and **North Station** (Green and Orange Lines, plus commuter rail).\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates."
+            "markdown": "Due to our high volume of visitors every day, we recommend that you use public transportation whenever possible. We are located directly across the street from the **Charles/MGH stop on the MBTA Red Line** and a short walk from the Bowdoin (Blue Line) and North Station (Green and Orange Line) stations.\n\nNorth Station also has commuter rail.\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates."
           },
           {
             "type": "link",
@@ -9729,6 +10307,27 @@
             "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
             "label": "Getting Here and Parking — Mass General Brigham",
             "description": "Directions, transit, and parking for the main campus."
+          }
+        ]
+      },
+      "es": {
+        "description": "El hospital está justo enfrente de la Línea Roja: a menudo es más fácil que estacionar en el centro.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Como el estacionamiento puede ser limitado, le recomendamos usar el transporte público. El hospital está ubicado justo enfrente de la **parada Charles/MGH de la Línea Roja del MBTA** y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja).\n\nNorth Station también tiene tren de cercanías (commuter rail).\n\nSi viene en auto, consulte *Estacionamiento en Mass General* para ver los garajes, la validación y las tarifas."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mbta.com/trip-planner",
+            "label": "MBTA trip planner",
+            "description": "Plan a route to Charles/MGH on the Red Line."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking",
+            "label": "Cómo llegar y estacionamiento — Mass General Brigham",
+            "description": "Indicaciones, transporte público y estacionamiento para el campus principal."
           }
         ]
       }
@@ -9746,16 +10345,18 @@
       "directions",
       "getting here"
     ],
-    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking. Team to verify wording; consider adding hospital shuttle info if the unit has any for families.",
+    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking. Team to verify wording; consider adding hospital shuttle info if the unit has any for families.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking (MGH section, re-checked 2026-10-23), edited in place, approved by Mark 2026-10-26.\nSpanish transit sentence from MGB's /es/ parking page (2026-10-23); title, card summary, commuter-rail and parking lines, and link description translated by Claude, need Spanish review. Approved by Mark 2026-10-26.",
     "description": {
-      "en": "The hospital is across the street from the Red Line — often easier than parking downtown."
+      "en": "The hospital is across the street from the Red Line — often easier than parking downtown.",
+      "es": "El hospital está justo enfrente de la Línea Roja: a menudo es más fácil que estacionar en el centro."
     },
     "blocks": [
       {
         "id": "text_1",
         "type": "text",
         "markdown": {
-          "en": "With so many visitors each day, the hospital recommends public transportation whenever you can. Mass General is **directly across the street from the Charles/MGH stop on the MBTA Red Line**, and a short walk from **Bowdoin** (Blue Line) and **North Station** (Green and Orange Lines, plus commuter rail).\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates."
+          "en": "Due to our high volume of visitors every day, we recommend that you use public transportation whenever possible. We are located directly across the street from the **Charles/MGH stop on the MBTA Red Line** and a short walk from the Bowdoin (Blue Line) and North Station (Green and Orange Line) stations.\n\nNorth Station also has commuter rail.\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates.",
+          "es": "Como el estacionamiento puede ser limitado, le recomendamos usar el transporte público. El hospital está ubicado justo enfrente de la **parada Charles/MGH de la Línea Roja del MBTA** y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja).\n\nNorth Station también tiene tren de cercanías (commuter rail).\n\nSi viene en auto, consulte *Estacionamiento en Mass General* para ver los garajes, la validación y las tarifas."
         }
       },
       {
@@ -9775,16 +10376,22 @@
         "id": "link_2",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking"
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking"
         },
         "label": {
-          "en": "Getting Here and Parking — Mass General Brigham"
+          "en": "Getting Here and Parking — Mass General Brigham",
+          "es": "Cómo llegar y estacionamiento — Mass General Brigham"
         },
         "description": {
-          "en": "Directions, transit, and parking for the main campus."
+          "en": "Directions, transit, and parking for the main campus.",
+          "es": "Indicaciones, transporte público y estacionamiento para el campus principal."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Cómo llegar en transporte público"
+    }
   },
   {
     "id": "guest_wifi_and_charging",
