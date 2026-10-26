@@ -2994,7 +2994,7 @@
   },
   {
     "id": "chronic_lung_conditions",
-    "title": "Chronic Lung Conditions",
+    "title": "Pediatric Pulmonary Medicine",
     "status": "published",
     "units": [
       "picu"
@@ -3012,17 +3012,44 @@
     },
     "languages": {
       "en": {
-        "description": "Patient resources from Mass General's Pediatric Pulmonary Medicine for chronic lung conditions.",
+        "description": "The Pediatric Pulmonary Medicine Program has provided comprehensive care for children with respiratory disorders for more than 40 years.",
         "content": [
           {
             "type": "text",
-            "markdown": "Patient resources from Mass General Brigham for Children's Pediatric Pulmonary Medicine — covering chronic lung conditions including bronchopulmonary dysplasia, interstitial lung disease, pulmonary hypertension, congenital pulmonary malformations, and central hypoventilation syndrome."
+            "markdown": "The Pediatric Pulmonary Medicine Program at Mass General Brigham for Children has provided comprehensive care for children with respiratory disorders for more than 40 years. The group provides multidisciplinary consultation, diagnostic and management services for a wide array of pulmonary conditions, including:\n\n- Asthma\n- Bronchopulmonary dysplasia\n- Cystic fibrosis\n- Recurrent and persistent pneumonias\n- Unusual respiratory infections\n- Aerodigestive disorders\n- Immune deficiencies\n- Congenital lung malformations\n- Genetic pulmonary conditions\n- Neuromuscular disorders leading to chronic lung problems\n- Interstitial lung disease\n- Apnea\n- Exercise-related disorders\n- Sleep-related breathing problems\n\nWe constantly strive to deliver the best family-centered, cutting-edge pediatric pulmonary care in close association with local primary care providers.\n\n### Pediatric Pulmonary Medicine\n\n- 📞 [617-726-8707](tel:+16177268707)\n- 🌐 [massgeneralbrigham.org/en/services/pediatric-pulmonary-medicine](https://www.massgeneralbrigham.org/en/services/pediatric-pulmonary-medicine)"
           },
           {
             "type": "link",
-            "url": "https://www.massgeneralbrigham.org/en/services/pediatric-pulmonary-medicine#pediatric-pulmonary-medicine-conditions-and-treatments",
-            "label": "Patient Resources for Pediatric Pulmonary Medicine — Mass General",
-            "description": "Browse condition-specific guides and care information."
+            "url": "https://www.massgeneralbrigham.org/en/conditions/36594/interstitial-lung-disease-ild",
+            "label": "Interstitial Lung Disease (ILD) — Mass General Brigham",
+            "description": "A group of conditions that cause inflammation and scarring around the tiny air sacs in the lungs."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/conditions/59653/pulmonary-hypertension",
+            "label": "Pulmonary Hypertension — Mass General Brigham",
+            "description": "Pulmonary hypertension is high pressure in the blood vessels that carry blood into the lungs."
+          }
+        ]
+      },
+      "es": {
+        "description": "El Programa de Medicina Pulmonar Pediátrica ha brindado atención integral a niños con trastornos respiratorios durante más de 40 años.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "El Programa de Medicina Pulmonar Pediátrica de Mass General Brigham for Children ha brindado atención integral a niños con trastornos respiratorios durante más de 40 años. El grupo ofrece servicios de consulta, diagnóstico y manejo multidisciplinarios para una amplia gama de condiciones pulmonares, incluyendo:\n\n- Asma\n- Displasia broncopulmonar\n- Fibrosis quística\n- Neumonías recurrentes y persistentes\n- Infecciones respiratorias inusuales\n- Trastornos aerodigestivos\n- Inmunodeficiencias\n- Malformaciones pulmonares congénitas\n- Afecciones pulmonares genéticas\n- Trastornos neuromusculares que provocan problemas pulmonares crónicos\n- Enfermedad pulmonar intersticial\n- Apnea\n- Trastornos relacionados con el ejercicio\n- Problemas respiratorios relacionados con el sueño\n\nNos esforzamos constantemente por ofrecer la mejor atención pulmonar pediátrica de vanguardia centrada en la familia, en estrecha colaboración con los proveedores de atención primaria locales.\n\n### Medicina Pulmonar Pediátrica\n\n- 📞 [617-726-8707](tel:+16177268707)\n- 🌐 [massgeneralbrigham.org/es/services/pediatric-pulmonary-medicine](https://www.massgeneralbrigham.org/es/services/pediatric-pulmonary-medicine)"
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/conditions/36594/interstitial-lung-disease-ild",
+            "label": "Interstitial Lung Disease (ILD) — Mass General Brigham",
+            "description": "A group of conditions that cause inflammation and scarring around the tiny air sacs in the lungs."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/conditions/59653/pulmonary-hypertension",
+            "label": "Pulmonary Hypertension — Mass General Brigham",
+            "description": "Pulmonary hypertension is high pressure in the blood vessels that carry blood into the lungs."
           }
         ]
       }
@@ -3035,32 +3062,73 @@
       "Congenital Pulmonary Malformations",
       "Central Hypoventilation Syndrome"
     ],
-    "notes": null,
+    "notes": "Matched to https://www.massgeneralbrigham.org/en/services/pediatric-pulmonary-medicine (snapshot 2026-10-21); renamed from Chronic Lung Conditions; old MGH condition guides no longer online; approved by Mark 2026-10-23.\nSpanish from MGB's /es/ Pediatric Pulmonary Medicine page (snapshot 2026-10-21); card summary trimmed from MGB's sentence; 'Asma' fixed (MGB's list has 'Asthma'); condition links English only. Approved by Mark 2026-10-23.",
     "description": {
-      "en": "Patient resources from Mass General's Pediatric Pulmonary Medicine for chronic lung conditions."
+      "en": "The Pediatric Pulmonary Medicine Program has provided comprehensive care for children with respiratory disorders for more than 40 years.",
+      "es": "El Programa de Medicina Pulmonar Pediátrica ha brindado atención integral a niños con trastornos respiratorios durante más de 40 años."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_6c8wcvhk",
         "type": "text",
         "markdown": {
-          "en": "Patient resources from Mass General Brigham for Children's Pediatric Pulmonary Medicine — covering chronic lung conditions including bronchopulmonary dysplasia, interstitial lung disease, pulmonary hypertension, congenital pulmonary malformations, and central hypoventilation syndrome."
+          "en": "The Pediatric Pulmonary Medicine Program at Mass General Brigham for Children has provided comprehensive care for children with respiratory disorders for more than 40 years. The group provides multidisciplinary consultation, diagnostic and management services for a wide array of pulmonary conditions, including:\n\n- Asthma\n- Bronchopulmonary dysplasia\n- Cystic fibrosis\n- Recurrent and persistent pneumonias\n- Unusual respiratory infections\n- Aerodigestive disorders\n- Immune deficiencies\n- Congenital lung malformations\n- Genetic pulmonary conditions\n- Neuromuscular disorders leading to chronic lung problems\n- Interstitial lung disease\n- Apnea\n- Exercise-related disorders\n- Sleep-related breathing problems\n\nWe constantly strive to deliver the best family-centered, cutting-edge pediatric pulmonary care in close association with local primary care providers.",
+          "es": "El Programa de Medicina Pulmonar Pediátrica de Mass General Brigham for Children ha brindado atención integral a niños con trastornos respiratorios durante más de 40 años. El grupo ofrece servicios de consulta, diagnóstico y manejo multidisciplinarios para una amplia gama de condiciones pulmonares, incluyendo:\n\n- Asma\n- Displasia broncopulmonar\n- Fibrosis quística\n- Neumonías recurrentes y persistentes\n- Infecciones respiratorias inusuales\n- Trastornos aerodigestivos\n- Inmunodeficiencias\n- Malformaciones pulmonares congénitas\n- Afecciones pulmonares genéticas\n- Trastornos neuromusculares que provocan problemas pulmonares crónicos\n- Enfermedad pulmonar intersticial\n- Apnea\n- Trastornos relacionados con el ejercicio\n- Problemas respiratorios relacionados con el sueño\n\nNos esforzamos constantemente por ofrecer la mejor atención pulmonar pediátrica de vanguardia centrada en la familia, en estrecha colaboración con los proveedores de atención primaria locales."
         }
       },
       {
-        "id": "link_1",
+        "id": "listing_c6t5u8v5",
+        "type": "listing",
+        "name": {
+          "en": "Pediatric Pulmonary Medicine",
+          "es": "Medicina Pulmonar Pediátrica"
+        },
+        "phones": [
+          {
+            "id": "phone_9drluzdp",
+            "number": "+16177268707"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_0db1ctcp",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/services/pediatric-pulmonary-medicine",
+              "es": "https://www.massgeneralbrigham.org/es/services/pediatric-pulmonary-medicine"
+            }
+          }
+        ]
+      },
+      {
+        "id": "link_8b8dr2bu",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/services/pediatric-pulmonary-medicine#pediatric-pulmonary-medicine-conditions-and-treatments"
+          "en": "https://www.massgeneralbrigham.org/en/conditions/36594/interstitial-lung-disease-ild"
         },
         "label": {
-          "en": "Patient Resources for Pediatric Pulmonary Medicine — Mass General"
+          "en": "Interstitial Lung Disease (ILD) — Mass General Brigham"
         },
         "description": {
-          "en": "Browse condition-specific guides and care information."
+          "en": "A group of conditions that cause inflammation and scarring around the tiny air sacs in the lungs."
+        }
+      },
+      {
+        "id": "link_lduiix4a",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/en/conditions/59653/pulmonary-hypertension"
+        },
+        "label": {
+          "en": "Pulmonary Hypertension — Mass General Brigham"
+        },
+        "description": {
+          "en": "Pulmonary hypertension is high pressure in the blood vessels that carry blood into the lungs."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Medicina pulmonar pediátrica"
+    }
   },
   {
     "id": "autism_spectrum_disorder",
@@ -9747,13 +9815,28 @@
         "content": [
           {
             "type": "text",
-            "markdown": "## Guest Wi-Fi\n\nConnect to the **PHSPIAGUEST** network. No password is needed.\n\nThe guest network isn't secure. Mass General Brigham filters some content on it.\n\n## Charging your devices\n\nCharging stations are available throughout Mass General Brigham campuses."
+            "markdown": "## Guest Wi-Fi\n\nVisitors have access to a wireless Internet connection throughout most of our campuses:\n\n- Guest network: **PHSPIAGUEST**\n- No password required\n\nYou'll be asked to accept Mass General Brigham's [Acceptable Use Policy](https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-use-policy) to connect.\n\nThe guest network is not secure, but it does provide content filtering.\n\n## Charging your devices\n\nVisitors must use their own laptop or mobile device to connect to the wireless network. We provide several charging stations throughout our campuses. Please ask the care team before plugging a laptop or mobile device into an outlet."
           },
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access",
-            "label": "Wi-Fi and charging access — Mass General Brigham",
+            "label": "WiFi and Charging Access for Visitors — Mass General Brigham",
             "description": "Mass General Brigham's visitor page about the guest network and charging stations."
+          }
+        ]
+      },
+      "es": {
+        "description": "Cómo conectarse a internet en el hospital: la red Wi-Fi gratuita para invitados y dónde cargar su teléfono.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "## Wi-Fi para invitados\n\nLos visitantes tienen acceso a una conexión inalámbrica a internet en la mayor parte de nuestros campus:\n\n- Red para invitados: **PHSPIAGUEST**\n- No se requiere contraseña\n\nSe le pedirá que acepte la [Política de Uso Aceptable](https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-use-policy) de Mass General Brigham para conectarse (en inglés).\n\nLa red para invitados no es segura, pero sí ofrece filtrado de contenido.\n\n## Cómo cargar sus dispositivos\n\nLos visitantes deben usar su propia computadora portátil o dispositivo móvil para conectarse a la red inalámbrica. Contamos con varias estaciones de carga en nuestros campus. Antes de conectar una computadora portátil o un dispositivo móvil a un enchufe, consulte con el equipo de atención."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/wifi-charging-access",
+            "label": "Acceso a WiFi y carga para visitantes — Mass General Brigham",
+            "description": "La página de Mass General Brigham para visitantes sobre la red para invitados y las estaciones de carga."
           }
         ]
       }
@@ -9767,53 +9850,64 @@
       "charging",
       "phone charger"
     ],
-    "notes": "Drafted 2026-10-15 from massgeneralbrigham.org 'Wi-Fi & charging access'. Network name PHSPIAGUEST confirmed by Mark, 2026-10-15.",
+    "notes": "Drafted 2026-10-15 from massgeneralbrigham.org 'Wi-Fi & charging access'. Network name PHSPIAGUEST confirmed by Mark, 2026-10-15.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access (re-checked 2026-10-23), edited in place (section ids kept for the Essentials Wi-Fi row), approved by Mark 2026-10-23.\nSpanish from MGB's /es/ Wi-Fi page (2026-10-23); title, card summary, section titles and link description translated by Claude, need Spanish review. Approved by Mark 2026-10-23.",
     "description": {
-      "en": "How to get online at the hospital: the free guest Wi-Fi network, and where to charge your phone."
+      "en": "How to get online at the hospital: the free guest Wi-Fi network, and where to charge your phone.",
+      "es": "Cómo conectarse a internet en el hospital: la red Wi-Fi gratuita para invitados y dónde cargar su teléfono."
     },
     "blocks": [
       {
         "id": "guest_wi_fi",
         "type": "section",
         "title": {
-          "en": "Guest Wi-Fi"
+          "en": "Guest Wi-Fi",
+          "es": "Wi-Fi para invitados"
         }
       },
       {
         "id": "guest_wi_fi_text",
         "type": "text",
         "markdown": {
-          "en": "Connect to the **PHSPIAGUEST** network. No password is needed.\n\nThe guest network isn't secure. Mass General Brigham filters some content on it."
+          "en": "Visitors have access to a wireless Internet connection throughout most of our campuses:\n\n- Guest network: **PHSPIAGUEST**\n- No password required\n\nYou'll be asked to accept Mass General Brigham's [Acceptable Use Policy](https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-use-policy) to connect.\n\nThe guest network is not secure, but it does provide content filtering.",
+          "es": "Los visitantes tienen acceso a una conexión inalámbrica a internet en la mayor parte de nuestros campus:\n\n- Red para invitados: **PHSPIAGUEST**\n- No se requiere contraseña\n\nSe le pedirá que acepte la [Política de Uso Aceptable](https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-use-policy) de Mass General Brigham para conectarse (en inglés).\n\nLa red para invitados no es segura, pero sí ofrece filtrado de contenido."
         }
       },
       {
         "id": "charging_your_devices",
         "type": "section",
         "title": {
-          "en": "Charging your devices"
+          "en": "Charging your devices",
+          "es": "Cómo cargar sus dispositivos"
         }
       },
       {
         "id": "charging_your_devices_text",
         "type": "text",
         "markdown": {
-          "en": "Charging stations are available throughout Mass General Brigham campuses."
+          "en": "Visitors must use their own laptop or mobile device to connect to the wireless network. We provide several charging stations throughout our campuses. Please ask the care team before plugging a laptop or mobile device into an outlet.",
+          "es": "Los visitantes deben usar su propia computadora portátil o dispositivo móvil para conectarse a la red inalámbrica. Contamos con varias estaciones de carga en nuestros campus. Antes de conectar una computadora portátil o un dispositivo móvil a un enchufe, consulte con el equipo de atención."
         }
       },
       {
         "id": "link_1",
         "type": "link",
         "url": {
-          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access"
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/wifi-charging-access",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/wifi-charging-access"
         },
         "label": {
-          "en": "Wi-Fi and charging access — Mass General Brigham"
+          "en": "WiFi and Charging Access for Visitors — Mass General Brigham",
+          "es": "Acceso a WiFi y carga para visitantes — Mass General Brigham"
         },
         "description": {
-          "en": "Mass General Brigham's visitor page about the guest network and charging stations."
+          "en": "Mass General Brigham's visitor page about the guest network and charging stations.",
+          "es": "La página de Mass General Brigham para visitantes sobre la red para invitados y las estaciones de carga."
         }
       }
-    ]
+    ],
+    "titleTranslations": {
+      "es": "Wi-Fi y carga para visitantes"
+    }
   },
   {
     "id": "journal_writing_to_manage_stress",
