@@ -1,5 +1,5 @@
 {
-  "version": 120,
+  "version": 134,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -628,6 +628,9 @@
               "en": "Breathing and trach care",
               "es": "Respiración y traqueostomía"
             },
+            "description": {
+              "en": "Trach care, asthma, bronchitis and lung conditions"
+            },
             "resourceIds": [
               "pediatric_tracheostomy_what_you_need_to_know",
               "pediatric_tracheostomy_how_to_exchange_a_trach",
@@ -635,16 +638,16 @@
               "asthma_what_you_need_to_know",
               "bronchitis_and_bronchiolitis",
               "chronic_lung_conditions"
-            ],
-            "description": {
-              "en": "Trach care, asthma, bronchitis and lung conditions"
-            }
+            ]
           },
           {
             "id": "keeping_kids_safe",
             "title": {
               "en": "Keeping kids safe",
               "es": "Seguridad infantil"
+            },
+            "description": {
+              "en": "CPR, car seats, childproofing, water, gun and driving safety"
             },
             "resourceIds": [
               "learn_child_and_adult_cpr",
@@ -653,10 +656,7 @@
               "safe_driving_for_teens",
               "gun_safety_how_to_discuss_with_any_age_child",
               "drowning_prevention"
-            ],
-            "description": {
-              "en": "CPR, car seats, childproofing, water, gun and driving safety"
-            }
+            ]
           },
           {
             "id": "babies_and_young_children",
@@ -664,16 +664,16 @@
               "en": "Babies and young children",
               "es": "Bebés y niños pequeños"
             },
+            "description": {
+              "en": "Breastfeeding, sleep and vaccines"
+            },
             "resourceIds": [
               "breastfeeding_getting_started",
               "breastfeeding_help_and_support",
               "breastfeeding_handouts",
               "healthy_sleep_habits_for_your_baby",
               "the_benefits_of_childhood_vaccines"
-            ],
-            "description": {
-              "en": "Breastfeeding, sleep and vaccines"
-            }
+            ]
           }
         ]
       }
@@ -822,6 +822,86 @@
         "sites": [
           "mgh"
         ]
+      }
+    ]
+  },
+  "phaseCards": {
+    "items": [
+      {
+        "id": "card_ofzplyeh",
+        "eyebrow": {
+          "en": "New to the PICU? Start here",
+          "es": "¿Es nuevo en la PICU? Empiece aquí"
+        },
+        "title": {
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
+        },
+        "body": {
+          "en": "Visiting hours, medical rounds, where to sleep, food, laundry and parking.",
+          "es": "Horario de visitas, visita del equipo médico, dónde dormir, comida, lavandería y estacionamiento."
+        },
+        "icon": "lighthouse",
+        "action": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "actionLabel": {
+          "en": "Open the guide",
+          "es": "Abrir la guía"
+        },
+        "dismissLabel": {
+          "en": "Hide",
+          "es": "Ocultar"
+        },
+        "kind": "tip",
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ],
+        "phasesByUnit": {
+          "picu": [
+            "pre_admission",
+            "just_arrived",
+            "first_night"
+          ]
+        }
+      },
+      {
+        "id": "card_cxmg6c0h",
+        "title": {
+          "en": "Is your child home now?",
+          "es": "¿Su hijo ya está en casa?"
+        },
+        "body": {
+          "en": "We can show you the most helpful resources for the days ahead.",
+          "es": "Podemos mostrarle los recursos más útiles para los próximos días."
+        },
+        "action": {
+          "type": "nextPhase"
+        },
+        "actionLabel": {
+          "en": "Yes, we're home",
+          "es": "Sí, estamos en casa"
+        },
+        "dismissLabel": {
+          "en": "Not yet",
+          "es": "Todavía no"
+        },
+        "kind": "question",
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ],
+        "phasesByUnit": {
+          "picu": [
+            "going_home"
+          ]
+        }
       }
     ]
   }
