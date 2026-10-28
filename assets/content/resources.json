@@ -254,7 +254,8 @@
     ],
     "titleTranslations": {
       "es": "Cómo entender su seguro médico"
-    }
+    },
+    "updatedAt": "2026-10-22T15:01:50.000Z"
   },
   {
     "id": "appointments_and_referrals",
@@ -347,7 +348,8 @@
     ],
     "titleTranslations": {
       "es": "Citas y derivaciones"
-    }
+    },
+    "updatedAt": "2026-10-20T14:00:52.000Z"
   },
   {
     "id": "disability_services",
@@ -440,7 +442,8 @@
     ],
     "titleTranslations": {
       "es": "Servicios para personas con discapacidades"
-    }
+    },
+    "updatedAt": "2026-10-20T14:06:10.000Z"
   },
   {
     "id": "family_and_medical_leave",
@@ -509,7 +512,8 @@
           "en": "Apply for Paid Family and Medical Leave, check eligibility, and learn about benefits."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T18:14:35.000Z"
   },
   {
     "id": "financial_services",
@@ -790,7 +794,8 @@
     ],
     "titleTranslations": {
       "es": "Servicios financieros"
-    }
+    },
+    "updatedAt": "2026-10-22T02:37:19.000Z"
   },
   {
     "id": "medical_interpreter_services",
@@ -959,7 +964,8 @@
     ],
     "titleTranslations": {
       "es": "Servicios de interpretación"
-    }
+    },
+    "updatedAt": "2026-10-22T02:56:41.000Z"
   },
   {
     "id": "patient_gateway",
@@ -1176,7 +1182,8 @@
     ],
     "titleTranslations": {
       "es": "Patient Gateway"
-    }
+    },
+    "updatedAt": "2026-10-26T15:02:57.000Z"
   },
   {
     "id": "mgb_for_children",
@@ -1535,7 +1542,8 @@
     ],
     "titleTranslations": {
       "es": "Mass General Brigham para Niños"
-    }
+    },
+    "updatedAt": "2026-10-22T14:43:18.000Z"
   },
   {
     "id": "quality_and_safety",
@@ -1656,7 +1664,8 @@
     ],
     "titleTranslations": {
       "es": "Calidad y seguridad"
-    }
+    },
+    "updatedAt": "2026-10-22T14:28:57.000Z"
   },
   {
     "id": "picu_follow_up_clinic",
@@ -1783,7 +1792,8 @@
     ],
     "titleTranslations": {
       "es": "Clínica de Seguimiento de la PICU"
-    }
+    },
+    "updatedAt": "2026-10-22T14:20:17.000Z"
   },
   {
     "id": "learn_child_and_adult_cpr",
@@ -1834,7 +1844,8 @@
           "en": "How to Perform CPR on Adults & Infants — Mass General Brigham"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T18:48:24.000Z"
   },
   {
     "id": "the_benefits_of_childhood_vaccines",
@@ -1965,7 +1976,8 @@
           "en": "- **It helps protect children and adults who can't get vaccinated.** There are some children who can't get vaccinated for medical reasons. When your child is vaccinated, it helps protect other children or adults who can't.\n- **It helps lower the number of people affected by a disease.** As more people are vaccinated against a certain disease, the disease affects fewer people over time. For example, measles used to affect children in the United States. Now, there are very few families in the U.S. who are affected by measles. This is because most children are vaccinated against measles.\n\n> 9 out of every 10 people who get a vaccine will not catch the disease they are vaccinated against."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T18:53:22.000Z"
   },
   {
     "id": "childproofing_your_home",
@@ -2055,7 +2067,8 @@
           "en": "Babies like to grab onto surfaces, pick up objects, and put them in their mouths. They learn to understand the world around them through touch and taste. Here are tips to childproof your home:\n\n### Kitchen\n\n- When you cook or prepare food, keep your baby in a highchair or safely enclosed play area where you can see them.\n- Install locks or stops on drawers, cabinets, switches, the refrigerator door, and oven doors. Keep magnets and other small objects out of your baby's reach.\n- Turn pot handles inward on the stove. Use the burners toward the back wall.\n- Store household cleaners and poisons in locked cabinets that are out of your baby's reach.\n- Keep small appliances and other items away from the edges of countertops or tables.\n\n### Living room, den, and bedrooms\n\n- Attach televisions and heavy furniture, like bookshelves, to the wall. This can help prevent the TV or furniture from falling if your baby bumps into it or pushes on it.\n- Secure and hide electrical cords.\n- If you have older children, have them put away their toys out of your baby's reach.\n- Keep the floors and other surfaces free of items your baby could choke on or break.\n\n### Bathroom and laundry room\n\n- Secure toilet lids.\n- Store cleaners, poisons, and laundry products in a locked cabinet out of your child's reach.\n- Empty the bathtub or other large containers with liquid as soon as you are done using them.\n\n### Other tips\n\n- Use safety covers in electrical outlets.\n- Install safety gates at the top and bottom of every staircase.\n- Cover sharp corners on furniture or household objects.\n- For more tips, ask the care team or visit the [National Safety Council's childproofing page](https://www.nsc.org/community-safety/safety-topics/child-safety/childproofing-your-home).\n\n> **Did you know?** The best way to childproof your home is to see the world from your baby's point of view. Get down on the floor — or as close as possible — to check for anything your baby could get into."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:43:39.000Z"
   },
   {
     "id": "pediatric_tracheostomy_how_to_exchange_a_trach",
@@ -2109,7 +2122,8 @@
           "en": "How to change your infant's trach — Dr. Chris Hartnick, MD"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:00:59.000Z"
   },
   {
     "id": "pediatric_tracheostomy_what_you_need_to_know",
@@ -2165,7 +2179,8 @@
           "en": "Tracheostomy: What You Need to Know"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:00:59.000Z"
   },
   {
     "id": "car_seat_safety",
@@ -2233,7 +2248,8 @@
           "en": "Boston Public Health Commission's guide to car seat selection, installation, and Massachusetts law."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:03:06.000Z"
   },
   {
     "id": "safe_driving_for_teens",
@@ -2351,7 +2367,8 @@
           "en": "Drivers under the age of 20 have the highest rate of distraction-related fatal crashes. Parents need to foster open conversations about the importance of the law and how it works to ensure their own safety and the safety of others.\n\nSince 2010 it has been illegal in Massachusetts for any junior operator — drivers under age 18 — to talk on the phone in any way while driving, including hands-free.\n\nEncourage teenage drivers to speak up if they see their peers or others driving distracted, just as they would if someone were driving drunk. Parents must also set good examples by not using their phones while driving."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:07:48.000Z"
   },
   {
     "id": "gun_safety_how_to_discuss_with_any_age_child",
@@ -2448,7 +2465,8 @@
           "en": "Read the full article from the MGH Clay Center for Young Healthy Minds."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:12:48.000Z"
   },
   {
     "id": "guardianship",
@@ -2646,7 +2664,8 @@
           "en": "The Lurie Center's guardianship handout (PDF), rev. 3/2018."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-23T13:28:28.000Z"
   },
   {
     "id": "medication_reminder_smartphone_apps",
@@ -2752,7 +2771,8 @@
           "en": "Give your medicine reminders **code names** if you are concerned about other people seeing your reminders. Keep a key of what the messages mean in a separate, safe place."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:20:14.000Z"
   },
   {
     "id": "navigating_relationships_with_chronic_illness",
@@ -2844,7 +2864,8 @@
           "en": "Just like with friends, you may struggle with if, when, or what to say about your medical condition to someone you're dating. There may be physical signs that you worry the person you are dating may see. This might make you feel insecure and less confident about yourself.\n\nUltimately, the person who decides what to tell their partner is **you**. Trust yourself. You will have a sense for when it's time. Your partner doesn't need all the details — only as much as you're comfortable sharing. And just as you needed time to understand your condition, try to allow them the same.\n\nAnd don't forget: your family and healthcare team are there for you at any point along the way."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T19:22:57.000Z"
   },
   {
     "id": "hospital_treatments_and_services",
@@ -2913,7 +2934,8 @@
           "en": "Browse pediatric specialties and subspecialties on massgeneral.org."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T16:38:38.000Z"
   },
   {
     "id": "preparation_for_surgery",
@@ -3115,7 +3137,8 @@
     ],
     "titleTranslations": {
       "es": "Cómo prepararse para la cirugía"
-    }
+    },
+    "updatedAt": "2026-10-26T14:29:32.000Z"
   },
   {
     "id": "bronchitis_and_bronchiolitis",
@@ -3275,7 +3298,8 @@
           "en": "Visit the Acute Bronchitis in Children page on massgeneralbrigham.org."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-21T19:25:42.000Z"
   },
   {
     "id": "chronic_lung_conditions",
@@ -3413,7 +3437,8 @@
     ],
     "titleTranslations": {
       "es": "Medicina pulmonar pediátrica"
-    }
+    },
+    "updatedAt": "2026-10-23T14:51:22.000Z"
   },
   {
     "id": "autism_spectrum_disorder",
@@ -3523,7 +3548,8 @@
           "en": "Visit the Lurie Center for Autism page on massgeneralbrigham.org."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-21T19:46:42.000Z"
   },
   {
     "id": "rights_for_non_citizens",
@@ -3683,7 +3709,8 @@
           "en": "Sanctuary status is meant to build trust between immigrants and local police. Rules vary, but typically local police in sanctuary cities will not ask victims or witnesses about their immigration status, and will not hold immigrants charged with minor crimes for ICE after they would otherwise be released.\n\nDon't be confused by the word *\"sanctuary.\"* Immigration laws are still in force in these places. It's just that the federal government has to enforce the laws — not the local police.\n\nSome colleges offer sanctuary to their undocumented students. If the federal government says *\"give me the names of your non-citizens,\"* the colleges can refuse. But if ICE returns with a warrant, the colleges will have to provide the information.\n\nSource for this section: [The Boston Globe — What is a sanctuary city?](https://www.bostonglobe.com/metro/2017/01/27/what-sanctuary-city/8mXFmc9TZUPZhBZhn1Mi6H/story.html)\n\n---\n\n*Revised February 2017.*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "healthy_sleep_habits_for_your_baby",
@@ -3858,7 +3885,8 @@
           "en": "**Websites**\n\n- [HealthyChildren.org](https://www.healthychildren.org) (AAP) — search *\"Getting Your Baby to Sleep\"* and *\"Self-Soothing: Help Your Baby Learn This Life Skill\"*\n- [ZeroToThree.org](https://www.zerotothree.org) — search *\"sleep\"*\n- [BabySleep.com — Advice by Child Age](https://www.babysleep.com/advice/by-child-age/)\n- [Dr. Craig Canapari](https://drcraigcanapari.com)\n- [Babywise Mom](https://www.babywisemom.com)\n\n**Books**\n\n- *The No-Cry Sleep Solution* — Elizabeth Pantley\n- *The Happiest Baby Guide to Great Sleep* — Harvey Karp\n- *Solve Your Child's Sleep Problems* — Richard Ferber\n- *The Baby Sleep Solution* — Suzy Giordano\n- *Healthy Sleep Habits, Happy Child* — Marc Weissbluth\n- *The CALM Baby Method: Solutions for Fussy Days and Sleepless Nights* — Fishbein and Ideran\n- *It's Never Too Late to Sleep Train* — Craig Canapari"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "clay_center_for_young_healthy_minds",
@@ -3935,7 +3963,8 @@
           "en": "Read articles, watch videos, and listen to podcasts on youth mental health."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T20:07:09.000Z"
   },
   {
     "id": "pediatric_tracheostomy_how_to_suction_a_trach",
@@ -3991,7 +4020,8 @@
           "en": "Caring for Your Infant's Tracheostomy"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T20:09:03.000Z"
   },
   {
     "id": "asthma_what_you_need_to_know",
@@ -4083,7 +4113,8 @@
     ],
     "titleTranslations": {
       "es": "Asma: lo que necesita saber"
-    }
+    },
+    "updatedAt": "2026-10-20T14:07:09.000Z"
   },
   {
     "id": "drowning_prevention",
@@ -4160,7 +4191,8 @@
           "en": "For older children, teenagers, and people with more experience swimming, it's still important to have an adult nearby who knows how to swim and can watch for danger. Also follow these tips:\n\n- **Make sure your child learns how to swim.** If your child knows how to swim, they will be safer and more confident in the water.\n- **Learn how to swim if you don't know how.** You can help teach your child to swim and stay safe in the water, and help them if they are ever in danger.\n- **If your older child knows how to swim, have them swim with a buddy.** Swimming buddies are fun and allow each person to look out for the other in case of danger.\n- **Put a gate with a lock around your pool.** This way, your child won't be able to get into the pool without an adult to watch them. Store the key in a safe place.\n- **Talk to your child about avoiding alcohol while swimming.** This is especially important for teenagers. Alcohol plays a part in up to half of all teenage and adult drowning accidents in the United States. Make sure you and your children don't drink alcohol near or in any type of water.\n- **Learn CPR.** CPR is a lifesaving technique that can help your child or others who are near drowning. Many schools or community centers, like your local YMCA, offer classes to learn CPR."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T20:11:58.000Z"
   },
   {
     "id": "how_to_keep_your_child_safe_during_a_hospital_stay",
@@ -4279,7 +4311,8 @@
           "en": "- **Know who is on your child's care team.** All staff have a picture ID. You can ask to see a care team member's ID badge at any time.\n\n---\n\n*Revised April 2018. Reviewed by the MGHfC Family Advisory Council.*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T20:15:53.000Z"
   },
   {
     "id": "what_to_expect_emergency_department",
@@ -4378,7 +4411,8 @@
           "en": "The Pediatric Emergency Department's services, child-friendly features, and how to reach it."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-22T15:37:55.000Z"
   },
   {
     "id": "mgb_imaging_videos",
@@ -4569,7 +4603,8 @@
     ],
     "titleTranslations": {
       "es": "Diagnóstico por imágenes pediátrico"
-    }
+    },
+    "updatedAt": "2026-10-23T14:07:49.000Z"
   },
   {
     "id": "iv_placement_and_phlebotomy",
@@ -4745,7 +4780,8 @@
           "en": "It is very helpful for us to know about your child's past experiences with blood tests and IV insertions. If these procedures have gone well in the past, let us know what worked. If your child has had difficulty tolerating these procedures, we will work with you and your child to improve the experience. Let us know if there have been any problems finding your child's veins in the past. Child life specialists are especially helpful for children who need additional preparation, help, and support."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-11T20:38:15.000Z"
   },
   {
     "id": "welcome_to_the_picu",
@@ -4892,7 +4928,8 @@
           "en": "Visit the full Critical Care Medicine page, including team bios and patient resources."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T16:16:24.000Z"
   },
   {
     "id": "pediatric_emergency_department",
@@ -5035,7 +5072,8 @@
     ],
     "titleTranslations": {
       "es": "Departamento de Emergencias Pediátricas"
-    }
+    },
+    "updatedAt": "2026-10-22T02:08:14.000Z"
   },
   {
     "id": "hospital_campus_map",
@@ -5101,7 +5139,8 @@
           "en": "MGH Main Campus Map"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-12T01:24:32.000Z"
   },
   {
     "id": "hospital_parking_and_interactive_campus_map",
@@ -5288,7 +5327,8 @@
     ],
     "titleTranslations": {
       "es": "Cómo llegar a Mass General"
-    }
+    },
+    "updatedAt": "2026-10-22T02:46:45.000Z"
   },
   {
     "id": "overnight_accommodations",
@@ -5495,7 +5535,8 @@
     ],
     "titleTranslations": {
       "es": "Alojamiento para pasar la noche"
-    }
+    },
+    "updatedAt": "2026-10-20T14:06:10.000Z"
   },
   {
     "id": "picu_welcome_guide",
@@ -5911,7 +5952,8 @@
     ],
     "titleTranslations": {
       "es": "Guía de bienvenida a la PICU"
-    }
+    },
+    "updatedAt": "2026-10-22T14:45:26.000Z"
   },
   {
     "id": "daisy_award_nomination",
@@ -5979,7 +6021,8 @@
           "en": "Submit a nomination through the secure survey form."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T14:07:16.000Z"
   },
   {
     "id": "patient_and_family_relations",
@@ -6098,7 +6141,8 @@
     ],
     "titleTranslations": {
       "es": "Relaciones con Pacientes y Familias"
-    }
+    },
+    "updatedAt": "2026-10-23T14:26:10.000Z"
   },
   {
     "id": "certified_child_life_specialists",
@@ -6258,7 +6302,8 @@
     ],
     "titleTranslations": {
       "es": "Especialistas certificados en vida infantil"
-    }
+    },
+    "updatedAt": "2026-10-23T14:38:38.000Z"
   },
   {
     "id": "critical_care_doctors_whos_who",
@@ -6367,7 +6412,8 @@
           "en": "Medical students are in the third and fourth year of medical school. **Third-year students** work with Interns to help care for your child. **Fourth-year students** usually work under the Senior Resident to care for your child.\n\n---\n\nMass General Hospital for Children is committed to providing you with the highest standard of care. We think this is enhanced by being a Harvard teaching hospital.\n\nSometimes it can be hard to tell who is who in a place bustling with so many pediatric doctors. All members of your child's medical team should introduce themselves and their role on the team.\n\n> **If you are uncertain who a person is, please ask them to introduce themselves.**"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-07-31T15:00:25.000Z"
   },
   {
     "id": "pediatric_hematology_and_oncology",
@@ -6648,7 +6694,8 @@
     ],
     "titleTranslations": {
       "es": "Hematología y Oncología Pediátrica"
-    }
+    },
+    "updatedAt": "2026-10-22T01:14:54.000Z"
   },
   {
     "id": "pediatric_supportive_palliative_care",
@@ -7071,7 +7118,8 @@
     ],
     "titleTranslations": {
       "es": "Cuidados de apoyo y paliativos pediátricos"
-    }
+    },
+    "updatedAt": "2026-10-26T14:55:56.000Z"
   },
   {
     "id": "ebt_card_to_culture_program",
@@ -7141,7 +7189,8 @@
           "en": "Browse participating museums, theaters, and cultural sites across Massachusetts."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T14:57:47.000Z"
   },
   {
     "id": "family_activities_around_boston",
@@ -7210,7 +7259,8 @@
           "en": "Browse upcoming family-friendly events and activities around the city."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T14:59:58.000Z"
   },
   {
     "id": "things_to_do_around_boston",
@@ -7278,7 +7328,8 @@
           "en": "Browse attractions, events, and ideas for exploring the city."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:01:24.000Z"
   },
   {
     "id": "catastrophic_illness_in_children_relief_fund",
@@ -7347,7 +7398,8 @@
           "en": "Check eligibility, see covered expenses, and apply online."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:04:07.000Z"
   },
   {
     "id": "pact_program_parenting_while_battling_serious_illness",
@@ -7416,7 +7468,8 @@
           "en": "Read parent guides, video resources, and find support for talking with children about illness."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:04:07.000Z"
   },
   {
     "id": "support_for_siblings_of_a_special_needs_child",
@@ -7585,7 +7638,8 @@
           "en": "For more information, or for help connecting to mental health guidance for your typically developing child, call the Social Service Department: 📞 [617-643-2166](tel:+16176432166).\n\n---\n\n*Source: \"Siblings of your Special Needs Child…\", Kaiser Permanente, Department of Genetics. Their sources: The Siblings Support Project of the Arc of the United States; ARCH (National Resource Center for Respite and Crisis Care Services); Derenda Timmons Schubert, Ph.D. (2004); Meyer and Vadasy (1994); Steinberg (2004). © 2011 The General Hospital Corporation — Social Service Department.*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "my_loved_one_in_the_hospital_social_story",
@@ -7651,7 +7705,8 @@
           "en": "My Loved One in the Hospital — Social Story"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:24:17.000Z"
   },
   {
     "id": "massachusetts_behavioral_health_help_line",
@@ -7719,7 +7774,8 @@
           "en": "Call, chat, or text for free, confidential mental health and substance use support."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:27:02.000Z"
   },
   {
     "id": "how_to_find_a_therapist",
@@ -7798,7 +7854,8 @@
           "en": "### 1. Call your insurance company\n\nSee your card for contact information. Your insurance may require you to use one of their preferred providers.\n\n### 2. Massachusetts residents — contact the 24/7 Behavioral Health Help Line\n\nGet the treatment or support you need, find a provider, and make an appointment.\n\n- 📞 Call or text [833-773-2445](tel:+18337732445)\n- Chat at [masshelpline.com](https://www.masshelpline.com)\n- Helps in **over 200 languages**\n\n### 3. Ask other professionals\n\nTry your doctor, or your child's school nurse or guidance counselor.\n\n### 4. Contact a therapy matching service\n\n> Note: Mass General Hospital does not endorse any non-Mass General affiliated programs.\n\n- **Therapy Matcher** (social work) — 📞 [800-242-9794](tel:+18002429794) · [therapymatcher.org](https://therapymatcher.org)\n- **William James INTERFACE Referral Service** — see if your community participates at [interface.williamjames.edu](https://www.williamjames.edu/centers-and-services/forensic-and-clinical-services/interface/index.html), then call 📞 [888-244-6843](tel:+18882446843)\n- **LifeStance** — call their intake department at 📞 [617-405-5735](tel:+16174055735) · [lifestance.com](https://lifestance.com)\n- **Complete your own online search:**\n    - **Thriveworks** — 📞 [628-266-4892](tel:+16282664892) · [thriveworks.com](https://thriveworks.com)\n    - **Psychology Today Therapist Finder** — [psychologytoday.com/us/therapists](https://www.psychologytoday.com/us/therapists)\n\n### 5. Speak with your Employee Assistance Program (EAP)\n\nYour EAP may provide short-term counseling, help you identify longer-term needs, and refer you to a therapist.\n\n### 6. Ask your friends\n\nYou may find that friends or family have had therapy themselves and can make trustworthy recommendations.\n\n---\n\n*Once you have a list of therapists, start asking questions. For ideas, ask your social worker for the tip sheet \"How to Choose a Psychotherapist Who is Right for You.\"*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "postpartum_and_new_parent_support",
@@ -7879,7 +7936,8 @@
           "en": "### MA 24/7 Behavioral Health Help Line (BHHL)\n\n- 📞 Call or text [833-773-2445](tel:+18337732445)\n- [masshelpline.com](https://www.masshelpline.com)\n\nCall, text, or chat online for support from a clinician who will assess your needs and connect you to appropriate services — immediate crisis support, outpatient services, and resources in your local community. **For all types of concerns.**\n\n### 988 Suicide & Crisis Lifeline\n\n- 📞 Call [988](tel:988) or [800-273-8255](tel:+18002738255)\n- [988lifeline.org](https://988lifeline.org/)\n\n988 is the three-digit dialing code that connects to the 988 Suicide & Crisis Lifeline, active across the United States. When you call, text, or chat 988, you'll be connected to trained counselors who will listen, provide support, and connect you to resources if necessary.\n\n### Parental Stress Line — Massachusetts\n\n- 📞 [800-632-8188](tel:+18006328188)\n- ✉️ [info@parentshelpingparents.org](mailto:info@parentshelpingparents.org)\n\n24/7 confidential helpline including counseling, support, and information for parents. Interpreter services available.\n\n---\n\n*These listings are provided as a convenience for our patients and their families. This list is not comprehensive; there may be other local options. **Mass General Hospital does not endorse any non-Mass General affiliated providers.***"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "outpatient_mental_health_services",
@@ -7973,7 +8031,8 @@
           "en": "These Mass General Health Centers provide outpatient mental health services for their primary care patients. Call your health center to get mental health services:\n\n- **MGH Back Bay HealthCare Center** — 📞 [617-267-7171](tel:+16172677171)\n- **MGH Charlestown HealthCare Center** — 📞 [617-724-8200](tel:+16177248200)\n- **MGH Chelsea HealthCare Center** — 📞 [617-889-8515](tel:+16178898515)\n- **Revere HealthCare Center** — 📞 [781-485-6100](tel:+17814856100)"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:32:14.000Z"
   },
   {
     "id": "meditation_breathing_space",
@@ -8025,7 +8084,8 @@
           "en": "Meditation Video: Breathing Space Exercise — Mass General Brigham for Children"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-05-13T15:34:16.000Z"
   },
   {
     "id": "mindfulness_tips_for_adolescents",
@@ -8146,7 +8206,8 @@
           "en": "Being mindful toward your teen, your friends and family, and your surroundings can help improve your own *and* your teen's mindfulness skills. Being mindful also includes being non-judgmental, kind, grateful, loving, patient, forgiving, trusting, open, generous, gentle, and curious.\n\n---\n\n*Revised August 2016. Created by Cate Medeiros, MGH Adolescent and Young Adult Medicine.*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "mindfulness_tips_for_toddlers",
@@ -8281,7 +8342,8 @@
           "en": "- **[Mindfulness for Children](https://annakaharris.com/mindfulness-for-children/)** by Annaka Harris — audio instructions on mindful awareness exercises.\n- **[Peace Out](http://bedtime.fm/peaceout)** — daily audio short stories that help children calm down and relax through visualization and breathing exercises.\n- **A Handful of Quiet: Happiness in Four Pebbles** by Thich Nhat Hanh — guide written by a Zen monk for parents who would like to introduce mindfulness and meditation into their homes.\n- **[Resources for Teaching Mindfulness to Your Children](https://leftbrainbuddha.com/resources-for-teaching-mindfulness-to-your-children/)** by Sarah Rudell Beach — lists popular resources (posts, books, websites) for learning mindfulness.\n- **Have You Filled a Bucket Today?** by Carol McCloud — a book that encourages children to see how easy it is to express love, kindness, and appreciation.\n- **Mindful Games** by Greenland and Harris — a card deck of 55 mindfulness exercises for kids.\n- **Sitting Still Like a Frog** by Eline Snel — exercises for helping children with anxiety, improved concentration, and handling emotions.\n- **Sitting Together** by Sumi Loundon Kim — a comprehensive guide to mindfulness for the entire family, including a guide for parents, lesson plans for children, and an activity book.\n\n---\n\n*Sources: Adapted from \"Three Ways for Children to Try Meditation at Home,\" Jillian Pransky, New York Times (5/10/16); and \"Stressing Out? S.T.O.P.\" from mindful.org, Elisha Goldstein, PhD (August 2013).*\n\n*© MGHfC CARMA. Revised November 2018.*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "mindfulness_tips_for_young_children",
@@ -8416,7 +8478,8 @@
           "en": "- **[Mindfulness for Children](https://annakaharris.com/mindfulness-for-children/)** by Annaka Harris — audio instructions on mindful awareness exercises.\n- **[Peace Out](http://bedtime.fm/peaceout)** — daily audio short stories that help children calm down and relax through visualization and breathing exercises.\n- **A Handful of Quiet: Happiness in Four Pebbles** by Thich Nhat Hanh — guide written by a Zen monk for parents who would like to introduce mindfulness and meditation into their homes.\n- **[Resources for Teaching Mindfulness to Your Children](https://leftbrainbuddha.com/resources-for-teaching-mindfulness-to-your-children/)** by Sarah Rudell Beach — lists popular resources (posts, books, websites) for learning mindfulness.\n- **Have You Filled a Bucket Today?** by Carol McCloud — a book that encourages children to see how easy it is to express love, kindness, and appreciation.\n- **Mindful Games** by Greenland and Harris — a card deck of 55 mindfulness exercises for kids.\n- **Sitting Still Like a Frog** by Eline Snel — exercises for helping children with anxiety, improved concentration, and handling emotions.\n- **Sitting Together** by Sumi Loundon Kim — a comprehensive guide to mindfulness for the entire family, including a guide for parents, lesson plans for children, and an activity book.\n\n---\n\n*Sources: Adapted from \"Three Ways for Children to Try Meditation at Home,\" Jillian Pransky, New York Times (5/10/16); and \"Stressing Out? S.T.O.P.\" from mindful.org, Elisha Goldstein, PhD (August 2013).*\n\n*© MGHfC CARMA. Revised November 2018.*"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "family_advisory_council",
@@ -8627,7 +8690,8 @@
     ],
     "titleTranslations": {
       "es": "Consejos Asesores de Pacientes y Familias"
-    }
+    },
+    "updatedAt": "2026-10-22T01:29:52.000Z"
   },
   {
     "id": "community_resources_for_caregivers_of_children",
@@ -8764,7 +8828,8 @@
           "en": "Does parenting leave you feeling stressed, alone, or overwhelmed? Any parent feeling overwhelmed, isolated, or stressed who would like **free, confidential, and anonymous** support may call. **All languages available.**\n\n- 📞 [800-632-8188](tel:+18006328188) — Parental Stress Line\n- 🌐 [parentshelpingparents.org](https://parentshelpingparents.org/)"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "bereavement_resources",
@@ -8845,7 +8910,8 @@
           "en": "### Club STAR: Sharing Together and Remembering\n\nA group for ages **5–18 and their parents** grieving the death of a parent or sibling. Meets 5:30 – 7:30 pm on the first Wednesday of October–June at Mass General Hospital. Organized by Mass General for Children, Child Life Services, and the Social Work Department.\n\nTo register, contact Hillary D'Amato, MS, CCLS:\n- 📞 [617-643-9276](tel:+16176439276)\n- ✉️ [mghclubstar@partners.org](mailto:mghclubstar@partners.org)\n\n### Camp Angel Wings\n\nDeveloped for children and teens (**6–15 years**) who share similar experiences with grief. The camp provides an educational, therapeutic experience that is also enjoyable, helping to counter the sense of isolation that can follow losing a loved one. Activities like swimming, focused arts and crafts, and small discussion groups help children and teens explore their thoughts and feelings about grief.\n\n- 📞 [508-973-3426](tel:+15089733426)\n- ✉️ [campangelwings@southcoast.org](mailto:campangelwings@southcoast.org)\n- 🌐 [https://athome.southcoast.org/angel-wings-retreat/](https://athome.southcoast.org/angel-wings-retreat/)\n\n### Camp Erin Boston\n\nA **free**, weekend bereavement camp for youth (**6–17**) grieving the death of a significant person. Combines grief education and emotional support with fun, traditional camp activities. Led by bereavement professionals and caring volunteers, campers explore their grief, learn essential coping skills, and make friends with peers who are also grieving.\n\nEluna partners with bereavement programs in local communities to fund and grow Camp Erin nationwide. The Boston-area provider is Beth Israel Lahey Health at Home — Watertown (home to the HEARTplay children's bereavement program).\n\n- 📞 [508-309-5107](tel:+15083095107)\n- 🌐 [camperinboston.org](https://www.camperinboston.org/)\n\n### Camp Kangaroo\n\nA free weekend retreat providing a camp experience and supportive atmosphere for children (**5–13**) who have experienced the loss of a loved one in the last two years. Participants receive grief education and emotional support combined with fun camp activities that help them learn effective coping strategies.\n\n- 📞 Luisa Kcomt: [847-692-1000](tel:+18476921000)\n- ✉️ [LKcomt@Seasons.org](mailto:LKcomt@Seasons.org)\n- 🌐 [seasonsfoundation.org/camp-kangaroo](http://seasonsfoundation.org/camp-kangaroo)\n\n### Care Dimensions\n\nThe most comprehensive grief support program in Massachusetts. Licensed bereavement counselors offer support groups and workshops for anyone who has experienced a death. Individual counseling is also offered to people grieving the death of a loved one who was on Care Dimensions hospice service.\n\nServices include individual consultation and referrals, workshops and support groups, bereavement resources, community education programs, and remembrance and tribute programs. The children's program provides specialized support for children and teens, including **Camp Stepping Stones**, their summer family retreat.\n\n- 📞 [855-774-5100](tel:+18557745100)\n- ✉️ [Grief@CareDimensions.org](mailto:Grief@CareDimensions.org)\n- 🌐 [caredimensions.org/grief-support](https://www.caredimensions.org/grief-support/)\n\n### Comfort Zone Camp\n\nA bereavement camp for children (**7–17**) who have lost a sibling, parent, or primary caregiver. **Free of charge**, with confidence-building activities and age-based support groups. Programs are also offered to families, plus young adult programs for ages 18–25.\n\nHeld year-round across the country; primary locations are California, Massachusetts, New Jersey, North Carolina, and Virginia (HQ).\n\n- 📞 [804-377-3430](tel:+18043773430)\n- ✉️ [info@comfortzonecamp.org](mailto:info@comfortzonecamp.org)\n- 🌐 [comfortzonecamp.org/programs](https://comfortzonecamp.org/programs/)\n\n### HEARTplay Program\n\nCareGroup Parmenter's award-winning bereavement program for children, teens, and young adults who have experienced a death. Through conversation, music, movement, visual expression, writing, and storytelling, participants share their feelings and experiences.\n\nGroups are **free of charge** through grants and donations. Offered monthly or bi-monthly in Wayland, MA and Newton, MA. Registration is required.\n\n- 📞 Jennifer Wiles: [508-309-5107](tel:+15083095107)\n- 🌐 [heartplayprogram.org](https://www.heartplayprogram.org/contact)\n\n### The Carriage House — Seven Hills Foundation\n\nA grief support center for children ages **3–18** and their families. The only program in Central Massachusetts providing children and teens a space to grieve the death of a loved one alongside peers also experiencing grief and loss.\n\nThe first step is a telephone intake, then an orientation session at The Carriage House. Families complete paperwork and are assigned to age-appropriate peer groups as space is available.\n\n- 📞 [508-753-5425 ext. 6430](tel:+15087535425)\n- 🌐 [sevenhills.org/programs/grief-support](https://www.sevenhills.org/programs/grief-support)\n\n### The Center for Hope & Healing\n\nCompassionate, individualized grief support for any stage. Offers an expansive grief support group program plus community programs like **Camp BraveHeart** for kids, as well as remembrance events. Services are offered throughout Rhode Island and Massachusetts.\n\n- 📞 [888-528-9077](tel:+18885289077)\n- 🌐 [hopehealthco.org/services/hospice-care/grief-support](https://www.hopehealthco.org/services/hospice-care/grief-support/)\n\n### The Children's Room\n\nCreates safe, supportive communities so that no child, teen, or family has to grieve alone. Offers hope and healing to children and teens **3½ to 18** who have experienced the death of a parent or sibling. Parents and caregivers also have opportunities to meet, talk about parenting a grieving child, and give and receive support.\n\nServices include ongoing peer support groups, educational series for parents, teen programming, monthly arts-based family nights, and adult consultations. **All services are provided free of charge.**\n\n- 📞 [781-641-4741](tel:+17816414741)\n- ✉️ [info@childrensroom.org](mailto:info@childrensroom.org)\n- 🌐 [childrensroom.org](https://childrensroom.org/)\n\n### The Garden: A Center for Grieving Children and Teens\n\nSupport to grieving young people and their families following the death of someone close — parents, siblings, other family members, or friends. Programs and discussion groups help young people identify and share their feelings and begin the healing process. Parents and guardians meet separately for a chance to discuss their own concerns.\n\nThe Garden runs **two programs annually** at its Northampton location: an 8-week session in the fall and a 10-week session in the spring. Services are also increasingly accessible through area schools.\n\n- 📞 Shelly Bathe Lenn: [413-582-5312](tel:+14135825312)\n- ✉️ [slenn@cooleydickinson.org](mailto:slenn@cooleydickinson.org)\n- 🌐 [https://www.mightycause.com/organization/Thegarden](https://www.mightycause.com/organization/Thegarden/)\n\n### Good Grief Program — Boston Medical Center\n\nComprehensive consultation for caregivers supporting grieving children after a significant loss (death, divorce, or separation from a primary caregiver). Offers grief-sensitive training and consultation for educators, schools, and other community agencies, and connects individuals to grief resources and referrals. **Spanish-speaking counselors available.**\n\n- 📞 [617-414-4005](tel:+16174144005)\n- ✉️ Maureen Patterson-Feder: [Maureen.Patterson@bmc.org](mailto:Maureen.Patterson@bmc.org)\n- ✉️ Minelia Rodriguez: [minelia.rodriguez@bmc.org](mailto:minelia.rodriguez@bmc.org)\n- 🌐 [bmc.org/programs/good-grief-program](https://www.bmc.org/programs/good-grief-program)\n\n### Rick's Place\n\nSupports children, teens (**5–18**), and their families after a loved one has died. Through facilitated peer support groups, Rick's Place offers grieving children and their caregivers a safe place to remember their loved ones and honor their memories — avoiding the isolation such a loss can produce.\n\n- 📞 [423-279-2010](tel:+14232792010)\n- 🌐 [ricksplacema.org/grief-support-services](https://ricksplacema.org/grief-support-services/)\n\n### Wildflower Camp Foundation\n\nOffers scholarship assistance for summer camp and enrichment programs to families in which **a parent has died**. The experience provides restoration for both children and the surviving parent. Summers are the most challenging time for single-parent families; the carefree summer days, new friends, and break from pain at home are an invaluable experience for grieving children and a much-needed respite for the surviving parent.\n\n- 📞 [781-861-1413](tel:+17818611413)\n- ✉️ [info@wildflowercampfoundation.org](mailto:info@wildflowercampfoundation.org)\n- 🌐 [wildflowercampfoundation.org](https://www.wildflowercampfoundation.org)\n\n---\n\n> This is not a full list of resources available to you and your family. If you have questions about the resources listed or would like more information about bereavement support, please contact the Mass General Hospital Social Work Department: 📞 [617-726-2643](tel:+16177262643)."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-19T18:47:13.000Z"
   },
   {
     "id": "breastfeeding_getting_started",
@@ -9056,7 +9122,8 @@
           "en": "Sore nipples, low milk supply, engorgement, nursing strikes, and what helps."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-07-31T16:56:50.000Z"
   },
   {
     "id": "breastfeeding_help_and_support",
@@ -9307,7 +9374,8 @@
     ],
     "titleTranslations": {
       "es": "Apoyo para la lactancia cerca de casa"
-    }
+    },
+    "updatedAt": "2026-10-22T15:10:49.000Z"
   },
   {
     "id": "breastfeeding_handouts",
@@ -9615,7 +9683,8 @@
     ],
     "titleTranslations": {
       "es": "Folletos sobre la lactancia materna"
-    }
+    },
+    "updatedAt": "2026-10-22T15:21:38.000Z"
   },
   {
     "id": "whos_who_on_the_picu_team",
@@ -9887,7 +9956,8 @@
           "en": "Trained to care for children with a variety of feeding difficulties. Nutritionists work together with the Dietary team to provide tailored nutritional care that helps support growth, development, and health management. "
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-08-10T20:32:26.000Z"
   },
   {
     "id": "gift_shop_and_flower_shop",
@@ -10105,7 +10175,8 @@
     ],
     "titleTranslations": {
       "es": "Tienda de regalos y florería"
-    }
+    },
+    "updatedAt": "2026-10-22T14:12:46.000Z"
   },
   {
     "id": "parking_at_mass_general",
@@ -10264,7 +10335,8 @@
     ],
     "titleTranslations": {
       "es": "Estacionamiento en Mass General"
-    }
+    },
+    "updatedAt": "2026-10-23T14:22:07.000Z"
   },
   {
     "id": "getting_here_by_public_transit",
@@ -10391,7 +10463,8 @@
     ],
     "titleTranslations": {
       "es": "Cómo llegar en transporte público"
-    }
+    },
+    "updatedAt": "2026-10-26T14:41:29.000Z"
   },
   {
     "id": "guest_wifi_and_charging",
@@ -10514,7 +10587,8 @@
     ],
     "titleTranslations": {
       "es": "Wi-Fi y carga para visitantes"
-    }
+    },
+    "updatedAt": "2026-10-23T14:58:59.000Z"
   },
   {
     "id": "journal_writing_to_manage_stress",
@@ -10623,7 +10697,8 @@
           "en": "If you would like support for the feelings that may come up as you write, ask your care team to page Social Work, Child Life Services or Spiritual Care at MGHfC."
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-16T14:29:05.000Z"
   },
   {
     "id": "writing_prompts_for_teens_age_13_and_older",
@@ -10779,7 +10854,8 @@
           "en": "About the FAC Journal Program at MGHfC — Mass General Brigham for Children"
         }
       }
-    ]
+    ],
+    "updatedAt": "2026-10-21T14:34:38.000Z"
   },
   {
     "id": "lactation_support_program",
@@ -10886,7 +10962,8 @@
     "notes": "Split out of breastfeeding_help_and_support (MGB audit #14); matched to https://www.massgeneralbrigham.org/en/services/lactation-support (snapshot 2026-10-21), approved by Mark 2026-10-22.\nSpanish: MGB's /es/ page (snapshot 2026-10-21) for the clinic sentences, card summary (first sentence of MGB's) and name; opening line translated by Claude, needs Spanish review. Approved by Mark 2026-10-22.",
     "titleTranslations": {
       "es": "Programa de Apoyo a la Lactancia"
-    }
+    },
+    "updatedAt": "2026-10-22T15:09:00.000Z"
   },
   {
     "id": "medications_while_breastfeeding",
@@ -11008,6 +11085,7 @@
     "notes": "Split out of breastfeeding_help_and_support's 'Medications while breastfeeding' section (MGB audit #14), approved by Mark 2026-10-22. Content unchanged from that section.\nSpanish: title, card summary and text translated by Claude, need Spanish review; links stay English (no Spanish pages). Approved by Mark 2026-10-22.",
     "titleTranslations": {
       "es": "Medicamentos durante la lactancia"
-    }
+    },
+    "updatedAt": "2026-10-22T15:09:38.000Z"
   }
 ]
