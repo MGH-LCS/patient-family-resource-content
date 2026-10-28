@@ -676,6 +676,40 @@
         "details": {
           "en": "Monday–Wednesday and Friday, 8:00 a.m.–4:30 p.m. Thursday, 9:00 a.m.–4:30 p.m.",
           "es": "Lunes a miércoles y viernes, 8:00 a.m.–4:30 p.m. Jueves, 9:00 a.m.–4:30 p.m."
+        },
+        "hours": {
+          "mon": [
+            {
+              "open": "08:00",
+              "close": "16:30"
+            }
+          ],
+          "tue": [
+            {
+              "open": "08:00",
+              "close": "16:30"
+            }
+          ],
+          "wed": [
+            {
+              "open": "08:00",
+              "close": "16:30"
+            }
+          ],
+          "thu": [
+            {
+              "open": "09:00",
+              "close": "16:30"
+            }
+          ],
+          "fri": [
+            {
+              "open": "08:00",
+              "close": "16:30"
+            }
+          ],
+          "sat": [],
+          "sun": []
         }
       },
       {
@@ -795,7 +829,7 @@
     "titleTranslations": {
       "es": "Servicios financieros"
     },
-    "updatedAt": "2026-10-22T02:37:19.000Z"
+    "updatedAt": "2026-10-28T14:22:03.365Z"
   },
   {
     "id": "medical_interpreter_services",
@@ -899,7 +933,52 @@
         "details": {
           "en": "Business hours are Monday through Friday, 7 a.m. to 8 p.m. and Saturday and Sunday 8:00 a.m. to 6:30 p.m.\n\nSpanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.",
           "es": "El horario de atención es de lunes a viernes, de 7 a.m. a 8 p.m., y los sábados y domingos, de 8:00 a.m. a 6:30 p.m.\n\nDurante la noche, hay intérpretes de guardia de español, portugués y lengua de señas estadounidense disponibles mediante buscapersonas."
-        }
+        },
+        "hours": {
+          "mon": [
+            {
+              "open": "07:00",
+              "close": "20:00"
+            }
+          ],
+          "tue": [
+            {
+              "open": "07:00",
+              "close": "20:00"
+            }
+          ],
+          "wed": [
+            {
+              "open": "07:00",
+              "close": "20:00"
+            }
+          ],
+          "thu": [
+            {
+              "open": "07:00",
+              "close": "20:00"
+            }
+          ],
+          "fri": [
+            {
+              "open": "07:00",
+              "close": "20:00"
+            }
+          ],
+          "sat": [
+            {
+              "open": "08:00",
+              "close": "18:30"
+            }
+          ],
+          "sun": [
+            {
+              "open": "08:00",
+              "close": "18:30"
+            }
+          ]
+        },
+        "whenClosed": "onCall"
       },
       {
         "id": "section_y1eczg2u",
@@ -965,7 +1044,7 @@
     "titleTranslations": {
       "es": "Servicios de interpretación"
     },
-    "updatedAt": "2026-10-22T02:56:41.000Z"
+    "updatedAt": "2026-10-28T14:22:32.160Z"
   },
   {
     "id": "patient_gateway",
@@ -5019,6 +5098,50 @@
         "details": {
           "en": "Open 24 hours, every day",
           "es": "Abierto las 24 horas, todos los días"
+        },
+        "hours": {
+          "mon": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ],
+          "tue": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ],
+          "wed": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ],
+          "thu": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ],
+          "fri": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ],
+          "sat": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ],
+          "sun": [
+            {
+              "open": "00:00",
+              "close": "24:00"
+            }
+          ]
         }
       },
       {
@@ -5073,7 +5196,7 @@
     "titleTranslations": {
       "es": "Departamento de Emergencias Pediátricas"
     },
-    "updatedAt": "2026-10-22T02:08:14.000Z"
+    "updatedAt": "2026-10-28T14:23:14.121Z"
   },
   {
     "id": "hospital_campus_map",
@@ -5355,7 +5478,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "These listings are provided as a convenience for our patients and their families. **This list is not comprehensive — there are other options in the area. Mass General Hospital does not endorse any non-Mass General affiliated facilities.** For more information or to make a reservation, please contact the facility directly.\n\n## Mass General Affiliated Facility\n\n*For Mass General patients and companions only.*\n\n### MGH at Beacon House\n\nSponsored by the Mass General Social Service Department.\n\n- 19 Myrtle St, Boston, MA 02114 — 5 blocks from MGH\n- 📞 [617-726-7679](tel:+16177267679)\n- Apartments with private bath/kitchen: **$82–$130/night**\n- Shared bath/kitchen: **$49–$66/night**\n- No on-site parking; parking discount available at MGH\n- Reservations hours: Monday–Friday, 9:00 am – 4:00 pm\n\n## Area Hotels with Medical Rates\n\n*Ask for the best available rate — which may not be the medical rate. Driving? Ask about parking fees.*\n\nFor more options, search [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), or Priceline. Try **Hoteltonight** for last-minute deals on a one-night stay.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — adjacent to MGH\n- 📞 [617-224-4019](tel:+16172244019) (main) · [866-961-3778](tel:+18669613778) (reservations)\n- Ask to book the medical rate\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — half a block from MGH\n- 📞 [617-742-7630](tel:+16177427630)\n- Ask to book the **Mass General rate**\n- [wyndham.com](https://www.wyndham.com)\n\n### The Whitney Hotel\n\n*Formerly John Jeffries House.*\n\n- 170 Charles St, Boston — a block from MGH\n- 📞 [617-367-1866](tel:+16173671866)\n- Special rate code: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — 0.6 miles from MGH\n- 📞 [617-624-0202](tel:+16176240202)\n- Special rate code: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — 0.7 miles from MGH; near shuttle\n- 📞 [617-720-5544](tel:+16177205544)\n- Book Mass General rate at [IndigoBoston.com](https://www.indigoboston.com) — click *Book Now* and enter **Corporate ID 100197376**\n\n### Courtyard by Marriott: Downtown / Tremont\n\n- 275 Tremont St, Boston — 0.8 miles from MGH\n- 📞 [617-426-1400](tel:+16174261400) (main) · [888-236-2427](tel:+18882362427) (reservations)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel in Boston\n\n- 161 Devonshire St, Boston, MA 02110 — 0.9 miles from MGH\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — 1.3 miles from MGH\n- 📞 [617-577-7600](tel:+16175777600)\n- Ask for the Mass General rate, code **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — 1.1 miles from MGH\n- 📞 [617-621-1999](tel:+16176211999)\n- Enter Corporate Rate Code: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — 2.4 miles from MGH\n- 📞 [617-628-1000](tel:+16176281000)\n- Ask for the Mass General rate, code **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — 2.9 miles from MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- Ask for the Mass General rate\n- [https://www.cambriaboston.com](https://www.cambriaboston.com)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — 3.2 miles from MGH\n- 📞 [617-236-1100](tel:+16172361100)\n- Ask to book the Mass General rate\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\n## Specialized Accommodations\n\n*See specific eligibility requirements by facility.*\n\n### Hope Lodge: Boston — No Fee\n\nAmerican Cancer Society.\n\n- 125 S. Huntington Ave, Jamaica Plain — 3.8 miles from MGH\n- 📞 [617-396-5500](tel:+16173965500)\n- **For cancer patients 18+** who have treatment center appointments at least 3 days/week and live 40+ miles from Boston\n- 3-night minimum · Provider referral required · Requires accompanying caregiver\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- For additional cancer-patient options, call American Cancer Society: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — No Fee\n\nHEADstrong Foundation.\n\n- 275 Summit Ave, Brookline, MA 02135 — 4.5 miles from MGH\n- 📞 [508-306-1409](tel:+15083061409)\n- **For cancer patients** undergoing cancer treatment who live 25+ miles from Boston (exceptions possible), and/or their caregivers\n- Offers treatment transportation assist · All ages · 3-night minimum · Must have a permanent address and accompanying caregiver\n- Apply: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Multiple locations\n- Matches patients and their caregivers (who live at least 50 miles from Boston) with volunteer host families, apartments, or discounted accommodations\n- Amenities and prices vary by location · Application available online\n- [hosp.org](https://hosp.org/)\n\n### Fisher House of Boston — Free\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **Free hotel room for military families** (patient or immediate family member having served — Veteran, Active, Reserve, Guard) living 40+ miles from the hospital and receiving inpatient care or treatments 3×/week\n- Not VA-affiliated\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — 1.7 miles from MGH\n- 📞 [617-227-3979](tel:+16172273979)\n- **$65–$130/night**\n- **Only for those in active maritime service**, with maritime retiree status (must have served at least 20 years), or their immediate families\n- Documentation required\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House at Boston Harbor\n\n- 250 1st Ave, Boston — 2.2 miles from MGH\n- 📞 [617-398-6458](tel:+16173986458)\n- **$10/night suggested donation**\n- Free parking · Free shuttle\n- **Private apartments for families of pediatric patients** who live at least 40 miles from MGH\n- Requires medical provider referral · Limited availability, typically has a waitlist\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — adjacent to MGH\n- 📞 [617-279-9077](tel:+16172799077)\n- **$50/night**\n- **For those receiving a minimum of 4–6 weeks outpatient pediatric cancer treatment**\n- Primary caregiver must be at least 18 and able to communicate in English\n- Contact Glennys Acosta, Family Services Manager: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)\n\n## Extended Stay Hotels\n\n### Residence Inn by Marriott Boston Harbor on Tudor Wharf\n\n- 34 Charles River Ave, Boston — 1.6 miles from MGH\n- 📞 [617-242-9000](tel:+16172429000)\n- Ask about medical rates\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — 2 miles from MGH\n- 📞 [617-349-0700](tel:+16173490700)\n- Enter Corporate Rate: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — 2.0 miles from MGH\n- 📞 [617-478-0840](tel:+16174780840)\n- Ask about Mass General rate for **20% off**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\n## Short-Term Apartments\n\n*Most require a minimum 30-day stay. Parking availability and rates vary. Mass General is in Boston's West End neighborhood. Also consider [Vrbo](https://www.vrbo.com) or [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — The West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — adjacent to MGH campus\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Ask for **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- Ask for **Nouri Hneid**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*For list corrections or updates, please call 📞 [617-724-0295](tel:+16177240295). — MGH Department of Clinical Social Work*"
+            "markdown": "These listings are provided as a convenience for our patients and their families. **This list is not comprehensive — there are other options in the area. Mass General Hospital does not endorse any non-Mass General affiliated facilities.** For more information or to make a reservation, please contact the facility directly.\n\n## Mass General Affiliated Facility\n\n*For Mass General patients and companions only.*\n\n### MGH at Beacon House\n\nSponsored by the Mass General Social Service Department.\n\n- 19 Myrtle St, Boston, MA 02114 — 5 blocks from MGH\n- 📞 [617-726-7679](tel:+16177267679)\n\n- Apartments with private bath/kitchen: **$82–$130/night**\n- Shared bath/kitchen: **$49–$66/night**\n- No on-site parking; parking discount available at MGH\n- Reservations hours: Monday–Friday, 9:00 am – 4:00 pm\n\n## Area Hotels with Medical Rates\n\n*Ask for the best available rate — which may not be the medical rate. Driving? Ask about parking fees.*\n\nFor more options, search [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), or Priceline. Try **Hoteltonight** for last-minute deals on a one-night stay.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — adjacent to MGH\n- 📞 [617-224-4019](tel:+16172244019) (Main)\n- 📞 [866-961-3778](tel:+18669613778) (Reservations)\n- 🌐 [libertyhotel.com](https://libertyhotel.com/)\n\nAsk to book the medical rate\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — half a block from MGH\n- 📞 [617-742-7630](tel:+16177427630)\n- 🌐 [wyndham.com](https://www.wyndham.com)\n\nAsk to book the **Mass General rate**\n\n### The Whitney Hotel\n\n*Formerly John Jeffries House.*\n\n- 170 Charles St, Boston — a block from MGH\n- 📞 [617-367-1866](tel:+16173671866)\n- 🌐 [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\nSpecial rate code: **MGH**\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — 0.6 miles from MGH\n- 📞 [617-624-0202](tel:+16176240202)\n- 🌐 [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\nSpecial rate code: **MG16**\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — 0.7 miles from MGH; near shuttle\n- 📞 [617-720-5544](tel:+16177205544)\n- 🌐 [indigoboston.com](https://www.indigoboston.com)\n\nBook Mass General rate at [IndigoBoston.com](https://www.indigoboston.com) — click *Book Now* and enter **Corporate ID 100197376**\n\n### Courtyard by Marriott: Downtown / Tremont\n\n- 275 Tremont St, Boston — 0.8 miles from MGH\n- 📞 [617-426-1400](tel:+16174261400) (Main)\n- 📞 [888-236-2427](tel:+18882362427) (Reservations)\n- 🌐 [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel in Boston\n\n- 161 Devonshire St, Boston, MA 02110 — 0.9 miles from MGH\n- 📞 [617-357-6400](tel:+16173576400)\n- 🌐 [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — 1.3 miles from MGH\n- 📞 [617-577-7600](tel:+16175777600)\n- 🌐 [hiexpress.com](https://www.hiexpress.com)\n\nAsk for the Mass General rate, code **IL7MG**\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — 1.1 miles from MGH\n- 📞 [617-621-1999](tel:+16176211999)\n- 🌐 [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\nEnter Corporate Rate Code: **P9H**\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — 2.4 miles from MGH\n- 📞 [617-628-1000](tel:+16176281000)\n- 🌐 [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\nAsk for the Mass General rate, code **IL7MG**\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — 2.9 miles from MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- 🌐 [cambriaboston.com](https://www.cambriaboston.com)\n\nAsk for the Mass General rate\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — 3.2 miles from MGH\n- 📞 [617-236-1100](tel:+16172361100)\n- 🌐 [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\nAsk to book the Mass General rate\n\n## Specialized Accommodations\n\n*See specific eligibility requirements by facility.*\n\n### Hope Lodge: Boston — No Fee\n\nAmerican Cancer Society.\n\n- 125 S. Huntington Ave, Jamaica Plain — 3.8 miles from MGH\n- 📞 [617-396-5500](tel:+16173965500)\n- 🌐 [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n\n- **For cancer patients 18+** who have treatment center appointments at least 3 days/week and live 40+ miles from Boston\n- 3-night minimum · Provider referral required · Requires accompanying caregiver\n\n### American Cancer Society\n\nFor additional cancer-patient options.\n\n- 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — No Fee\n\nHEADstrong Foundation.\n\n- 275 Summit Ave, Brookline, MA 02135 — 4.5 miles from MGH\n- 📞 [508-306-1409](tel:+15083061409)\n- 🌐 [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n- **For cancer patients** undergoing cancer treatment who live 25+ miles from Boston (exceptions possible), and/or their caregivers\n- Offers treatment transportation assist · All ages · 3-night minimum · Must have a permanent address and accompanying caregiver\n- Apply: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 🌐 [hosp.org](https://hosp.org/)\n\n- Multiple locations\n- Matches patients and their caregivers (who live at least 50 miles from Boston) with volunteer host families, apartments, or discounted accommodations\n- Amenities and prices vary by location · Application available online\n\n### Fisher House of Boston — Free\n\n- 📞 [508-728-8781](tel:+15087288781)\n- 🌐 [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n- **Free hotel room for military families** (patient or immediate family member having served — Veteran, Active, Reserve, Guard) living 40+ miles from the hospital and receiving inpatient care or treatments 3×/week\n- Not VA-affiliated\n\n### Mariner's House\n\n- 11 North Square, Boston — 1.7 miles from MGH\n- 📞 [617-227-3979](tel:+16172273979)\n- 🌐 [marinershouse.org](https://www.marinershouse.org/)\n\n- **$65–$130/night**\n- **Only for those in active maritime service**, with maritime retiree status (must have served at least 20 years), or their immediate families\n- Documentation required\n\n### Ronald McDonald House at Boston Harbor\n\n- 250 1st Ave, Boston — 2.2 miles from MGH\n- 📞 [617-398-6458](tel:+16173986458)\n\n- **$10/night suggested donation**\n- Free parking · Free shuttle\n- **Private apartments for families of pediatric patients** who live at least 40 miles from MGH\n- Requires medical provider referral · Limited availability, typically has a waitlist\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — adjacent to MGH\n- 📞 [617-279-9077](tel:+16172799077)\n- 🌐 [christophershaven.org](https://christophershaven.org/)\n\n- **$50/night**\n- **For those receiving a minimum of 4–6 weeks outpatient pediatric cancer treatment**\n- Primary caregiver must be at least 18 and able to communicate in English\n\n## Extended Stay Hotels\n\n### Residence Inn by Marriott Boston Harbor on Tudor Wharf\n\n- 34 Charles River Ave, Boston — 1.6 miles from MGH\n- 📞 [617-242-9000](tel:+16172429000)\n- 🌐 [marriott.com/bostw](https://www.marriott.com/bostw)\n\nAsk about medical rates\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — 2 miles from MGH\n- 📞 [617-349-0700](tel:+16173490700)\n- 🌐 [marriott.com/boscm](https://www.marriott.com/boscm)\n\nEnter Corporate Rate: **P9H**\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — 2.0 miles from MGH\n- 📞 [617-478-0840](tel:+16174780840)\n- 🌐 [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\nAsk about Mass General rate for **20% off**\n\n## Short-Term Apartments\n\n*Most require a minimum 30-day stay. Parking availability and rates vary. Mass General is in Boston's West End neighborhood. Also consider [Vrbo](https://www.vrbo.com) or [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — The West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — adjacent to MGH campus\n- 📞 [617-948-9876](tel:+16179489876)\n- 🌐 [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- 🌐 [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- 📞 [617-939-6197](tel:+16179396197)\n- 🌐 [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- 🌐 [furnishedquarters.com](https://www.furnishedquarters.com)\n\n*For list corrections or updates, please call 📞 [617-724-0295](tel:+16177240295). — MGH Department of Clinical Social Work*"
           }
         ]
       },
@@ -5364,7 +5487,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Estos listados son un servicio para nuestros pacientes y sus familias. **La lista no es exhaustiva — hay otras opciones en el área. Mass General Hospital (MGH) no recomienda centros no afiliados.** Para obtener más información o hacer una reserva, comuníquese directamente con el centro. A menos que se aclare, pregunte en el centro la disponibilidad de servicios de idiomas.\n\n## Centros afiliados a Mass General\n\n*Solo para pacientes y acompañantes de Mass General.*\n\n### MGH en Beacon House\n\nPatrocinado por el Departamento de Servicios Sociales de Mass General.\n\n- 19 Myrtle St, Boston, MA 02114 — a 5 cuadras del MGH\n- 📞 [617-726-7679](tel:+16177267679)\n- Apartamentos con baño y cocina privados: **$82–$130/noche**\n- Baños y cocinas compartidos: **$49–$66/noche**\n- No hay estacionamiento en el lugar; descuento disponible en Mass General\n- Horario de reservas: lunes a viernes, 9:00 am – 4:00 pm\n\n## Hoteles del área con tarifas médicas\n\n*Pregunte por la mejor tarifa disponible — podría no ser la tarifa médica. ¿En automóvil? Consulte los honorarios de estacionamiento.*\n\nPara más opciones, busque en [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), o Priceline. Visite **Hoteltonight** para ofertas de último momento para estadías de una noche.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — al lado del MGH\n- 📞 [617-224-4019](tel:+16172244019) (central) · [866-961-3778](tel:+18669613778) (reservas)\n- Pida reservar con tarifa médica\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a media cuadra del MGH\n- 📞 [617-742-7630](tel:+16177427630)\n- Pida reservar con la **tarifa de Mass General**\n- [wyndham.com](https://www.wyndham.com)\n\n### The Whitney Hotel\n\n*Antes llamado John Jeffries House.*\n\n- 170 Charles St, Boston — a una cuadra del MGH\n- 📞 [617-367-1866](tel:+16173671866)\n- Código de tarifa especial: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — a 0,6 millas del MGH\n- 📞 [617-624-0202](tel:+16176240202)\n- Código de tarifa especial: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a 0,7 millas del MGH; próximo al centro de trasbordo\n- 📞 [617-720-5544](tel:+16177205544)\n- Reserve la tarifa Mass General en [IndigoBoston.com](https://www.indigoboston.com) — haga clic en *Book Now* e ingrese **Corporate ID 100197376**\n\n### Courtyard by Marriott: Downtown / Tremont\n\n- 275 Tremont St, Boston — a 0,8 millas del MGH\n- 📞 [617-426-1400](tel:+16174261400) (central) · [888-236-2427](tel:+18882362427) (reservas)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel en Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a 0,9 millas del MGH\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express y Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a 1,3 millas del MGH\n- 📞 [617-577-7600](tel:+16175777600)\n- Pida la tarifa de Mass General, código **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a 1,1 millas del MGH\n- 📞 [617-621-1999](tel:+16176211999)\n- Ingrese el Corporate Rate Code: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 millas del MGH\n- 📞 [617-628-1000](tel:+16176281000)\n- Pida la tarifa de Mass General, código **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — a 2,9 millas del MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- Pida la tarifa de Mass General\n- [https://www.cambriaboston.com](https://www.cambriaboston.com)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a 3,2 millas del MGH\n- 📞 [617-236-1100](tel:+16172361100)\n- Pida reservar con la tarifa de Mass General\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\n## Establecimientos especializados\n\n*Vea los requisitos de elegibilidad de cada centro.*\n\n### Hope Lodge: Boston — Sin cargo\n\nAmerican Cancer Society.\n\n> Si usted y su cuidador no hablan inglés, contacte a su trabajador social. Puede haber otras opciones disponibles.\n\n- 125 S. Huntington Ave, Jamaica Plain — a 3,8 millas del MGH\n- 📞 [617-396-5500](tel:+16173965500)\n- **Para pacientes con cáncer mayores de 18 años** que tienen citas programadas en un centro de tratamiento al menos 3 días a la semana y viven a más de 40 millas de Boston\n- Mínimo 3 noches · Requiere remisión del proveedor · Requiere acompañamiento de un cuidador\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- Para opciones adicionales para pacientes con cáncer, llame a American Cancer Society: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Sin cargo\n\nFundación HEADstrong.\n\n- 275 Summit Ave, Brookline, MA 02135 — a 4,5 millas del MGH\n- 📞 [508-306-1409](tel:+15083061409)\n- **Para pacientes con cáncer** que se someten a tratamiento oncológico y viven a 25+ millas de Boston (excepciones son consideradas), y/o sus cuidadores\n- Mínimo 3 noches · Debe tener una dirección permanente y un cuidador acompañante\n- Solicitud: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Múltiples ubicaciones\n- Para pacientes y asistentes de cuidados que vivan a al menos 50 millas de Boston, con familias anfitrionas voluntarias o en apartamentos o alojamientos con descuento\n- Los servicios y precios varían según la ubicación · Solicitud disponible en línea\n- [hosp.org](https://hosp.org/)\n\n### Fisher House of Boston — Sin cargo\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **Habitación de hotel sin cargo para familias de militares** (paciente o familiar inmediato que haya prestado servicio — Veterano, en servicio activo, en la reserva, en la guardia) que vivan a 40 millas o más del hospital y cuyo familiar está hospitalizado o recibe tratamiento 3 veces por semana\n- No está asociado con la VA (Administración de Veteranos)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — a 1,7 millas del MGH\n- 📞 [617-227-3979](tel:+16172273979)\n- **$65–$130/noche**\n- **Solo para personas activas en servicio marítimo**, en estado de jubilación marítima (debe haber servido al menos 20 años), o familiares directos\n- Documentación requerida\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House en Boston Harbor\n\n> Si no habla inglés, debe contratar un traductor. Comuníquese con su trabajador social para obtener más información.\n\n- 250 1st Ave, Boston — a 2,2 millas del MGH\n- 📞 [617-398-6458](tel:+16173986458)\n- **Donación sugerida: $10/noche**\n- Estacionamiento sin cargo · Trasbordo sin cargo\n- **Apartamentos privados para familias con pacientes pediátricos** que viven a al menos 40 millas del MGH\n- Requiere remisión de un proveedor médico · Disponibilidad limitada, en general con lista de espera\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — al lado del MGH\n- 📞 [617-279-9077](tel:+16172799077)\n- **$50/noche**\n- **Para quienes reciben un tratamiento por cáncer pediátrico ambulatorio por un mínimo de 4 a 6 semanas**\n- El cuidador principal debe poder hablar inglés y ser mayor de 18 años\n- Comuníquese con Glennys Acosta, gerente de Servicios Familiares: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)\n\n## Hoteles de estadías extendidas\n\n### Residence Inn by Marriott Boston Harbor on Tudor Wharf\n\n- 34 Charles River Ave, Boston — a 1,6 millas del MGH\n- 📞 [617-242-9000](tel:+16172429000)\n- Consulte las tarifas médicas\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — a 2 millas del MGH\n- 📞 [617-349-0700](tel:+16173490700)\n- Ingrese la tarifa corporativa: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a 2,0 millas del MGH\n- 📞 [617-478-0840](tel:+16174780840)\n- Consulte por la tarifa de Mass General con un **20 % de descuento**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\n## Apartamentos para estadías a corto plazo\n\n*La mayoría requiere un mínimo de 30 días de estadía. La disponibilidad de estacionamiento y tarifas varía. Mass General está en el barrio West End de Boston. Tenga en cuenta también [Vrbo](https://www.vrbo.com) o [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — The West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — al lado del campus de Mass General\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Pregunte por **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- Pregunte por **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Si necesita información sobre modificaciones o actualizaciones del listado, llame al 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Servicios Sociales Clínicos*"
+            "markdown": "Estos listados son un servicio para nuestros pacientes y sus familias. **La lista no es exhaustiva — hay otras opciones en el área. Mass General Hospital (MGH) no recomienda centros no afiliados.** Para obtener más información o hacer una reserva, comuníquese directamente con el centro. A menos que se aclare, pregunte en el centro la disponibilidad de servicios de idiomas.\n\n## Centros afiliados a Mass General\n\n*Solo para pacientes y acompañantes de Mass General.*\n\n### MGH en Beacon House\n\nPatrocinado por el Departamento de Servicios Sociales de Mass General.\n\n- 19 Myrtle St, Boston, MA 02114 — a 5 cuadras del MGH\n- 📞 [617-726-7679](tel:+16177267679)\n\n- Apartamentos con baño y cocina privados: **$82–$130/noche**\n- Baños y cocinas compartidos: **$49–$66/noche**\n- No hay estacionamiento en el lugar; descuento disponible en Mass General\n- Horario de reservas: lunes a viernes, 9:00 am – 4:00 pm\n\n## Hoteles del área con tarifas médicas\n\n*Pregunte por la mejor tarifa disponible — podría no ser la tarifa médica. ¿En automóvil? Consulte los honorarios de estacionamiento.*\n\nPara más opciones, busque en [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), o Priceline. Visite **Hoteltonight** para ofertas de último momento para estadías de una noche.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — al lado del MGH\n- 📞 [617-224-4019](tel:+16172244019) (Central)\n- 📞 [866-961-3778](tel:+18669613778) (Reservas)\n- 🌐 [libertyhotel.com](https://libertyhotel.com/)\n\nPida reservar con tarifa médica\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a media cuadra del MGH\n- 📞 [617-742-7630](tel:+16177427630)\n- 🌐 [wyndham.com](https://www.wyndham.com)\n\nPida reservar con la **tarifa de Mass General**\n\n### The Whitney Hotel\n\n*Antes llamado John Jeffries House.*\n\n- 170 Charles St, Boston — a una cuadra del MGH\n- 📞 [617-367-1866](tel:+16173671866)\n- 🌐 [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\nCódigo de tarifa especial: **MGH**\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — a 0,6 millas del MGH\n- 📞 [617-624-0202](tel:+16176240202)\n- 🌐 [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\nCódigo de tarifa especial: **MG16**\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a 0,7 millas del MGH; próximo al centro de trasbordo\n- 📞 [617-720-5544](tel:+16177205544)\n- 🌐 [indigoboston.com](https://www.indigoboston.com)\n\nReserve la tarifa Mass General en [IndigoBoston.com](https://www.indigoboston.com) — haga clic en *Book Now* e ingrese **Corporate ID 100197376**\n\n### Courtyard by Marriott: Downtown / Tremont\n\n- 275 Tremont St, Boston — a 0,8 millas del MGH\n- 📞 [617-426-1400](tel:+16174261400) (Central)\n- 📞 [888-236-2427](tel:+18882362427) (Reservas)\n- 🌐 [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel en Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a 0,9 millas del MGH\n- 📞 [617-357-6400](tel:+16173576400)\n- 🌐 [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express y Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a 1,3 millas del MGH\n- 📞 [617-577-7600](tel:+16175777600)\n- 🌐 [hiexpress.com](https://www.hiexpress.com)\n\nPida la tarifa de Mass General, código **IL7MG**\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a 1,1 millas del MGH\n- 📞 [617-621-1999](tel:+16176211999)\n- 🌐 [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\nIngrese el Corporate Rate Code: **P9H**\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 millas del MGH\n- 📞 [617-628-1000](tel:+16176281000)\n- 🌐 [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\nPida la tarifa de Mass General, código **IL7MG**\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — a 2,9 millas del MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- 🌐 [cambriaboston.com](https://www.cambriaboston.com)\n\nPida la tarifa de Mass General\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a 3,2 millas del MGH\n- 📞 [617-236-1100](tel:+16172361100)\n- 🌐 [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\nPida reservar con la tarifa de Mass General\n\n## Establecimientos especializados\n\n*Vea los requisitos de elegibilidad de cada centro.*\n\n### Hope Lodge: Boston — Sin cargo\n\nAmerican Cancer Society.\n\n> Si usted y su cuidador no hablan inglés, contacte a su trabajador social. Puede haber otras opciones disponibles.\n\n- 125 S. Huntington Ave, Jamaica Plain — a 3,8 millas del MGH\n- 📞 [617-396-5500](tel:+16173965500)\n- 🌐 [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n\n- **Para pacientes con cáncer mayores de 18 años** que tienen citas programadas en un centro de tratamiento al menos 3 días a la semana y viven a más de 40 millas de Boston\n- Mínimo 3 noches · Requiere remisión del proveedor · Requiere acompañamiento de un cuidador\n\n### American Cancer Society\n\nPara opciones adicionales para pacientes con cáncer.\n\n- 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Sin cargo\n\nFundación HEADstrong.\n\n- 275 Summit Ave, Brookline, MA 02135 — a 4,5 millas del MGH\n- 📞 [508-306-1409](tel:+15083061409)\n- 🌐 [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n- **Para pacientes con cáncer** que se someten a tratamiento oncológico y viven a 25+ millas de Boston (excepciones son consideradas), y/o sus cuidadores\n- Mínimo 3 noches · Debe tener una dirección permanente y un cuidador acompañante\n- Solicitud: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 🌐 [hosp.org](https://hosp.org/)\n\n- Múltiples ubicaciones\n- Para pacientes y asistentes de cuidados que vivan a al menos 50 millas de Boston, con familias anfitrionas voluntarias o en apartamentos o alojamientos con descuento\n- Los servicios y precios varían según la ubicación · Solicitud disponible en línea\n\n### Fisher House of Boston — Sin cargo\n\n- 📞 [508-728-8781](tel:+15087288781)\n- 🌐 [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n- **Habitación de hotel sin cargo para familias de militares** (paciente o familiar inmediato que haya prestado servicio — Veterano, en servicio activo, en la reserva, en la guardia) que vivan a 40 millas o más del hospital y cuyo familiar está hospitalizado o recibe tratamiento 3 veces por semana\n- No está asociado con la VA (Administración de Veteranos)\n\n### Mariner's House\n\n- 11 North Square, Boston — a 1,7 millas del MGH\n- 📞 [617-227-3979](tel:+16172273979)\n- 🌐 [marinershouse.org](https://www.marinershouse.org/)\n\n- **$65–$130/noche**\n- **Solo para personas activas en servicio marítimo**, en estado de jubilación marítima (debe haber servido al menos 20 años), o familiares directos\n- Documentación requerida\n\n### Ronald McDonald House en Boston Harbor\n\n- 250 1st Ave, Boston — a 2,2 millas del MGH\n- 📞 [617-398-6458](tel:+16173986458)\n\n> Si no habla inglés, debe contratar un traductor. Comuníquese con su trabajador social para obtener más información.\n\n- **Donación sugerida: $10/noche**\n- Estacionamiento sin cargo · Trasbordo sin cargo\n- **Apartamentos privados para familias con pacientes pediátricos** que viven a al menos 40 millas del MGH\n- Requiere remisión de un proveedor médico · Disponibilidad limitada, en general con lista de espera\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — al lado del MGH\n- 📞 [617-279-9077](tel:+16172799077)\n- 🌐 [christophershaven.org](https://christophershaven.org/)\n\n- **$50/noche**\n- **Para quienes reciben un tratamiento por cáncer pediátrico ambulatorio por un mínimo de 4 a 6 semanas**\n- El cuidador principal debe poder hablar inglés y ser mayor de 18 años\n\n## Hoteles de estadías extendidas\n\n### Residence Inn by Marriott Boston Harbor on Tudor Wharf\n\n- 34 Charles River Ave, Boston — a 1,6 millas del MGH\n- 📞 [617-242-9000](tel:+16172429000)\n- 🌐 [marriott.com/bostw](https://www.marriott.com/bostw)\n\nConsulte las tarifas médicas\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — a 2 millas del MGH\n- 📞 [617-349-0700](tel:+16173490700)\n- 🌐 [marriott.com/boscm](https://www.marriott.com/boscm)\n\nIngrese la tarifa corporativa: **P9H**\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a 2,0 millas del MGH\n- 📞 [617-478-0840](tel:+16174780840)\n- 🌐 [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\nConsulte por la tarifa de Mass General con un **20 % de descuento**\n\n## Apartamentos para estadías a corto plazo\n\n*La mayoría requiere un mínimo de 30 días de estadía. La disponibilidad de estacionamiento y tarifas varía. Mass General está en el barrio West End de Boston. Tenga en cuenta también [Vrbo](https://www.vrbo.com) o [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — The West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — al lado del campus de Mass General\n- 📞 [617-948-9876](tel:+16179489876)\n- 🌐 [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- 🌐 [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- 📞 [617-939-6197](tel:+16179396197)\n- 🌐 [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- 🌐 [furnishedquarters.com](https://www.furnishedquarters.com)\n\n*Si necesita información sobre modificaciones o actualizaciones del listado, llame al 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Servicios Sociales Clínicos*"
           }
         ]
       },
@@ -5373,7 +5496,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "這些清單是為了方便我們的病人及其家屬。**這份清單並不全面，該地區還有其他選擇。麻省總醫院 (MGH) 不認可任何非麻省總醫院附屬機構。** 如需更多資訊或預約，請直接聯絡該機構。除非另有說明，請詢問每個機構的語言能力。\n\n## 麻省總醫院附屬機構\n\n*僅適用於麻省總醫院患者及陪護人。*\n\n### 麻省總醫院貝肯山莊 (MGH at Beacon House)\n\n麻省總醫院社會服務部贊助。\n\n- 19 Myrtle St, Boston, MA 02114 — 距離麻省總醫院 5 個街區\n- 📞 [617-726-7679](tel:+16177267679)\n- 具有獨立浴室及廚房的公寓:**每晚 $82–$130**\n- 共享浴室及廚房:**每晚 $49–$66**\n- 無現場停車位;麻省總醫院提供停車折扣\n- 預約時間:週一至週五,上午 9:00 – 下午 4:00\n\n## 附近有醫療優惠的飯店\n\n*請詢問最佳價格 — 可能不是醫療優惠價格。是否開車?請詢問停車費用。*\n\n更多選擇,請搜尋 [Booking.com](https://www.booking.com)、[Hotels.com](https://www.hotels.com),或 Priceline。如需一晚住宿,可以試試 **Hoteltonight** 的即時優惠。\n\n### 自由酒店 (Liberty Hotel)\n\n- 215 Charles St, Boston — 鄰近麻省總醫院\n- 📞 [617-224-4019](tel:+16172244019) (總機) · [866-961-3778](tel:+18669613778) (預約)\n- 請詢問預約醫療優惠價\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### 溫德姆波士頓筆架山酒店 (Wyndham Boston Beacon Hill)\n\n- 5 Blossom St, Boston — 距離麻省總醫院半個街區\n- 📞 [617-742-7630](tel:+16177427630)\n- 請詢問**麻省總醫院的優惠價**\n- [wyndham.com](https://www.wyndham.com)\n\n### 惠特尼飯店 (The Whitney Hotel)\n\n*原名約翰傑弗里斯之家 (John Jeffries House)。*\n\n- 170 Charles St, Boston — 距離麻省總醫院 1 個街區\n- 📞 [617-367-1866](tel:+16173671866)\n- 優惠碼:**MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### 拳手飯店 (The Boxer Hotel)\n\n- 107 Merrimac Street, Boston — 距離麻省總醫院約 0.6 英里\n- 📞 [617-624-0202](tel:+16176240202)\n- 優惠碼:**MG16**\n- [https://www.eurostarshotels.us/eurostars-the-boxer.html](https://www.eurostarshotels.us/eurostars-the-boxer.html)\n\n### 波士頓花園酒店 (Hotel Indigo Boston Garden)\n\n- 280 Friend St, Boston — 距離麻省總醫院約 0.7 英里;附近有接駁車\n- 📞 [617-720-5544](tel:+16177205544)\n- 預約麻省總醫院優惠 [IndigoBoston.com](https://www.indigoboston.com) — 點擊「立即預約」並輸入**企業識別碼 100197376**\n\n### 萬豪旗下萬怡酒店:市中心／特倫特\n\n- 275 Tremont St, Boston — 距離麻省總醫院約 0.8 英里\n- 📞 [617-426-1400](tel:+16174261400) (總機) · [888-236-2427](tel:+18882362427) (預約)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### 波士頓俱樂部會所酒店 (Club Quarters Hotel)\n\n- 161 Devonshire Street, Boston, MA 02110 — 距離麻省總醫院約 0.9 英里\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### 波士頓-劍橋假日酒店 (Holiday Inn Express)\n\n- 250 Monsignor O'Brien Highway, Cambridge — 距離麻省總醫院約 1.3 英里\n- 📞 [617-577-7600](tel:+16175777600)\n- 請詢問麻省總醫院的優惠價,代碼**「IL7MG」**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### 費爾菲爾德酒店 - 波士頓／劍橋\n\n- 215 Monsignor O'Brien Highway, Cambridge — 距離麻省總醫院約 1.1 英里\n- 📞 [617-621-1999](tel:+16176211999)\n- 請輸入企業優惠代碼:**P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### 波士頓邦克山假日酒店 (Holiday Inn Boston–Cambridge Area)\n\n- 30 Washington St, Somerville — 距離麻省總醫院約 2.4 英里;免費接駁\n- 📞 [617-628-1000](tel:+16176281000)\n- 請詢問麻省總醫院的優惠價,代碼**「IL7MG」**\n- [bunkerhillbostonhotel.com](https://www.bunkerhillbostonhotel.com)\n\n### 波士頓後灣希爾頓酒店 (Hilton Boston Back Bay)\n\n- 40 Dalton St, Boston — 距離麻省總醫院約 3.2 英里\n- 📞 [617-236-1100](tel:+16172361100)\n- 請詢問麻省總醫院的優惠價\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\n## 特殊住宿\n\n*請查詢各院所的具體資格要求。*\n\n### 希望之家:波士頓 — 免費 (Hope Lodge)\n\n美國癌症協會。\n\n> 如果您或您的照顧者都不懂英文,請與社工人員聯絡。可能有其他選擇。\n\n- 125 S. Huntington Ave, Jamaica Plain — 距離麻省總醫院約 3.8 英里\n- 📞 [617-396-5500](tel:+16173965500)\n- **適用於年滿 18 歲以上的癌症患者**,每週至少有 3 天接受治療中心的預約,且居住地距離波士頓 40 英里以上\n- 最少入住 3 晚 · 需醫師轉介 · 需陪同照護者\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- 美國癌症協會為癌症患者及其家屬提供額外的服務(受條件和可用性限制)。請致電:📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House:波士頓 — 免費\n\nHEADstrong 基金會。\n\n- 275 Summit Ave, Brookline, MA 02135 — 距離麻省總醫院 4.5 英里\n- 📞 [508-306-1409](tel:+15083061409)\n- **對於接受癌症治療的癌症患者或看護人**,住在距離波士頓 25+ 英里 (可能有例外) 的地方都提供治療期間的交通援助\n- 最少 3 晚 · 必須有永久地址和陪同看護人\n- 申請:[headstrong.org/nicks-house/boston](https://headstrong.org/nicks-house/boston)\n\n### 招待之家 (Hospitality Homes)\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 多個地點\n- 為住在波士頓至少 50 英里外的患者及其照護者,匹配志願者寄宿家庭、公寓或折扣住宿\n- 設施和價格因地點而異 · 線上可申請\n- [hosp.org](https://hosp.org/)\n\n### 費舍爾之家波士頓 (Fisher House of Boston) — 免費\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **提供免費房間住宿給軍人家屬** (曾服役的患者或其直系親屬 — 退伍軍人、現役軍人、預備役軍人,以及國民兵),居住在距離醫院 40 英里以上,且每週接受住院護理或治療 3 次\n- 不屬於 VA (退伍軍人事務部)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### 海員之家 (Mariner's House)\n\n- 11 North Square, Boston — 距離麻省總醫院約 1.7 英里\n- 📞 [617-227-3979](tel:+16172273979)\n- **每晚 $65 – $130**\n- **僅限現役海員**、海員退休人員(需服役至少 20 年),或其直系親屬\n- 所需文件\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### 波士頓港口的羅納德·麥當勞之家 (Ronald McDonald House at Boston Harbor)\n\n> 如果您不會說英語,您必須提供一名譯者。請與您的社工人員聯繫以取得更多資訊。\n\n- 250 1st Ave, Boston — 距離麻省總醫院約 2.2 英里\n- 📞 [617-398-6458](tel:+16173986458)\n- **建議自由捐款數額:每晚 $10**\n- 免費停車 · 免費接駁\n- **麻省總醫院附近提供給住在至少 40 英里外的兒童患者家庭的私人公寓**\n- 需要醫師轉診 · 名額有限,通常需要排隊\n\n### 克里斯多福之家 (Christopher's Haven)\n\n- One Emerson Place, Suite 2N, Boston — 鄰近麻省總醫院\n- 📞 [617-279-9077](tel:+16172799077)\n- **每晚 $50**\n- **適用於接受至少 4–6 週門診兒童癌症治療者**\n- 主要照顧者必須年滿 18 歲且能以英語溝通\n- 聯繫 Glennys Acosta,家庭服務經理:[glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)\n\n## 長期住宿酒店\n\n### 萬豪公寓式酒店波士頓海港 - Tudor Wharf\n\n- 34 Charles River Ave, Boston — 距離麻省總醫院約 1.6 英里\n- 📞 [617-242-9000](tel:+16172429000)\n- 請詢問醫療優惠價\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### 萬豪公寓式酒店波士頓劍橋\n\n- 120 Broadway, Cambridge, MA 02142 — 距離麻省總醫院約 2 英里\n- 📞 [617-349-0700](tel:+16173490700)\n- 請輸入企業優惠費率:**P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### 萬豪公寓式酒店波士頓海港 - Seaport\n\n- 370 Congress St, Boston — 距離麻省總醫院 2 英里\n- 📞 [617-478-0840](tel:+16174780840)\n- 請詢問麻省總醫院優惠價,享 **20% 折扣**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\n## 短期公寓\n\n*最短住宿 30 天。停車位和價格各異。麻省總醫院位於波士頓西區。您也可以考慮 [Vrbo](https://www.vrbo.com) 或 [Airbnb](https://www.airbnb.com)。*\n\n### 全國企業住房 — 西區公寓 (National Corporate Housing)\n\n- 5 Longfellow Pl, Ste 102, Boston — 鄰近麻省總醫院校區\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### 康派斯家具公寓 (Compass Furnished Apartments)\n\n- 130 Bowdoin Street, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS 企業住房\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- 請詢問 **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### 家具公寓 (Furnished Quarters)\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) 分機:1008\n- 請詢問 **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*如需更正或更新名單,請致電 📞 [617-724-0295](tel:+16177240295)。— 麻省總醫院臨床社會工作部*"
+            "markdown": "這些清單是為了方便我們的病人及其家屬。**這份清單並不全面，該地區還有其他選擇。麻省總醫院 (MGH) 不認可任何非麻省總醫院附屬機構。** 如需更多資訊或預約，請直接聯絡該機構。除非另有說明，請詢問每個機構的語言能力。\n\n## 麻省總醫院附屬機構\n\n*僅適用於麻省總醫院患者及陪護人。*\n\n### 麻省總醫院貝肯山莊 (MGH at Beacon House)\n\n麻省總醫院社會服務部贊助。\n\n- 19 Myrtle St, Boston, MA 02114 — 距離麻省總醫院 5 個街區\n- 📞 [617-726-7679](tel:+16177267679)\n\n- 具有獨立浴室及廚房的公寓:**每晚 $82–$130**\n- 共享浴室及廚房:**每晚 $49–$66**\n- 無現場停車位;麻省總醫院提供停車折扣\n- 預約時間:週一至週五,上午 9:00 – 下午 4:00\n\n## 附近有醫療優惠的飯店\n\n*請詢問最佳價格 — 可能不是醫療優惠價格。是否開車?請詢問停車費用。*\n\n更多選擇,請搜尋 [Booking.com](https://www.booking.com)、[Hotels.com](https://www.hotels.com),或 Priceline。如需一晚住宿,可以試試 **Hoteltonight** 的即時優惠。\n\n### 自由酒店 (Liberty Hotel)\n\n- 215 Charles St, Boston — 鄰近麻省總醫院\n- 📞 [617-224-4019](tel:+16172244019) (總機)\n- 📞 [866-961-3778](tel:+18669613778) (預約)\n- 🌐 [libertyhotel.com](https://libertyhotel.com/)\n\n請詢問預約醫療優惠價\n\n### 溫德姆波士頓筆架山酒店 (Wyndham Boston Beacon Hill)\n\n- 5 Blossom St, Boston — 距離麻省總醫院半個街區\n- 📞 [617-742-7630](tel:+16177427630)\n- 🌐 [wyndham.com](https://www.wyndham.com)\n\n請詢問**麻省總醫院的優惠價**\n\n### 惠特尼飯店 (The Whitney Hotel)\n\n*原名約翰傑弗里斯之家 (John Jeffries House)。*\n\n- 170 Charles St, Boston — 距離麻省總醫院 1 個街區\n- 📞 [617-367-1866](tel:+16173671866)\n- 🌐 [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n優惠碼:**MGH**\n\n### 拳手飯店 (The Boxer Hotel)\n\n- 107 Merrimac St, Boston — 距離麻省總醫院約 0.6 英里\n- 📞 [617-624-0202](tel:+16176240202)\n- 🌐 [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n優惠碼:**MG16**\n\n### 波士頓花園酒店 (Hotel Indigo Boston Garden)\n\n- 280 Friend St, Boston — 距離麻省總醫院約 0.7 英里;附近有接駁車\n- 📞 [617-720-5544](tel:+16177205544)\n- 🌐 [indigoboston.com](https://www.indigoboston.com)\n\n預約麻省總醫院優惠 [IndigoBoston.com](https://www.indigoboston.com) — 點擊「立即預約」並輸入**企業識別碼 100197376**\n\n### 萬豪旗下萬怡酒店:市中心／特倫特\n\n- 275 Tremont St, Boston — 距離麻省總醫院約 0.8 英里\n- 📞 [617-426-1400](tel:+16174261400) (總機)\n- 📞 [888-236-2427](tel:+18882362427) (預約)\n- 🌐 [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### 波士頓俱樂部會所酒店 (Club Quarters Hotel)\n\n- 161 Devonshire Street, Boston, MA 02110 — 距離麻省總醫院約 0.9 英里\n- 📞 [617-357-6400](tel:+16173576400)\n- 🌐 [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### 波士頓-劍橋假日酒店 (Holiday Inn Express)\n\n- 250 Monsignor O'Brien Highway, Cambridge — 距離麻省總醫院約 1.3 英里\n- 📞 [617-577-7600](tel:+16175777600)\n- 🌐 [hiexpress.com](https://www.hiexpress.com)\n\n請詢問麻省總醫院的優惠價,代碼**「IL7MG」**\n\n### 費爾菲爾德酒店 - 波士頓／劍橋\n\n- 215 Monsignor O'Brien Highway, Cambridge — 距離麻省總醫院約 1.1 英里\n- 📞 [617-621-1999](tel:+16176211999)\n- 🌐 [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n請輸入企業優惠代碼:**P9H**\n\n### 波士頓邦克山假日酒店 (Holiday Inn Boston–Cambridge Area)\n\n- 30 Washington St, Somerville — 距離麻省總醫院約 2.4 英里;免費接駁\n- 📞 [617-628-1000](tel:+16176281000)\n- 🌐 [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n請詢問麻省總醫院的優惠價,代碼**「IL7MG」**\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — 2.9 miles from MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- 🌐 [cambriaboston.com](https://www.cambriaboston.com)\n\nAsk for the Mass General rate\n\n### 波士頓後灣希爾頓酒店 (Hilton Boston Back Bay)\n\n- 40 Dalton St, Boston — 距離麻省總醫院約 3.2 英里\n- 📞 [617-236-1100](tel:+16172361100)\n- 🌐 [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\n請詢問麻省總醫院的優惠價\n\n## 特殊住宿\n\n*請查詢各院所的具體資格要求。*\n\n### 希望之家:波士頓 — 免費 (Hope Lodge)\n\n美國癌症協會。\n\n> 如果您或您的照顧者都不懂英文,請與社工人員聯絡。可能有其他選擇。\n\n- 125 S. Huntington Ave, Jamaica Plain — 距離麻省總醫院約 3.8 英里\n- 📞 [617-396-5500](tel:+16173965500)\n- 🌐 [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n\n- **適用於年滿 18 歲以上的癌症患者**,每週至少有 3 天接受治療中心的預約,且居住地距離波士頓 40 英里以上\n- 最少入住 3 晚 · 需醫師轉介 · 需陪同照護者\n\n### 美國癌症協會 (American Cancer Society)\n\n美國癌症協會為癌症患者及其家屬提供額外的服務(受條件和可用性限制)。\n\n- 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House:波士頓 — 免費\n\nHEADstrong 基金會。\n\n- 275 Summit Ave, Brookline, MA 02135 — 距離麻省總醫院 4.5 英里\n- 📞 [508-306-1409](tel:+15083061409)\n- 🌐 [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n- **對於接受癌症治療的癌症患者或看護人**,住在距離波士頓 25+ 英里 (可能有例外) 的地方都提供治療期間的交通援助\n- 最少 3 晚 · 必須有永久地址和陪同看護人\n- 申請:[headstrong.org/nicks-house/boston](https://headstrong.org/nicks-house/boston)\n\n### 招待之家 (Hospitality Homes)\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 🌐 [hosp.org](https://hosp.org/)\n\n- 多個地點\n- 為住在波士頓至少 50 英里外的患者及其照護者,匹配志願者寄宿家庭、公寓或折扣住宿\n- 設施和價格因地點而異 · 線上可申請\n\n### 費舍爾之家波士頓 (Fisher House of Boston) — 免費\n\n- 📞 [508-728-8781](tel:+15087288781)\n- 🌐 [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n- **提供免費房間住宿給軍人家屬** (曾服役的患者或其直系親屬 — 退伍軍人、現役軍人、預備役軍人,以及國民兵),居住在距離醫院 40 英里以上,且每週接受住院護理或治療 3 次\n- 不屬於 VA (退伍軍人事務部)\n\n### 海員之家 (Mariner's House)\n\n- 11 North Square, Boston — 距離麻省總醫院約 1.7 英里\n- 📞 [617-227-3979](tel:+16172273979)\n- 🌐 [marinershouse.org](https://www.marinershouse.org/)\n\n- **每晚 $65 – $130**\n- **僅限現役海員**、海員退休人員(需服役至少 20 年),或其直系親屬\n- 所需文件\n\n### 波士頓港口的羅納德·麥當勞之家 (Ronald McDonald House at Boston Harbor)\n\n- 250 1st Ave, Boston — 距離麻省總醫院約 2.2 英里\n- 📞 [617-398-6458](tel:+16173986458)\n\n> 如果您不會說英語,您必須提供一名譯者。請與您的社工人員聯繫以取得更多資訊。\n\n- **建議自由捐款數額:每晚 $10**\n- 免費停車 · 免費接駁\n- **麻省總醫院附近提供給住在至少 40 英里外的兒童患者家庭的私人公寓**\n- 需要醫師轉診 · 名額有限,通常需要排隊\n\n### 克里斯多福之家 (Christopher's Haven)\n\n- One Emerson Place, Suite 2N, Boston — 鄰近麻省總醫院\n- 📞 [617-279-9077](tel:+16172799077)\n- 🌐 [christophershaven.org](https://christophershaven.org/)\n\n- **每晚 $50**\n- **適用於接受至少 4–6 週門診兒童癌症治療者**\n- 主要照顧者必須年滿 18 歲且能以英語溝通\n\n## 長期住宿酒店\n\n### 萬豪公寓式酒店波士頓海港 - Tudor Wharf\n\n- 34 Charles River Ave, Boston — 距離麻省總醫院約 1.6 英里\n- 📞 [617-242-9000](tel:+16172429000)\n- 🌐 [marriott.com/bostw](https://www.marriott.com/bostw)\n\n請詢問醫療優惠價\n\n### 萬豪公寓式酒店波士頓劍橋\n\n- 120 Broadway, Cambridge, MA 02142 — 距離麻省總醫院約 2 英里\n- 📞 [617-349-0700](tel:+16173490700)\n- 🌐 [marriott.com/boscm](https://www.marriott.com/boscm)\n\n請輸入企業優惠費率:**P9H**\n\n### 萬豪公寓式酒店波士頓海港 - Seaport\n\n- 370 Congress St, Boston — 距離麻省總醫院 2 英里\n- 📞 [617-478-0840](tel:+16174780840)\n- 🌐 [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\n請詢問麻省總醫院優惠價,享 **20% 折扣**\n\n## 短期公寓\n\n*最短住宿 30 天。停車位和價格各異。麻省總醫院位於波士頓西區。您也可以考慮 [Vrbo](https://www.vrbo.com) 或 [Airbnb](https://www.airbnb.com)。*\n\n### 全國企業住房 — 西區公寓 (National Corporate Housing)\n\n- 5 Longfellow Pl, Ste 102, Boston — 鄰近麻省總醫院校區\n- 📞 [617-948-9876](tel:+16179489876)\n- 🌐 [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### 康派斯家具公寓 (Compass Furnished Apartments)\n\n- 130 Bowdoin Street, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- 🌐 [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS 企業住房\n\n- 📞 [617-939-6197](tel:+16179396197)\n- 🌐 [cwshousing.com](https://cwshousing.com/)\n\n### 家具公寓 (Furnished Quarters)\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- 🌐 [furnishedquarters.com](https://www.furnishedquarters.com)\n\n*如需更正或更新名單,請致電 📞 [617-724-0295](tel:+16177240295)。— 麻省總醫院臨床社會工作部*"
           }
         ]
       },
@@ -5382,7 +5505,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Essas listas são fornecidas como um auxílio para nossos pacientes e suas famílias. **Esta lista não é abrangente — existem outras opções na região. O Mass General Hospital (MGH) não endossa nenhuma instalação não afiliada ao Mass General.** Para mais informações ou para fazer uma reserva, entre em contato diretamente com a instalação. A menos que esteja indicado, pergunte a cada estabelecimento sobre sua capacidade linguística.\n\n## Instalações afiliadas ao Mass General\n\n*Somente para pacientes e acompanhantes do Mass General.*\n\n### MGH no Beacon House\n\nPatrocinado pelo Departamento de Assistência Social do MGH.\n\n- 19 Myrtle St, Boston, MA 02114 — a 5 quadras do Mass General Hospital\n- 📞 [617-726-7679](tel:+16177267679)\n- Apartamentos com cozinha e banheiro próprios: **US$ 82 – US$ 130 por noite**\n- Cozinha e banheiro compartilhados: **US$ 49 – US$ 66 por noite**\n- Não há estacionamento no local; desconto disponível no Mass General\n- Horário para reservas: de segunda a sexta-feira, das 9h às 16h\n\n## Hotéis da região com tarifas médicas\n\n*Peça pela melhor tarifa disponível — que pode não ser a tarifa médica. Está de carro? Pergunte pelas taxas de estacionamento.*\n\nMais opções: busque na internet ou tente [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), ou Priceline. Para ofertas de última hora em uma noite, acesse **Hoteltonight**.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — rua adjacente ao Mass General\n- 📞 [617-224-4019](tel:+16172244019) (principal) · [866-961-3778](tel:+18669613778) (reservas)\n- Peça pela tarifa médica\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a meia quadra do Mass General\n- 📞 [617-742-7630](tel:+16177427630)\n- Peça pela **tarifa do Mass General**\n- [wyndham.com](https://www.wyndham.com)\n\n### O Whitney Hotel\n\n*Antigo John Jeffries House.*\n\n- 170 Charles St, Boston — a uma quadra do Mass General\n- 📞 [617-367-1866](tel:+16173671866)\n- Código para tarifa especial: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars O Boxer\n\n- 107 Merrimac St, Boston — a 0,6 milha do Mass General\n- 📞 [617-624-0202](tel:+16176240202)\n- Código para tarifa especial: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a 0,7 milha do Mass General; próximo da estação de ônibus\n- 📞 [617-720-5544](tel:+16177205544)\n- Tarifa de reserva para Mass General em [IndigoBoston.com](https://www.indigoboston.com) — clique em *Book Now* e insira o **ID Corporativo 100197376**\n\n### Courtyard by Marriott: Centro / Tremont\n\n- 275 Tremont St, Boston — a 0,8 milha do Mass General\n- 📞 [617-426-1400](tel:+16174261400) (principal) · [888-236-2427](tel:+18882362427) (reservas)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel em Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a 0,9 milha do Mass General Hospital\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a 1,3 milha do Mass General\n- 📞 [617-577-7600](tel:+16175777600)\n- Peça pela tarifa do Mass General, código **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a 1,1 milha do Mass General\n- 📞 [617-621-1999](tel:+16176211999)\n- Digite o código corporativo: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 milhas do Mass General\n- 📞 [617-628-1000](tel:+16176281000)\n- Peça pela tarifa do Mass General, código **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a 3,2 milhas do Mass General\n- 📞 [617-236-1100](tel:+16172361100)\n- Peça pela tarifa médica Mass General\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\n## Acomodações especializadas\n\n*Veja os requisitos específicos de elegibilidade por instalação.*\n\n### Hope Lodge: Boston — Sem taxa\n\nAmerican Cancer Society.\n\n> Se nem você ou o cuidador entender inglês, fale com o serviço social. Outras opções podem estar disponíveis.\n\n- 125 S. Huntington Ave, Jamaica Plain — a 3,8 milhas do Mass General\n- 📞 [617-396-5500](tel:+16173965500)\n- **Para pacientes maiores de 18 anos com câncer** que tenham consultas no centro de tratamento pelo menos 3 dias/semana e morem a mais de 40 milhas de Boston\n- Mínimo de 3 noites · É necessária indicação do provedor · Exige companhia de cuidador\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- A American Cancer Society oferece opções adicionais para pacientes com câncer e familiares (sujeitos às condições e disponibilidade). Ligue para: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Sem taxa\n\nFundação HEADstrong.\n\n- 275 Summit Ave, Brookline, MA 02135 — a 4,5 milhas do Mass General\n- 📞 [508-306-1409](tel:+15083061409)\n- **Para pacientes (e/ou cuidadores)** que estão em tratamento contra o câncer e moram a mais de 25 milhas de Boston (exceções possíveis)\n- Oferece assistência no transporte para tratamento · Todas as idades · Mínimo de 3 noites · Deve ter um endereço permanente e um cuidador acompanhante\n- Aplicação: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Casas de Hospitalidade (Hospitality Homes)\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Diversos locais\n- Atende a pacientes e seus cuidadores que moram a pelo menos 50 milhas de Boston, com famílias anfitriãs voluntárias, apartamentos ou acomodações com descontos\n- Os serviços e preços podem variar com a localização · Aplicação disponível on-line\n- [hosp.org](https://hosp.org/)\n\n### Fisher House de Boston — Gratuito\n\n- 📞 [508-728-8781](tel:+15087288781) (Jen DeLuca)\n- **Alojamento gratuito próximo ao hospital para famílias de militares** (paciente ou familiar imediato que serviu — Veterano, Ativo, Reserva, Guarda) que moram a 40 ou mais milhas do hospital e recebem tratamento ou atendimento de internação 3 vezes por semana\n- Não associado ao VA (Assuntos de Veteranos)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — a 1,7 milhas do Mass General\n- 📞 [617-227-3979](tel:+16172273979)\n- **US$ 65 – US$ 130 por noite**\n- **Somente para os que estão na ativa da marinha**, com status de reformado (que tenha servido por no mínimo 20 anos), ou seus familiares imediatos\n- Documentação exigida\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House no Boston Harbor\n\n> Se você não falar inglês, você precisará de um intérprete. Fale com o serviço social para mais informações.\n\n- 250 1st Ave, Boston — a 2,2 milhas do Mass General\n- 📞 [617-398-6458](tel:+16173986458)\n- **Doação sugerida: US$ 10 por noite**\n- Estacionamento gratuito · Transporte gratuito\n- **Apartamentos privativos para familiares de pacientes pediátricos** que moram a no mínimo 40 milhas do Mass General\n- É necessário referência do provedor médico · Disponibilidade limitada, geralmente tem uma lista de espera\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — rua adjacente ao Mass General\n- 📞 [617-279-9077](tel:+16172799077)\n- **US$ 50 por noite**\n- **Para aqueles que recebem um mínimo de 4 a 6 semanas de tratamento ambulatorial de câncer pediátrico**\n- O cuidador primário deve ter no mínimo 18 anos e conseguir se comunicar em inglês\n- Entre em contato com Glennys Acosta, Gerente de Serviços para a Família: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)\n\n## Hotéis para estadia prolongada\n\n### Residence Inn by Marriott Boston Harbor em Tudor Wharf\n\n- 34 Charles River Ave, Boston — a 1,6 milhas do Mass General\n- 📞 [617-242-9000](tel:+16172429000)\n- Peça pelas tarifas médicas\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — a 2 milhas do Mass General\n- 📞 [617-349-0700](tel:+16173490700)\n- Digite a tarifa corporativa: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a 2,0 milhas do Mass General\n- 📞 [617-478-0840](tel:+16174780840)\n- Peça pelo desconto de **20% na tarifa Mass General**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\n## Apartamentos para estadia de curta duração\n\n*A maioria exige uma estadia mínima de 30 dias. Disponibilidade de estacionamento e as tarifas podem variar. O Mass General fica na região de West End de Boston. Além destas sugestões, considere [Vrbo](https://www.vrbo.com) ou [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — Apartamentos no West End\n\n- 5 Longfellow Pl, Ste 102, Boston — rua adjacente ao campus do Mass General\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Pergunte por **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- Pergunte por **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Para correções e atualizações, ligue para 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Assistência Social Clínica*"
+            "markdown": "Essas listas são fornecidas como um auxílio para nossos pacientes e suas famílias. **Esta lista não é abrangente — existem outras opções na região. O Mass General Hospital (MGH) não endossa nenhuma instalação não afiliada ao Mass General.** Para mais informações ou para fazer uma reserva, entre em contato diretamente com a instalação. A menos que esteja indicado, pergunte a cada estabelecimento sobre sua capacidade linguística.\n\n## Instalações afiliadas ao Mass General\n\n*Somente para pacientes e acompanhantes do Mass General.*\n\n### MGH no Beacon House\n\nPatrocinado pelo Departamento de Assistência Social do MGH.\n\n- 19 Myrtle St, Boston, MA 02114 — a 5 quadras do Mass General Hospital\n- 📞 [617-726-7679](tel:+16177267679)\n\n- Apartamentos com cozinha e banheiro próprios: **US$ 82 – US$ 130 por noite**\n- Cozinha e banheiro compartilhados: **US$ 49 – US$ 66 por noite**\n- Não há estacionamento no local; desconto disponível no Mass General\n- Horário para reservas: de segunda a sexta-feira, das 9h às 16h\n\n## Hotéis da região com tarifas médicas\n\n*Peça pela melhor tarifa disponível — que pode não ser a tarifa médica. Está de carro? Pergunte pelas taxas de estacionamento.*\n\nMais opções: busque na internet ou tente [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), ou Priceline. Para ofertas de última hora em uma noite, acesse **Hoteltonight**.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — rua adjacente ao Mass General\n- 📞 [617-224-4019](tel:+16172244019) (Principal)\n- 📞 [866-961-3778](tel:+18669613778) (Reservas)\n- 🌐 [libertyhotel.com](https://libertyhotel.com/)\n\nPeça pela tarifa médica\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a meia quadra do Mass General\n- 📞 [617-742-7630](tel:+16177427630)\n- 🌐 [wyndham.com](https://www.wyndham.com)\n\nPeça pela **tarifa do Mass General**\n\n### O Whitney Hotel\n\n*Antigo John Jeffries House.*\n\n- 170 Charles St, Boston — a uma quadra do Mass General\n- 📞 [617-367-1866](tel:+16173671866)\n- 🌐 [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\nCódigo para tarifa especial: **MGH**\n\n### Eurostars O Boxer\n\n- 107 Merrimac St, Boston — a 0,6 milha do Mass General\n- 📞 [617-624-0202](tel:+16176240202)\n- 🌐 [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\nCódigo para tarifa especial: **MG16**\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a 0,7 milha do Mass General; próximo da estação de ônibus\n- 📞 [617-720-5544](tel:+16177205544)\n- 🌐 [indigoboston.com](https://www.indigoboston.com)\n\nTarifa de reserva para Mass General em [IndigoBoston.com](https://www.indigoboston.com) — clique em *Book Now* e insira o **ID Corporativo 100197376**\n\n### Courtyard by Marriott: Centro / Tremont\n\n- 275 Tremont St, Boston — a 0,8 milha do Mass General\n- 📞 [617-426-1400](tel:+16174261400) (Principal)\n- 📞 [888-236-2427](tel:+18882362427) (Reservas)\n- 🌐 [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel em Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a 0,9 milha do Mass General Hospital\n- 📞 [617-357-6400](tel:+16173576400)\n- 🌐 [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a 1,3 milha do Mass General\n- 📞 [617-577-7600](tel:+16175777600)\n- 🌐 [hiexpress.com](https://www.hiexpress.com)\n\nPeça pela tarifa do Mass General, código **IL7MG**\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a 1,1 milha do Mass General\n- 📞 [617-621-1999](tel:+16176211999)\n- 🌐 [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\nDigite o código corporativo: **P9H**\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 milhas do Mass General\n- 📞 [617-628-1000](tel:+16176281000)\n- 🌐 [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\nPeça pela tarifa do Mass General, código **IL7MG**\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — 2.9 miles from MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- 🌐 [cambriaboston.com](https://www.cambriaboston.com)\n\nAsk for the Mass General rate\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a 3,2 milhas do Mass General\n- 📞 [617-236-1100](tel:+16172361100)\n- 🌐 [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\nPeça pela tarifa médica Mass General\n\n## Acomodações especializadas\n\n*Veja os requisitos específicos de elegibilidade por instalação.*\n\n### Hope Lodge: Boston — Sem taxa\n\nAmerican Cancer Society.\n\n> Se nem você ou o cuidador entender inglês, fale com o serviço social. Outras opções podem estar disponíveis.\n\n- 125 S. Huntington Ave, Jamaica Plain — a 3,8 milhas do Mass General\n- 📞 [617-396-5500](tel:+16173965500)\n- 🌐 [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n\n- **Para pacientes maiores de 18 anos com câncer** que tenham consultas no centro de tratamento pelo menos 3 dias/semana e morem a mais de 40 milhas de Boston\n- Mínimo de 3 noites · É necessária indicação do provedor · Exige companhia de cuidador\n\n### American Cancer Society\n\nA American Cancer Society oferece opções adicionais para pacientes com câncer e familiares (sujeitos às condições e disponibilidade).\n\n- 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Sem taxa\n\nFundação HEADstrong.\n\n- 275 Summit Ave, Brookline, MA 02135 — a 4,5 milhas do Mass General\n- 📞 [508-306-1409](tel:+15083061409)\n- 🌐 [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n- **Para pacientes (e/ou cuidadores)** que estão em tratamento contra o câncer e moram a mais de 25 milhas de Boston (exceções possíveis)\n- Oferece assistência no transporte para tratamento · Todas as idades · Mínimo de 3 noites · Deve ter um endereço permanente e um cuidador acompanhante\n- Aplicação: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Casas de Hospitalidade (Hospitality Homes)\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 🌐 [hosp.org](https://hosp.org/)\n\n- Diversos locais\n- Atende a pacientes e seus cuidadores que moram a pelo menos 50 milhas de Boston, com famílias anfitriãs voluntárias, apartamentos ou acomodações com descontos\n- Os serviços e preços podem variar com a localização · Aplicação disponível on-line\n\n### Fisher House de Boston — Gratuito\n\n- 📞 [508-728-8781](tel:+15087288781)\n- 🌐 [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n- **Alojamento gratuito próximo ao hospital para famílias de militares** (paciente ou familiar imediato que serviu — Veterano, Ativo, Reserva, Guarda) que moram a 40 ou mais milhas do hospital e recebem tratamento ou atendimento de internação 3 vezes por semana\n- Não associado ao VA (Assuntos de Veteranos)\n\n### Mariner's House\n\n- 11 North Square, Boston — a 1,7 milhas do Mass General\n- 📞 [617-227-3979](tel:+16172273979)\n- 🌐 [marinershouse.org](https://www.marinershouse.org/)\n\n- **US$ 65 – US$ 130 por noite**\n- **Somente para os que estão na ativa da marinha**, com status de reformado (que tenha servido por no mínimo 20 anos), ou seus familiares imediatos\n- Documentação exigida\n\n### Ronald McDonald House no Boston Harbor\n\n- 250 1st Ave, Boston — a 2,2 milhas do Mass General\n- 📞 [617-398-6458](tel:+16173986458)\n\n> Se você não falar inglês, você precisará de um intérprete. Fale com o serviço social para mais informações.\n\n- **Doação sugerida: US$ 10 por noite**\n- Estacionamento gratuito · Transporte gratuito\n- **Apartamentos privativos para familiares de pacientes pediátricos** que moram a no mínimo 40 milhas do Mass General\n- É necessário referência do provedor médico · Disponibilidade limitada, geralmente tem uma lista de espera\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — rua adjacente ao Mass General\n- 📞 [617-279-9077](tel:+16172799077)\n- 🌐 [christophershaven.org](https://christophershaven.org/)\n\n- **US$ 50 por noite**\n- **Para aqueles que recebem um mínimo de 4 a 6 semanas de tratamento ambulatorial de câncer pediátrico**\n- O cuidador primário deve ter no mínimo 18 anos e conseguir se comunicar em inglês\n\n## Hotéis para estadia prolongada\n\n### Residence Inn by Marriott Boston Harbor em Tudor Wharf\n\n- 34 Charles River Ave, Boston — a 1,6 milhas do Mass General\n- 📞 [617-242-9000](tel:+16172429000)\n- 🌐 [marriott.com/bostw](https://www.marriott.com/bostw)\n\nPeça pelas tarifas médicas\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — a 2 milhas do Mass General\n- 📞 [617-349-0700](tel:+16173490700)\n- 🌐 [marriott.com/boscm](https://www.marriott.com/boscm)\n\nDigite a tarifa corporativa: **P9H**\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a 2,0 milhas do Mass General\n- 📞 [617-478-0840](tel:+16174780840)\n- 🌐 [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\nPeça pelo desconto de **20% na tarifa Mass General**\n\n## Apartamentos para estadia de curta duração\n\n*A maioria exige uma estadia mínima de 30 dias. Disponibilidade de estacionamento e as tarifas podem variar. O Mass General fica na região de West End de Boston. Além destas sugestões, considere [Vrbo](https://www.vrbo.com) ou [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — Apartamentos no West End\n\n- 5 Longfellow Pl, Ste 102, Boston — rua adjacente ao campus do Mass General\n- 📞 [617-948-9876](tel:+16179489876)\n- 🌐 [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- 🌐 [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- 📞 [617-939-6197](tel:+16179396197)\n- 🌐 [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- 🌐 [furnishedquarters.com](https://www.furnishedquarters.com)\n\n*Para correções e atualizações, ligue para 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Assistência Social Clínica*"
           }
         ]
       },
@@ -5391,7 +5514,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Yo bay lis sa yo pou fasilite pasyan ak fanmi yo. **Lis sa a pa konplè — gen lòt opsyon ki disponib. Mass General Hospital (MGH) pa apwouve okenn etablisman ki pa afilye avèk li.** Pou jwenn plis enfòmasyon oswa pou fè yon rezèvasyon, tanpri kontakte etablisman an dirèkteman. Sòf si yo note sa, tanpri mande chak etablisman enfòmasyon sou kapasite lang yo.\n\n## Etablisman ki afilye ak Mass General\n\n*Pou pasyan ak konpayon Mass General yo sèlman.*\n\n### MGH nan Beacon House\n\nNou jwenn sipò nan men Depatman Sèvis Sosyal Mass General.\n\n- 19 Myrtle St, Boston, MA 02114 — a yon distans de 5 blòk de Mass General\n- 📞 [617-726-7679](tel:+16177267679)\n- Apatman ki gen twalèt ak kwizin prive: **$82–$130/nwit**\n- Twalèt ak kwizin ki pataje ak lòt moun: **$49–$66/nwit**\n- Pa gen pakin sou plas; rabè disponib pou pakin nan Mass General\n- Rezèvasyon ap fèt: Lendi–Vandredi, 9:00 am – 4:00 pm\n\n## Otèl nan zòn nan avèk tarif pou pasyan\n\n*Mande pi bon tarif ki disponib — ki gen dwa pa tarif pou pasyan an. W ap kondwi? Mande enfòmasyon sou pri pakin.*\n\nPlis opsyon: chèche sou entènèt oswa eseye [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), oswa Priceline. Eseye **Hoteltonight** pou rabè a la dènye minit pou pase yon sèl nwit.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — tou kole ak Mass General\n- 📞 [617-224-4019](tel:+16172244019) (prensipal) · [866-961-3778](tel:+18669613778) (rezèvasyon)\n- Mande tarif pou pasyan Mass General\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a yon distans de demi-blòk de Mass General\n- 📞 [617-742-7630](tel:+16177427630)\n- Mande **tarif Mass General la**\n- [wyndham.com](https://www.wyndham.com)\n\n### The Whitney Hotel\n\n*Ansyen John Jeffries House.*\n\n- 170 Charles St, Boston — a yon blòk de distans de Mass General\n- 📞 [617-367-1866](tel:+16173671866)\n- Kòd pou tarif espesyal: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — a yon distans de 0,6 mil de Mass General\n- 📞 [617-624-0202](tel:+16176240202)\n- Kòd pou tarif espesyal: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a yon distans de 0,7 mil de Mass General; bis ki fè la navèt tou pre\n- 📞 [617-720-5544](tel:+16177205544)\n- Mande tarif Mass General la nan [IndigoBoston.com](https://www.indigoboston.com) — klike sou *Book Now* epi mete **Corporate ID 100197376**\n\n### Courtyard by Marriott: Lavil / Tremont\n\n- 275 Tremont St, Boston — a yon distans de 0,8 mil de Mass General\n- 📞 [617-426-1400](tel:+16174261400) (prensipal) · [888-236-2427](tel:+18882362427) (rezèvasyon)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel nan Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a yon distans de 0,9 mil de Mass General Hospital\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a yon distans de 1,3 mil de Mass General\n- 📞 [617-577-7600](tel:+16175777600)\n- Mande pou tarif Mass General la, kòd **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a yon distans de 1,1 mil de Mass General\n- 📞 [617-621-1999](tel:+16176211999)\n- Mete Corporate Code: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 mil distans de Mass General\n- 📞 [617-628-1000](tel:+16176281000)\n- Mande pou tarif Mass General la, kòd **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a yon distans de 3,2 mil de Mass General\n- 📞 [617-236-1100](tel:+16172361100)\n- Mande pou tarif Mass General la\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\n## Aranjman espesyalize\n\n*Gade kisa chak etablisman mande pou elijib.*\n\n### Hope Lodge: Boston — Gratis\n\nAmerican Cancer Society.\n\n- 125 S. Huntington Ave, Jamaica Plain — a yon distans de 3,8 mil de Mass General\n- 📞 [617-396-5500](tel:+16173965500)\n- **Pou pasyan ki fè kansè ki gen omwen 18 lane** ki gen randevou nan sant tretman pandan omwen 3 jou/semèn epi ki rete a yon distans de omwen 40 mil de Boston\n- 3 nwit minimòm · Medsen tretan dwe refere w · Fòk gen yon moun ki akonpaye w\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- American Cancer Society ofri opsyon anplis pou pasyan kansè yo ak fanmi yo (selon kondisyon ak disponibilite). Rele nan: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Gratis\n\nHEADstrong Foundation.\n\n- 275 Summit Ave, Brookline, MA 02135 — li a 4,5 mil de Mass General\n- 📞 [508-306-1409](tel:+15083061409)\n- **Pou pasyan ki soufri kansè** e k ap resevwa tretman, epitou ki rete a yon distans de omwen 25 mil de Boston (ka gen eksepsyon)\n- Ofri èd transpò pou tretman · Nenpòt ki laj · 3 nwit minimòm · Moun nan dwe gen yon adrès pèmanan epitou fòk gen yon moun ki akonpaye li nan randevou yo\n- Aplikasyon: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Plizyè kote\n- Asosye pasyan yo ak swanyan ki rete omwen 50 mil distans de Boston avèk fanmi akèy volontè, apatman, oswa lojman ak rabè\n- Ekipman ak pri yo varye selon kote a · Aplikasyon disponib sou entènèt\n- [hosp.org](https://hosp.org/)\n\n### Fisher House of Boston — Gratis\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **Lojman gratis akote lopital la pou fanmi militè** (pasyan oswa manm imedya fanmi ki te sèvi — Veteran, Aktif, Rezèv, Gad) ki abite plis pase 40 mil distans ak Boston epi k ap resevwa swen entène oswa tretman 3 fwa/semèn\n- Pa asosye ak VA (Afè Veteran yo)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — a yon distans de 1,7 mil de Mass General\n- 📞 [617-227-3979](tel:+16172273979)\n- **$65–$130/nwit**\n- **Sèlman pou moun ki nan sèvis maritim aktif**, ki gen estati retrete nan la marin (fòk yo te aktif omwen 20 lane), oswa fanmi imedya yo\n- Dokiman pou pwouve sa obligatwa\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House nan Boston Harbor\n\n- 250 1st Ave, Boston — a yon distans de 2,2 mil de Mass General\n- 📞 [617-398-6458](tel:+16173986458)\n- **$10 ki sijere kòm ofrann chak swa**\n- Pakin gratis · Transpò la navèt gratis\n- **Apatman prive pou fanmi pasyan pedyatri** ki abite omwen 40 mil distans de Mass General\n- Fòk medsen tretan refere w · Disponibilite limite, an jeneral gen yon lis datant\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — tou kole ak Mass General\n- 📞 [617-279-9077](tel:+16172799077)\n- **$50/nwit**\n- **Pou moun k ap resevwa yon minimòm 4–6 semèn tretman kansè pedyatrik pou pasyan ki nan konsiltasyon eksten**\n- Swanyan prensipal la dwe gen omwen 18 lane epi fòk li kapab pale Anglè\n- Kontakte Glennys Acosta, Manadjè Sèvis pou Fanmi: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)\n\n## Otèl pou sejou pwolonje\n\n### Residence Inn by Marriott Boston Harbor nan Tudor Wharf\n\n- 34 Charles River Ave, Boston — a yon distans de 1,6 mil de Mass General\n- 📞 [617-242-9000](tel:+16172429000)\n- Mande pou tarif pou pasyan\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — yon distans de 2 mil de Mass General\n- 📞 [617-349-0700](tel:+16173490700)\n- Mete Corporate Rate: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a yon distans de 2,0 mil de Mass General\n- 📞 [617-478-0840](tel:+16174780840)\n- Pou jwenn yon rabè **20%**, mande tarif Mass General\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\n## Apatman pou sejou ki kout\n\n*Pifò egzije yon minimòm sejou 30 jou. Disponibilite pakin ak tarif yo varye. Mass General sitiye nan katye West End Boston. Ou ka tcheke tou [Vrbo](https://www.vrbo.com) oswa [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — akote campus prensipal Mass General la\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Biwo #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Mande pou **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ekstansyon 1008\n- Mande pou **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Pou koreksyon nan lis la oswa mizajou, tanpri rele 📞 [617-724-0295](tel:+16177240295). — Depatman Travay Sosyal Klinik MGH*"
+            "markdown": "Yo bay lis sa yo pou fasilite pasyan ak fanmi yo. **Lis sa a pa konplè — gen lòt opsyon ki disponib. Mass General Hospital (MGH) pa apwouve okenn etablisman ki pa afilye avèk li.** Pou jwenn plis enfòmasyon oswa pou fè yon rezèvasyon, tanpri kontakte etablisman an dirèkteman. Sòf si yo note sa, tanpri mande chak etablisman enfòmasyon sou kapasite lang yo.\n\n## Etablisman ki afilye ak Mass General\n\n*Pou pasyan ak konpayon Mass General yo sèlman.*\n\n### MGH nan Beacon House\n\nNou jwenn sipò nan men Depatman Sèvis Sosyal Mass General.\n\n- 19 Myrtle St, Boston, MA 02114 — a yon distans de 5 blòk de Mass General\n- 📞 [617-726-7679](tel:+16177267679)\n\n- Apatman ki gen twalèt ak kwizin prive: **$82–$130/nwit**\n- Twalèt ak kwizin ki pataje ak lòt moun: **$49–$66/nwit**\n- Pa gen pakin sou plas; rabè disponib pou pakin nan Mass General\n- Rezèvasyon ap fèt: Lendi–Vandredi, 9:00 am – 4:00 pm\n\n## Otèl nan zòn nan avèk tarif pou pasyan\n\n*Mande pi bon tarif ki disponib — ki gen dwa pa tarif pou pasyan an. W ap kondwi? Mande enfòmasyon sou pri pakin.*\n\nPlis opsyon: chèche sou entènèt oswa eseye [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), oswa Priceline. Eseye **Hoteltonight** pou rabè a la dènye minit pou pase yon sèl nwit.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — tou kole ak Mass General\n- 📞 [617-224-4019](tel:+16172244019) (Prensipal)\n- 📞 [866-961-3778](tel:+18669613778) (Rezèvasyon)\n- 🌐 [libertyhotel.com](https://libertyhotel.com/)\n\nMande tarif pou pasyan Mass General\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a yon distans de demi-blòk de Mass General\n- 📞 [617-742-7630](tel:+16177427630)\n- 🌐 [wyndham.com](https://www.wyndham.com)\n\nMande **tarif Mass General la**\n\n### The Whitney Hotel\n\n*Ansyen John Jeffries House.*\n\n- 170 Charles St, Boston — a yon blòk de distans de Mass General\n- 📞 [617-367-1866](tel:+16173671866)\n- 🌐 [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\nKòd pou tarif espesyal: **MGH**\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — a yon distans de 0,6 mil de Mass General\n- 📞 [617-624-0202](tel:+16176240202)\n- 🌐 [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\nKòd pou tarif espesyal: **MG16**\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a yon distans de 0,7 mil de Mass General; bis ki fè la navèt tou pre\n- 📞 [617-720-5544](tel:+16177205544)\n- 🌐 [indigoboston.com](https://www.indigoboston.com)\n\nMande tarif Mass General la nan [IndigoBoston.com](https://www.indigoboston.com) — klike sou *Book Now* epi mete **Corporate ID 100197376**\n\n### Courtyard by Marriott: Lavil / Tremont\n\n- 275 Tremont St, Boston — a yon distans de 0,8 mil de Mass General\n- 📞 [617-426-1400](tel:+16174261400) (Prensipal)\n- 📞 [888-236-2427](tel:+18882362427) (Rezèvasyon)\n- 🌐 [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel nan Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a yon distans de 0,9 mil de Mass General Hospital\n- 📞 [617-357-6400](tel:+16173576400)\n- 🌐 [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a yon distans de 1,3 mil de Mass General\n- 📞 [617-577-7600](tel:+16175777600)\n- 🌐 [hiexpress.com](https://www.hiexpress.com)\n\nMande pou tarif Mass General la, kòd **IL7MG**\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a yon distans de 1,1 mil de Mass General\n- 📞 [617-621-1999](tel:+16176211999)\n- 🌐 [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\nMete Corporate Code: **P9H**\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 mil distans de Mass General\n- 📞 [617-628-1000](tel:+16176281000)\n- 🌐 [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\nMande pou tarif Mass General la, kòd **IL7MG**\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — 2.9 miles from MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- 🌐 [cambriaboston.com](https://www.cambriaboston.com)\n\nAsk for the Mass General rate\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a yon distans de 3,2 mil de Mass General\n- 📞 [617-236-1100](tel:+16172361100)\n- 🌐 [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)\n\nMande pou tarif Mass General la\n\n## Aranjman espesyalize\n\n*Gade kisa chak etablisman mande pou elijib.*\n\n### Hope Lodge: Boston — Gratis\n\nAmerican Cancer Society.\n\n- 125 S. Huntington Ave, Jamaica Plain — a yon distans de 3,8 mil de Mass General\n- 📞 [617-396-5500](tel:+16173965500)\n- 🌐 [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n\n- **Pou pasyan ki fè kansè ki gen omwen 18 lane** ki gen randevou nan sant tretman pandan omwen 3 jou/semèn epi ki rete a yon distans de omwen 40 mil de Boston\n- 3 nwit minimòm · Medsen tretan dwe refere w · Fòk gen yon moun ki akonpaye w\n\n### American Cancer Society\n\nAmerican Cancer Society ofri opsyon anplis pou pasyan kansè yo ak fanmi yo (selon kondisyon ak disponibilite).\n\n- 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Gratis\n\nHEADstrong Foundation.\n\n- 275 Summit Ave, Brookline, MA 02135 — li a 4,5 mil de Mass General\n- 📞 [508-306-1409](tel:+15083061409)\n- 🌐 [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n- **Pou pasyan ki soufri kansè** e k ap resevwa tretman, epitou ki rete a yon distans de omwen 25 mil de Boston (ka gen eksepsyon)\n- Ofri èd transpò pou tretman · Nenpòt ki laj · 3 nwit minimòm · Moun nan dwe gen yon adrès pèmanan epitou fòk gen yon moun ki akonpaye li nan randevou yo\n- Aplikasyon: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 🌐 [hosp.org](https://hosp.org/)\n\n- Plizyè kote\n- Asosye pasyan yo ak swanyan ki rete omwen 50 mil distans de Boston avèk fanmi akèy volontè, apatman, oswa lojman ak rabè\n- Ekipman ak pri yo varye selon kote a · Aplikasyon disponib sou entènèt\n\n### Fisher House of Boston — Gratis\n\n- 📞 [508-728-8781](tel:+15087288781)\n- 🌐 [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n- **Lojman gratis akote lopital la pou fanmi militè** (pasyan oswa manm imedya fanmi ki te sèvi — Veteran, Aktif, Rezèv, Gad) ki abite plis pase 40 mil distans ak Boston epi k ap resevwa swen entène oswa tretman 3 fwa/semèn\n- Pa asosye ak VA (Afè Veteran yo)\n\n### Mariner's House\n\n- 11 North Square, Boston — a yon distans de 1,7 mil de Mass General\n- 📞 [617-227-3979](tel:+16172273979)\n- 🌐 [marinershouse.org](https://www.marinershouse.org/)\n\n- **$65–$130/nwit**\n- **Sèlman pou moun ki nan sèvis maritim aktif**, ki gen estati retrete nan la marin (fòk yo te aktif omwen 20 lane), oswa fanmi imedya yo\n- Dokiman pou pwouve sa obligatwa\n\n### Ronald McDonald House nan Boston Harbor\n\n- 250 1st Ave, Boston — a yon distans de 2,2 mil de Mass General\n- 📞 [617-398-6458](tel:+16173986458)\n\n- **$10 ki sijere kòm ofrann chak swa**\n- Pakin gratis · Transpò la navèt gratis\n- **Apatman prive pou fanmi pasyan pedyatri** ki abite omwen 40 mil distans de Mass General\n- Fòk medsen tretan refere w · Disponibilite limite, an jeneral gen yon lis datant\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — tou kole ak Mass General\n- 📞 [617-279-9077](tel:+16172799077)\n- 🌐 [christophershaven.org](https://christophershaven.org/)\n\n- **$50/nwit**\n- **Pou moun k ap resevwa yon minimòm 4–6 semèn tretman kansè pedyatrik pou pasyan ki nan konsiltasyon eksten**\n- Swanyan prensipal la dwe gen omwen 18 lane epi fòk li kapab pale Anglè\n\n## Otèl pou sejou pwolonje\n\n### Residence Inn by Marriott Boston Harbor nan Tudor Wharf\n\n- 34 Charles River Ave, Boston — a yon distans de 1,6 mil de Mass General\n- 📞 [617-242-9000](tel:+16172429000)\n- 🌐 [marriott.com/bostw](https://www.marriott.com/bostw)\n\nMande pou tarif pou pasyan\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — yon distans de 2 mil de Mass General\n- 📞 [617-349-0700](tel:+16173490700)\n- 🌐 [marriott.com/boscm](https://www.marriott.com/boscm)\n\nMete Corporate Rate: **P9H**\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a yon distans de 2,0 mil de Mass General\n- 📞 [617-478-0840](tel:+16174780840)\n- 🌐 [marriott.com/bosfp](https://www.marriott.com/bosfp)\n\nPou jwenn yon rabè **20%**, mande tarif Mass General\n\n## Apatman pou sejou ki kout\n\n*Pifò egzije yon minimòm sejou 30 jou. Disponibilite pakin ak tarif yo varye. Mass General sitiye nan katye West End Boston. Ou ka tcheke tou [Vrbo](https://www.vrbo.com) oswa [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — akote campus prensipal Mass General la\n- 📞 [617-948-9876](tel:+16179489876)\n- 🌐 [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- 🌐 [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- 📞 [617-939-6197](tel:+16179396197)\n- 🌐 [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- 🌐 [furnishedquarters.com](https://www.furnishedquarters.com)\n\n*Pou koreksyon nan lis la oswa mizajou, tanpri rele 📞 [617-724-0295](tel:+16177240295). — Depatman Travay Sosyal Klinik MGH*"
           }
         ]
       }
@@ -5437,11 +5560,52 @@
         "id": "mass_general_affiliated_facility_text",
         "type": "text",
         "markdown": {
-          "en": "*For Mass General patients and companions only.*\n\n### MGH at Beacon House\n\nSponsored by the Mass General Social Service Department.\n\n- 19 Myrtle St, Boston, MA 02114 — 5 blocks from MGH\n- 📞 [617-726-7679](tel:+16177267679)\n- Apartments with private bath/kitchen: **$82–$130/night**\n- Shared bath/kitchen: **$49–$66/night**\n- No on-site parking; parking discount available at MGH\n- Reservations hours: Monday–Friday, 9:00 am – 4:00 pm",
-          "es": "*Solo para pacientes y acompañantes de Mass General.*\n\n### MGH en Beacon House\n\nPatrocinado por el Departamento de Servicios Sociales de Mass General.\n\n- 19 Myrtle St, Boston, MA 02114 — a 5 cuadras del MGH\n- 📞 [617-726-7679](tel:+16177267679)\n- Apartamentos con baño y cocina privados: **$82–$130/noche**\n- Baños y cocinas compartidos: **$49–$66/noche**\n- No hay estacionamiento en el lugar; descuento disponible en Mass General\n- Horario de reservas: lunes a viernes, 9:00 am – 4:00 pm",
-          "zh-Hant": "*僅適用於麻省總醫院患者及陪護人。*\n\n### 麻省總醫院貝肯山莊 (MGH at Beacon House)\n\n麻省總醫院社會服務部贊助。\n\n- 19 Myrtle St, Boston, MA 02114 — 距離麻省總醫院 5 個街區\n- 📞 [617-726-7679](tel:+16177267679)\n- 具有獨立浴室及廚房的公寓:**每晚 $82–$130**\n- 共享浴室及廚房:**每晚 $49–$66**\n- 無現場停車位;麻省總醫院提供停車折扣\n- 預約時間:週一至週五,上午 9:00 – 下午 4:00",
-          "pt": "*Somente para pacientes e acompanhantes do Mass General.*\n\n### MGH no Beacon House\n\nPatrocinado pelo Departamento de Assistência Social do MGH.\n\n- 19 Myrtle St, Boston, MA 02114 — a 5 quadras do Mass General Hospital\n- 📞 [617-726-7679](tel:+16177267679)\n- Apartamentos com cozinha e banheiro próprios: **US$ 82 – US$ 130 por noite**\n- Cozinha e banheiro compartilhados: **US$ 49 – US$ 66 por noite**\n- Não há estacionamento no local; desconto disponível no Mass General\n- Horário para reservas: de segunda a sexta-feira, das 9h às 16h",
-          "ht": "*Pou pasyan ak konpayon Mass General yo sèlman.*\n\n### MGH nan Beacon House\n\nNou jwenn sipò nan men Depatman Sèvis Sosyal Mass General.\n\n- 19 Myrtle St, Boston, MA 02114 — a yon distans de 5 blòk de Mass General\n- 📞 [617-726-7679](tel:+16177267679)\n- Apatman ki gen twalèt ak kwizin prive: **$82–$130/nwit**\n- Twalèt ak kwizin ki pataje ak lòt moun: **$49–$66/nwit**\n- Pa gen pakin sou plas; rabè disponib pou pakin nan Mass General\n- Rezèvasyon ap fèt: Lendi–Vandredi, 9:00 am – 4:00 pm"
+          "en": "*For Mass General patients and companions only.*",
+          "es": "*Solo para pacientes y acompañantes de Mass General.*",
+          "zh-Hant": "*僅適用於麻省總醫院患者及陪護人。*",
+          "pt": "*Somente para pacientes e acompanhantes do Mass General.*",
+          "ht": "*Pou pasyan ak konpayon Mass General yo sèlman.*"
+        }
+      },
+      {
+        "id": "listing_tcdkbfx2",
+        "type": "listing",
+        "name": {
+          "en": "MGH at Beacon House",
+          "es": "MGH en Beacon House",
+          "pt": "MGH no Beacon House",
+          "ht": "MGH nan Beacon House",
+          "zh-Hant": "麻省總醫院貝肯山莊 (MGH at Beacon House)"
+        },
+        "address": {
+          "en": "19 Myrtle St, Boston, MA 02114"
+        },
+        "distance": {
+          "en": "5 blocks from MGH",
+          "es": "a 5 cuadras del MGH",
+          "pt": "a 5 quadras do Mass General Hospital",
+          "ht": "a yon distans de 5 blòk de Mass General",
+          "zh-Hant": "距離麻省總醫院 5 個街區"
+        },
+        "notes": {
+          "en": "Sponsored by the Mass General Social Service Department.",
+          "es": "Patrocinado por el Departamento de Servicios Sociales de Mass General.",
+          "pt": "Patrocinado pelo Departamento de Assistência Social do MGH.",
+          "ht": "Nou jwenn sipò nan men Depatman Sèvis Sosyal Mass General.",
+          "zh-Hant": "麻省總醫院社會服務部贊助。"
+        },
+        "phones": [
+          {
+            "id": "phone_1g24y0ui",
+            "number": "+16177267679"
+          }
+        ],
+        "details": {
+          "en": "- Apartments with private bath/kitchen: **$82–$130/night**\n- Shared bath/kitchen: **$49–$66/night**\n- No on-site parking; parking discount available at MGH\n- Reservations hours: Monday–Friday, 9:00 am – 4:00 pm",
+          "es": "- Apartamentos con baño y cocina privados: **$82–$130/noche**\n- Baños y cocinas compartidos: **$49–$66/noche**\n- No hay estacionamiento en el lugar; descuento disponible en Mass General\n- Horario de reservas: lunes a viernes, 9:00 am – 4:00 pm",
+          "pt": "- Apartamentos com cozinha e banheiro próprios: **US$ 82 – US$ 130 por noite**\n- Cozinha e banheiro compartilhados: **US$ 49 – US$ 66 por noite**\n- Não há estacionamento no local; desconto disponível no Mass General\n- Horário para reservas: de segunda a sexta-feira, das 9h às 16h",
+          "ht": "- Apatman ki gen twalèt ak kwizin prive: **$82–$130/nwit**\n- Twalèt ak kwizin ki pataje ak lòt moun: **$49–$66/nwit**\n- Pa gen pakin sou plas; rabè disponib pou pakin nan Mass General\n- Rezèvasyon ap fèt: Lendi–Vandredi, 9:00 am – 4:00 pm",
+          "zh-Hant": "- 具有獨立浴室及廚房的公寓:**每晚 $82–$130**\n- 共享浴室及廚房:**每晚 $49–$66**\n- 無現場停車位;麻省總醫院提供停車折扣\n- 預約時間:週一至週五,上午 9:00 – 下午 4:00"
         }
       },
       {
@@ -5459,11 +5623,536 @@
         "id": "area_hotels_with_medical_rates_text",
         "type": "text",
         "markdown": {
-          "en": "*Ask for the best available rate — which may not be the medical rate. Driving? Ask about parking fees.*\n\nFor more options, search [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), or Priceline. Try **Hoteltonight** for last-minute deals on a one-night stay.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — adjacent to MGH\n- 📞 [617-224-4019](tel:+16172244019) (main) · [866-961-3778](tel:+18669613778) (reservations)\n- Ask to book the medical rate\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — half a block from MGH\n- 📞 [617-742-7630](tel:+16177427630)\n- Ask to book the **Mass General rate**\n- [wyndham.com](https://www.wyndham.com)\n\n### The Whitney Hotel\n\n*Formerly John Jeffries House.*\n\n- 170 Charles St, Boston — a block from MGH\n- 📞 [617-367-1866](tel:+16173671866)\n- Special rate code: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — 0.6 miles from MGH\n- 📞 [617-624-0202](tel:+16176240202)\n- Special rate code: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — 0.7 miles from MGH; near shuttle\n- 📞 [617-720-5544](tel:+16177205544)\n- Book Mass General rate at [IndigoBoston.com](https://www.indigoboston.com) — click *Book Now* and enter **Corporate ID 100197376**\n\n### Courtyard by Marriott: Downtown / Tremont\n\n- 275 Tremont St, Boston — 0.8 miles from MGH\n- 📞 [617-426-1400](tel:+16174261400) (main) · [888-236-2427](tel:+18882362427) (reservations)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel in Boston\n\n- 161 Devonshire St, Boston, MA 02110 — 0.9 miles from MGH\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — 1.3 miles from MGH\n- 📞 [617-577-7600](tel:+16175777600)\n- Ask for the Mass General rate, code **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — 1.1 miles from MGH\n- 📞 [617-621-1999](tel:+16176211999)\n- Enter Corporate Rate Code: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — 2.4 miles from MGH\n- 📞 [617-628-1000](tel:+16176281000)\n- Ask for the Mass General rate, code **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — 2.9 miles from MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- Ask for the Mass General rate\n- [https://www.cambriaboston.com](https://www.cambriaboston.com)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — 3.2 miles from MGH\n- 📞 [617-236-1100](tel:+16172361100)\n- Ask to book the Mass General rate\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)",
-          "es": "*Pregunte por la mejor tarifa disponible — podría no ser la tarifa médica. ¿En automóvil? Consulte los honorarios de estacionamiento.*\n\nPara más opciones, busque en [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), o Priceline. Visite **Hoteltonight** para ofertas de último momento para estadías de una noche.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — al lado del MGH\n- 📞 [617-224-4019](tel:+16172244019) (central) · [866-961-3778](tel:+18669613778) (reservas)\n- Pida reservar con tarifa médica\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a media cuadra del MGH\n- 📞 [617-742-7630](tel:+16177427630)\n- Pida reservar con la **tarifa de Mass General**\n- [wyndham.com](https://www.wyndham.com)\n\n### The Whitney Hotel\n\n*Antes llamado John Jeffries House.*\n\n- 170 Charles St, Boston — a una cuadra del MGH\n- 📞 [617-367-1866](tel:+16173671866)\n- Código de tarifa especial: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — a 0,6 millas del MGH\n- 📞 [617-624-0202](tel:+16176240202)\n- Código de tarifa especial: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a 0,7 millas del MGH; próximo al centro de trasbordo\n- 📞 [617-720-5544](tel:+16177205544)\n- Reserve la tarifa Mass General en [IndigoBoston.com](https://www.indigoboston.com) — haga clic en *Book Now* e ingrese **Corporate ID 100197376**\n\n### Courtyard by Marriott: Downtown / Tremont\n\n- 275 Tremont St, Boston — a 0,8 millas del MGH\n- 📞 [617-426-1400](tel:+16174261400) (central) · [888-236-2427](tel:+18882362427) (reservas)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel en Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a 0,9 millas del MGH\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express y Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a 1,3 millas del MGH\n- 📞 [617-577-7600](tel:+16175777600)\n- Pida la tarifa de Mass General, código **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a 1,1 millas del MGH\n- 📞 [617-621-1999](tel:+16176211999)\n- Ingrese el Corporate Rate Code: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 millas del MGH\n- 📞 [617-628-1000](tel:+16176281000)\n- Pida la tarifa de Mass General, código **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Cambria Hotel Boston, Downtown–South Boston\n\n- 6 West Broadway, Boston — a 2,9 millas del MGH\n- 📞 [617-752-6681](tel:+16177526681)\n- Pida la tarifa de Mass General\n- [https://www.cambriaboston.com](https://www.cambriaboston.com)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a 3,2 millas del MGH\n- 📞 [617-236-1100](tel:+16172361100)\n- Pida reservar con la tarifa de Mass General\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)",
-          "zh-Hant": "*請詢問最佳價格 — 可能不是醫療優惠價格。是否開車?請詢問停車費用。*\n\n更多選擇,請搜尋 [Booking.com](https://www.booking.com)、[Hotels.com](https://www.hotels.com),或 Priceline。如需一晚住宿,可以試試 **Hoteltonight** 的即時優惠。\n\n### 自由酒店 (Liberty Hotel)\n\n- 215 Charles St, Boston — 鄰近麻省總醫院\n- 📞 [617-224-4019](tel:+16172244019) (總機) · [866-961-3778](tel:+18669613778) (預約)\n- 請詢問預約醫療優惠價\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### 溫德姆波士頓筆架山酒店 (Wyndham Boston Beacon Hill)\n\n- 5 Blossom St, Boston — 距離麻省總醫院半個街區\n- 📞 [617-742-7630](tel:+16177427630)\n- 請詢問**麻省總醫院的優惠價**\n- [wyndham.com](https://www.wyndham.com)\n\n### 惠特尼飯店 (The Whitney Hotel)\n\n*原名約翰傑弗里斯之家 (John Jeffries House)。*\n\n- 170 Charles St, Boston — 距離麻省總醫院 1 個街區\n- 📞 [617-367-1866](tel:+16173671866)\n- 優惠碼:**MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### 拳手飯店 (The Boxer Hotel)\n\n- 107 Merrimac Street, Boston — 距離麻省總醫院約 0.6 英里\n- 📞 [617-624-0202](tel:+16176240202)\n- 優惠碼:**MG16**\n- [https://www.eurostarshotels.us/eurostars-the-boxer.html](https://www.eurostarshotels.us/eurostars-the-boxer.html)\n\n### 波士頓花園酒店 (Hotel Indigo Boston Garden)\n\n- 280 Friend St, Boston — 距離麻省總醫院約 0.7 英里;附近有接駁車\n- 📞 [617-720-5544](tel:+16177205544)\n- 預約麻省總醫院優惠 [IndigoBoston.com](https://www.indigoboston.com) — 點擊「立即預約」並輸入**企業識別碼 100197376**\n\n### 萬豪旗下萬怡酒店:市中心／特倫特\n\n- 275 Tremont St, Boston — 距離麻省總醫院約 0.8 英里\n- 📞 [617-426-1400](tel:+16174261400) (總機) · [888-236-2427](tel:+18882362427) (預約)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### 波士頓俱樂部會所酒店 (Club Quarters Hotel)\n\n- 161 Devonshire Street, Boston, MA 02110 — 距離麻省總醫院約 0.9 英里\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### 波士頓-劍橋假日酒店 (Holiday Inn Express)\n\n- 250 Monsignor O'Brien Highway, Cambridge — 距離麻省總醫院約 1.3 英里\n- 📞 [617-577-7600](tel:+16175777600)\n- 請詢問麻省總醫院的優惠價,代碼**「IL7MG」**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### 費爾菲爾德酒店 - 波士頓／劍橋\n\n- 215 Monsignor O'Brien Highway, Cambridge — 距離麻省總醫院約 1.1 英里\n- 📞 [617-621-1999](tel:+16176211999)\n- 請輸入企業優惠代碼:**P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### 波士頓邦克山假日酒店 (Holiday Inn Boston–Cambridge Area)\n\n- 30 Washington St, Somerville — 距離麻省總醫院約 2.4 英里;免費接駁\n- 📞 [617-628-1000](tel:+16176281000)\n- 請詢問麻省總醫院的優惠價,代碼**「IL7MG」**\n- [bunkerhillbostonhotel.com](https://www.bunkerhillbostonhotel.com)\n\n### 波士頓後灣希爾頓酒店 (Hilton Boston Back Bay)\n\n- 40 Dalton St, Boston — 距離麻省總醫院約 3.2 英里\n- 📞 [617-236-1100](tel:+16172361100)\n- 請詢問麻省總醫院的優惠價\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)",
-          "pt": "*Peça pela melhor tarifa disponível — que pode não ser a tarifa médica. Está de carro? Pergunte pelas taxas de estacionamento.*\n\nMais opções: busque na internet ou tente [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), ou Priceline. Para ofertas de última hora em uma noite, acesse **Hoteltonight**.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — rua adjacente ao Mass General\n- 📞 [617-224-4019](tel:+16172244019) (principal) · [866-961-3778](tel:+18669613778) (reservas)\n- Peça pela tarifa médica\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a meia quadra do Mass General\n- 📞 [617-742-7630](tel:+16177427630)\n- Peça pela **tarifa do Mass General**\n- [wyndham.com](https://www.wyndham.com)\n\n### O Whitney Hotel\n\n*Antigo John Jeffries House.*\n\n- 170 Charles St, Boston — a uma quadra do Mass General\n- 📞 [617-367-1866](tel:+16173671866)\n- Código para tarifa especial: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars O Boxer\n\n- 107 Merrimac St, Boston — a 0,6 milha do Mass General\n- 📞 [617-624-0202](tel:+16176240202)\n- Código para tarifa especial: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a 0,7 milha do Mass General; próximo da estação de ônibus\n- 📞 [617-720-5544](tel:+16177205544)\n- Tarifa de reserva para Mass General em [IndigoBoston.com](https://www.indigoboston.com) — clique em *Book Now* e insira o **ID Corporativo 100197376**\n\n### Courtyard by Marriott: Centro / Tremont\n\n- 275 Tremont St, Boston — a 0,8 milha do Mass General\n- 📞 [617-426-1400](tel:+16174261400) (principal) · [888-236-2427](tel:+18882362427) (reservas)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel em Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a 0,9 milha do Mass General Hospital\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a 1,3 milha do Mass General\n- 📞 [617-577-7600](tel:+16175777600)\n- Peça pela tarifa do Mass General, código **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a 1,1 milha do Mass General\n- 📞 [617-621-1999](tel:+16176211999)\n- Digite o código corporativo: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 milhas do Mass General\n- 📞 [617-628-1000](tel:+16176281000)\n- Peça pela tarifa do Mass General, código **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a 3,2 milhas do Mass General\n- 📞 [617-236-1100](tel:+16172361100)\n- Peça pela tarifa médica Mass General\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)",
-          "ht": "*Mande pi bon tarif ki disponib — ki gen dwa pa tarif pou pasyan an. W ap kondwi? Mande enfòmasyon sou pri pakin.*\n\nPlis opsyon: chèche sou entènèt oswa eseye [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), oswa Priceline. Eseye **Hoteltonight** pou rabè a la dènye minit pou pase yon sèl nwit.\n\n### Liberty Hotel\n\n- 215 Charles St, Boston — tou kole ak Mass General\n- 📞 [617-224-4019](tel:+16172244019) (prensipal) · [866-961-3778](tel:+18669613778) (rezèvasyon)\n- Mande tarif pou pasyan Mass General\n- [libertyhotel.com](https://libertyhotel.com/)\n\n### Wyndham Boston Beacon Hill\n\n- 5 Blossom St, Boston — a yon distans de demi-blòk de Mass General\n- 📞 [617-742-7630](tel:+16177427630)\n- Mande **tarif Mass General la**\n- [wyndham.com](https://www.wyndham.com)\n\n### The Whitney Hotel\n\n*Ansyen John Jeffries House.*\n\n- 170 Charles St, Boston — a yon blòk de distans de Mass General\n- 📞 [617-367-1866](tel:+16173671866)\n- Kòd pou tarif espesyal: **MGH**\n- [whitneyhotelboston.com](https://www.whitneyhotelboston.com)\n\n### Eurostars The Boxer\n\n- 107 Merrimac St, Boston — a yon distans de 0,6 mil de Mass General\n- 📞 [617-624-0202](tel:+16176240202)\n- Kòd pou tarif espesyal: **MG16**\n- [eurostarshotels.co.uk/eurostars-the-boxer.html](https://www.eurostarshotels.co.uk/eurostars-the-boxer.html)\n\n### Hotel Indigo Boston Garden\n\n- 280 Friend St, Boston — a yon distans de 0,7 mil de Mass General; bis ki fè la navèt tou pre\n- 📞 [617-720-5544](tel:+16177205544)\n- Mande tarif Mass General la nan [IndigoBoston.com](https://www.indigoboston.com) — klike sou *Book Now* epi mete **Corporate ID 100197376**\n\n### Courtyard by Marriott: Lavil / Tremont\n\n- 275 Tremont St, Boston — a yon distans de 0,8 mil de Mass General\n- 📞 [617-426-1400](tel:+16174261400) (prensipal) · [888-236-2427](tel:+18882362427) (rezèvasyon)\n- [marriott.com/bosdm](https://www.marriott.com/bosdm)\n\n### Club Quarters Hotel nan Boston\n\n- 161 Devonshire St, Boston, MA 02110 — a yon distans de 0,9 mil de Mass General Hospital\n- 📞 [617-357-6400](tel:+16173576400)\n- [clubquartershotels.com/boston/faneuil-hall](https://www.clubquartershotels.com/boston/faneuil-hall)\n\n### Holiday Inn Express and Suites, Boston–Cambridge\n\n- 250 Monsignor O'Brien Highway, Cambridge — a yon distans de 1,3 mil de Mass General\n- 📞 [617-577-7600](tel:+16175777600)\n- Mande pou tarif Mass General la, kòd **IL7MG**\n- [hiexpress.com](https://www.hiexpress.com)\n\n### Fairfield Inn & Suites Boston Cambridge\n\n- 215 Monsignor O'Brien Highway, Cambridge — a yon distans de 1,1 mil de Mass General\n- 📞 [617-621-1999](tel:+16176211999)\n- Mete Corporate Code: **P9H**\n- [marriott.com/bosbg](https://www.marriott.com/bosbg)\n\n### Holiday Inn Boston–Cambridge Area\n\n- 30 Washington St, Somerville — a 2,4 mil distans de Mass General\n- 📞 [617-628-1000](tel:+16176281000)\n- Mande pou tarif Mass General la, kòd **IL7MG**\n- [holidayinn.com/somervillema](https://www.holidayinn.com/somervillema)\n\n### Hilton Boston Back Bay\n\n- 40 Dalton St, Boston — a yon distans de 3,2 mil de Mass General\n- 📞 [617-236-1100](tel:+16172361100)\n- Mande pou tarif Mass General la\n- [hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay](https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/)"
+          "en": "*Ask for the best available rate — which may not be the medical rate. Driving? Ask about parking fees.*\n\nFor more options, search [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), or Priceline. Try **Hoteltonight** for last-minute deals on a one-night stay.",
+          "es": "*Pregunte por la mejor tarifa disponible — podría no ser la tarifa médica. ¿En automóvil? Consulte los honorarios de estacionamiento.*\n\nPara más opciones, busque en [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), o Priceline. Visite **Hoteltonight** para ofertas de último momento para estadías de una noche.",
+          "zh-Hant": "*請詢問最佳價格 — 可能不是醫療優惠價格。是否開車?請詢問停車費用。*\n\n更多選擇,請搜尋 [Booking.com](https://www.booking.com)、[Hotels.com](https://www.hotels.com),或 Priceline。如需一晚住宿,可以試試 **Hoteltonight** 的即時優惠。",
+          "pt": "*Peça pela melhor tarifa disponível — que pode não ser a tarifa médica. Está de carro? Pergunte pelas taxas de estacionamento.*\n\nMais opções: busque na internet ou tente [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), ou Priceline. Para ofertas de última hora em uma noite, acesse **Hoteltonight**.",
+          "ht": "*Mande pi bon tarif ki disponib — ki gen dwa pa tarif pou pasyan an. W ap kondwi? Mande enfòmasyon sou pri pakin.*\n\nPlis opsyon: chèche sou entènèt oswa eseye [Booking.com](https://www.booking.com), [Hotels.com](https://www.hotels.com), oswa Priceline. Eseye **Hoteltonight** pou rabè a la dènye minit pou pase yon sèl nwit."
+        }
+      },
+      {
+        "id": "listing_ziypn5ew",
+        "type": "listing",
+        "name": {
+          "en": "Liberty Hotel",
+          "es": "Liberty Hotel",
+          "pt": "Liberty Hotel",
+          "ht": "Liberty Hotel",
+          "zh-Hant": "自由酒店 (Liberty Hotel)"
+        },
+        "address": {
+          "en": "215 Charles St, Boston"
+        },
+        "distance": {
+          "en": "adjacent to MGH",
+          "es": "al lado del MGH",
+          "pt": "rua adjacente ao Mass General",
+          "ht": "tou kole ak Mass General",
+          "zh-Hant": "鄰近麻省總醫院"
+        },
+        "phones": [
+          {
+            "id": "phone_vjnkwlzp",
+            "number": "+16172244019",
+            "label": {
+              "en": "Main",
+              "es": "Central",
+              "pt": "Principal",
+              "ht": "Prensipal",
+              "zh-Hant": "總機"
+            }
+          },
+          {
+            "id": "phone_wkgzs0df",
+            "number": "+18669613778",
+            "label": {
+              "en": "Reservations",
+              "es": "Reservas",
+              "pt": "Reservas",
+              "ht": "Rezèvasyon",
+              "zh-Hant": "預約"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_x2my0di5",
+            "url": {
+              "en": "https://libertyhotel.com/"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask to book the medical rate",
+          "es": "Pida reservar con tarifa médica",
+          "pt": "Peça pela tarifa médica",
+          "ht": "Mande tarif pou pasyan Mass General",
+          "zh-Hant": "請詢問預約醫療優惠價"
+        }
+      },
+      {
+        "id": "listing_b1dwnan4",
+        "type": "listing",
+        "name": {
+          "en": "Wyndham Boston Beacon Hill",
+          "es": "Wyndham Boston Beacon Hill",
+          "pt": "Wyndham Boston Beacon Hill",
+          "ht": "Wyndham Boston Beacon Hill",
+          "zh-Hant": "溫德姆波士頓筆架山酒店 (Wyndham Boston Beacon Hill)"
+        },
+        "address": {
+          "en": "5 Blossom St, Boston"
+        },
+        "distance": {
+          "en": "half a block from MGH",
+          "es": "a media cuadra del MGH",
+          "pt": "a meia quadra do Mass General",
+          "ht": "a yon distans de demi-blòk de Mass General",
+          "zh-Hant": "距離麻省總醫院半個街區"
+        },
+        "phones": [
+          {
+            "id": "phone_c7b9d87t",
+            "number": "+16177427630"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_2baeb805",
+            "url": {
+              "en": "https://www.wyndham.com"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask to book the **Mass General rate**",
+          "es": "Pida reservar con la **tarifa de Mass General**",
+          "pt": "Peça pela **tarifa do Mass General**",
+          "ht": "Mande **tarif Mass General la**",
+          "zh-Hant": "請詢問**麻省總醫院的優惠價**"
+        }
+      },
+      {
+        "id": "listing_q6a5hxxg",
+        "type": "listing",
+        "name": {
+          "en": "The Whitney Hotel",
+          "es": "The Whitney Hotel",
+          "pt": "O Whitney Hotel",
+          "ht": "The Whitney Hotel",
+          "zh-Hant": "惠特尼飯店 (The Whitney Hotel)"
+        },
+        "address": {
+          "en": "170 Charles St, Boston"
+        },
+        "distance": {
+          "en": "a block from MGH",
+          "es": "a una cuadra del MGH",
+          "pt": "a uma quadra do Mass General",
+          "ht": "a yon blòk de distans de Mass General",
+          "zh-Hant": "距離麻省總醫院 1 個街區"
+        },
+        "notes": {
+          "en": "*Formerly John Jeffries House.*",
+          "es": "*Antes llamado John Jeffries House.*",
+          "pt": "*Antigo John Jeffries House.*",
+          "ht": "*Ansyen John Jeffries House.*",
+          "zh-Hant": "*原名約翰傑弗里斯之家 (John Jeffries House)。*"
+        },
+        "phones": [
+          {
+            "id": "phone_mdrmjfpc",
+            "number": "+16173671866"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_0pz9fnqj",
+            "url": {
+              "en": "https://www.whitneyhotelboston.com"
+            }
+          }
+        ],
+        "details": {
+          "en": "Special rate code: **MGH**",
+          "es": "Código de tarifa especial: **MGH**",
+          "pt": "Código para tarifa especial: **MGH**",
+          "ht": "Kòd pou tarif espesyal: **MGH**",
+          "zh-Hant": "優惠碼:**MGH**"
+        }
+      },
+      {
+        "id": "listing_hw9fi1ul",
+        "type": "listing",
+        "name": {
+          "en": "Eurostars The Boxer",
+          "es": "Eurostars The Boxer",
+          "pt": "Eurostars O Boxer",
+          "ht": "Eurostars The Boxer",
+          "zh-Hant": "拳手飯店 (The Boxer Hotel)"
+        },
+        "address": {
+          "en": "107 Merrimac St, Boston"
+        },
+        "distance": {
+          "en": "0.6 miles from MGH",
+          "es": "a 0,6 millas del MGH",
+          "pt": "a 0,6 milha do Mass General",
+          "ht": "a yon distans de 0,6 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 0.6 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_gov2cqaz",
+            "number": "+16176240202"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_i50lljj7",
+            "url": {
+              "en": "https://www.eurostarshotels.co.uk/eurostars-the-boxer.html"
+            }
+          }
+        ],
+        "details": {
+          "en": "Special rate code: **MG16**",
+          "es": "Código de tarifa especial: **MG16**",
+          "pt": "Código para tarifa especial: **MG16**",
+          "ht": "Kòd pou tarif espesyal: **MG16**",
+          "zh-Hant": "優惠碼:**MG16**"
+        }
+      },
+      {
+        "id": "listing_yd3l6jxy",
+        "type": "listing",
+        "name": {
+          "en": "Hotel Indigo Boston Garden",
+          "es": "Hotel Indigo Boston Garden",
+          "pt": "Hotel Indigo Boston Garden",
+          "ht": "Hotel Indigo Boston Garden",
+          "zh-Hant": "波士頓花園酒店 (Hotel Indigo Boston Garden)"
+        },
+        "address": {
+          "en": "280 Friend St, Boston"
+        },
+        "distance": {
+          "en": "0.7 miles from MGH; near shuttle",
+          "es": "a 0,7 millas del MGH; próximo al centro de trasbordo",
+          "pt": "a 0,7 milha do Mass General; próximo da estação de ônibus",
+          "ht": "a yon distans de 0,7 mil de Mass General; bis ki fè la navèt tou pre",
+          "zh-Hant": "距離麻省總醫院約 0.7 英里;附近有接駁車"
+        },
+        "phones": [
+          {
+            "id": "phone_dlcv1zqe",
+            "number": "+16177205544"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_h8ca5yy1",
+            "url": {
+              "en": "https://www.indigoboston.com"
+            }
+          }
+        ],
+        "details": {
+          "en": "Book Mass General rate at [IndigoBoston.com](https://www.indigoboston.com) — click *Book Now* and enter **Corporate ID 100197376**",
+          "es": "Reserve la tarifa Mass General en [IndigoBoston.com](https://www.indigoboston.com) — haga clic en *Book Now* e ingrese **Corporate ID 100197376**",
+          "pt": "Tarifa de reserva para Mass General em [IndigoBoston.com](https://www.indigoboston.com) — clique em *Book Now* e insira o **ID Corporativo 100197376**",
+          "ht": "Mande tarif Mass General la nan [IndigoBoston.com](https://www.indigoboston.com) — klike sou *Book Now* epi mete **Corporate ID 100197376**",
+          "zh-Hant": "預約麻省總醫院優惠 [IndigoBoston.com](https://www.indigoboston.com) — 點擊「立即預約」並輸入**企業識別碼 100197376**"
+        }
+      },
+      {
+        "id": "listing_9d084szc",
+        "type": "listing",
+        "name": {
+          "en": "Courtyard by Marriott: Downtown / Tremont",
+          "es": "Courtyard by Marriott: Downtown / Tremont",
+          "pt": "Courtyard by Marriott: Centro / Tremont",
+          "ht": "Courtyard by Marriott: Lavil / Tremont",
+          "zh-Hant": "萬豪旗下萬怡酒店:市中心／特倫特"
+        },
+        "address": {
+          "en": "275 Tremont St, Boston"
+        },
+        "distance": {
+          "en": "0.8 miles from MGH",
+          "es": "a 0,8 millas del MGH",
+          "pt": "a 0,8 milha do Mass General",
+          "ht": "a yon distans de 0,8 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 0.8 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_5wzsuqzy",
+            "number": "+16174261400",
+            "label": {
+              "en": "Main",
+              "es": "Central",
+              "pt": "Principal",
+              "ht": "Prensipal",
+              "zh-Hant": "總機"
+            }
+          },
+          {
+            "id": "phone_bpjdvn5t",
+            "number": "+18882362427",
+            "label": {
+              "en": "Reservations",
+              "es": "Reservas",
+              "pt": "Reservas",
+              "ht": "Rezèvasyon",
+              "zh-Hant": "預約"
+            }
+          }
+        ],
+        "links": [
+          {
+            "id": "link_ehi562gp",
+            "url": {
+              "en": "https://www.marriott.com/bosdm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_weudjrkb",
+        "type": "listing",
+        "name": {
+          "en": "Club Quarters Hotel in Boston",
+          "es": "Club Quarters Hotel en Boston",
+          "pt": "Club Quarters Hotel em Boston",
+          "ht": "Club Quarters Hotel nan Boston",
+          "zh-Hant": "波士頓俱樂部會所酒店 (Club Quarters Hotel)"
+        },
+        "address": {
+          "en": "161 Devonshire St, Boston, MA 02110",
+          "zh-Hant": "161 Devonshire Street, Boston, MA 02110"
+        },
+        "distance": {
+          "en": "0.9 miles from MGH",
+          "es": "a 0,9 millas del MGH",
+          "pt": "a 0,9 milha do Mass General Hospital",
+          "ht": "a yon distans de 0,9 mil de Mass General Hospital",
+          "zh-Hant": "距離麻省總醫院約 0.9 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_vv97qpnn",
+            "number": "+16173576400"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_pxyq7osn",
+            "url": {
+              "en": "https://www.clubquartershotels.com/boston/faneuil-hall"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_akgaeil7",
+        "type": "listing",
+        "name": {
+          "en": "Holiday Inn Express and Suites, Boston–Cambridge",
+          "es": "Holiday Inn Express y Suites, Boston–Cambridge",
+          "pt": "Holiday Inn Express and Suites, Boston–Cambridge",
+          "ht": "Holiday Inn Express and Suites, Boston–Cambridge",
+          "zh-Hant": "波士頓-劍橋假日酒店 (Holiday Inn Express)"
+        },
+        "address": {
+          "en": "250 Monsignor O'Brien Highway, Cambridge"
+        },
+        "distance": {
+          "en": "1.3 miles from MGH",
+          "es": "a 1,3 millas del MGH",
+          "pt": "a 1,3 milha do Mass General",
+          "ht": "a yon distans de 1,3 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 1.3 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_1c5b5nzw",
+            "number": "+16175777600"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_3aa9m2gc",
+            "url": {
+              "en": "https://www.hiexpress.com"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask for the Mass General rate, code **IL7MG**",
+          "es": "Pida la tarifa de Mass General, código **IL7MG**",
+          "pt": "Peça pela tarifa do Mass General, código **IL7MG**",
+          "ht": "Mande pou tarif Mass General la, kòd **IL7MG**",
+          "zh-Hant": "請詢問麻省總醫院的優惠價,代碼**「IL7MG」**"
+        }
+      },
+      {
+        "id": "listing_se2ajcos",
+        "type": "listing",
+        "name": {
+          "en": "Fairfield Inn & Suites Boston Cambridge",
+          "es": "Fairfield Inn & Suites Boston Cambridge",
+          "pt": "Fairfield Inn & Suites Boston Cambridge",
+          "ht": "Fairfield Inn & Suites Boston Cambridge",
+          "zh-Hant": "費爾菲爾德酒店 - 波士頓／劍橋"
+        },
+        "address": {
+          "en": "215 Monsignor O'Brien Highway, Cambridge"
+        },
+        "distance": {
+          "en": "1.1 miles from MGH",
+          "es": "a 1,1 millas del MGH",
+          "pt": "a 1,1 milha do Mass General",
+          "ht": "a yon distans de 1,1 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 1.1 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_zb1fdu4t",
+            "number": "+16176211999"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_dcglpxge",
+            "url": {
+              "en": "https://www.marriott.com/bosbg"
+            }
+          }
+        ],
+        "details": {
+          "en": "Enter Corporate Rate Code: **P9H**",
+          "es": "Ingrese el Corporate Rate Code: **P9H**",
+          "pt": "Digite o código corporativo: **P9H**",
+          "ht": "Mete Corporate Code: **P9H**",
+          "zh-Hant": "請輸入企業優惠代碼:**P9H**"
+        }
+      },
+      {
+        "id": "listing_vl8ljh0d",
+        "type": "listing",
+        "name": {
+          "en": "Holiday Inn Boston–Cambridge Area",
+          "es": "Holiday Inn Boston–Cambridge Area",
+          "pt": "Holiday Inn Boston–Cambridge Area",
+          "ht": "Holiday Inn Boston–Cambridge Area",
+          "zh-Hant": "波士頓邦克山假日酒店 (Holiday Inn Boston–Cambridge Area)"
+        },
+        "address": {
+          "en": "30 Washington St, Somerville"
+        },
+        "distance": {
+          "en": "2.4 miles from MGH",
+          "es": "a 2,4 millas del MGH",
+          "pt": "a 2,4 milhas do Mass General",
+          "ht": "a 2,4 mil distans de Mass General",
+          "zh-Hant": "距離麻省總醫院約 2.4 英里;免費接駁"
+        },
+        "phones": [
+          {
+            "id": "phone_uhszx87v",
+            "number": "+16176281000"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_dizx3nkk",
+            "url": {
+              "en": "https://www.holidayinn.com/somervillema"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask for the Mass General rate, code **IL7MG**",
+          "es": "Pida la tarifa de Mass General, código **IL7MG**",
+          "pt": "Peça pela tarifa do Mass General, código **IL7MG**",
+          "ht": "Mande pou tarif Mass General la, kòd **IL7MG**",
+          "zh-Hant": "請詢問麻省總醫院的優惠價,代碼**「IL7MG」**"
+        }
+      },
+      {
+        "id": "listing_5s7egwvw",
+        "type": "listing",
+        "name": {
+          "en": "Cambria Hotel Boston, Downtown–South Boston",
+          "es": "Cambria Hotel Boston, Downtown–South Boston"
+        },
+        "address": {
+          "en": "6 West Broadway, Boston"
+        },
+        "distance": {
+          "en": "2.9 miles from MGH",
+          "es": "a 2,9 millas del MGH"
+        },
+        "phones": [
+          {
+            "id": "phone_udccnkrp",
+            "number": "+16177526681"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_i5m1206g",
+            "url": {
+              "en": "https://www.cambriaboston.com"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask for the Mass General rate",
+          "es": "Pida la tarifa de Mass General"
+        }
+      },
+      {
+        "id": "listing_o95o8b6z",
+        "type": "listing",
+        "name": {
+          "en": "Hilton Boston Back Bay",
+          "es": "Hilton Boston Back Bay",
+          "pt": "Hilton Boston Back Bay",
+          "ht": "Hilton Boston Back Bay",
+          "zh-Hant": "波士頓後灣希爾頓酒店 (Hilton Boston Back Bay)"
+        },
+        "address": {
+          "en": "40 Dalton St, Boston"
+        },
+        "distance": {
+          "en": "3.2 miles from MGH",
+          "es": "a 3,2 millas del MGH",
+          "pt": "a 3,2 milhas do Mass General",
+          "ht": "a yon distans de 3,2 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 3.2 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_25dokxg0",
+            "number": "+16172361100"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_zhjgpi91",
+            "url": {
+              "en": "https://www.hilton.com/en/hotels/bosbhhh-hilton-boston-back-bay/"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask to book the Mass General rate",
+          "es": "Pida reservar con la tarifa de Mass General",
+          "pt": "Peça pela tarifa médica Mass General",
+          "ht": "Mande pou tarif Mass General la",
+          "zh-Hant": "請詢問麻省總醫院的優惠價"
         }
       },
       {
@@ -5481,11 +6170,315 @@
         "id": "specialized_accommodations_text",
         "type": "text",
         "markdown": {
-          "en": "*See specific eligibility requirements by facility.*\n\n### Hope Lodge: Boston — No Fee\n\nAmerican Cancer Society.\n\n- 125 S. Huntington Ave, Jamaica Plain — 3.8 miles from MGH\n- 📞 [617-396-5500](tel:+16173965500)\n- **For cancer patients 18+** who have treatment center appointments at least 3 days/week and live 40+ miles from Boston\n- 3-night minimum · Provider referral required · Requires accompanying caregiver\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- For additional cancer-patient options, call American Cancer Society: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — No Fee\n\nHEADstrong Foundation.\n\n- 275 Summit Ave, Brookline, MA 02135 — 4.5 miles from MGH\n- 📞 [508-306-1409](tel:+15083061409)\n- **For cancer patients** undergoing cancer treatment who live 25+ miles from Boston (exceptions possible), and/or their caregivers\n- Offers treatment transportation assist · All ages · 3-night minimum · Must have a permanent address and accompanying caregiver\n- Apply: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Multiple locations\n- Matches patients and their caregivers (who live at least 50 miles from Boston) with volunteer host families, apartments, or discounted accommodations\n- Amenities and prices vary by location · Application available online\n- [hosp.org](https://hosp.org/)\n\n### Fisher House of Boston — Free\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **Free hotel room for military families** (patient or immediate family member having served — Veteran, Active, Reserve, Guard) living 40+ miles from the hospital and receiving inpatient care or treatments 3×/week\n- Not VA-affiliated\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — 1.7 miles from MGH\n- 📞 [617-227-3979](tel:+16172273979)\n- **$65–$130/night**\n- **Only for those in active maritime service**, with maritime retiree status (must have served at least 20 years), or their immediate families\n- Documentation required\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House at Boston Harbor\n\n- 250 1st Ave, Boston — 2.2 miles from MGH\n- 📞 [617-398-6458](tel:+16173986458)\n- **$10/night suggested donation**\n- Free parking · Free shuttle\n- **Private apartments for families of pediatric patients** who live at least 40 miles from MGH\n- Requires medical provider referral · Limited availability, typically has a waitlist\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — adjacent to MGH\n- 📞 [617-279-9077](tel:+16172799077)\n- **$50/night**\n- **For those receiving a minimum of 4–6 weeks outpatient pediatric cancer treatment**\n- Primary caregiver must be at least 18 and able to communicate in English\n- Contact Glennys Acosta, Family Services Manager: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)",
-          "es": "*Vea los requisitos de elegibilidad de cada centro.*\n\n### Hope Lodge: Boston — Sin cargo\n\nAmerican Cancer Society.\n\n> Si usted y su cuidador no hablan inglés, contacte a su trabajador social. Puede haber otras opciones disponibles.\n\n- 125 S. Huntington Ave, Jamaica Plain — a 3,8 millas del MGH\n- 📞 [617-396-5500](tel:+16173965500)\n- **Para pacientes con cáncer mayores de 18 años** que tienen citas programadas en un centro de tratamiento al menos 3 días a la semana y viven a más de 40 millas de Boston\n- Mínimo 3 noches · Requiere remisión del proveedor · Requiere acompañamiento de un cuidador\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- Para opciones adicionales para pacientes con cáncer, llame a American Cancer Society: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Sin cargo\n\nFundación HEADstrong.\n\n- 275 Summit Ave, Brookline, MA 02135 — a 4,5 millas del MGH\n- 📞 [508-306-1409](tel:+15083061409)\n- **Para pacientes con cáncer** que se someten a tratamiento oncológico y viven a 25+ millas de Boston (excepciones son consideradas), y/o sus cuidadores\n- Mínimo 3 noches · Debe tener una dirección permanente y un cuidador acompañante\n- Solicitud: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Múltiples ubicaciones\n- Para pacientes y asistentes de cuidados que vivan a al menos 50 millas de Boston, con familias anfitrionas voluntarias o en apartamentos o alojamientos con descuento\n- Los servicios y precios varían según la ubicación · Solicitud disponible en línea\n- [hosp.org](https://hosp.org/)\n\n### Fisher House of Boston — Sin cargo\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **Habitación de hotel sin cargo para familias de militares** (paciente o familiar inmediato que haya prestado servicio — Veterano, en servicio activo, en la reserva, en la guardia) que vivan a 40 millas o más del hospital y cuyo familiar está hospitalizado o recibe tratamiento 3 veces por semana\n- No está asociado con la VA (Administración de Veteranos)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — a 1,7 millas del MGH\n- 📞 [617-227-3979](tel:+16172273979)\n- **$65–$130/noche**\n- **Solo para personas activas en servicio marítimo**, en estado de jubilación marítima (debe haber servido al menos 20 años), o familiares directos\n- Documentación requerida\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House en Boston Harbor\n\n> Si no habla inglés, debe contratar un traductor. Comuníquese con su trabajador social para obtener más información.\n\n- 250 1st Ave, Boston — a 2,2 millas del MGH\n- 📞 [617-398-6458](tel:+16173986458)\n- **Donación sugerida: $10/noche**\n- Estacionamiento sin cargo · Trasbordo sin cargo\n- **Apartamentos privados para familias con pacientes pediátricos** que viven a al menos 40 millas del MGH\n- Requiere remisión de un proveedor médico · Disponibilidad limitada, en general con lista de espera\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — al lado del MGH\n- 📞 [617-279-9077](tel:+16172799077)\n- **$50/noche**\n- **Para quienes reciben un tratamiento por cáncer pediátrico ambulatorio por un mínimo de 4 a 6 semanas**\n- El cuidador principal debe poder hablar inglés y ser mayor de 18 años\n- Comuníquese con Glennys Acosta, gerente de Servicios Familiares: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)",
-          "zh-Hant": "*請查詢各院所的具體資格要求。*\n\n### 希望之家:波士頓 — 免費 (Hope Lodge)\n\n美國癌症協會。\n\n> 如果您或您的照顧者都不懂英文,請與社工人員聯絡。可能有其他選擇。\n\n- 125 S. Huntington Ave, Jamaica Plain — 距離麻省總醫院約 3.8 英里\n- 📞 [617-396-5500](tel:+16173965500)\n- **適用於年滿 18 歲以上的癌症患者**,每週至少有 3 天接受治療中心的預約,且居住地距離波士頓 40 英里以上\n- 最少入住 3 晚 · 需醫師轉介 · 需陪同照護者\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- 美國癌症協會為癌症患者及其家屬提供額外的服務(受條件和可用性限制)。請致電:📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House:波士頓 — 免費\n\nHEADstrong 基金會。\n\n- 275 Summit Ave, Brookline, MA 02135 — 距離麻省總醫院 4.5 英里\n- 📞 [508-306-1409](tel:+15083061409)\n- **對於接受癌症治療的癌症患者或看護人**,住在距離波士頓 25+ 英里 (可能有例外) 的地方都提供治療期間的交通援助\n- 最少 3 晚 · 必須有永久地址和陪同看護人\n- 申請:[headstrong.org/nicks-house/boston](https://headstrong.org/nicks-house/boston)\n\n### 招待之家 (Hospitality Homes)\n\n- 📞 [888-595-4678](tel:+18885954678)\n- 多個地點\n- 為住在波士頓至少 50 英里外的患者及其照護者,匹配志願者寄宿家庭、公寓或折扣住宿\n- 設施和價格因地點而異 · 線上可申請\n- [hosp.org](https://hosp.org/)\n\n### 費舍爾之家波士頓 (Fisher House of Boston) — 免費\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **提供免費房間住宿給軍人家屬** (曾服役的患者或其直系親屬 — 退伍軍人、現役軍人、預備役軍人,以及國民兵),居住在距離醫院 40 英里以上,且每週接受住院護理或治療 3 次\n- 不屬於 VA (退伍軍人事務部)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### 海員之家 (Mariner's House)\n\n- 11 North Square, Boston — 距離麻省總醫院約 1.7 英里\n- 📞 [617-227-3979](tel:+16172273979)\n- **每晚 $65 – $130**\n- **僅限現役海員**、海員退休人員(需服役至少 20 年),或其直系親屬\n- 所需文件\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### 波士頓港口的羅納德·麥當勞之家 (Ronald McDonald House at Boston Harbor)\n\n> 如果您不會說英語,您必須提供一名譯者。請與您的社工人員聯繫以取得更多資訊。\n\n- 250 1st Ave, Boston — 距離麻省總醫院約 2.2 英里\n- 📞 [617-398-6458](tel:+16173986458)\n- **建議自由捐款數額:每晚 $10**\n- 免費停車 · 免費接駁\n- **麻省總醫院附近提供給住在至少 40 英里外的兒童患者家庭的私人公寓**\n- 需要醫師轉診 · 名額有限,通常需要排隊\n\n### 克里斯多福之家 (Christopher's Haven)\n\n- One Emerson Place, Suite 2N, Boston — 鄰近麻省總醫院\n- 📞 [617-279-9077](tel:+16172799077)\n- **每晚 $50**\n- **適用於接受至少 4–6 週門診兒童癌症治療者**\n- 主要照顧者必須年滿 18 歲且能以英語溝通\n- 聯繫 Glennys Acosta,家庭服務經理:[glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)",
-          "pt": "*Veja os requisitos específicos de elegibilidade por instalação.*\n\n### Hope Lodge: Boston — Sem taxa\n\nAmerican Cancer Society.\n\n> Se nem você ou o cuidador entender inglês, fale com o serviço social. Outras opções podem estar disponíveis.\n\n- 125 S. Huntington Ave, Jamaica Plain — a 3,8 milhas do Mass General\n- 📞 [617-396-5500](tel:+16173965500)\n- **Para pacientes maiores de 18 anos com câncer** que tenham consultas no centro de tratamento pelo menos 3 dias/semana e morem a mais de 40 milhas de Boston\n- Mínimo de 3 noites · É necessária indicação do provedor · Exige companhia de cuidador\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- A American Cancer Society oferece opções adicionais para pacientes com câncer e familiares (sujeitos às condições e disponibilidade). Ligue para: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Sem taxa\n\nFundação HEADstrong.\n\n- 275 Summit Ave, Brookline, MA 02135 — a 4,5 milhas do Mass General\n- 📞 [508-306-1409](tel:+15083061409)\n- **Para pacientes (e/ou cuidadores)** que estão em tratamento contra o câncer e moram a mais de 25 milhas de Boston (exceções possíveis)\n- Oferece assistência no transporte para tratamento · Todas as idades · Mínimo de 3 noites · Deve ter um endereço permanente e um cuidador acompanhante\n- Aplicação: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Casas de Hospitalidade (Hospitality Homes)\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Diversos locais\n- Atende a pacientes e seus cuidadores que moram a pelo menos 50 milhas de Boston, com famílias anfitriãs voluntárias, apartamentos ou acomodações com descontos\n- Os serviços e preços podem variar com a localização · Aplicação disponível on-line\n- [hosp.org](https://hosp.org/)\n\n### Fisher House de Boston — Gratuito\n\n- 📞 [508-728-8781](tel:+15087288781) (Jen DeLuca)\n- **Alojamento gratuito próximo ao hospital para famílias de militares** (paciente ou familiar imediato que serviu — Veterano, Ativo, Reserva, Guarda) que moram a 40 ou mais milhas do hospital e recebem tratamento ou atendimento de internação 3 vezes por semana\n- Não associado ao VA (Assuntos de Veteranos)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — a 1,7 milhas do Mass General\n- 📞 [617-227-3979](tel:+16172273979)\n- **US$ 65 – US$ 130 por noite**\n- **Somente para os que estão na ativa da marinha**, com status de reformado (que tenha servido por no mínimo 20 anos), ou seus familiares imediatos\n- Documentação exigida\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House no Boston Harbor\n\n> Se você não falar inglês, você precisará de um intérprete. Fale com o serviço social para mais informações.\n\n- 250 1st Ave, Boston — a 2,2 milhas do Mass General\n- 📞 [617-398-6458](tel:+16173986458)\n- **Doação sugerida: US$ 10 por noite**\n- Estacionamento gratuito · Transporte gratuito\n- **Apartamentos privativos para familiares de pacientes pediátricos** que moram a no mínimo 40 milhas do Mass General\n- É necessário referência do provedor médico · Disponibilidade limitada, geralmente tem uma lista de espera\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — rua adjacente ao Mass General\n- 📞 [617-279-9077](tel:+16172799077)\n- **US$ 50 por noite**\n- **Para aqueles que recebem um mínimo de 4 a 6 semanas de tratamento ambulatorial de câncer pediátrico**\n- O cuidador primário deve ter no mínimo 18 anos e conseguir se comunicar em inglês\n- Entre em contato com Glennys Acosta, Gerente de Serviços para a Família: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)",
-          "ht": "*Gade kisa chak etablisman mande pou elijib.*\n\n### Hope Lodge: Boston — Gratis\n\nAmerican Cancer Society.\n\n- 125 S. Huntington Ave, Jamaica Plain — a yon distans de 3,8 mil de Mass General\n- 📞 [617-396-5500](tel:+16173965500)\n- **Pou pasyan ki fè kansè ki gen omwen 18 lane** ki gen randevou nan sant tretman pandan omwen 3 jou/semèn epi ki rete a yon distans de omwen 40 mil de Boston\n- 3 nwit minimòm · Medsen tretan dwe refere w · Fòk gen yon moun ki akonpaye w\n- [cancer.org/hopelodgeboston](https://www.cancer.org/hopelodgeboston)\n- American Cancer Society ofri opsyon anplis pou pasyan kansè yo ak fanmi yo (selon kondisyon ak disponibilite). Rele nan: 📞 [800-227-2345](tel:+18002272345)\n\n### Nick's House: Boston — Gratis\n\nHEADstrong Foundation.\n\n- 275 Summit Ave, Brookline, MA 02135 — li a 4,5 mil de Mass General\n- 📞 [508-306-1409](tel:+15083061409)\n- **Pou pasyan ki soufri kansè** e k ap resevwa tretman, epitou ki rete a yon distans de omwen 25 mil de Boston (ka gen eksepsyon)\n- Ofri èd transpò pou tretman · Nenpòt ki laj · 3 nwit minimòm · Moun nan dwe gen yon adrès pèmanan epitou fòk gen yon moun ki akonpaye li nan randevou yo\n- Aplikasyon: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)\n\n### Hospitality Homes\n\n- 📞 [888-595-4678](tel:+18885954678)\n- Plizyè kote\n- Asosye pasyan yo ak swanyan ki rete omwen 50 mil distans de Boston avèk fanmi akèy volontè, apatman, oswa lojman ak rabè\n- Ekipman ak pri yo varye selon kote a · Aplikasyon disponib sou entènèt\n- [hosp.org](https://hosp.org/)\n\n### Fisher House of Boston — Gratis\n\n- 📞 [508-728-8781](tel:+15087288781) (Jennifer DeLuca)\n- **Lojman gratis akote lopital la pou fanmi militè** (pasyan oswa manm imedya fanmi ki te sèvi — Veteran, Aktif, Rezèv, Gad) ki abite plis pase 40 mil distans ak Boston epi k ap resevwa swen entène oswa tretman 3 fwa/semèn\n- Pa asosye ak VA (Afè Veteran yo)\n- [fisherhouseboston.org](https://fisherhouseboston.org/)\n\n### Mariner's House\n\n- 11 North Square, Boston — a yon distans de 1,7 mil de Mass General\n- 📞 [617-227-3979](tel:+16172273979)\n- **$65–$130/nwit**\n- **Sèlman pou moun ki nan sèvis maritim aktif**, ki gen estati retrete nan la marin (fòk yo te aktif omwen 20 lane), oswa fanmi imedya yo\n- Dokiman pou pwouve sa obligatwa\n- [marinershouse.org](https://www.marinershouse.org/)\n\n### Ronald McDonald House nan Boston Harbor\n\n- 250 1st Ave, Boston — a yon distans de 2,2 mil de Mass General\n- 📞 [617-398-6458](tel:+16173986458)\n- **$10 ki sijere kòm ofrann chak swa**\n- Pakin gratis · Transpò la navèt gratis\n- **Apatman prive pou fanmi pasyan pedyatri** ki abite omwen 40 mil distans de Mass General\n- Fòk medsen tretan refere w · Disponibilite limite, an jeneral gen yon lis datant\n\n### Christopher's Haven\n\n- One Emerson Place, Suite 2N, Boston — tou kole ak Mass General\n- 📞 [617-279-9077](tel:+16172799077)\n- **$50/nwit**\n- **Pou moun k ap resevwa yon minimòm 4–6 semèn tretman kansè pedyatrik pou pasyan ki nan konsiltasyon eksten**\n- Swanyan prensipal la dwe gen omwen 18 lane epi fòk li kapab pale Anglè\n- Kontakte Glennys Acosta, Manadjè Sèvis pou Fanmi: [glennysacosta@christophershaven.org](mailto:glennysacosta@christophershaven.org)\n- [christophershaven.org](https://christophershaven.org/)"
+          "en": "*See specific eligibility requirements by facility.*",
+          "es": "*Vea los requisitos de elegibilidad de cada centro.*",
+          "zh-Hant": "*請查詢各院所的具體資格要求。*",
+          "pt": "*Veja os requisitos específicos de elegibilidade por instalação.*",
+          "ht": "*Gade kisa chak etablisman mande pou elijib.*"
+        }
+      },
+      {
+        "id": "listing_ynm9deqj",
+        "type": "listing",
+        "name": {
+          "en": "Hope Lodge: Boston — No Fee",
+          "es": "Hope Lodge: Boston — Sin cargo",
+          "pt": "Hope Lodge: Boston — Sem taxa",
+          "ht": "Hope Lodge: Boston — Gratis",
+          "zh-Hant": "希望之家:波士頓 — 免費 (Hope Lodge)"
+        },
+        "address": {
+          "en": "125 S. Huntington Ave, Jamaica Plain"
+        },
+        "distance": {
+          "en": "3.8 miles from MGH",
+          "es": "a 3,8 millas del MGH",
+          "pt": "a 3,8 milhas do Mass General",
+          "ht": "a yon distans de 3,8 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 3.8 英里"
+        },
+        "notes": {
+          "en": "American Cancer Society.",
+          "es": "American Cancer Society.\n\n> Si usted y su cuidador no hablan inglés, contacte a su trabajador social. Puede haber otras opciones disponibles.",
+          "pt": "American Cancer Society.\n\n> Se nem você ou o cuidador entender inglês, fale com o serviço social. Outras opções podem estar disponíveis.",
+          "ht": "American Cancer Society.",
+          "zh-Hant": "美國癌症協會。\n\n> 如果您或您的照顧者都不懂英文,請與社工人員聯絡。可能有其他選擇。"
+        },
+        "phones": [
+          {
+            "id": "phone_y3laavfm",
+            "number": "+16173965500"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_upc2slpo",
+            "url": {
+              "en": "https://www.cancer.org/hopelodgeboston"
+            }
+          }
+        ],
+        "details": {
+          "en": "- **For cancer patients 18+** who have treatment center appointments at least 3 days/week and live 40+ miles from Boston\n- 3-night minimum · Provider referral required · Requires accompanying caregiver",
+          "es": "- **Para pacientes con cáncer mayores de 18 años** que tienen citas programadas en un centro de tratamiento al menos 3 días a la semana y viven a más de 40 millas de Boston\n- Mínimo 3 noches · Requiere remisión del proveedor · Requiere acompañamiento de un cuidador",
+          "pt": "- **Para pacientes maiores de 18 anos com câncer** que tenham consultas no centro de tratamento pelo menos 3 dias/semana e morem a mais de 40 milhas de Boston\n- Mínimo de 3 noites · É necessária indicação do provedor · Exige companhia de cuidador",
+          "ht": "- **Pou pasyan ki fè kansè ki gen omwen 18 lane** ki gen randevou nan sant tretman pandan omwen 3 jou/semèn epi ki rete a yon distans de omwen 40 mil de Boston\n- 3 nwit minimòm · Medsen tretan dwe refere w · Fòk gen yon moun ki akonpaye w",
+          "zh-Hant": "- **適用於年滿 18 歲以上的癌症患者**,每週至少有 3 天接受治療中心的預約,且居住地距離波士頓 40 英里以上\n- 最少入住 3 晚 · 需醫師轉介 · 需陪同照護者"
+        }
+      },
+      {
+        "id": "listing_71dywo9z",
+        "type": "listing",
+        "name": {
+          "en": "American Cancer Society",
+          "es": "American Cancer Society",
+          "pt": "American Cancer Society",
+          "ht": "American Cancer Society",
+          "zh-Hant": "美國癌症協會 (American Cancer Society)"
+        },
+        "notes": {
+          "en": "For additional cancer-patient options.",
+          "es": "Para opciones adicionales para pacientes con cáncer.",
+          "pt": "A American Cancer Society oferece opções adicionais para pacientes com câncer e familiares (sujeitos às condições e disponibilidade).",
+          "ht": "American Cancer Society ofri opsyon anplis pou pasyan kansè yo ak fanmi yo (selon kondisyon ak disponibilite).",
+          "zh-Hant": "美國癌症協會為癌症患者及其家屬提供額外的服務(受條件和可用性限制)。"
+        },
+        "phones": [
+          {
+            "id": "phone_mstjswoj",
+            "number": "+18002272345"
+          }
+        ]
+      },
+      {
+        "id": "listing_1oyo2zzi",
+        "type": "listing",
+        "name": {
+          "en": "Nick's House: Boston — No Fee",
+          "es": "Nick's House: Boston — Sin cargo",
+          "pt": "Nick's House: Boston — Sem taxa",
+          "ht": "Nick's House: Boston — Gratis",
+          "zh-Hant": "Nick's House:波士頓 — 免費"
+        },
+        "address": {
+          "en": "275 Summit Ave, Brookline, MA 02135"
+        },
+        "distance": {
+          "en": "4.5 miles from MGH",
+          "es": "a 4,5 millas del MGH",
+          "pt": "a 4,5 milhas do Mass General",
+          "ht": "li a 4,5 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院 4.5 英里"
+        },
+        "notes": {
+          "en": "HEADstrong Foundation.",
+          "es": "Fundación HEADstrong.",
+          "pt": "Fundação HEADstrong.",
+          "ht": "HEADstrong Foundation.",
+          "zh-Hant": "HEADstrong 基金會。"
+        },
+        "phones": [
+          {
+            "id": "phone_k9iv4rjo",
+            "number": "+15083061409"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_obss9khl",
+            "url": {
+              "en": "https://www.headstrong.org/nicks-house/boston"
+            }
+          }
+        ],
+        "details": {
+          "en": "- **For cancer patients** undergoing cancer treatment who live 25+ miles from Boston (exceptions possible), and/or their caregivers\n- Offers treatment transportation assist · All ages · 3-night minimum · Must have a permanent address and accompanying caregiver\n- Apply: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)",
+          "es": "- **Para pacientes con cáncer** que se someten a tratamiento oncológico y viven a 25+ millas de Boston (excepciones son consideradas), y/o sus cuidadores\n- Mínimo 3 noches · Debe tener una dirección permanente y un cuidador acompañante\n- Solicitud: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)",
+          "pt": "- **Para pacientes (e/ou cuidadores)** que estão em tratamento contra o câncer e moram a mais de 25 milhas de Boston (exceções possíveis)\n- Oferece assistência no transporte para tratamento · Todas as idades · Mínimo de 3 noites · Deve ter um endereço permanente e um cuidador acompanhante\n- Aplicação: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)",
+          "ht": "- **Pou pasyan ki soufri kansè** e k ap resevwa tretman, epitou ki rete a yon distans de omwen 25 mil de Boston (ka gen eksepsyon)\n- Ofri èd transpò pou tretman · Nenpòt ki laj · 3 nwit minimòm · Moun nan dwe gen yon adrès pèmanan epitou fòk gen yon moun ki akonpaye li nan randevou yo\n- Aplikasyon: [headstrong.org/nicks-house/boston](https://www.headstrong.org/nicks-house/boston)",
+          "zh-Hant": "- **對於接受癌症治療的癌症患者或看護人**,住在距離波士頓 25+ 英里 (可能有例外) 的地方都提供治療期間的交通援助\n- 最少 3 晚 · 必須有永久地址和陪同看護人\n- 申請:[headstrong.org/nicks-house/boston](https://headstrong.org/nicks-house/boston)"
+        }
+      },
+      {
+        "id": "listing_0yjq5w3m",
+        "type": "listing",
+        "name": {
+          "en": "Hospitality Homes",
+          "es": "Hospitality Homes",
+          "pt": "Casas de Hospitalidade (Hospitality Homes)",
+          "ht": "Hospitality Homes",
+          "zh-Hant": "招待之家 (Hospitality Homes)"
+        },
+        "phones": [
+          {
+            "id": "phone_szgaqwll",
+            "number": "+18885954678"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_632g3hq4",
+            "url": {
+              "en": "https://hosp.org/"
+            }
+          }
+        ],
+        "details": {
+          "en": "- Multiple locations\n- Matches patients and their caregivers (who live at least 50 miles from Boston) with volunteer host families, apartments, or discounted accommodations\n- Amenities and prices vary by location · Application available online",
+          "es": "- Múltiples ubicaciones\n- Para pacientes y asistentes de cuidados que vivan a al menos 50 millas de Boston, con familias anfitrionas voluntarias o en apartamentos o alojamientos con descuento\n- Los servicios y precios varían según la ubicación · Solicitud disponible en línea",
+          "pt": "- Diversos locais\n- Atende a pacientes e seus cuidadores que moram a pelo menos 50 milhas de Boston, com famílias anfitriãs voluntárias, apartamentos ou acomodações com descontos\n- Os serviços e preços podem variar com a localização · Aplicação disponível on-line",
+          "ht": "- Plizyè kote\n- Asosye pasyan yo ak swanyan ki rete omwen 50 mil distans de Boston avèk fanmi akèy volontè, apatman, oswa lojman ak rabè\n- Ekipman ak pri yo varye selon kote a · Aplikasyon disponib sou entènèt",
+          "zh-Hant": "- 多個地點\n- 為住在波士頓至少 50 英里外的患者及其照護者,匹配志願者寄宿家庭、公寓或折扣住宿\n- 設施和價格因地點而異 · 線上可申請"
+        }
+      },
+      {
+        "id": "listing_vsrgwlxk",
+        "type": "listing",
+        "name": {
+          "en": "Fisher House of Boston — Free",
+          "es": "Fisher House of Boston — Sin cargo",
+          "pt": "Fisher House de Boston — Gratuito",
+          "ht": "Fisher House of Boston — Gratis",
+          "zh-Hant": "費舍爾之家波士頓 (Fisher House of Boston) — 免費"
+        },
+        "phones": [
+          {
+            "id": "phone_og4vdo03",
+            "number": "+15087288781"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_dr71t8dj",
+            "url": {
+              "en": "https://fisherhouseboston.org/"
+            }
+          }
+        ],
+        "details": {
+          "en": "- **Free hotel room for military families** (patient or immediate family member having served — Veteran, Active, Reserve, Guard) living 40+ miles from the hospital and receiving inpatient care or treatments 3×/week\n- Not VA-affiliated",
+          "es": "- **Habitación de hotel sin cargo para familias de militares** (paciente o familiar inmediato que haya prestado servicio — Veterano, en servicio activo, en la reserva, en la guardia) que vivan a 40 millas o más del hospital y cuyo familiar está hospitalizado o recibe tratamiento 3 veces por semana\n- No está asociado con la VA (Administración de Veteranos)",
+          "pt": "- **Alojamento gratuito próximo ao hospital para famílias de militares** (paciente ou familiar imediato que serviu — Veterano, Ativo, Reserva, Guarda) que moram a 40 ou mais milhas do hospital e recebem tratamento ou atendimento de internação 3 vezes por semana\n- Não associado ao VA (Assuntos de Veteranos)",
+          "ht": "- **Lojman gratis akote lopital la pou fanmi militè** (pasyan oswa manm imedya fanmi ki te sèvi — Veteran, Aktif, Rezèv, Gad) ki abite plis pase 40 mil distans ak Boston epi k ap resevwa swen entène oswa tretman 3 fwa/semèn\n- Pa asosye ak VA (Afè Veteran yo)",
+          "zh-Hant": "- **提供免費房間住宿給軍人家屬** (曾服役的患者或其直系親屬 — 退伍軍人、現役軍人、預備役軍人,以及國民兵),居住在距離醫院 40 英里以上,且每週接受住院護理或治療 3 次\n- 不屬於 VA (退伍軍人事務部)"
+        }
+      },
+      {
+        "id": "listing_ytk17scf",
+        "type": "listing",
+        "name": {
+          "en": "Mariner's House",
+          "es": "Mariner's House",
+          "pt": "Mariner's House",
+          "ht": "Mariner's House",
+          "zh-Hant": "海員之家 (Mariner's House)"
+        },
+        "address": {
+          "en": "11 North Square, Boston"
+        },
+        "distance": {
+          "en": "1.7 miles from MGH",
+          "es": "a 1,7 millas del MGH",
+          "pt": "a 1,7 milhas do Mass General",
+          "ht": "a yon distans de 1,7 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 1.7 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_ss2x9ouy",
+            "number": "+16172273979"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_g6ajbk9m",
+            "url": {
+              "en": "https://www.marinershouse.org/"
+            }
+          }
+        ],
+        "details": {
+          "en": "- **$65–$130/night**\n- **Only for those in active maritime service**, with maritime retiree status (must have served at least 20 years), or their immediate families\n- Documentation required",
+          "es": "- **$65–$130/noche**\n- **Solo para personas activas en servicio marítimo**, en estado de jubilación marítima (debe haber servido al menos 20 años), o familiares directos\n- Documentación requerida",
+          "pt": "- **US$ 65 – US$ 130 por noite**\n- **Somente para os que estão na ativa da marinha**, com status de reformado (que tenha servido por no mínimo 20 anos), ou seus familiares imediatos\n- Documentação exigida",
+          "ht": "- **$65–$130/nwit**\n- **Sèlman pou moun ki nan sèvis maritim aktif**, ki gen estati retrete nan la marin (fòk yo te aktif omwen 20 lane), oswa fanmi imedya yo\n- Dokiman pou pwouve sa obligatwa",
+          "zh-Hant": "- **每晚 $65 – $130**\n- **僅限現役海員**、海員退休人員(需服役至少 20 年),或其直系親屬\n- 所需文件"
+        }
+      },
+      {
+        "id": "listing_9d4es2qt",
+        "type": "listing",
+        "name": {
+          "en": "Ronald McDonald House at Boston Harbor",
+          "es": "Ronald McDonald House en Boston Harbor",
+          "pt": "Ronald McDonald House no Boston Harbor",
+          "ht": "Ronald McDonald House nan Boston Harbor",
+          "zh-Hant": "波士頓港口的羅納德·麥當勞之家 (Ronald McDonald House at Boston Harbor)"
+        },
+        "address": {
+          "en": "250 1st Ave, Boston"
+        },
+        "distance": {
+          "en": "2.2 miles from MGH",
+          "es": "a 2,2 millas del MGH",
+          "pt": "a 2,2 milhas do Mass General",
+          "ht": "a yon distans de 2,2 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 2.2 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_s8plj6a3",
+            "number": "+16173986458"
+          }
+        ],
+        "details": {
+          "en": "- **$10/night suggested donation**\n- Free parking · Free shuttle\n- **Private apartments for families of pediatric patients** who live at least 40 miles from MGH\n- Requires medical provider referral · Limited availability, typically has a waitlist",
+          "es": "> Si no habla inglés, debe contratar un traductor. Comuníquese con su trabajador social para obtener más información.\n\n- **Donación sugerida: $10/noche**\n- Estacionamiento sin cargo · Trasbordo sin cargo\n- **Apartamentos privados para familias con pacientes pediátricos** que viven a al menos 40 millas del MGH\n- Requiere remisión de un proveedor médico · Disponibilidad limitada, en general con lista de espera",
+          "pt": "> Se você não falar inglês, você precisará de um intérprete. Fale com o serviço social para mais informações.\n\n- **Doação sugerida: US$ 10 por noite**\n- Estacionamento gratuito · Transporte gratuito\n- **Apartamentos privativos para familiares de pacientes pediátricos** que moram a no mínimo 40 milhas do Mass General\n- É necessário referência do provedor médico · Disponibilidade limitada, geralmente tem uma lista de espera",
+          "ht": "- **$10 ki sijere kòm ofrann chak swa**\n- Pakin gratis · Transpò la navèt gratis\n- **Apatman prive pou fanmi pasyan pedyatri** ki abite omwen 40 mil distans de Mass General\n- Fòk medsen tretan refere w · Disponibilite limite, an jeneral gen yon lis datant",
+          "zh-Hant": "> 如果您不會說英語,您必須提供一名譯者。請與您的社工人員聯繫以取得更多資訊。\n\n- **建議自由捐款數額:每晚 $10**\n- 免費停車 · 免費接駁\n- **麻省總醫院附近提供給住在至少 40 英里外的兒童患者家庭的私人公寓**\n- 需要醫師轉診 · 名額有限,通常需要排隊"
+        }
+      },
+      {
+        "id": "listing_r36xdxs1",
+        "type": "listing",
+        "name": {
+          "en": "Christopher's Haven",
+          "es": "Christopher's Haven",
+          "pt": "Christopher's Haven",
+          "ht": "Christopher's Haven",
+          "zh-Hant": "克里斯多福之家 (Christopher's Haven)"
+        },
+        "address": {
+          "en": "One Emerson Place, Suite 2N, Boston"
+        },
+        "distance": {
+          "en": "adjacent to MGH",
+          "es": "al lado del MGH",
+          "pt": "rua adjacente ao Mass General",
+          "ht": "tou kole ak Mass General",
+          "zh-Hant": "鄰近麻省總醫院"
+        },
+        "phones": [
+          {
+            "id": "phone_7ttde1gz",
+            "number": "+16172799077"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_qvdxcs4a",
+            "url": {
+              "en": "https://christophershaven.org/"
+            }
+          }
+        ],
+        "details": {
+          "en": "- **$50/night**\n- **For those receiving a minimum of 4–6 weeks outpatient pediatric cancer treatment**\n- Primary caregiver must be at least 18 and able to communicate in English",
+          "es": "- **$50/noche**\n- **Para quienes reciben un tratamiento por cáncer pediátrico ambulatorio por un mínimo de 4 a 6 semanas**\n- El cuidador principal debe poder hablar inglés y ser mayor de 18 años",
+          "pt": "- **US$ 50 por noite**\n- **Para aqueles que recebem um mínimo de 4 a 6 semanas de tratamento ambulatorial de câncer pediátrico**\n- O cuidador primário deve ter no mínimo 18 anos e conseguir se comunicar em inglês",
+          "ht": "- **$50/nwit**\n- **Pou moun k ap resevwa yon minimòm 4–6 semèn tretman kansè pedyatrik pou pasyan ki nan konsiltasyon eksten**\n- Swanyan prensipal la dwe gen omwen 18 lane epi fòk li kapab pale Anglè",
+          "zh-Hant": "- **每晚 $50**\n- **適用於接受至少 4–6 週門診兒童癌症治療者**\n- 主要照顧者必須年滿 18 歲且能以英語溝通"
         }
       },
       {
@@ -5500,14 +6493,129 @@
         }
       },
       {
-        "id": "extended_stay_hotels_text",
-        "type": "text",
-        "markdown": {
-          "en": "### Residence Inn by Marriott Boston Harbor on Tudor Wharf\n\n- 34 Charles River Ave, Boston — 1.6 miles from MGH\n- 📞 [617-242-9000](tel:+16172429000)\n- Ask about medical rates\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — 2 miles from MGH\n- 📞 [617-349-0700](tel:+16173490700)\n- Enter Corporate Rate: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — 2.0 miles from MGH\n- 📞 [617-478-0840](tel:+16174780840)\n- Ask about Mass General rate for **20% off**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)",
-          "es": "### Residence Inn by Marriott Boston Harbor on Tudor Wharf\n\n- 34 Charles River Ave, Boston — a 1,6 millas del MGH\n- 📞 [617-242-9000](tel:+16172429000)\n- Consulte las tarifas médicas\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — a 2 millas del MGH\n- 📞 [617-349-0700](tel:+16173490700)\n- Ingrese la tarifa corporativa: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a 2,0 millas del MGH\n- 📞 [617-478-0840](tel:+16174780840)\n- Consulte por la tarifa de Mass General con un **20 % de descuento**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)",
-          "zh-Hant": "### 萬豪公寓式酒店波士頓海港 - Tudor Wharf\n\n- 34 Charles River Ave, Boston — 距離麻省總醫院約 1.6 英里\n- 📞 [617-242-9000](tel:+16172429000)\n- 請詢問醫療優惠價\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### 萬豪公寓式酒店波士頓劍橋\n\n- 120 Broadway, Cambridge, MA 02142 — 距離麻省總醫院約 2 英里\n- 📞 [617-349-0700](tel:+16173490700)\n- 請輸入企業優惠費率:**P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### 萬豪公寓式酒店波士頓海港 - Seaport\n\n- 370 Congress St, Boston — 距離麻省總醫院 2 英里\n- 📞 [617-478-0840](tel:+16174780840)\n- 請詢問麻省總醫院優惠價,享 **20% 折扣**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)",
-          "pt": "### Residence Inn by Marriott Boston Harbor em Tudor Wharf\n\n- 34 Charles River Ave, Boston — a 1,6 milhas do Mass General\n- 📞 [617-242-9000](tel:+16172429000)\n- Peça pelas tarifas médicas\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — a 2 milhas do Mass General\n- 📞 [617-349-0700](tel:+16173490700)\n- Digite a tarifa corporativa: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a 2,0 milhas do Mass General\n- 📞 [617-478-0840](tel:+16174780840)\n- Peça pelo desconto de **20% na tarifa Mass General**\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)",
-          "ht": "### Residence Inn by Marriott Boston Harbor nan Tudor Wharf\n\n- 34 Charles River Ave, Boston — a yon distans de 1,6 mil de Mass General\n- 📞 [617-242-9000](tel:+16172429000)\n- Mande pou tarif pou pasyan\n- [marriott.com/bostw](https://www.marriott.com/bostw)\n\n### Residence Inn Boston Cambridge\n\n- 120 Broadway, Cambridge, MA 02142 — yon distans de 2 mil de Mass General\n- 📞 [617-349-0700](tel:+16173490700)\n- Mete Corporate Rate: **P9H**\n- [marriott.com/boscm](https://www.marriott.com/boscm)\n\n### Residence Inn by Marriott Boston Seaport\n\n- 370 Congress St, Boston — a yon distans de 2,0 mil de Mass General\n- 📞 [617-478-0840](tel:+16174780840)\n- Pou jwenn yon rabè **20%**, mande tarif Mass General\n- [marriott.com/bosfp](https://www.marriott.com/bosfp)"
+        "id": "listing_em61py34",
+        "type": "listing",
+        "name": {
+          "en": "Residence Inn by Marriott Boston Harbor on Tudor Wharf",
+          "es": "Residence Inn by Marriott Boston Harbor on Tudor Wharf",
+          "pt": "Residence Inn by Marriott Boston Harbor em Tudor Wharf",
+          "ht": "Residence Inn by Marriott Boston Harbor nan Tudor Wharf",
+          "zh-Hant": "萬豪公寓式酒店波士頓海港 - Tudor Wharf"
+        },
+        "address": {
+          "en": "34 Charles River Ave, Boston"
+        },
+        "distance": {
+          "en": "1.6 miles from MGH",
+          "es": "a 1,6 millas del MGH",
+          "pt": "a 1,6 milhas do Mass General",
+          "ht": "a yon distans de 1,6 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 1.6 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_a1h0l0k7",
+            "number": "+16172429000"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_9rr6ayr2",
+            "url": {
+              "en": "https://www.marriott.com/bostw"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask about medical rates",
+          "es": "Consulte las tarifas médicas",
+          "pt": "Peça pelas tarifas médicas",
+          "ht": "Mande pou tarif pou pasyan",
+          "zh-Hant": "請詢問醫療優惠價"
+        }
+      },
+      {
+        "id": "listing_67tnuxwn",
+        "type": "listing",
+        "name": {
+          "en": "Residence Inn Boston Cambridge",
+          "es": "Residence Inn Boston Cambridge",
+          "pt": "Residence Inn Boston Cambridge",
+          "ht": "Residence Inn Boston Cambridge",
+          "zh-Hant": "萬豪公寓式酒店波士頓劍橋"
+        },
+        "address": {
+          "en": "120 Broadway, Cambridge, MA 02142"
+        },
+        "distance": {
+          "en": "2 miles from MGH",
+          "es": "a 2 millas del MGH",
+          "pt": "a 2 milhas do Mass General",
+          "ht": "yon distans de 2 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院約 2 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_crwcwofb",
+            "number": "+16173490700"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_s43wpjrr",
+            "url": {
+              "en": "https://www.marriott.com/boscm"
+            }
+          }
+        ],
+        "details": {
+          "en": "Enter Corporate Rate: **P9H**",
+          "es": "Ingrese la tarifa corporativa: **P9H**",
+          "pt": "Digite a tarifa corporativa: **P9H**",
+          "ht": "Mete Corporate Rate: **P9H**",
+          "zh-Hant": "請輸入企業優惠費率:**P9H**"
+        }
+      },
+      {
+        "id": "listing_3uu56k3m",
+        "type": "listing",
+        "name": {
+          "en": "Residence Inn by Marriott Boston Seaport",
+          "es": "Residence Inn by Marriott Boston Seaport",
+          "pt": "Residence Inn by Marriott Boston Seaport",
+          "ht": "Residence Inn by Marriott Boston Seaport",
+          "zh-Hant": "萬豪公寓式酒店波士頓海港 - Seaport"
+        },
+        "address": {
+          "en": "370 Congress St, Boston"
+        },
+        "distance": {
+          "en": "2.0 miles from MGH",
+          "es": "a 2,0 millas del MGH",
+          "pt": "a 2,0 milhas do Mass General",
+          "ht": "a yon distans de 2,0 mil de Mass General",
+          "zh-Hant": "距離麻省總醫院 2 英里"
+        },
+        "phones": [
+          {
+            "id": "phone_ar46c9dc",
+            "number": "+16174780840"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_lh2lezop",
+            "url": {
+              "en": "https://www.marriott.com/bosfp"
+            }
+          }
+        ],
+        "details": {
+          "en": "Ask about Mass General rate for **20% off**",
+          "es": "Consulte por la tarifa de Mass General con un **20 % de descuento**",
+          "pt": "Peça pelo desconto de **20% na tarifa Mass General**",
+          "ht": "Pou jwenn yon rabè **20%**, mande tarif Mass General",
+          "zh-Hant": "請詢問麻省總醫院優惠價,享 **20% 折扣**"
         }
       },
       {
@@ -5525,18 +6633,147 @@
         "id": "short_term_apartments_text",
         "type": "text",
         "markdown": {
-          "en": "*Most require a minimum 30-day stay. Parking availability and rates vary. Mass General is in Boston's West End neighborhood. Also consider [Vrbo](https://www.vrbo.com) or [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — The West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — adjacent to MGH campus\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Ask for **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- Ask for **Nouri Hneid**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*For list corrections or updates, please call 📞 [617-724-0295](tel:+16177240295). — MGH Department of Clinical Social Work*",
-          "es": "*La mayoría requiere un mínimo de 30 días de estadía. La disponibilidad de estacionamiento y tarifas varía. Mass General está en el barrio West End de Boston. Tenga en cuenta también [Vrbo](https://www.vrbo.com) o [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — The West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — al lado del campus de Mass General\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Pregunte por **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- Pregunte por **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Si necesita información sobre modificaciones o actualizaciones del listado, llame al 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Servicios Sociales Clínicos*",
-          "zh-Hant": "*最短住宿 30 天。停車位和價格各異。麻省總醫院位於波士頓西區。您也可以考慮 [Vrbo](https://www.vrbo.com) 或 [Airbnb](https://www.airbnb.com)。*\n\n### 全國企業住房 — 西區公寓 (National Corporate Housing)\n\n- 5 Longfellow Pl, Ste 102, Boston — 鄰近麻省總醫院校區\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### 康派斯家具公寓 (Compass Furnished Apartments)\n\n- 130 Bowdoin Street, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS 企業住房\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- 請詢問 **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### 家具公寓 (Furnished Quarters)\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) 分機:1008\n- 請詢問 **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*如需更正或更新名單,請致電 📞 [617-724-0295](tel:+16177240295)。— 麻省總醫院臨床社會工作部*",
-          "pt": "*A maioria exige uma estadia mínima de 30 dias. Disponibilidade de estacionamento e as tarifas podem variar. O Mass General fica na região de West End de Boston. Além destas sugestões, considere [Vrbo](https://www.vrbo.com) ou [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — Apartamentos no West End\n\n- 5 Longfellow Pl, Ste 102, Boston — rua adjacente ao campus do Mass General\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Office #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Pergunte por **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ext 1008\n- Pergunte por **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Para correções e atualizações, ligue para 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Assistência Social Clínica*",
-          "ht": "*Pifò egzije yon minimòm sejou 30 jou. Disponibilite pakin ak tarif yo varye. Mass General sitiye nan katye West End Boston. Ou ka tcheke tou [Vrbo](https://www.vrbo.com) oswa [Airbnb](https://www.airbnb.com).*\n\n### National Corporate Housing — West End Apartments\n\n- 5 Longfellow Pl, Ste 102, Boston — akote campus prensipal Mass General la\n- 📞 [617-948-9876](tel:+16179489876)\n- [nationalcorporatehousing.com](https://www.nationalcorporatehousing.com)\n\n### Compass Furnished Apartments\n\n- 130 Bowdoin St, Boston\n- 📞 [866-671-1212](tel:+18666711212)\n- [compassfurnishedapartments.com](https://www.compassfurnishedapartments.com)\n\n### CWS Corporate Housing\n\n- One Marina Park Dr, Suite 1410, Biwo #1485, Boston, MA 02210\n- 📞 [617-939-6197](tel:+16179396197)\n- Mande pou **Farah Fakih**\n- [cwshousing.com](https://cwshousing.com/)\n\n### Furnished Quarters\n\n- 221 Mass. Avenue, Boston\n- 📞 [617-236-4908](tel:+16172364908) ekstansyon 1008\n- Mande pou **Nouri Hneidi**\n- [furnishedquarters.com](https://www.furnishedquarters.com)\n\n---\n\n*Pou koreksyon nan lis la oswa mizajou, tanpri rele 📞 [617-724-0295](tel:+16177240295). — Depatman Travay Sosyal Klinik MGH*"
+          "en": "*Most require a minimum 30-day stay. Parking availability and rates vary. Mass General is in Boston's West End neighborhood. Also consider [Vrbo](https://www.vrbo.com) or [Airbnb](https://www.airbnb.com).*",
+          "es": "*La mayoría requiere un mínimo de 30 días de estadía. La disponibilidad de estacionamiento y tarifas varía. Mass General está en el barrio West End de Boston. Tenga en cuenta también [Vrbo](https://www.vrbo.com) o [Airbnb](https://www.airbnb.com).*",
+          "zh-Hant": "*最短住宿 30 天。停車位和價格各異。麻省總醫院位於波士頓西區。您也可以考慮 [Vrbo](https://www.vrbo.com) 或 [Airbnb](https://www.airbnb.com)。*",
+          "pt": "*A maioria exige uma estadia mínima de 30 dias. Disponibilidade de estacionamento e as tarifas podem variar. O Mass General fica na região de West End de Boston. Além destas sugestões, considere [Vrbo](https://www.vrbo.com) ou [Airbnb](https://www.airbnb.com).*",
+          "ht": "*Pifò egzije yon minimòm sejou 30 jou. Disponibilite pakin ak tarif yo varye. Mass General sitiye nan katye West End Boston. Ou ka tcheke tou [Vrbo](https://www.vrbo.com) oswa [Airbnb](https://www.airbnb.com).*"
+        }
+      },
+      {
+        "id": "listing_nnkf0ged",
+        "type": "listing",
+        "name": {
+          "en": "National Corporate Housing — The West End Apartments",
+          "es": "National Corporate Housing — The West End Apartments",
+          "pt": "National Corporate Housing — Apartamentos no West End",
+          "ht": "National Corporate Housing — West End Apartments",
+          "zh-Hant": "全國企業住房 — 西區公寓 (National Corporate Housing)"
+        },
+        "address": {
+          "en": "5 Longfellow Pl, Ste 102, Boston"
+        },
+        "distance": {
+          "en": "adjacent to MGH campus",
+          "es": "al lado del campus de Mass General",
+          "pt": "rua adjacente ao campus do Mass General",
+          "ht": "akote campus prensipal Mass General la",
+          "zh-Hant": "鄰近麻省總醫院校區"
+        },
+        "phones": [
+          {
+            "id": "phone_kpogwlqd",
+            "number": "+16179489876"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_2f85jpgu",
+            "url": {
+              "en": "https://www.nationalcorporatehousing.com"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_j5fdpctu",
+        "type": "listing",
+        "name": {
+          "en": "Compass Furnished Apartments",
+          "es": "Compass Furnished Apartments",
+          "pt": "Compass Furnished Apartments",
+          "ht": "Compass Furnished Apartments",
+          "zh-Hant": "康派斯家具公寓 (Compass Furnished Apartments)"
+        },
+        "address": {
+          "en": "130 Bowdoin St, Boston",
+          "zh-Hant": "130 Bowdoin Street, Boston"
+        },
+        "phones": [
+          {
+            "id": "phone_1a7oi9is",
+            "number": "+18666711212"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_ory8m7wb",
+            "url": {
+              "en": "https://www.compassfurnishedapartments.com"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_o358gxyk",
+        "type": "listing",
+        "name": {
+          "en": "CWS Corporate Housing",
+          "es": "CWS Corporate Housing",
+          "pt": "CWS Corporate Housing",
+          "ht": "CWS Corporate Housing",
+          "zh-Hant": "CWS 企業住房"
+        },
+        "phones": [
+          {
+            "id": "phone_5iretn7h",
+            "number": "+16179396197"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_uwstmiic",
+            "url": {
+              "en": "https://cwshousing.com/"
+            }
+          }
+        ]
+      },
+      {
+        "id": "listing_0869mouz",
+        "type": "listing",
+        "name": {
+          "en": "Furnished Quarters",
+          "es": "Furnished Quarters",
+          "pt": "Furnished Quarters",
+          "ht": "Furnished Quarters",
+          "zh-Hant": "家具公寓 (Furnished Quarters)"
+        },
+        "address": {
+          "en": "221 Mass. Avenue, Boston"
+        },
+        "phones": [
+          {
+            "id": "phone_70387m2y",
+            "number": "+16172364908",
+            "ext": "1008"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_y4nznh59",
+            "url": {
+              "en": "https://www.furnishedquarters.com"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_l33ekdjk",
+        "type": "text",
+        "markdown": {
+          "en": "*For list corrections or updates, please call 📞 [617-724-0295](tel:+16177240295). — MGH Department of Clinical Social Work*",
+          "es": "*Si necesita información sobre modificaciones o actualizaciones del listado, llame al 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Servicios Sociales Clínicos*",
+          "pt": "*Para correções e atualizações, ligue para 📞 [617-724-0295](tel:+16177240295). — MGH, Departamento de Assistência Social Clínica*",
+          "ht": "*Pou koreksyon nan lis la oswa mizajou, tanpri rele 📞 [617-724-0295](tel:+16177240295). — Depatman Travay Sosyal Klinik MGH*",
+          "zh-Hant": "*如需更正或更新名單,請致電 📞 [617-724-0295](tel:+16177240295)。— 麻省總醫院臨床社會工作部*"
         }
       }
     ],
     "titleTranslations": {
       "es": "Alojamiento para pasar la noche"
     },
-    "updatedAt": "2026-10-20T14:06:10.000Z"
+    "updatedAt": "2026-10-28T14:27:37.791Z"
   },
   {
     "id": "picu_welcome_guide",
@@ -10088,6 +11325,50 @@
         "details": {
           "en": "Monday through Friday: 8:30 a.m. to 7:30 p.m.\n\nSaturday and Sunday: 10 a.m. to 6 p.m.",
           "es": "De lunes a viernes: 8:30 a.m. a 7:30 p.m.\n\nSábados y domingos: 10 a.m. a 6 p.m."
+        },
+        "hours": {
+          "mon": [
+            {
+              "open": "08:30",
+              "close": "19:30"
+            }
+          ],
+          "tue": [
+            {
+              "open": "08:30",
+              "close": "19:30"
+            }
+          ],
+          "wed": [
+            {
+              "open": "08:30",
+              "close": "19:30"
+            }
+          ],
+          "thu": [
+            {
+              "open": "08:30",
+              "close": "19:30"
+            }
+          ],
+          "fri": [
+            {
+              "open": "08:30",
+              "close": "19:30"
+            }
+          ],
+          "sat": [
+            {
+              "open": "10:00",
+              "close": "18:00"
+            }
+          ],
+          "sun": [
+            {
+              "open": "10:00",
+              "close": "18:00"
+            }
+          ]
         }
       },
       {
@@ -10110,6 +11391,40 @@
         "details": {
           "en": "Monday through Friday: 8:30 a.m. to 4:30 p.m.",
           "es": "De lunes a viernes: 8:30 a.m. a 4:30 p.m."
+        },
+        "hours": {
+          "mon": [
+            {
+              "open": "08:30",
+              "close": "16:30"
+            }
+          ],
+          "tue": [
+            {
+              "open": "08:30",
+              "close": "16:30"
+            }
+          ],
+          "wed": [
+            {
+              "open": "08:30",
+              "close": "16:30"
+            }
+          ],
+          "thu": [
+            {
+              "open": "08:30",
+              "close": "16:30"
+            }
+          ],
+          "fri": [
+            {
+              "open": "08:30",
+              "close": "16:30"
+            }
+          ],
+          "sat": [],
+          "sun": []
         }
       },
       {
@@ -10176,7 +11491,7 @@
     "titleTranslations": {
       "es": "Tienda de regalos y florería"
     },
-    "updatedAt": "2026-10-22T14:12:46.000Z"
+    "updatedAt": "2026-10-28T14:22:54.821Z"
   },
   {
     "id": "parking_at_mass_general",
