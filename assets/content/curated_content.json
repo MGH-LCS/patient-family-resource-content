@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 32,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -866,15 +866,15 @@
               "en": "Trach care",
               "es": "Cuidado de la traqueostomía"
             },
+            "description": {
+              "en": "Videos: what to expect, suctioning, and changing the tube",
+              "es": "Videos: qué esperar, cómo aspirar y cómo cambiar la cánula"
+            },
             "resourceIds": [
               "pediatric_tracheostomy_what_you_need_to_know",
               "pediatric_tracheostomy_how_to_suction_a_trach",
               "pediatric_tracheostomy_how_to_exchange_a_trach"
-            ],
-            "description": {
-              "en": "Videos: what to expect, suctioning, and changing the tube",
-              "es": "Videos: qué esperar, cómo aspirar y cómo cambiar la cánula"
-            }
+            ]
           }
         ]
       }
@@ -882,6 +882,28 @@
   },
   "essentials": {
     "items": [
+      {
+        "id": "welcome_guide",
+        "title": {
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
+        },
+        "summary": {
+          "en": "Start here: visiting, rounds, the family lounge, sleep rooms, food and parking.",
+          "es": "Empiece aquí: visitas, la visita del equipo médico, la sala familiar, las habitaciones para dormir, la comida y el estacionamiento."
+        },
+        "icon": "lighthouse",
+        "link": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
       {
         "id": "visiting_hours",
         "title": {
@@ -1108,6 +1130,145 @@
         "sites": [
           "mgh"
         ]
+      }
+    ]
+  },
+  "phaseCards": {
+    "items": [
+      {
+        "id": "card_j8n9gua5",
+        "eyebrow": {
+          "en": "New to the PICU? Start here",
+          "es": "¿Es nuevo en la PICU? Empiece aquí"
+        },
+        "title": {
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
+        },
+        "body": {
+          "en": "Visiting hours, medical rounds, where to sleep, food, laundry and parking.",
+          "es": "Horario de visitas, visita del equipo médico, dónde dormir, comida, lavandería y estacionamiento."
+        },
+        "icon": "lighthouse",
+        "action": {
+          "type": "resource",
+          "id": "picu_welcome_guide"
+        },
+        "actionLabel": {
+          "en": "Open the guide",
+          "es": "Abrir la guía"
+        },
+        "dismissLabel": {
+          "en": "Hide",
+          "es": "Ocultar"
+        },
+        "kind": "tip",
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ],
+        "phasesByUnit": {
+          "picu": [
+            "pre_admission",
+            "just_arrived",
+            "first_night"
+          ]
+        }
+      },
+      {
+        "id": "card_nwbr6ujj",
+        "title": {
+          "en": "Is your child home now?",
+          "es": "¿Su hijo ya está en casa?"
+        },
+        "body": {
+          "en": "We can show you the most helpful resources for the days ahead.",
+          "es": "Podemos mostrarle los recursos más útiles para los próximos días."
+        },
+        "action": {
+          "type": "nextPhase"
+        },
+        "actionLabel": {
+          "en": "Yes, we're home",
+          "es": "Sí, estamos en casa"
+        },
+        "dismissLabel": {
+          "en": "Not yet",
+          "es": "Todavía no"
+        },
+        "kind": "question",
+        "units": [
+          "picu"
+        ],
+        "sites": [
+          "*"
+        ],
+        "phasesByUnit": {
+          "picu": [
+            "going_home"
+          ]
+        }
+      }
+    ]
+  },
+  "tour": {
+    "stops": [
+      {
+        "id": "phase_timeline",
+        "title": {
+          "en": "Slide to where you are",
+          "es": "Deslice hasta donde se encuentra"
+        },
+        "body": {
+          "en": "Each icon is a part of a hospital stay, from getting ready to going home. Move the slider as your stay goes on.",
+          "es": "Cada ícono es una parte de la estadía en el hospital, desde los preparativos hasta el regreso a casa. Deslice al siguiente a medida que avanza su estadía."
+        }
+      },
+      {
+        "id": "phase_picker",
+        "title": {
+          "en": "Tap to change where you are",
+          "es": "Toque para cambiar dónde se encuentra"
+        },
+        "body": {
+          "en": "Pick a new part of your stay, and the first tab updates to match.",
+          "es": "Elija otra parte de su estadía y la primera pestaña se ajustará a ella."
+        }
+      },
+      {
+        "id": "phase_tabs",
+        "title": {
+          "en": "Picked for where you are",
+          "es": "Elegidos para este momento"
+        },
+        "body": {
+          "en": "This tab shows resources chosen for your part of the stay. Tap Everything to see them all.",
+          "es": "Esta pestaña muestra los recursos elegidos para su parte de la estadía. Toque Todo para ver todos los recursos."
+        }
+      },
+      {
+        "id": "essentials",
+        "title": {
+          "en": "The essentials",
+          "es": "Lo esencial"
+        },
+        "body": {
+          "en": "Wi-Fi, food, parking: the things families need most, in one place.",
+          "es": "Wi-Fi, comida, estacionamiento: lo que las familias más necesitan, en un solo lugar."
+        }
+      },
+      {
+        "id": "notes",
+        "title": {
+          "en": "Your notes",
+          "es": "Sus notas"
+        },
+        "body": {
+          "en": "Jot down questions or things to remember. Your notes are just for you. They aren’t sent to anyone.",
+          "es": "Anote preguntas o cosas que quiera recordar. Sus notas son solo para usted. No se envían a nadie."
+        }
       }
     ]
   }

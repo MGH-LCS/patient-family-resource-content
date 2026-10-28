@@ -6,7 +6,6 @@
     "health_care_coverage_and_patient_financial_services",
     "financial_services",
     "disability_services",
-    "appointments_and_referrals",
     "quality_and_safety",
     "mgb_for_children"
   ],
@@ -21,6 +20,8 @@
     "breastfeeding_getting_started",
     "breastfeeding_help_and_support",
     "breastfeeding_handouts",
+    "lactation_support_program",
+    "medications_while_breastfeeding",
     "pediatric_tracheostomy_what_you_need_to_know",
     "pediatric_tracheostomy_how_to_suction_a_trach",
     "pediatric_tracheostomy_how_to_exchange_a_trach",
@@ -39,19 +40,16 @@
     "drowning_prevention",
     "gun_safety_how_to_discuss_with_any_age_child",
     "safe_driving_for_teens",
-    "hospital_treatments_and_services",
     "guardianship",
-    "rights_for_non_citizens"
+    "rights_for_non_citizens",
+    "mgb_for_children"
   ],
-  "food_dining": [
-    "mgh_cafeterias_and_cafes"
-  ],
+  "food_dining": [],
   "gift_shop": [
     "gift_shop_and_flower_shop"
   ],
   "hospital_stay": [
     "picu_welcome_guide",
-    "welcome_to_the_picu",
     "guest_wifi_and_charging",
     "how_to_keep_your_child_safe_during_a_hospital_stay",
     "overnight_accommodations",
