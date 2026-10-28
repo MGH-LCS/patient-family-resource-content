@@ -858,7 +858,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "Mass General Brigham hospitals offer language access services 24 hours a day, at no cost, to patients and their family members. These services include both translation and interpreter services for families and patients to participate fully in their treatment.\n\nPlease let your care team know about your communication needs before or during your appointment. If you are scheduling a visit, you may also request an interpreter at that time.\n\n### Interpreter Services at Massachusetts General Hospital\n\n- 📞 [617-726-6966](tel:+16177266966) (Press 6 to speak with a coordinator)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services](https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services)\n\nBusiness hours are Monday through Friday, 7 a.m. to 8 p.m. and Saturday and Sunday 8:00 a.m. to 6:30 p.m.\n\nSpanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.\n\n## Spoken language interpreters\n\nWe have language interpreters who speak more than 300 languages. Our trained interpreters can join your appointment in person or by phone or video connection. To request an interpreter, please tell your care team or mention your communication needs when scheduling a visit.\n\n## For patients who are Deaf, DeafBlind, or hard of hearing\n\nOur ASL interpreters help patients who are Deaf, DeafBlind, or hard of hearing. Patients also have access to assistive technologies, including videophones, amplified headsets, and CART (Communication Access Realtime Translation) services. If you need one of these resources, please inform your care team before your visit or at check-in.\n\n## Need other accessibility support?\n\nWe're committed to ensuring our facilities, services, and information are accessible to all patients, visitors, and staff."
+            "markdown": "Mass General Brigham hospitals offer language access services 24 hours a day, at no cost, to patients and their family members. These services include both translation and interpreter services for families and patients to participate fully in their treatment.\n\nPlease let your care team know about your communication needs before or during your appointment. If you are scheduling a visit, you may also request an interpreter at that time.\n\n### Interpreter Services at Massachusetts General Hospital\n\n- 📞 [617-726-6966](tel:+16177266966) (Press 6 to speak with a coordinator)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services](https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services)\n\nSpanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.\n\n## Spoken language interpreters\n\nWe have language interpreters who speak more than 300 languages. Our trained interpreters can join your appointment in person or by phone or video connection. To request an interpreter, please tell your care team or mention your communication needs when scheduling a visit.\n\n## For patients who are Deaf, DeafBlind, or hard of hearing\n\nOur ASL interpreters help patients who are Deaf, DeafBlind, or hard of hearing. Patients also have access to assistive technologies, including videophones, amplified headsets, and CART (Communication Access Realtime Translation) services. If you need one of these resources, please inform your care team before your visit or at check-in.\n\n## Need other accessibility support?\n\nWe're committed to ensuring our facilities, services, and information are accessible to all patients, visitors, and staff."
           },
           {
             "type": "link",
@@ -888,7 +888,8 @@
       "Deaf",
       "Hearing Impaired",
       "Blind",
-      "Visual impairment"
+      "Visual impairment",
+      "interpreter"
     ],
     "notes": "Matched to https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/language-access-services (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish from MGB's Spanish Language Access Services page (snapshot 2026-10-21). Approved by Mark 2026-10-21.",
     "description": {
@@ -931,7 +932,7 @@
           }
         ],
         "details": {
-          "en": "Business hours are Monday through Friday, 7 a.m. to 8 p.m. and Saturday and Sunday 8:00 a.m. to 6:30 p.m.\n\nSpanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.",
+          "en": "Spanish, Portuguese, and American Sign Language overnight on-call interpreters are available to be paged.",
           "es": "El horario de atención es de lunes a viernes, de 7 a.m. a 8 p.m., y los sábados y domingos, de 8:00 a.m. a 6:30 p.m.\n\nDurante la noche, hay intérpretes de guardia de español, portugués y lengua de señas estadounidense disponibles mediante buscapersonas."
         },
         "hours": {
@@ -1044,7 +1045,7 @@
     "titleTranslations": {
       "es": "Servicios de interpretación"
     },
-    "updatedAt": "2026-10-28T14:22:32.160Z"
+    "updatedAt": "2026-10-28T15:19:03.281Z"
   },
   {
     "id": "patient_gateway",
@@ -6771,9 +6772,12 @@
       }
     ],
     "titleTranslations": {
-      "es": "Alojamiento para pasar la noche"
+      "es": "Alojamiento para pasar la noche",
+      "zh-Hant": "麻省總醫院附近的住宿選擇",
+      "pt": "Opções de acomodação perto do MGH",
+      "ht": "Opsyon lojman tou pre MGH"
     },
-    "updatedAt": "2026-10-28T14:27:37.791Z"
+    "updatedAt": "2026-10-28T14:37:17.205Z"
   },
   {
     "id": "picu_welcome_guide",
@@ -7188,9 +7192,13 @@
       }
     ],
     "titleTranslations": {
-      "es": "Guía de bienvenida a la PICU"
+      "es": "Guía de bienvenida a la PICU",
+      "zh-Hant": "兒童加護病房入住提示",
+      "ht": "Konsèy pou rete nan PICU",
+      "ar": "نصائح أثناء إقامتك في وحدة العناية المركزة للأطفال",
+      "pt": "Dicas para sua estadia na UTIP"
     },
-    "updatedAt": "2026-10-22T14:45:26.000Z"
+    "updatedAt": "2026-10-28T14:38:00.055Z"
   },
   {
     "id": "daisy_award_nomination",
