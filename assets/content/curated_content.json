@@ -1,5 +1,5 @@
 {
-  "version": 134,
+  "version": 139,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -829,13 +829,9 @@
     "items": [
       {
         "id": "card_ofzplyeh",
-        "eyebrow": {
+        "title": {
           "en": "New to the PICU? Start here",
           "es": "¿Es nuevo en la PICU? Empiece aquí"
-        },
-        "title": {
-          "en": "PICU Welcome Guide",
-          "es": "Guía de bienvenida a la PICU"
         },
         "body": {
           "en": "Visiting hours, medical rounds, where to sleep, food, laundry and parking.",
@@ -847,8 +843,8 @@
           "id": "picu_welcome_guide"
         },
         "actionLabel": {
-          "en": "Open the guide",
-          "es": "Abrir la guía"
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
         },
         "dismissLabel": {
           "en": "Hide",
