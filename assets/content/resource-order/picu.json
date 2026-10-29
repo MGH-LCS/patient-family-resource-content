@@ -13,6 +13,7 @@
     "hospital_campus_map"
   ],
   "discharge_planning": [
+    "discharge_readiness_checklist",
     "picu_follow_up_clinic"
   ],
   "educational_resource": [
