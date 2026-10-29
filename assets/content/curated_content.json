@@ -1,5 +1,5 @@
 {
-  "version": 32,
+  "version": 33,
   "categoryPages": {
     "picu": {
       "discharge_planning": {
@@ -1137,13 +1137,9 @@
     "items": [
       {
         "id": "card_j8n9gua5",
-        "eyebrow": {
+        "title": {
           "en": "New to the PICU? Start here",
           "es": "¿Es nuevo en la PICU? Empiece aquí"
-        },
-        "title": {
-          "en": "PICU Welcome Guide",
-          "es": "Guía de bienvenida a la PICU"
         },
         "body": {
           "en": "Visiting hours, medical rounds, where to sleep, food, laundry and parking.",
@@ -1155,8 +1151,8 @@
           "id": "picu_welcome_guide"
         },
         "actionLabel": {
-          "en": "Open the guide",
-          "es": "Abrir la guía"
+          "en": "PICU Welcome Guide",
+          "es": "Guía de bienvenida a la PICU"
         },
         "dismissLabel": {
           "en": "Hide",
@@ -1180,12 +1176,12 @@
       {
         "id": "card_nwbr6ujj",
         "title": {
-          "en": "Is your child home now?",
-          "es": "¿Su hijo ya está en casa?"
+          "en": "Are you home now?",
+          "es": "¿Ya están en casa?"
         },
         "body": {
-          "en": "We can show you the most helpful resources for the days ahead.",
-          "es": "Podemos mostrarle los recursos más útiles para los próximos días."
+          "en": "This app keeps helping after the hospital: follow-up care, safety at home, and support for your whole family.",
+          "es": "Esta aplicación les sigue ayudando después del hospital: atención de seguimiento, seguridad en casa y apoyo para toda su familia."
         },
         "action": {
           "type": "nextPhase"
