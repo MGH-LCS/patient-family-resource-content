@@ -928,6 +928,24 @@
         ]
       },
       {
+        "id": "campus_map",
+        "title": {
+          "en": "Campus map",
+          "es": "Mapa del campus"
+        },
+        "icon": "info",
+        "link": {
+          "type": "category",
+          "id": "campus_map"
+        },
+        "units": [
+          "*"
+        ],
+        "sites": [
+          "mgh"
+        ]
+      },
+      {
         "id": "food",
         "title": {
           "en": "Food",

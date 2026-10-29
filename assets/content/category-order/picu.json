@@ -1,6 +1,5 @@
 [
   "administrative_resource",
-  "campus_map",
   "discharge_planning",
   "educational_resource",
   "food_dining",
@@ -8,6 +7,7 @@
   "meet_the_care_team",
   "outside_of_the_hospital",
   "parent_and_family_support",
+  "campus_map",
   "parking",
   "transportation",
   "gift_shop"
