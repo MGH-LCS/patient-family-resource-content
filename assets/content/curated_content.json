@@ -933,7 +933,7 @@
           "en": "Campus map",
           "es": "Mapa del campus"
         },
-        "icon": "info",
+        "icon": "map",
         "link": {
           "type": "category",
           "id": "campus_map"
@@ -1192,27 +1192,28 @@
         }
       },
       {
-        "id": "card_nwbr6ujj",
+        "id": "card_sfeteipc",
         "title": {
-          "en": "Are you home now?",
-          "es": "¿Ya están en casa?"
+          "en": "Getting ready to go home?",
+          "es": "¿Se preparan para volver a casa?"
         },
         "body": {
-          "en": "This app keeps helping after the hospital: follow-up care, safety at home, and support for your whole family.",
-          "es": "Esta aplicación les sigue ayudando después del hospital: atención de seguimiento, seguridad en casa y apoyo para toda su familia."
+          "en": "Use the discharge checklist to make sure medicines, follow-up visits, school and home are ready.",
+          "es": "Usen la lista para el alta para asegurarse de que los medicamentos, las citas de seguimiento, la escuela y la casa estén listos."
         },
         "action": {
-          "type": "nextPhase"
+          "type": "resource",
+          "id": "discharge_readiness_checklist"
         },
         "actionLabel": {
-          "en": "Yes, we're home",
-          "es": "Sí, estamos en casa"
+          "en": "Discharge checklist",
+          "es": "Lista para el alta"
         },
         "dismissLabel": {
-          "en": "Not yet",
-          "es": "Todavía no"
+          "en": "Hide",
+          "es": "Ocultar"
         },
-        "kind": "question",
+        "kind": "tip",
         "units": [
           "picu"
         ],

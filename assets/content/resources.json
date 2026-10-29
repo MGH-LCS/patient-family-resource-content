@@ -12406,5 +12406,224 @@
       "es": "Medicamentos durante la lactancia"
     },
     "updatedAt": "2026-10-22T15:09:38.000Z"
+  },
+  {
+    "id": "discharge_readiness_checklist",
+    "title": "Discharge Readiness Checklist",
+    "status": "published",
+    "units": [
+      "picu"
+    ],
+    "sites": [
+      "*"
+    ],
+    "categories": [
+      "discharge_planning"
+    ],
+    "phasesByUnit": {
+      "picu": [
+        "going_home"
+      ]
+    },
+    "languages": {
+      "en": {
+        "description": "A checklist to help you get ready to take your child home: medicines, follow-up care, insurance, school and home.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "### Discharge readiness checklist\n\nWork through this at your pace. Bring anything you can't check off to your care team.\n\n#### Medications & supplies\n\n- [ ] I know each medicine's name, dose, and what it's for\n- [ ] I have written instructions and a schedule\n- [ ] Prescriptions are filled or on the way\n- [ ] I have any needed supplies (syringes, feeding pump, oxygen, etc.)\n- [ ] I know what side effects should prompt a call\n\n#### Follow-up care\n\n- [ ] PCP follow-up scheduled (within 1–2 weeks)\n- [ ] Subspecialist follow-ups scheduled (or on the calendar to book)\n- [ ] I know what number to call if something changes\n- [ ] Records will be sent to our PCP and outside providers\n\n#### Insurance & school\n\n- [ ] Insurance approval confirmed for meds and equipment\n- [ ] School / daycare paperwork completed (return-to-school note, activity restrictions)\n- [ ] 504 plan or IEP updates requested if needed\n\n#### Home readiness\n\n- [ ] Home has heat, food, transportation for follow-ups\n- [ ] I know who to call for financial or resource help\n- [ ] Rehab, LTAC, or home nursing arranged (if applicable)\n- [ ] Mental health follow-up in place for the patient or family (if needed)"
+          }
+        ]
+      },
+      "es": {
+        "description": "Una lista para ayudarle a prepararse para llevar a su hijo a casa: medicamentos, atención de seguimiento, seguro médico, escuela y hogar.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "### Lista de preparación para el alta\n\nVaya a su propio ritmo. Hable con su equipo de atención sobre todo lo que todavía no pueda marcar.\n\n#### Medicamentos y suministros\n\n- [ ] Sé el nombre y la dosis de cada medicamento, y para qué sirve\n- [ ] Tengo instrucciones por escrito y un horario\n- [ ] Las recetas están surtidas o en camino\n- [ ] Tengo los suministros necesarios (jeringas, bomba de alimentación, oxígeno, etc.)\n- [ ] Sé qué efectos secundarios son motivo para llamar\n\n#### Atención de seguimiento\n\n- [ ] Cita de seguimiento con el pediatra de cabecera programada (en 1 a 2 semanas)\n- [ ] Citas de seguimiento con especialistas programadas (o anotadas para pedirlas)\n- [ ] Sé a qué número llamar si algo cambia\n- [ ] Los expedientes médicos se enviarán a nuestro pediatra de cabecera y a otros proveedores\n\n#### Seguro médico y escuela\n\n- [ ] El seguro aprobó los medicamentos y el equipo\n- [ ] Los papeles de la escuela o guardería están completos (nota para volver a la escuela, límites de actividad)\n- [ ] Pedimos cambios al plan 504 o al IEP (plan de educación individualizado), si hace falta\n\n#### Preparación del hogar\n\n- [ ] En casa hay calefacción, comida y transporte para las citas de seguimiento\n- [ ] Sé a quién llamar para pedir ayuda económica o con otros recursos\n- [ ] Rehabilitación, hospital de cuidados prolongados (LTAC) o enfermería en casa organizados (si corresponde)\n- [ ] Seguimiento de salud mental organizado para el paciente o la familia (si hace falta)"
+          }
+        ]
+      }
+    },
+    "description": {
+      "en": "A checklist to help you get ready to take your child home: medicines, follow-up care, insurance, school and home.",
+      "es": "Una lista para ayudarle a prepararse para llevar a su hijo a casa: medicamentos, atención de seguimiento, seguro médico, escuela y hogar."
+    },
+    "blocks": [
+      {
+        "id": "discharge_readiness",
+        "type": "checklist",
+        "title": {
+          "en": "Discharge readiness checklist",
+          "es": "Lista de preparación para el alta"
+        },
+        "subtitle": {
+          "en": "Work through this at your pace. Bring anything you can't check off to your care team.",
+          "es": "Vaya a su propio ritmo. Hable con su equipo de atención sobre todo lo que todavía no pueda marcar."
+        },
+        "groups": [
+          {
+            "id": "meds_supplies",
+            "title": {
+              "en": "Medications & supplies",
+              "es": "Medicamentos y suministros"
+            },
+            "items": [
+              {
+                "id": "meds_know_each",
+                "label": {
+                  "en": "I know each medicine's name, dose, and what it's for",
+                  "es": "Sé el nombre y la dosis de cada medicamento, y para qué sirve"
+                }
+              },
+              {
+                "id": "meds_written_instructions",
+                "label": {
+                  "en": "I have written instructions and a schedule",
+                  "es": "Tengo instrucciones por escrito y un horario"
+                }
+              },
+              {
+                "id": "meds_prescriptions_filled",
+                "label": {
+                  "en": "Prescriptions are filled or on the way",
+                  "es": "Las recetas están surtidas o en camino"
+                }
+              },
+              {
+                "id": "meds_supplies_ready",
+                "label": {
+                  "en": "I have any needed supplies (syringes, feeding pump, oxygen, etc.)",
+                  "es": "Tengo los suministros necesarios (jeringas, bomba de alimentación, oxígeno, etc.)"
+                }
+              },
+              {
+                "id": "meds_side_effects",
+                "label": {
+                  "en": "I know what side effects should prompt a call",
+                  "es": "Sé qué efectos secundarios son motivo para llamar"
+                }
+              }
+            ]
+          },
+          {
+            "id": "follow_up_care",
+            "title": {
+              "en": "Follow-up care",
+              "es": "Atención de seguimiento"
+            },
+            "items": [
+              {
+                "id": "followup_pcp_scheduled",
+                "label": {
+                  "en": "PCP follow-up scheduled (within 1–2 weeks)",
+                  "es": "Cita de seguimiento con el pediatra de cabecera programada (en 1 a 2 semanas)"
+                }
+              },
+              {
+                "id": "followup_subspecialist",
+                "label": {
+                  "en": "Subspecialist follow-ups scheduled (or on the calendar to book)",
+                  "es": "Citas de seguimiento con especialistas programadas (o anotadas para pedirlas)"
+                }
+              },
+              {
+                "id": "followup_number_to_call",
+                "label": {
+                  "en": "I know what number to call if something changes",
+                  "es": "Sé a qué número llamar si algo cambia"
+                }
+              },
+              {
+                "id": "followup_records_sent",
+                "label": {
+                  "en": "Records will be sent to our PCP and outside providers",
+                  "es": "Los expedientes médicos se enviarán a nuestro pediatra de cabecera y a otros proveedores"
+                }
+              }
+            ]
+          },
+          {
+            "id": "insurance_school",
+            "title": {
+              "en": "Insurance & school",
+              "es": "Seguro médico y escuela"
+            },
+            "items": [
+              {
+                "id": "insurance_approval",
+                "label": {
+                  "en": "Insurance approval confirmed for meds and equipment",
+                  "es": "El seguro aprobó los medicamentos y el equipo"
+                }
+              },
+              {
+                "id": "school_paperwork",
+                "label": {
+                  "en": "School / daycare paperwork completed (return-to-school note, activity restrictions)",
+                  "es": "Los papeles de la escuela o guardería están completos (nota para volver a la escuela, límites de actividad)"
+                }
+              },
+              {
+                "id": "school_504_iep",
+                "label": {
+                  "en": "504 plan or IEP updates requested if needed",
+                  "es": "Pedimos cambios al plan 504 o al IEP (plan de educación individualizado), si hace falta"
+                }
+              }
+            ]
+          },
+          {
+            "id": "home_readiness",
+            "title": {
+              "en": "Home readiness",
+              "es": "Preparación del hogar"
+            },
+            "items": [
+              {
+                "id": "home_basics",
+                "label": {
+                  "en": "Home has heat, food, transportation for follow-ups",
+                  "es": "En casa hay calefacción, comida y transporte para las citas de seguimiento"
+                }
+              },
+              {
+                "id": "home_financial_help",
+                "label": {
+                  "en": "I know who to call for financial or resource help",
+                  "es": "Sé a quién llamar para pedir ayuda económica o con otros recursos"
+                }
+              },
+              {
+                "id": "home_rehab_nursing",
+                "label": {
+                  "en": "Rehab, LTAC, or home nursing arranged (if applicable)",
+                  "es": "Rehabilitación, hospital de cuidados prolongados (LTAC) o enfermería en casa organizados (si corresponde)"
+                }
+              },
+              {
+                "id": "home_mental_health",
+                "label": {
+                  "en": "Mental health follow-up in place for the patient or family (if needed)",
+                  "es": "Seguimiento de salud mental organizado para el paciente o la familia (si hace falta)"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "images": [],
+    "tags": [
+      "Discharge",
+      "Going Home",
+      "Checklist",
+      "Hospital Discharge"
+    ],
+    "notes": "Moved from the PICU Discharge Planning page's checklist (2026-10-29) so families can share and print it. Same text and ids as the page checklist, so ticks carry over. Draft by Claude: description and tags need Mark’s review.",
+    "titleTranslations": {
+      "es": "Lista de preparación para el alta"
+    },
+    "updatedAt": "2026-10-29T19:55:49.362Z"
   }
 ]
