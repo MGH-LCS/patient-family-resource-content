@@ -10958,7 +10958,7 @@
         "content": [
           {
             "type": "text",
-            "markdown": "## Physicians (MD):\n\nThe Physicians on the unit consist of Attendings, Fellows, Residents, and Medical Students. Please see the “Critical Care Doctors” link on the app to learn more about the different roles of the medical team. \n\n ---\n\n## Nurses (RN):\n\nThe RNs on the PICU work 12-hour shifts, either from 7a-7p or 7p-7a. Your child’s Nursing Team provides high-level clinical care while managing the unique physical, emotional, and developmental needs of patients, often acting as a bridge between physicians, patients, and families. \n\n  ---\n\n## Patient Care Assistants (PCA):\n\nThe PCAs on the PICU work in 4-, 8-, or 12-hour increments, both day and night. PCAs provide around-the-clock care to patients under the supervision of a nurse. \n\n  ---\n\n## Respiratory Therapists (RT):\n\nRTs evaluate, treat, and care for patients with breathing or cardiopulmonary disorders, ranging from asthma to chronic lung diseases and emergency trauma. There is an RT present on the PICU 24 hours a day. \n\n  ---\n\n## Child Life Specialist (CLS):\n\nCLS’s are trained to work with children in medical settings, using play and developmental interventions to help children and families adjust to, and understand, their experience in the hospital. \n\n  ---\n\n## Art Therapy:\n\nArt therapy uses simple art activities to help patients express themselves and develop a sense of well-being through the creative process. You do not have to be an artist to enjoy and take advantage of art’s powers to enhance wellness. \n\n  ---\n\n## Music Therapy:\n\nMusic therapy can help support a child’s experience through active music making, gentle live music for relaxation, music-supported meditation, and much more. \n\n  ---\n\n## Pet Therapy:\n\nSpecially trained dogs who visit your hospital room to help children cope and overcome the stress that they may experience during their stay. Ask your Child Life Specialist about our pet therapy schedule. \n\n  ---\n\n## Social Work (SW):\n\nSW is available to discuss new diagnoses as well as the crisis of hospitalization and family adjustment to hospitalization. SW can help support your child and family throughout the entire hospital stay. \n\n  ---\n\n## Case Management (CM):\n\nTo ensure that patients are receiving the services they need to achieve an optimum quality of life, the CM coordinates treatments and providers, facilitates safe transitions between hospital and outpatient settings and educates patients, families and providers on best health practices and services in the outpatient setting. \n \n ---\n\n## Spiritual Care (SC):\n\nAs partners in healing, SC Providers serve patients, families, visitors and staff through comfort, encouragement and prayer. They embrace life-long learning, respect the dignity and worth of every person, and honor the sacredness of the human spirit. SC services are always free, private and confidential. \n\n  ---\n\n## Physical Therapy (PT):\n\nSpecialize in focusing on the large motor groups that contribute to walking, reaching, standing, and many more physical activities. \n\n  ---\n\n## Occupational Therapy (OT):\n\nOffer skilled treatment to help individuals achieve independence in all facets of their lives. OT facilitates early mobility, sensory regulation, and developmental support to improve recovery. \n\n  ---\n\n## Speech-Language Pathologists (SLP):\n\nAssess, diagnose, treat, and help to prevent communication and swallowing disorders in patients. \n\n  ---\n\n## Nutritionists/Dieticians:\n\nTrained to care for children with a variety of feeding difficulties. Nutritionists work together with the Dietary team to provide tailored nutritional care that helps support growth, development, and health management. "
+            "markdown": "## Physicians (MD)\n\nThe Physicians on the unit consist of Attendings, Fellows, Residents, and Medical Students. Please see the “Critical Care Doctors” link on the app to learn more about the different roles of the medical team. \n\n## Nurses (RN)\n\nThe RNs on the PICU work 12-hour shifts, either from 7a-7p or 7p-7a. Your child’s Nursing Team provides high-level clinical care while managing the unique physical, emotional, and developmental needs of patients, often acting as a bridge between physicians, patients, and families. \n\n## Patient Care Assistants (PCA)\n\nThe PCAs on the PICU work in 4-, 8-, or 12-hour increments, both day and night. PCAs provide around-the-clock care to patients under the supervision of a nurse.\n\n## Respiratory Therapists (RT)\n\nRTs evaluate, treat, and care for patients with breathing or cardiopulmonary disorders, ranging from asthma to chronic lung diseases and emergency trauma. There is an RT present on the PICU 24 hours a day.\n\n## Child Life Specialist (CLS)\n\nCLS’s are trained to work with children in medical settings, using play and developmental interventions to help children and families adjust to, and understand, their experience in the hospital.\n\n## Art Therapy\n\nArt therapy uses simple art activities to help patients express themselves and develop a sense of well-being through the creative process. You do not have to be an artist to enjoy and take advantage of art’s powers to enhance wellness.\n\n## Music Therapy\n\nMusic therapy can help support a child’s experience through active music making, gentle live music for relaxation, music-supported meditation, and much more.\n\n## Pet Therapy\n\nSpecially trained dogs who visit your hospital room to help children cope and overcome the stress that they may experience during their stay. Ask your Child Life Specialist about our pet therapy schedule.\n\n## Social Work (SW)\n\nSW is available to discuss new diagnoses as well as the crisis of hospitalization and family adjustment to hospitalization. SW can help support your child and family throughout the entire hospital stay.\n\n## Case Management (CM)\n\nTo ensure that patients are receiving the services they need to achieve an optimum quality of life, the CM coordinates treatments and providers, facilitates safe transitions between hospital and outpatient settings and educates patients, families and providers on best health practices and services in the outpatient setting.\n\n## Spiritual Care (SC)\n\nAs partners in healing, SC Providers serve patients, families, visitors and staff through comfort, encouragement and prayer. They embrace life-long learning, respect the dignity and worth of every person, and honor the sacredness of the human spirit. SC services are always free, private and confidential.\n\n## Physical Therapy (PT)\n\nSpecialize in focusing on the large motor groups that contribute to walking, reaching, standing, and many more physical activities.\n\n## Occupational Therapy (OT)\n\nOffer skilled treatment to help individuals achieve independence in all facets of their lives. OT facilitates early mobility, sensory regulation, and developmental support to improve recovery.\n\n## Speech-Language Pathologists (SLP)\n\nAssess, diagnose, treat, and help to prevent communication and swallowing disorders in patients.\n\n## Nutritionists/Dieticians\n\nTrained to care for children with a variety of feeding difficulties. Nutritionists work together with the Dietary team to provide tailored nutritional care that helps support growth, development, and health management. "
           }
         ]
       }
@@ -10995,203 +10995,203 @@
         "id": "physicians_md",
         "type": "section",
         "title": {
-          "en": "Physicians (MD):"
+          "en": "Physicians (MD)"
         }
       },
       {
         "id": "physicians_md_text",
         "type": "text",
         "markdown": {
-          "en": "The Physicians on the unit consist of Attendings, Fellows, Residents, and Medical Students. Please see the “Critical Care Doctors” link on the app to learn more about the different roles of the medical team. \n\n ---"
+          "en": "The Physicians on the unit consist of Attendings, Fellows, Residents, and Medical Students. Please see the “Critical Care Doctors” link on the app to learn more about the different roles of the medical team. "
         }
       },
       {
         "id": "nurses_rn",
         "type": "section",
         "title": {
-          "en": "Nurses (RN):"
+          "en": "Nurses (RN)"
         }
       },
       {
         "id": "nurses_rn_text",
         "type": "text",
         "markdown": {
-          "en": "The RNs on the PICU work 12-hour shifts, either from 7a-7p or 7p-7a. Your child’s Nursing Team provides high-level clinical care while managing the unique physical, emotional, and developmental needs of patients, often acting as a bridge between physicians, patients, and families. \n\n  ---"
+          "en": "The RNs on the PICU work 12-hour shifts, either from 7a-7p or 7p-7a. Your child’s Nursing Team provides high-level clinical care while managing the unique physical, emotional, and developmental needs of patients, often acting as a bridge between physicians, patients, and families. "
         }
       },
       {
         "id": "patient_care_assistants_pca",
         "type": "section",
         "title": {
-          "en": "Patient Care Assistants (PCA):"
+          "en": "Patient Care Assistants (PCA)"
         }
       },
       {
         "id": "patient_care_assistants_pca_text",
         "type": "text",
         "markdown": {
-          "en": "The PCAs on the PICU work in 4-, 8-, or 12-hour increments, both day and night. PCAs provide around-the-clock care to patients under the supervision of a nurse. \n\n  ---"
+          "en": "The PCAs on the PICU work in 4-, 8-, or 12-hour increments, both day and night. PCAs provide around-the-clock care to patients under the supervision of a nurse."
         }
       },
       {
         "id": "respiratory_therapists_rt",
         "type": "section",
         "title": {
-          "en": "Respiratory Therapists (RT):"
+          "en": "Respiratory Therapists (RT)"
         }
       },
       {
         "id": "respiratory_therapists_rt_text",
         "type": "text",
         "markdown": {
-          "en": "RTs evaluate, treat, and care for patients with breathing or cardiopulmonary disorders, ranging from asthma to chronic lung diseases and emergency trauma. There is an RT present on the PICU 24 hours a day. \n\n  ---"
+          "en": "RTs evaluate, treat, and care for patients with breathing or cardiopulmonary disorders, ranging from asthma to chronic lung diseases and emergency trauma. There is an RT present on the PICU 24 hours a day."
         }
       },
       {
         "id": "child_life_specialist_cls",
         "type": "section",
         "title": {
-          "en": "Child Life Specialist (CLS):"
+          "en": "Child Life Specialist (CLS)"
         }
       },
       {
         "id": "child_life_specialist_cls_text",
         "type": "text",
         "markdown": {
-          "en": "CLS’s are trained to work with children in medical settings, using play and developmental interventions to help children and families adjust to, and understand, their experience in the hospital. \n\n  ---"
+          "en": "CLS’s are trained to work with children in medical settings, using play and developmental interventions to help children and families adjust to, and understand, their experience in the hospital."
         }
       },
       {
         "id": "art_therapy",
         "type": "section",
         "title": {
-          "en": "Art Therapy:"
+          "en": "Art Therapy"
         }
       },
       {
         "id": "art_therapy_text",
         "type": "text",
         "markdown": {
-          "en": "Art therapy uses simple art activities to help patients express themselves and develop a sense of well-being through the creative process. You do not have to be an artist to enjoy and take advantage of art’s powers to enhance wellness. \n\n  ---"
+          "en": "Art therapy uses simple art activities to help patients express themselves and develop a sense of well-being through the creative process. You do not have to be an artist to enjoy and take advantage of art’s powers to enhance wellness."
         }
       },
       {
         "id": "music_therapy",
         "type": "section",
         "title": {
-          "en": "Music Therapy:"
+          "en": "Music Therapy"
         }
       },
       {
         "id": "music_therapy_text",
         "type": "text",
         "markdown": {
-          "en": "Music therapy can help support a child’s experience through active music making, gentle live music for relaxation, music-supported meditation, and much more. \n\n  ---"
+          "en": "Music therapy can help support a child’s experience through active music making, gentle live music for relaxation, music-supported meditation, and much more."
         }
       },
       {
         "id": "pet_therapy",
         "type": "section",
         "title": {
-          "en": "Pet Therapy:"
+          "en": "Pet Therapy"
         }
       },
       {
         "id": "pet_therapy_text",
         "type": "text",
         "markdown": {
-          "en": "Specially trained dogs who visit your hospital room to help children cope and overcome the stress that they may experience during their stay. Ask your Child Life Specialist about our pet therapy schedule. \n\n  ---"
+          "en": "Specially trained dogs who visit your hospital room to help children cope and overcome the stress that they may experience during their stay. Ask your Child Life Specialist about our pet therapy schedule."
         }
       },
       {
         "id": "social_work_sw",
         "type": "section",
         "title": {
-          "en": "Social Work (SW):"
+          "en": "Social Work (SW)"
         }
       },
       {
         "id": "social_work_sw_text",
         "type": "text",
         "markdown": {
-          "en": "SW is available to discuss new diagnoses as well as the crisis of hospitalization and family adjustment to hospitalization. SW can help support your child and family throughout the entire hospital stay. \n\n  ---"
+          "en": "SW is available to discuss new diagnoses as well as the crisis of hospitalization and family adjustment to hospitalization. SW can help support your child and family throughout the entire hospital stay."
         }
       },
       {
         "id": "case_management_cm",
         "type": "section",
         "title": {
-          "en": "Case Management (CM):"
+          "en": "Case Management (CM)"
         }
       },
       {
         "id": "case_management_cm_text",
         "type": "text",
         "markdown": {
-          "en": "To ensure that patients are receiving the services they need to achieve an optimum quality of life, the CM coordinates treatments and providers, facilitates safe transitions between hospital and outpatient settings and educates patients, families and providers on best health practices and services in the outpatient setting. \n \n ---"
+          "en": "To ensure that patients are receiving the services they need to achieve an optimum quality of life, the CM coordinates treatments and providers, facilitates safe transitions between hospital and outpatient settings and educates patients, families and providers on best health practices and services in the outpatient setting."
         }
       },
       {
         "id": "spiritual_care_sc",
         "type": "section",
         "title": {
-          "en": "Spiritual Care (SC):"
+          "en": "Spiritual Care (SC)"
         }
       },
       {
         "id": "spiritual_care_sc_text",
         "type": "text",
         "markdown": {
-          "en": "As partners in healing, SC Providers serve patients, families, visitors and staff through comfort, encouragement and prayer. They embrace life-long learning, respect the dignity and worth of every person, and honor the sacredness of the human spirit. SC services are always free, private and confidential. \n\n  ---"
+          "en": "As partners in healing, SC Providers serve patients, families, visitors and staff through comfort, encouragement and prayer. They embrace life-long learning, respect the dignity and worth of every person, and honor the sacredness of the human spirit. SC services are always free, private and confidential."
         }
       },
       {
         "id": "physical_therapy_pt",
         "type": "section",
         "title": {
-          "en": "Physical Therapy (PT):"
+          "en": "Physical Therapy (PT)"
         }
       },
       {
         "id": "physical_therapy_pt_text",
         "type": "text",
         "markdown": {
-          "en": "Specialize in focusing on the large motor groups that contribute to walking, reaching, standing, and many more physical activities. \n\n  ---"
+          "en": "Specialize in focusing on the large motor groups that contribute to walking, reaching, standing, and many more physical activities."
         }
       },
       {
         "id": "occupational_therapy_ot",
         "type": "section",
         "title": {
-          "en": "Occupational Therapy (OT):"
+          "en": "Occupational Therapy (OT)"
         }
       },
       {
         "id": "occupational_therapy_ot_text",
         "type": "text",
         "markdown": {
-          "en": "Offer skilled treatment to help individuals achieve independence in all facets of their lives. OT facilitates early mobility, sensory regulation, and developmental support to improve recovery. \n\n  ---"
+          "en": "Offer skilled treatment to help individuals achieve independence in all facets of their lives. OT facilitates early mobility, sensory regulation, and developmental support to improve recovery."
         }
       },
       {
         "id": "speech_language_pathologists_slp",
         "type": "section",
         "title": {
-          "en": "Speech-Language Pathologists (SLP):"
+          "en": "Speech-Language Pathologists (SLP)"
         }
       },
       {
         "id": "speech_language_pathologists_slp_text",
         "type": "text",
         "markdown": {
-          "en": "Assess, diagnose, treat, and help to prevent communication and swallowing disorders in patients. \n\n  ---"
+          "en": "Assess, diagnose, treat, and help to prevent communication and swallowing disorders in patients."
         }
       },
       {
         "id": "nutritionists_dieticians",
         "type": "section",
         "title": {
-          "en": "Nutritionists/Dieticians:"
+          "en": "Nutritionists/Dieticians"
         }
       },
       {
@@ -11202,7 +11202,7 @@
         }
       }
     ],
-    "updatedAt": "2026-08-10T20:32:26.000Z"
+    "updatedAt": "2026-10-30T19:56:29.709Z"
   },
   {
     "id": "gift_shop_and_flower_shop",
