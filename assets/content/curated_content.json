@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "categoryPages": {
     "picu": {
       "food_dining": {
@@ -762,7 +762,7 @@
         },
         "summary": {
           "en": "8:00 am – 8:00 pm. Up to 2 visitors at the bedside; one parent or guardian can stay overnight.",
-          "es": "11:00 am – 8:00 pm. Hasta 2 visitantes en la habitación; un padre, madre o tutor puede pasar la noche."
+          "es": "8:00 am – 8:00 pm. Hasta 2 visitantes en la habitación; un padre, madre o tutor puede pasar la noche."
         },
         "icon": "clock",
         "link": {
