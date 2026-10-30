@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "questions": [
     {
       "type": "likert",
@@ -83,15 +83,24 @@
     },
     {
       "type": "text",
-      "id": "missing_content",
+      "id": "change_or_improve",
       "label": {
-        "en": "What specific information or resources were missing that you expected to see?"
+        "en": "What is one thing you would change or improve?",
+        "es": "Si pudiera cambiar o mejorar una cosa, ¿cuál sería?"
+      }
+    },
+    {
+      "type": "text",
+      "id": "features_not_found",
+      "label": {
+        "en": "Are there any features you expected to see but could not find?",
+        "es": "¿Hubo alguna función que esperaba ver y no pudo encontrar?"
       }
     }
   ],
   "audiences": {
     "family": {
-      "version": 2,
+      "version": 3,
       "questions": [
         {
           "type": "likert",
@@ -175,15 +184,24 @@
         },
         {
           "type": "text",
-          "id": "missing_content",
+          "id": "change_or_improve",
           "label": {
-            "en": "What specific information or resources were missing that you expected to see?"
+            "en": "What is one thing you would change or improve?",
+            "es": "Si pudiera cambiar o mejorar una cosa, ¿cuál sería?"
+          }
+        },
+        {
+          "type": "text",
+          "id": "features_not_found",
+          "label": {
+            "en": "Are there any features you expected to see but could not find?",
+            "es": "¿Hubo alguna función que esperaba ver y no pudo encontrar?"
           }
         }
       ]
     },
     "clinician": {
-      "version": 2,
+      "version": 3,
       "questions": [
         {
           "type": "likert",
@@ -236,16 +254,18 @@
         },
         {
           "type": "text",
-          "id": "staff_missing_content",
+          "id": "staff_change_or_improve",
           "label": {
-            "en": "What specific information or resources were missing that you expected to see?"
+            "en": "What is one thing you would change or improve?",
+            "es": "Si pudiera cambiar o mejorar una cosa, ¿cuál sería?"
           }
         },
         {
           "type": "text",
-          "id": "most_helpful_content",
+          "id": "staff_features_not_found",
           "label": {
-            "en": "Which specific resource or piece of content was most helpful?"
+            "en": "Are there any features you expected to see but could not find?",
+            "es": "¿Hubo alguna función que esperaba ver y no pudo encontrar?"
           }
         }
       ]

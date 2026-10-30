@@ -103,6 +103,9 @@
           "label": {
             "en": "Discharge Planning",
             "es": "Planificación del alta"
+          },
+          "cardLabel": {
+            "en": "Discharge\nPlanning"
           }
         },
         {
@@ -139,6 +142,9 @@
           "label": {
             "en": "Meet the Care Team",
             "es": "Conozca al equipo de atención médica"
+          },
+          "cardLabel": {
+            "en": "Meet the\nCare Team"
           }
         },
         {
@@ -153,6 +159,9 @@
           "label": {
             "en": "Parent and Family Support",
             "es": "Apoyo para padres y familiares"
+          },
+          "cardLabel": {
+            "en": "Parent and\nFamily Support"
           }
         },
         {

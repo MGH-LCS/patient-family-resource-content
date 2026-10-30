@@ -1,5 +1,5 @@
 {
-  "version": 33,
+  "version": 35,
   "categoryPages": {
     "picu": {
       "food_dining": {
@@ -470,7 +470,7 @@
                 },
                 "style": "plain",
                 "body": {
-                  "en": "Some patient meal programs allow a parent tray to be added to your child's late order. Ask the overnight nurse what's possible. Breastfeeding mothers may request a meal tray to be provided directly to their room for Breakfast, Lunch and Dinner — ask your nurse for more information.",
+                  "en": "Breastfeeding mothers may request a meal tray to be provided directly to their room for Breakfast, Lunch and Dinner — ask your nurse for more information.",
                   "es": "Algunos programas de comidas para pacientes permiten agregar una bandeja para el padre o la madre al pedido nocturno de su hijo. Pregúntele a la enfermera del turno de noche qué es posible. Las madres que están amamantando pueden pedir que les lleven una bandeja de comida a la habitación para el desayuno, el almuerzo y la cena; pídale más información a su enfermera."
                 }
               }
@@ -761,7 +761,7 @@
           "es": "Horario de visitas"
         },
         "summary": {
-          "en": "11:00 am – 8:00 pm. Up to 2 visitors at the bedside; one parent or guardian can stay overnight.",
+          "en": "8:00 am – 8:00 pm. Up to 2 visitors at the bedside; one parent or guardian can stay overnight.",
           "es": "11:00 am – 8:00 pm. Hasta 2 visitantes en la habitación; un padre, madre o tutor puede pasar la noche."
         },
         "icon": "clock",
@@ -1098,8 +1098,8 @@
           "es": "Toque para cambiar dónde se encuentra"
         },
         "body": {
-          "en": "Pick a new part of your stay, and the first tab updates to match.",
-          "es": "Elija otra parte de su estadía y la primera pestaña se ajustará a ella."
+          "en": "Pick a new part of your stay, and the Suggested tab updates to match.",
+          "es": "Elija otra parte de su estadía y la pestaña Sugeridos se ajustará a ella."
         }
       },
       {
@@ -1109,8 +1109,8 @@
           "es": "Elegidos para este momento"
         },
         "body": {
-          "en": "This tab shows resources chosen for your part of the stay. Tap Everything to see them all.",
-          "es": "Esta pestaña muestra los recursos elegidos para su parte de la estadía. Toque Todo para ver todos los recursos."
+          "en": "The Suggested tab shows resources chosen for your part of the stay. Tap Everything to see them all.",
+          "es": "La pestaña Sugeridos muestra los recursos elegidos para su parte de la estadía. Toque Todo para ver todos los recursos."
         }
       },
       {
