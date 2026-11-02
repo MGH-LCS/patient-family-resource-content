@@ -5269,7 +5269,7 @@
   {
     "id": "hospital_parking_and_interactive_campus_map",
     "title": "Getting to Mass General",
-    "status": "published",
+    "status": "inactive",
     "units": [
       "picu"
     ],
@@ -5277,7 +5277,7 @@
       "*"
     ],
     "categories": [
-      "parking"
+      "transportation"
     ],
     "phasesByUnit": {
       "picu": [
@@ -5352,7 +5352,7 @@
       "interactive map",
       "campus area"
     ],
-    "notes": "Repurposed from 'Hospital Parking and Interactive Campus Map' (MGB has no interactive map). Matched to MGB's MGH location page (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish mostly translated by Claude (MGB's location page has no Spanish version), needs Spanish review; Red Line sentence from MGB's Spanish parking page. Approved by Mark 2026-10-21.",
+    "notes": "Repurposed from 'Hospital Parking and Interactive Campus Map' (MGB has no interactive map). Matched to MGB's MGH location page (snapshot 2026-10-21). Approved by Mark 2026-10-21.\nSpanish mostly translated by Claude (MGB's location page has no Spanish version), needs Spanish review; Red Line sentence from MGB's Spanish parking page. Approved by Mark 2026-10-21.\nMerged 2026-11-02 into getting_here_by_public_transit (Getting Here), under the Parking and Public Transit card; set Inactive and moved off the Parking category so it can be deleted. Approved by Mark 2026-11-02.",
     "description": {
       "en": "Prepare for your visit to Massachusetts General Hospital with information on parking, directions, navigating the hospital, and on-site amenities.",
       "es": "Prepárese para su visita a Massachusetts General Hospital: estacionamiento, cómo llegar y cómo moverse dentro del hospital."
@@ -6814,7 +6814,7 @@
           },
           {
             "type": "text",
-            "markdown": "## Visiting\n\n- **Visiting hours:** 8:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve.\n\n## Medical Rounds\n\nEach morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions.\n\n## Family Lounge\n\nYou are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed.\n\n## Where can I sleep?\n\nSleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk\n\n## Where can I wash my clothes?\n\nThere is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request.\n\n## What food is available?\n\nMGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work.\n\n## What activities can my child have?\n\nYou are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information.\n\n## How can I validate parking?\n\nTo receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
+            "markdown": "## Visiting\n\n- **Visiting hours:** 8:00 am – 8:00 pm\n- For the safety and comfort of all our patients, we are able to accommodate **one parent or guardian per patient overnight**\n- Please limit the number of visitors at the bedside to **2 people**\n- Siblings are welcome to visit. For the safety of all our patients, siblings may not be left unattended and may not stay overnight.\n- Visitors (including siblings) who are sick are asked to please stay home until their symptoms resolve.\n\n## Medical Rounds\n\nEach morning the PICU team will gather outside of your child's room to review information and make a plan of care for the day. **You are invited to participate in rounds.**\n\nAfter rounding on all of the patients, your doctors will be available to review your child's care plan and answer questions.\n\n## Family Lounge\n\nYou are welcome to use the Family Lounge, located around the corner from the Bigelow elevators outside the PICU. It includes:\n\n- A sink, refrigerator, microwave, and coffee\n- A table and chairs where you can eat and relax\n- A community bathroom with a shower that is wheelchair accessible\n\nPlease ask your child's nurse for a towel if needed.\n\n## Where can I sleep?\n\nSleep rooms are available on a nightly basis. These rooms are given out based on availability and patient condition.\n\n- If you are given a sleep room, please remove your belongings **by 10 am the next day**\n- If you need a sleep room for another night, please speak with the Unit Coordinator at the front desk\n\n## Where can I wash my clothes?\n\nThere is a washer and dryer located on the inpatient pediatric floor, **Ellison 17**. Turn right when you leave the PICU, follow the signs to the Ellison elevators, and take them to floor 17. Laundry detergent can be provided upon request.\n\n## What food is available?\n\nMGH offers a wide variety of food to purchase in the cafeteria. Take the Bigelow elevators down to the basement (level \"B\") and follow the signs to **Eat Street Café**, in the Ellison Building's lower level.\n\nYou may also order a tray of food to be brought to your child's room, but there is a cost associated. If you have financial concerns, please talk to your child's nurse to request social work.\n\n## What activities can my child have?\n\nYou are always welcome to bring any comfort items or toys from home. We also have toys, comfort items, and art supplies that can be provided to your child by our staff to help them during their stay. Request the **child life specialist** for more information.\n\n## How can I validate parking?\n\nTo receive discounted parking, present your **PICU visitor sticker** to the cashier on the ground floor of the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*"
           }
         ]
       },
@@ -7182,7 +7182,7 @@
         "id": "how_can_i_validate_parking_text",
         "type": "text",
         "markdown": {
-          "en": "To receive discounted parking, present your **PICU visitor sticker** to the attendant in the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*",
+          "en": "To receive discounted parking, present your **PICU visitor sticker** to the cashier on the ground floor of the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\n---\n\n*For more information, please speak with your child's nurse or the Unit Coordinator at the front desk.*",
           "zh-Hant": "若要獲得折扣停車,請在停車場或 Yawkey 主大廳向管理員出示 **PICU 訪客貼紙**。有關停車的問題可以直接諮詢詢問台或您孩子的護士。\n\n---\n\n*如需瞭解更多資訊,請諮詢您孩子的護士或前台的房間協調員。*",
           "es": "Para recibir la tarifa de descuento, presente su **vale de visitante de la PICU** al cajero en la planta baja del estacionamiento (garaje) o en el vestíbulo principal del Centro Yawkey. Puede dirigir cualquier pregunta acerca del estacionamiento a la enfermera de su hijo o al personal encargado de los mostradores de información.\n\n---\n\n*Para obtener más información, hable con la enfermera de su hijo o con uno de los coordinadores en la recepción.*",
           "ht": "Pou w resevwa yon rediksyon sou pakin nan, montre **otokolan vizitè PICU ou a** bay moun ki nan pakin nan oswa ki nan chanm prensipal Yawkey a. Ou kapab poze kesyon ki gen rapò ak pakin yo nan biwo enfòmasyon an oswa bay enfimyè ou a.\n\n---\n\n*Pou plis enfòmasyon, tanpri pale avèk enfimyè timoun ou an oswa Kowòdonatè Inite a ki nan resepsyon an.*",
@@ -7198,7 +7198,7 @@
       "ar": "نصائح أثناء إقامتك في وحدة العناية المركزة للأطفال",
       "pt": "Dicas para sua estadia na UTIP"
     },
-    "updatedAt": "2026-10-30T23:34:55.303Z"
+    "updatedAt": "2026-11-02T19:24:27.680Z"
   },
   {
     "id": "daisy_award_nomination",
@@ -11502,7 +11502,7 @@
   {
     "id": "parking_at_mass_general",
     "title": "Parking at Mass General",
-    "status": "published",
+    "status": "inactive",
     "units": [
       "picu"
     ],
@@ -11510,7 +11510,7 @@
       "mgh"
     ],
     "categories": [
-      "parking"
+      "transportation"
     ],
     "phasesByUnit": {
       "picu": [
@@ -11553,7 +11553,7 @@
       "validation",
       "validate ticket"
     ],
-    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking (rates effective 2026-02-01). Team to verify: the 617-726-8886 parking number (MGB pages show 617-726-2000 main), the Fruit Street cashier 'around the clock' wording (source says the office is open 24/7), and whether any discounted multi-day rate exists for families of inpatients — the page doesn't mention one.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking (snapshot 2026-10-21, live page unchanged 2026-10-23); 617-726-8886 confirmed as the Parking Office number; approved by Mark 2026-10-23.\nSpanish: garages, valet and Charles River Plaza paragraphs from MGB's /es/ parking page (2026-10-23); title, card summary, headings, Parking Office line, cashier hours, rates and card names translated by Claude, need Spanish review. Approved by Mark 2026-10-23.",
+    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking (rates effective 2026-02-01). Team to verify: the 617-726-8886 parking number (MGB pages show 617-726-2000 main), the Fruit Street cashier 'around the clock' wording (source says the office is open 24/7), and whether any discounted multi-day rate exists for families of inpatients — the page doesn't mention one.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking (snapshot 2026-10-21, live page unchanged 2026-10-23); 617-726-8886 confirmed as the Parking Office number; approved by Mark 2026-10-23.\nSpanish: garages, valet and Charles River Plaza paragraphs from MGB's /es/ parking page (2026-10-23); title, card summary, headings, Parking Office line, cashier hours, rates and card names translated by Claude, need Spanish review. Approved by Mark 2026-10-23.\nMerged 2026-11-02 into getting_here_by_public_transit (Getting Here), under the Parking and Public Transit card; set Inactive and moved off the Parking category so it can be deleted. Approved by Mark 2026-11-02.",
     "description": {
       "en": "Where to park, what it costs with validation, and where to get your ticket validated — there are no cashiers at the exits.",
       "es": "Dónde estacionar, cuánto cuesta con validación y dónde validar su boleto: no hay cajeros en las salidas."
@@ -11661,7 +11661,7 @@
   },
   {
     "id": "getting_here_by_public_transit",
-    "title": "Getting Here by Public Transit",
+    "title": "Getting Here",
     "status": "published",
     "units": [
       "picu"
@@ -11683,32 +11683,21 @@
     },
     "languages": {
       "en": {
-        "description": "The hospital is across the street from the Red Line — often easier than parking downtown.",
+        "description": "Where to park, the PICU parking discount, validated rates, and the Red Line stop right across the street.",
         "content": [
           {
             "type": "text",
-            "markdown": "Due to our high volume of visitors every day, we recommend that you use public transportation whenever possible. We are located directly across the street from the **Charles/MGH stop on the MBTA Red Line** and a short walk from the Bowdoin (Blue Line) and North Station (Green and Orange Line) stations.\n\nNorth Station also has commuter rail.\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates."
-          },
-          {
-            "type": "link",
-            "url": "https://www.mbta.com/trip-planner",
-            "label": "MBTA trip planner",
-            "description": "Plan a route to Charles/MGH on the Red Line."
+            "markdown": "However you're getting here, here's what to know.\n\n### Massachusetts General Hospital\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2000](tel:+16177262000)\n- 🌐 [massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778](https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778)"
           },
           {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
             "label": "Getting Here and Parking — Mass General Brigham",
             "description": "Directions, transit, and parking for the main campus."
-          }
-        ]
-      },
-      "es": {
-        "description": "El hospital está justo enfrente de la Línea Roja: a menudo es más fácil que estacionar en el centro.",
-        "content": [
+          },
           {
             "type": "text",
-            "markdown": "Como el estacionamiento puede ser limitado, le recomendamos usar el transporte público. El hospital está ubicado justo enfrente de la **parada Charles/MGH de la Línea Roja del MBTA** y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja).\n\nNorth Station también tiene tren de cercanías (commuter rail).\n\nSi viene en auto, consulte *Estacionamiento en Mass General* para ver los garajes, la validación y las tarifas."
+            "markdown": "## Driving\n\nWe offer parking for patients and visitors at:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nWe also offer valet parking at the Wang and Yawkey Centers.\n\n**PICU families:** To receive discounted parking, present your **PICU visitor sticker** to the cashier on the ground floor of the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\nFor additional information about parking rates at Mass General, please contact the Parking Office.\n\n### Mass General Parking Office\n\n- 📞 [617-726-8886](tel:+16177268886)\n- 🌐 [massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking](https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking)\n\n**Appointments at 165, 175, or 185 Cambridge Street**\n\nPatients with appointments at 165, 175, and 185 Cambridge Street should park in the Charles River Plaza garage, with the entrance at 207 Cambridge Street, next to Flour Bakery. Parking on the outside deck is for Charles River Plaza (CRP) retail customers only.\n\nPatients must have their parking ticket validated by the cashier in the 165 Cambridge Street lobby, or at the garage cashier office located to the right of the garage exit. Patient validation is not available at the exit lane parking equipment.\n\n### Charles River Plaza Garage\n\nEntrance next to Flour Bakery.\n\n- 207 Cambridge Street, Boston, MA 02114\n\n## Validation and rates\n\nParking tickets are validated at the cashier in the central payment office, located on the ground floor lobby of each garage. Please note there are no cashiers at the garage exits.\n\n- The Yawkey Center cashier office is open from 7 a.m. to 11 p.m. every day. Tickets can be processed in Fruit Street Garage after hours.\n- The Parkman Street Garage cashier office is open 9 a.m. to 5 p.m. from Monday to Friday. It's closed on weekends and holidays. Tickets can be processed in Fruit Street Garage cashier office.\n\nNew rates effective February 1, 2026, at the Fruit Street, Parkman Street, Yawkey Center and Charles River Plaza garages:\n\n- 0 to 30 minutes: Free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nWithout validation, parking costs up to $65 a day.\n\n## By the T\n\nThe T can be an easy way to get here, especially if you're coming and going over several days. Mass General is right across the street from the **Charles/MGH stop on the Red Line**, and a short walk from Bowdoin (Blue Line) and North Station (Green and Orange Lines, plus commuter rail)."
           },
           {
             "type": "link",
@@ -11717,10 +11706,67 @@
             "description": "Plan a route to Charles/MGH on the Red Line."
           },
           {
+            "type": "text",
+            "markdown": "## Finding your way\n\nUse our map to find your way around campus."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf",
+            "label": "Mass General campus map (PDF)",
+            "description": "Parking garages and MBTA stops."
+          },
+          {
+            "type": "text",
+            "markdown": "Learn about campus accessibility."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/accessibility",
+            "label": "Accessibility — Mass General Brigham"
+          }
+        ]
+      },
+      "es": {
+        "description": "Dónde estacionar, el descuento de la PICU, las tarifas validadas y la parada de la Línea Roja justo enfrente.",
+        "content": [
+          {
+            "type": "text",
+            "markdown": "Sea cual sea su forma de llegar, esto es lo que debe saber.\n\n### Massachusetts General Hospital\n\n- 55 Fruit Street, Boston, MA 02114\n- 📞 [617-726-2000](tel:+16177262000)\n- 🌐 [massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778](https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778)"
+          },
+          {
             "type": "link",
             "url": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking",
             "label": "Cómo llegar y estacionamiento — Mass General Brigham",
             "description": "Indicaciones, transporte público y estacionamiento para el campus principal."
+          },
+          {
+            "type": "text",
+            "markdown": "## En auto\n\nOfrecemos estacionamiento para pacientes y visitantes en:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nTambién ofrecemos servicio de valet en los centros Wang y Yawkey.\n\n**Familias de la PICU:** Para recibir la tarifa de descuento, presente su **vale de visitante de la PICU** al cajero en la planta baja del estacionamiento (garaje) o en el vestíbulo principal del Centro Yawkey. Puede dirigir cualquier pregunta acerca del estacionamiento a la enfermera de su hijo o al personal encargado de los mostradores de información.\n\nPara obtener más información sobre las tarifas de estacionamiento en Mass General, comuníquese con la Oficina de Estacionamiento.\n\n### Oficina de Estacionamiento de Mass General\n\n- 📞 [617-726-8886](tel:+16177268886)\n- 🌐 [massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking](https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking)\n\n**Citas en 165, 175 o 185 Cambridge Street**\n\nSi tiene una cita en 165, 175 o 185 Cambridge Street, estacione en el garaje de Charles River Plaza, con entrada en 207 Cambridge Street. El estacionamiento en la cubierta exterior es solo para clientes del comercio de Charles River Plaza.\n\nValide el boleto de estacionamiento en el vestíbulo de 165 Cambridge Street o en la oficina de caja del garaje, a la derecha del carril de salida. No es posible validar el boleto en el equipo de salida.\n\n### Garaje de Charles River Plaza\n\nEntrada junto a Flour Bakery.\n\n- 207 Cambridge Street, Boston, MA 02114\n\n## Validación y tarifas\n\nLos boletos de estacionamiento se validan en la caja de la oficina central de pagos, ubicada en el vestíbulo de la planta baja de cada garaje. Tenga en cuenta que no hay cajeros en las salidas de los garajes.\n\n- La oficina de caja del Yawkey Center está abierta de 7 a. m. a 11 p. m. todos los días. Fuera de ese horario, los boletos se pueden procesar en el Fruit Street Garage.\n- La oficina de caja del Parkman Street Garage está abierta de 9 a. m. a 5 p. m., de lunes a viernes. Está cerrada los fines de semana y días festivos. Los boletos se pueden procesar en la oficina de caja del Fruit Street Garage.\n\nNuevas tarifas vigentes desde el 1 de febrero de 2026, en los garajes Fruit Street, Parkman Street, Yawkey Center y Charles River Plaza:\n\n- 0 a 30 minutos: gratis\n- 30 minutos a 1 hora: $11\n- 1 a 2 horas: $12\n- 2 a 4 horas: $14\n- 4 a 6 horas: $16\n- 6 a 8 horas: $19\n- 8 a 24 horas: $21\n\nSin validación, el estacionamiento cuesta hasta $65 al día.\n\n## En transporte público\n\nEl T puede ser una forma fácil de llegar, sobre todo si va a ir y venir durante varios días. Mass General está justo enfrente de la **parada Charles/MGH de la Línea Roja**, y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja, y tren de cercanías)."
+          },
+          {
+            "type": "link",
+            "url": "https://www.mbta.com/trip-planner",
+            "label": "MBTA trip planner",
+            "description": "Plan a route to Charles/MGH on the Red Line."
+          },
+          {
+            "type": "text",
+            "markdown": "## Cómo orientarse\n\nUse nuestro mapa para orientarse en el campus."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf",
+            "label": "Mapa del campus de Mass General (PDF)",
+            "description": "Estacionamientos y paradas del MBTA."
+          },
+          {
+            "type": "text",
+            "markdown": "Infórmese sobre la accesibilidad en el campus."
+          },
+          {
+            "type": "link",
+            "url": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/accessibility",
+            "label": "Accesibilidad — Mass General Brigham"
           }
         ]
       }
@@ -11736,37 +11782,65 @@
       "North Station",
       "Bowdoin",
       "directions",
-      "getting here"
+      "getting here",
+      "parking",
+      "driving",
+      "car",
+      "garage",
+      "fruit street garage",
+      "parkman street garage",
+      "yawkey garage",
+      "valet",
+      "parking rates",
+      "validation",
+      "validate ticket",
+      "parking map",
+      "hospital map",
+      "campus map",
+      "accessibility"
     ],
-    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking. Team to verify wording; consider adding hospital shuttle info if the unit has any for families.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking (MGH section, re-checked 2026-10-23), edited in place, approved by Mark 2026-10-26.\nSpanish transit sentence from MGB's /es/ parking page (2026-10-23); title, card summary, commuter-rail and parking lines, and link description translated by Claude, need Spanish review. Approved by Mark 2026-10-26.",
+    "notes": "Drafted 2026-09-23 from massgeneralbrigham.org Getting Here and Parking. Team to verify wording; consider adding hospital shuttle info if the unit has any for families.\nMatched to https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking (MGH section, re-checked 2026-10-23), edited in place, approved by Mark 2026-10-26.\nSpanish transit sentence from MGB's /es/ parking page (2026-10-23); title, card summary, commuter-rail and parking lines, and link description translated by Claude, need Spanish review. Approved by Mark 2026-10-26.\nMerged 2026-11-02 with parking_at_mass_general and hospital_parking_and_interactive_campus_map (both set Inactive) and retitled Getting Here, for the Parking and Public Transit card. Opening and By the T lines are ours on purpose (MGB's 'high volume of visitors' line read cold to Mark); everything else is MGB's wording as approved on the merged resources. PICU sticker line from picu_welcome_guide, 'attendant' changed to 'cashier' to match MGB's page and our Spanish. Approved by Mark 2026-11-02.\nSpanish (2026-11-02): reused from the merged resources and the Welcome Guide's sticker line; opening line, section titles, En transporte público paragraph, Cambridge Street heading and card summary translated by Claude, need Spanish review. Approved by Mark 2026-11-02.",
     "description": {
-      "en": "The hospital is across the street from the Red Line — often easier than parking downtown.",
-      "es": "El hospital está justo enfrente de la Línea Roja: a menudo es más fácil que estacionar en el centro."
+      "en": "Where to park, the PICU parking discount, validated rates, and the Red Line stop right across the street.",
+      "es": "Dónde estacionar, el descuento de la PICU, las tarifas validadas y la parada de la Línea Roja justo enfrente."
     },
     "blocks": [
       {
-        "id": "text_1",
+        "id": "text_ht7zhi83",
         "type": "text",
         "markdown": {
-          "en": "Due to our high volume of visitors every day, we recommend that you use public transportation whenever possible. We are located directly across the street from the **Charles/MGH stop on the MBTA Red Line** and a short walk from the Bowdoin (Blue Line) and North Station (Green and Orange Line) stations.\n\nNorth Station also has commuter rail.\n\nIf you do drive, see *Parking at Mass General* for garages, validation, and rates.",
-          "es": "Como el estacionamiento puede ser limitado, le recomendamos usar el transporte público. El hospital está ubicado justo enfrente de la **parada Charles/MGH de la Línea Roja del MBTA** y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja).\n\nNorth Station también tiene tren de cercanías (commuter rail).\n\nSi viene en auto, consulte *Estacionamiento en Mass General* para ver los garajes, la validación y las tarifas."
+          "en": "However you're getting here, here's what to know.",
+          "es": "Sea cual sea su forma de llegar, esto es lo que debe saber."
         }
       },
       {
-        "id": "link_1",
-        "type": "link",
-        "url": {
-          "en": "https://www.mbta.com/trip-planner"
+        "id": "listing_oq8c27ht",
+        "type": "listing",
+        "name": {
+          "en": "Massachusetts General Hospital",
+          "es": "Massachusetts General Hospital"
         },
-        "label": {
-          "en": "MBTA trip planner"
+        "address": {
+          "en": "55 Fruit Street, Boston, MA 02114"
         },
-        "description": {
-          "en": "Plan a route to Charles/MGH on the Red Line."
-        }
+        "phones": [
+          {
+            "id": "phone_ylv37z18",
+            "number": "+16177262000"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_ar3m1vwm",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778",
+              "es": "https://www.massgeneralbrigham.org/en/locations/boston-ma/massachusetts-general-hospital-loc0000246778"
+            }
+          }
+        ]
       },
       {
-        "id": "link_2",
+        "id": "link_8o8cqr67",
         "type": "link",
         "url": {
           "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
@@ -11780,12 +11854,179 @@
           "en": "Directions, transit, and parking for the main campus.",
           "es": "Indicaciones, transporte público y estacionamiento para el campus principal."
         }
+      },
+      {
+        "id": "section_xjm33zbt",
+        "type": "section",
+        "title": {
+          "en": "Driving",
+          "es": "En auto"
+        }
+      },
+      {
+        "id": "text_m6y7mrk0",
+        "type": "text",
+        "markdown": {
+          "en": "We offer parking for patients and visitors at:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nWe also offer valet parking at the Wang and Yawkey Centers.\n\n**PICU families:** To receive discounted parking, present your **PICU visitor sticker** to the cashier on the ground floor of the parking garage or in the Yawkey main lobby. Questions related to parking can be directed to the information desk or to your child's nurse.\n\nFor additional information about parking rates at Mass General, please contact the Parking Office.",
+          "es": "Ofrecemos estacionamiento para pacientes y visitantes en:\n\n- Charles River Plaza\n- Fruit Street Garage\n- Parkman Street Garage\n- Yawkey Center\n\nTambién ofrecemos servicio de valet en los centros Wang y Yawkey.\n\n**Familias de la PICU:** Para recibir la tarifa de descuento, presente su **vale de visitante de la PICU** al cajero en la planta baja del estacionamiento (garaje) o en el vestíbulo principal del Centro Yawkey. Puede dirigir cualquier pregunta acerca del estacionamiento a la enfermera de su hijo o al personal encargado de los mostradores de información.\n\nPara obtener más información sobre las tarifas de estacionamiento en Mass General, comuníquese con la Oficina de Estacionamiento."
+        }
+      },
+      {
+        "id": "listing_4vdo2zwq",
+        "type": "listing",
+        "name": {
+          "en": "Mass General Parking Office",
+          "es": "Oficina de Estacionamiento de Mass General"
+        },
+        "phones": [
+          {
+            "id": "phone_ksdpmpe0",
+            "number": "+16177268886"
+          }
+        ],
+        "links": [
+          {
+            "id": "link_gjtb9x7i",
+            "url": {
+              "en": "https://www.massgeneralbrigham.org/en/patients-visitors/visitor-information/plan-visit/directions-parking",
+              "es": "https://www.massgeneralbrigham.org/es/patients-visitors/visitor-information/plan-visit/directions-parking"
+            }
+          }
+        ]
+      },
+      {
+        "id": "text_furhde0n",
+        "type": "text",
+        "markdown": {
+          "en": "**Appointments at 165, 175, or 185 Cambridge Street**\n\nPatients with appointments at 165, 175, and 185 Cambridge Street should park in the Charles River Plaza garage, with the entrance at 207 Cambridge Street, next to Flour Bakery. Parking on the outside deck is for Charles River Plaza (CRP) retail customers only.\n\nPatients must have their parking ticket validated by the cashier in the 165 Cambridge Street lobby, or at the garage cashier office located to the right of the garage exit. Patient validation is not available at the exit lane parking equipment.",
+          "es": "**Citas en 165, 175 o 185 Cambridge Street**\n\nSi tiene una cita en 165, 175 o 185 Cambridge Street, estacione en el garaje de Charles River Plaza, con entrada en 207 Cambridge Street. El estacionamiento en la cubierta exterior es solo para clientes del comercio de Charles River Plaza.\n\nValide el boleto de estacionamiento en el vestíbulo de 165 Cambridge Street o en la oficina de caja del garaje, a la derecha del carril de salida. No es posible validar el boleto en el equipo de salida."
+        }
+      },
+      {
+        "id": "listing_tb7wnkk3",
+        "type": "listing",
+        "name": {
+          "en": "Charles River Plaza Garage",
+          "es": "Garaje de Charles River Plaza"
+        },
+        "address": {
+          "en": "207 Cambridge Street, Boston, MA 02114"
+        },
+        "notes": {
+          "en": "Entrance next to Flour Bakery.",
+          "es": "Entrada junto a Flour Bakery."
+        }
+      },
+      {
+        "id": "section_3n1f9k0k",
+        "type": "section",
+        "title": {
+          "en": "Validation and rates",
+          "es": "Validación y tarifas"
+        }
+      },
+      {
+        "id": "text_wgga2wvk",
+        "type": "text",
+        "markdown": {
+          "en": "Parking tickets are validated at the cashier in the central payment office, located on the ground floor lobby of each garage. Please note there are no cashiers at the garage exits.\n\n- The Yawkey Center cashier office is open from 7 a.m. to 11 p.m. every day. Tickets can be processed in Fruit Street Garage after hours.\n- The Parkman Street Garage cashier office is open 9 a.m. to 5 p.m. from Monday to Friday. It's closed on weekends and holidays. Tickets can be processed in Fruit Street Garage cashier office.",
+          "es": "Los boletos de estacionamiento se validan en la caja de la oficina central de pagos, ubicada en el vestíbulo de la planta baja de cada garaje. Tenga en cuenta que no hay cajeros en las salidas de los garajes.\n\n- La oficina de caja del Yawkey Center está abierta de 7 a. m. a 11 p. m. todos los días. Fuera de ese horario, los boletos se pueden procesar en el Fruit Street Garage.\n- La oficina de caja del Parkman Street Garage está abierta de 9 a. m. a 5 p. m., de lunes a viernes. Está cerrada los fines de semana y días festivos. Los boletos se pueden procesar en la oficina de caja del Fruit Street Garage."
+        }
+      },
+      {
+        "id": "text_vjg8dgu3",
+        "type": "text",
+        "markdown": {
+          "en": "New rates effective February 1, 2026, at the Fruit Street, Parkman Street, Yawkey Center and Charles River Plaza garages:\n\n- 0 to 30 minutes: Free\n- 30 minutes to 1 hour: $11\n- 1 to 2 hours: $12\n- 2 to 4 hours: $14\n- 4 to 6 hours: $16\n- 6 to 8 hours: $19\n- 8 to 24 hours: $21\n\nWithout validation, parking costs up to $65 a day.",
+          "es": "Nuevas tarifas vigentes desde el 1 de febrero de 2026, en los garajes Fruit Street, Parkman Street, Yawkey Center y Charles River Plaza:\n\n- 0 a 30 minutos: gratis\n- 30 minutos a 1 hora: $11\n- 1 a 2 horas: $12\n- 2 a 4 horas: $14\n- 4 a 6 horas: $16\n- 6 a 8 horas: $19\n- 8 a 24 horas: $21\n\nSin validación, el estacionamiento cuesta hasta $65 al día."
+        }
+      },
+      {
+        "id": "section_yjzpn94a",
+        "type": "section",
+        "title": {
+          "en": "By the T",
+          "es": "En transporte público"
+        }
+      },
+      {
+        "id": "text_9ms52779",
+        "type": "text",
+        "markdown": {
+          "en": "The T can be an easy way to get here, especially if you're coming and going over several days. Mass General is right across the street from the **Charles/MGH stop on the Red Line**, and a short walk from Bowdoin (Blue Line) and North Station (Green and Orange Lines, plus commuter rail).",
+          "es": "El T puede ser una forma fácil de llegar, sobre todo si va a ir y venir durante varios días. Mass General está justo enfrente de la **parada Charles/MGH de la Línea Roja**, y a poca distancia a pie de Bowdoin (Línea Azul) y North Station (Líneas Verde y Naranja, y tren de cercanías)."
+        }
+      },
+      {
+        "id": "link_mmnk63yu",
+        "type": "link",
+        "url": {
+          "en": "https://www.mbta.com/trip-planner"
+        },
+        "label": {
+          "en": "MBTA trip planner"
+        },
+        "description": {
+          "en": "Plan a route to Charles/MGH on the Red Line."
+        }
+      },
+      {
+        "id": "section_kcjmdyjl",
+        "type": "section",
+        "title": {
+          "en": "Finding your way",
+          "es": "Cómo orientarse"
+        }
+      },
+      {
+        "id": "text_af6c2rtl",
+        "type": "text",
+        "markdown": {
+          "en": "Use our map to find your way around campus.",
+          "es": "Use nuestro mapa para orientarse en el campus."
+        }
+      },
+      {
+        "id": "link_7ac6b7xs",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf",
+          "es": "https://www.massgeneralbrigham.org/content/dam/unified-xwalk/documents/en/patients-visitors/mgh-campus-map.pdf"
+        },
+        "label": {
+          "en": "Mass General campus map (PDF)",
+          "es": "Mapa del campus de Mass General (PDF)"
+        },
+        "description": {
+          "en": "Parking garages and MBTA stops.",
+          "es": "Estacionamientos y paradas del MBTA."
+        }
+      },
+      {
+        "id": "text_c18f15sw",
+        "type": "text",
+        "markdown": {
+          "en": "Learn about campus accessibility.",
+          "es": "Infórmese sobre la accesibilidad en el campus."
+        }
+      },
+      {
+        "id": "link_qjl9574u",
+        "type": "link",
+        "url": {
+          "en": "https://www.massgeneralbrigham.org/en/patients-visitors/resources/patient-experience/accessibility",
+          "es": "https://www.massgeneralbrigham.org/es/patients-visitors/resources/patient-experience/accessibility"
+        },
+        "label": {
+          "en": "Accessibility — Mass General Brigham",
+          "es": "Accesibilidad — Mass General Brigham"
+        }
       }
     ],
     "titleTranslations": {
-      "es": "Cómo llegar en transporte público"
+      "es": "Cómo llegar"
     },
-    "updatedAt": "2026-10-26T14:41:29.000Z"
+    "updatedAt": "2026-11-02T19:21:55.101Z"
   },
   {
     "id": "guest_wifi_and_charging",

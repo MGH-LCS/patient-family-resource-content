@@ -165,17 +165,14 @@
           }
         },
         {
-          "id": "parking",
-          "label": {
-            "en": "Parking",
-            "es": "Estacionamiento"
-          }
-        },
-        {
           "id": "transportation",
           "label": {
-            "en": "Transportation",
-            "es": "Transporte"
+            "en": "Parking and Public Transit",
+            "es": "Estacionamiento y transporte público"
+          },
+          "cardLabel": {
+            "en": "Parking and\nPublic Transit",
+            "es": "Estacionamiento y\ntransporte público"
           },
           "directOpenResource": "getting_here_by_public_transit"
         }
