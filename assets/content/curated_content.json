@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "categoryPages": {
     "picu": {
       "food_dining": {
@@ -1111,6 +1111,17 @@
         "body": {
           "en": "The Suggested tab shows resources chosen for your part of the stay. Tap Everything to see them all.",
           "es": "La pestaña Sugeridos muestra los recursos elegidos para su parte de la estadía. Toque Todo para ver todos los recursos."
+        }
+      },
+      {
+        "id": "everything_tab",
+        "title": {
+          "en": "See every resource",
+          "es": "Vea todos los recursos"
+        },
+        "body": {
+          "en": "The Everything tab shows all the resources, whatever part of your stay you’re in.",
+          "es": "La pestaña Todo muestra todos los recursos, sin importar en qué parte de la estadía se encuentre."
         }
       },
       {
